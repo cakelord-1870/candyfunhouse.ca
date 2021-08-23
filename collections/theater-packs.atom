@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/theater-packs.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-06-30T15:41:49-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625625735227</id>
+    <published>2021-06-30T15:41:49-04:00</published>
+    <updated>2021-06-30T15:41:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-patch-kids-zombie-theater-box-3-5oz"/>
+    <title>Sour Patch Kids Zombie Theater Box - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sour-patch-kids-zombie-theater-box-3-5oz-candy-funhouse-online-candy-shop.jpg?v=1625082042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Zombie that Wants <em>You</em> To Eat <em>Them</em>!</h2>
+<p>    The treat that's come to spook your tastebuds with a sour vengeance! These sour then sweet <strong>Sour Patch Zombie Kids</strong> are hauntingly delicious, and if you thought that they were tart before, you better believe they've gone truly sour now. Only the <strong>Grape</strong> and <strong>Orange</strong> flavours have risen from their graves, making them a part of the perfect palette to include in any festive Halloween candy bowl! Just be careful... if you hear a creak in the night, it might be these dastardly sweets trying to <strong>give you something good to eat!</strong></p>
+<p> </p>
+<p><strong>(1 theatre box) 100g / 3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Patch</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625625735227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002990</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6574866563131</id>
+    <published>2021-05-02T18:42:37-04:00</published>
+    <updated>2021-05-02T18:42:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/care-bears-gummie-bears-theatre-box-3-1oz"/>
+    <title>Care Bears Gummie Bears Theatre Box - 3.1oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Candy Funhouse</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/care-bears-gummi-bears-theatre-3.1oz-candy-funhouse.jpg?v=1619995386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Candy Funhouse<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Care Bears Gummi</span></h2>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><strong>3.1oz</strong></p>
+<h5><strong><span class="subTitle font-bold">Ingredients:<span> </span></span></strong></h5>
+<p><br></p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Theater Pack</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6574866563131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.61</s:price>
+      <s:sku>01-1000371</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6562256945211</id>
+    <published>2021-04-11T22:48:50-04:00</published>
+    <updated>2021-04-11T22:48:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/spongebob-squarepants-krabby-patties-watermelon-theater-pack"/>
+    <title>SpongeBob SquarePants Krabby Patties Watermelon Theater Pack - 2.54oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Frankford</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/spongebob-squarepants-krabby-patties-watermelon-theater-pack-candy-funhouse_1.jpg?v=1618195841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frankford<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2 class="product_name" itemprop="name">Krabby Patties Gummy Candy</h2>
+</div>
+<div style="text-align: left;">SpongeBob SquarePants Krabby Patties Gummy Candies are the original gummy Krabby Patties that are delicious and really fun to eat. Enjoy while watching your favourite TV show.</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><br></div>
+<div style="text-align: left;"><strong></strong></div>
+<div style="text-align: left;"><strong></strong></div>
+<h5 style="text-align: left;"><strong>Ingredients:</strong></h5>
+<div style="text-align: left;"></div>
+<div style="text-align: left;">
+<p>coming soon...</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Theater Pack</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6562256945211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002236</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5086429970491</id>
+    <published>2021-03-09T07:55:31-05:00</published>
+    <updated>2021-03-09T07:55:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/airheads-72-bars-theatre-pack"/>
+    <title>AirHeads 72 Bar Assorted Box - 1.1kg</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/51n_ze4_oPL.jpg?v=1608749891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">AirHeads Jumbo Box</h1>
+<h2 style="text-align: center;">72 Pieces in Assorted Flavours </h2>
+<h3 style="text-align: center;">It's Fun To Be An AirHead!<br>
+</h3>
+<div style="text-align: left;">Flavourful, colourful taffy that is full of intense fruity taste! Tremendously tangy, sweet, and chewy, AirHeads iconic texture and flavours are incredibly delicious. This is a large theatre pack filled with <strong>72 bars of AirHeads</strong> comes with six delicious flavours, <strong>Blue Raspberry, Watermelon, Sour Apple, Cherry, Strawberry </strong>and<strong> White Mystery. </strong>
+</div>
+<p style="text-align: left;"> </p>
+<div style="text-align: left;"></div>
+<div>Airheads make a great movie time candy, and now that it's in a 72 Pack, the candy eating experience is seemingly endless! All individually wrapped if you're inclined to share these 72 bars of nostalgic Airheads Candy. </div>
+<div></div>
+<div>
+<ul>
+<li>Zero Fat, Zero Sodium</li>
+<li>Tree-Nut Free</li>
+<li>Peanut-Free</li>
+<li>Gluten-Free</li>
+<li>Kosher Certified</li>
+</ul>
+</div>
+<h2 style="text-align: center;"> Fresh Candy Shipped Fast!</h2>
+<div></div>
+<p style="text-align: left;"><b>1.1kg</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Airheads</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Assorted</s:tag>
+    <s:tag>Assorted Bulk</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>candy bowl</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>Colour_Purple</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Colour_White</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>No Animal Fats</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>set</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Theater Pack</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Treenut Free</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Wedding Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5086429970491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>01-1000120</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5093940068411</id>
+    <published>2021-01-07T11:00:05-05:00</published>
+    <updated>2021-01-07T11:00:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-ooze-chewz-ropes-3oz"/>
+    <title>Warheads Ooze Chewz Ropes - 3oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_impact-confections_warheads_ooze-chewz_85g-Side-jpg-1.jpg?v=1626119971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Warheads Ooze Chewz</h1>
+<h2 style="text-align: center;">NEW Extreme Sour Candy Ropes</h2>
+<h3 style="text-align: center;">Chewy Candy Filled with "Ooze"!<br>
+</h3>
+<p><meta charset="utf-8">Sour, chewy candy ropes filled with ooze! Previously available in a <a href="https://candyfunhouse.ca/products/warheads-ooze-chewz-theater-box-3-5oz" target="_blank">theatre pack box</a>, this new version comes in a 3oz pouch. </p>
+<p><em>Fun fact: A warhead is an explosive material that is delivered by a missile or a rocket.</em> In that case, we think that Warheads candy is suitably named! War Heads candy will definitely be knocking your socks off with each candy exploding with fantastic fruity flavours!</p>
+<p style="text-align: center;"><span>These Warhead Ooze Chewz come in delicious 3 fruity flavours: </span></p>
+<p style="text-align: center;"><strong>Watermelon | Blue Raspberry | Green Apple</strong></p>
+<p>Stay tuned for more! At Candyfunhouse, we add new items to our collection everyday. Click <a href="https://candyfunhouse.ca/collections/newest-products" target="_blank">here</a> to check out our newest products!<span class="Apple-converted-space"> </span></p>
+<p style="text-align: left;"><strong>3oz / 85g pouch</strong></p>
+<h2 style="text-align: center;">Fresh Candy Shipped within Canada &amp; to USA!</h2>
+<p>Ingredients:</p>
+<p>Sugar, Corn Syrup, Wheat Flour, Water, Citric Acid, Sorbitol. Maltodextrin, Sodium Citrate, Glycerin, Gelatin, Natural &amp; Artificial Flavors, Salt, confectioner's glaze, Red 40, Yellow 5, Blue 1.</p>
+<p>CONTAINS: WHEAT</p>
+<p>ALLERGY INFORMATION: MANUFACTURED ON EQUIPMENT THAT PROCESSES SOY, PEANUT, AND MILK PRODUCTS.</p>
+<p> </p>
+<p class="p1"><b>Ingredients and nutritional information provided by the manufacturer are considered accurate at the time of posting. Refer to product labeling or contact manufacturer directly for the current date</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Blue Raspberry</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>green apple</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>ropes</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5093940068411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002646</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5072181723195</id>
+    <published>2020-11-22T15:45:16-05:00</published>
+    <updated>2020-11-22T15:45:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dots-tropical-gumdrops-candy-64-g"/>
+    <title>Dots Tropical Gumdrops Candy - 2.25oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dots-tropical-gumdrops-candy-64-g-candy-funhouse-online-candy-store.jpg?v=1606078280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy goes to the tropics.</h2>
+<p>The delightfully chewable, cone-shaped, tropical gumdrop treats come in five exotic fruit flavours including Island Nectar, Wild Mango, Grapefruit Cooler, Carambola Melon, and Paradise Punch. They will satisfy the most discriminating sweet tooth cravings! Made by Tootsie Roll Industries.</p>
+<ul>
+<li><span style="font-size: 14px; line-height: 1.5;"><span>Peanut Free</span></span></li>
+<li><span style="font-size: 14px; line-height: 1.5;"><span>Made in the USA</span></span></li>
+</ul>
+<p><span style="font-size: 14px;"><strong><span style="line-height: 1.5;">64 g</span></strong></span></p>
+<h5><span style="font-size: 14px; line-height: 1.5;"><span>Ingredients: </span></span></h5>
+<p><span style="font-size: 14px; line-height: 1.5;"><span>Corn syrup, sugar, modified food starch, malic acid, natural and artificial flavours, sodium citrate, artificial colours (including FD&amp;C yellow 5, red 40, blue 1)</span></span></p>
+<p><span style="font-size: 14px; line-height: 1.5;"><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1940s</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5072181723195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>01-1000542</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5055701418043</id>
+    <published>2020-10-26T15:24:01-04:00</published>
+    <updated>2020-10-26T15:24:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-ooze-chewz-theater-box-3-5oz"/>
+    <title>Warheads Ooze Chewz Theater Box - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_impact_warheads_oozeChewz_99g-Side-jpg-1.jpg?v=1624586792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Warheads Ooze Chewz</h2>
+<h3 style="text-align: center;">Now Available in a Theater Pack</h3>
+<p><span><meta charset="utf-8">Sour chewy candy filled with ooze! These Warhead Ooze Chewz come in delicious fruity flavours including Mango, Strawberry, Green Apple, Black Cherry, Watermelon and Blue Raspberry.  </span></p>
+<div></div>
+<h5>Ingredients:</h5>
+<p>Sugar, Corn Syrup, Wheat Flour, Water, Citric Acid, Sorbitol. Maltodextrin, Sodium Citrate, Glycerin, Gelatin, Natural &amp; Artificial Flavors, Salt, confectioner's glaze, Red 40, Yellow 5, Blue 1.</p>
+<p>CONATINS: WHEAT</p>
+<p>ALLERGY INFORMATION: MANUFACTURED ON EQUIPMENT THAT PROCESSES SOY, PEANUT AND MILK PRODUCTS.</p>
+<p> </p>
+<p><strong>3.5 oz (99g) Theater Pack</strong></p>
+<p class="p1"><b>Ingredients and nutritional information provided by the manufacturer are considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for the current date</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5055701418043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002647</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4989559636027</id>
+    <published>2020-06-27T00:35:11-04:00</published>
+    <updated>2020-06-27T00:35:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/spongebob-gummy-krabby-patties-colors-theater-box-2-54oz"/>
+    <title>SpongeBob Gummy Krabby Patties Colors Theater Box</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Frankford</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_-frankford_KrabbiyPatties_colors_72g-Side-jpg-1.jpg?v=1624557200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frankford<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2 class="product_name" itemprop="name">Krabby Patties Gummy Candy</h2>
+<h3>4 Colours and Flavours</h3>
+</div>
+<div style="text-align: left;">SpongeBob SquarePants Krabby Patties Gummy Candies are the gummy Krabby Patties that are delicious and really fun to eat and come in the Krabby 4 colours and flavours including <span>Cherry, Grape, Blue Raspberry and Green Apple. </span>Enjoy while watching your favourite movie.</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><strong>2.54 oz. (72g)</strong></div>
+<div style="text-align: left;"><strong></strong></div>
+<h5 style="text-align: left;"><strong>Ingredients:</strong></h5>
+<p>Corn Syrup, Sugar, Gelatin, Sorbitol, Modified Corn Starch, Citric Acid, Agar, Malic Acid, Artificial Flavor, Glazing Oil (Coconut Oil, Carnauba Wax, Vitamin E, Citric Acid), Sodium Citrate, Artificial Colors (Blue 1, Yellow 5, Red 40, Caramel Color).</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Theater Pack</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4989559636027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002230</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4896093896763</id>
+    <published>2020-05-13T00:00:49-04:00</published>
+    <updated>2020-05-13T00:00:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/spongebob-squarepants-krabby-patties-candy-theater-pack"/>
+    <title>SpongeBob SquarePants Krabby Patties Candy Theater Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Frankford</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_-frankford_KrabbyPatties_72g-Side-jpg-1.jpg?v=1624557272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frankford<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2 class="product_name" itemprop="name">Krabby Patties Gummy Candy</h2>
+</div>
+<div style="text-align: left;">SpongeBob SquarePants Krabby Patties Gummy Candies are the original gummy Krabby Patties that are delicious and really fun to eat. Enjoy while watching your favourite movie.</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><strong>72 g</strong></div>
+<div style="text-align: left;"><strong></strong></div>
+<h5 style="text-align: left;"><strong>Ingredients:</strong></h5>
+<div style="text-align: left;"></div>
+<div style="text-align: left;">
+<p>Corn Syrup, Sugar, Gelatin, Sorbitol, Modified Corn Starch, Citric Acid, Agar, Malic Acid, Artificial Flavors, Glazing Agent (Coconut Oil, Carnauba Wax, Vitamin E, Citric Acid), Sodium Citrate, Artificial Colors (Titanium Dioxide, Blue 1, Yellow 5, Yellow 6, Red 40).</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data. </p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Theater Pack</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4896093896763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002235</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4670666178619</id>
+    <published>2020-03-19T14:58:39-04:00</published>
+    <updated>2020-03-19T14:58:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-worms-theatre-pack"/>
+    <title>WarHeads Worms Theatre Pack - 4 oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_impact_warheads_worms_113g-Side-jpg-1.jpg?v=1624586897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Very Sour Gummy Candy!</span></h2>
+<p><span>WarHeads Worms are two-toned sour worms the will make you pucker up. These delicious sour gummy candy worms come is the duo fruity flavours </span><span>Lemon and Cherry, Blue Raspberry and Orange, and Green Apple and Lemon. </span></p>
+<p><strong>4 oz (113g)</strong></p>
+<h5>Ingredients:</h5>
+<p>S<span>ugar, corn syrup, modified corn starch, gelatin, citric acid, lactic acid, titanium dioxide, red 40, yellow 5, yellow 6, blue 1, natural and artificial flavours.</span></p>
+<p>M<span>anufactured on equipment that processes milk, soy, peanut and wheat products.</span></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4670666178619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002664</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5852889159</id>
+    <published>2020-01-24T10:50:35-05:00</published>
+    <updated>2020-01-24T10:50:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/mike-and-ike-root-beer-float-theatre-pack"/>
+    <title>Mike and Ike Root Beer Float Theatre Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Just Born</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_Justborn_mikeandike_RootBeerFloat_141g-Side-jpg-1.jpg?v=1624587261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Just Born<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Mike and Ike Root Beer Float</h2>
+<h3 style="text-align: center;">Theatre Pack</h3>
+<p>The Mike and Ike Root Beer Float Theatre Pack brings you the classic flavour of a delicious root beer float to transport you back to the days of good old-fashioned diners, with just a bite of the same Mike and Ike chewy candy you know and love!</p>
+<p><strong>141g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>MikeAndIke</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5852889159</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1001487</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2023794081851</id>
+    <published>2020-01-21T10:54:37-05:00</published>
+    <updated>2020-01-21T10:54:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maynards-sour-patch-kids-extreme-candy-theater-pack"/>
+    <title>Sour Patch Kids Extreme Candy Theater Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Maynards</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_mondelez_SourPatch_kids_extremeSour_99g-Side-jpg-1.jpg?v=1624588700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maynards<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour the Sweet-Soft and Chewy</h2>
+<p>Sour Patch Kids Candies are a theatre box of sour and sweet goodness in every bite. This Movie Theater Box is perfect for enjoying while watching a movie or to just enjoy anytime.</p>
+<p><strong>99 g</strong></p>
+<h3>About Sour Patch Kids</h3>
+<div class="wc-rich-content-description">It was a sunny day in 1985. The Kids couldn’t decide if they wanted to play a prank or give someone a hug when it dawned on them that choices just aren’t fun. Capitalizing on this stroke of pure genius, they set out to cause mischief and shower sweetness everywhere they went.</div>
+<h3 class="wc-rich-content-header wc-feature-main-header ">First, they're sour, then they're sweet.</h3>
+<div class="wc-rich-content-description">
+<p>Mischief-filled Sour Patch Kids start out sour then turn sweet.</p>
+<p>Whether you’re trying to plan out the perfect prank or the ideal delight, these tasty little confections are chewy treats to be enjoyed when you’re in need of a play-filled break.</p>
+<p>Sour Patch Kids come in single packs for individual snacking and bulk packages that are ideal for sharing (pfft who are we kidding, there will be no sharing). Get some for your next movie night, or just for a fun sour, then sweet treat for you, your family and friends.</p>
+<p>Sour Patch Kids are Sour, then Sweet, then Gone.</p>
+<h3 class="wc-rich-content-header wc-feature-main-header "></h3>
+</div>
+<h5 class="mjr-section-title-3">Ingredients</h5>
+<p class="mjr-default"><span>Sugar, Invert Sugar, Corn Syrup, Modified Corn Starch, Tartaric Acid, Citric Acid, Natural and Artificial Flavoring, Yellow 6, Red 40, Yellow 5, Blue 1.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Maynards</s:tag>
+    <s:tag>Maynards Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2023794081851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1001386</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4313521258555</id>
+    <published>2019-10-25T16:12:16-04:00</published>
+    <updated>2019-10-25T16:12:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nerds-candy-star-wars-theater-pack"/>
+    <title>Nerds Candy Star Wars Theater Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle Candy Shop</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_ferrara_nerds_candy_starwars_141g-Side-jpg-1.jpg?v=1624562446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle Candy Shop<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Nerds Candy</h2>
+<p style="text-align: center;">The latest Nerds Candy inspired by Star Wars candy flavours. Featuring Light Side Raspberry and Dark Side Cherry!</p>
+<p style="text-align: left;"><strong>5 oz (141g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4313521258555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1001534</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399927489</id>
+    <published>2019-05-07T01:31:19-04:00</published>
+    <updated>2019-05-07T01:31:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/lemonhead-tropical-chewy-fruit-candy"/>
+    <title>LemonHead Chewy Berry Awesome Theatre Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/chewy-lemonhead-berry-awesome-theatre-pack-candy-funhouse-online-store.jpg?v=1573937936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":q7" class="ii gt">
+<div id=":n8" class="a3s aXjCH ">
+<div dir="ltr" style="text-align: center;">
+<h2 dir="ltr">Retro Candy for Movie Night</h2>
+</div>
+<div dir="ltr">This assorted fruit flavoured candy will have your mouth watering and your lips smacking! The Lemonhead Chewy Berry Awesome Theatre Pack really are awesome! Coming in five fruity and "berry" delicious flavours, Cherry Lemon, Wild Berry, Blue Raspberry, Strawberry and Red Raspberry.</div>
+<div dir="ltr">
+<ul class="a-unordered-list a-vertical">
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Intense sweet and sour flavour with blue raspberry, strawberry, cherry-lemon, wild berry, and red raspberry.</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Sugar shell coating and chewy center.</span></span></li>
+<li><span class="a-list-item"><span class="a-size-base a-color-secondary">Theatre box.</span></span></li>
+</ul>
+</div>
+<div dir="ltr"><strong>5 oz.</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399927489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1001242</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1992023998523</id>
+    <published>2019-01-09T04:39:08-05:00</published>
+    <updated>2019-01-09T04:39:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/goetzes-original-caramel-creams-theater-packs-85g"/>
+    <title>Goetze&apos;s Original Caramel Creams Theater Pack - 3oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Goetze&apos;s Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_goetze_caramelCreams_original_85g-Side-jpg-1.jpg?v=1624673942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Goetze&#39;s Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Old Fashioned Bulls Eyes Candy</h2>
+<h3 style="text-align: center;">Now available in a King Size Theater Pack</h3>
+<p><span>Goetze's Original Caramel Creams A.K.A. Bulls-Eyes are a must-have candy for every candy connoisseur around! The Goetze's Original Caramel Creams have been around since 1895, and remain a number one caramel candy to this day! This superb old fashioned caramel candy has a deliciously creamy vanilla flavoured centre and is wrapped completely with delectable caramel!</span></p>
+<div>For a truly incredible tasting caramel and a fantastic movie time candy, Bulls-Eyes will certainly fit the bill!</div>
+<ul>
+<li><strong>Nut Free</strong></li>
+<li><strong>Made in the USA</strong></li>
+</ul>
+<p><strong>1 box - 3oz / 85g</strong></p>
+<h5><strong><span>Ingredients: </span></strong></h5>
+<p>Wheat flour, corn syrup, sugar, dextrose, partially hydrogenated soybean oil, whey protein concentrate, skim milk, high fructose corn syrup, cream, mono and diglycerides, salt, lecithin, corn starch, and artificial flavours.</p>
+<p><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1910s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>caramels</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Cow Tales</s:tag>
+    <s:tag>Era_1910s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1992023998523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000749</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399923781</id>
+    <published>2018-12-19T14:45:25-05:00</published>
+    <updated>2018-12-19T14:45:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-peanut-chocolate-candies"/>
+    <title>M&amp;M&apos;s Peanut Chocolate Candies Theatre Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_m_m_peanut_87g-Side-jpg-1.jpg?v=1624587496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Take M&amp;M's Candy to the Movies</h2>
+<p style="text-align: center;"><span>You'll forgive the sound of a little crunching during your movie night when you taste the unforgettable deliciousness of M&amp;M's Peanut Chocolate Candies! A classic candy since 1941, made with perfectly roasted peanuts, real milk chocolate and vibrant looking candy-coated shells. It's like a triple candy threat! Make it a blockbuster with the classic taste of M&amp;M's Peanut Chocolate Candies!</span></p>
+<ul>
+<li><span>Old Fashioned Candy Since 1941</span></li>
+<li><span>Made in the USA</span></li>
+<li><span>Kosher Certified Dairy</span></li>
+</ul>
+<p><strong>3.1 oz (87.9g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Edit</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399923781</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000842</s:sku>
+      <s:grams>88</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1991847346235</id>
+    <published>2018-08-09T09:37:47-04:00</published>
+    <updated>2018-08-09T09:37:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/chuckles-candy-theater-pack-5-oz"/>
+    <title>Chuckles Candy Theater Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_ferrara_chuckles_minis_142g-Side-jpg-1.jpg?v=1624561928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;">Chuckles Assorted Fruit Jelly Candy are no joke.</h2>
+<h3 style="text-align: center;">Classic Retro Candy Since 1921</h3>
+<p>Candy Lovers have enjoyed Chuckles Candy since 1921. Chosen as one of the best retro candies because they are pure sweet candy bliss.</p>
+<h3 style="text-align: center;">Now Available in a King Size Movie Candy Theater Pack</h3>
+<p style="text-align: center;"><strong>Flavours include Lime, Lemon, Cherry, Orange, and Licorice</strong></p>
+<ul>
+<li>Kosher Certified</li>
+<li>Made in the USA</li>
+</ul>
+<p><strong>142 g</strong></p>
+<h5><span><strong>Ingredients:</strong> </span></h5>
+<p><span>Corn Syrup, Sugar, Cornstarch, Modified Food Starch (Corn), Natural and Artificial Flavors, Red 40, Caramel Color, Yellow 6, Blue 1, Yellow 5.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theater Pack</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1991847346235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000419</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10515114762</id>
+    <published>2017-05-06T13:29:59-04:00</published>
+    <updated>2017-05-06T13:29:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-baked-beans-candy"/>
+    <title>Boston Baked Beans Candy Theater Pack - 4.3oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_ferrara_BostonBakedBeans_CandyCoatedPeanuts_122g-Side-jpg-1.jpg?v=1624561017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Candy Coated Peanuts </span></h2>
+<p style="text-align: center;"><strong>"Peanuts dressed up in a sweet, crunchy candy coating and always ready for a movie."</strong></p>
+<p><span>Don't worry Boston Baked Beans are really not beans! They are a crunchy and delectable sweet candy-coated peanut! Made using the panning process, which in this case, is layers and layers of a red candy coating! </span></p>
+<div>This old fashioned candy goes great with any movie. You won't hear much crunching during the movie either, they'll be gone before you know it! Better get two boxes, especially if you're into "sharing".</div>
+<div>A favourite classic candy since the 1930s, Boston baked Beans are always in style!</div>
+<p><strong>4.3 oz. (122g)</strong></p>
+<p> </p>
+<h5>INGREDIENTS:</h5>
+<p>Sugar, Peanuts, Corn Syrup, Modified Food Starch (Corn), Acacia (Gum Arabic), Confectioner's Glaze (Shellac), Artificial Flavor, Carnauba Wax, White Mineral Oil, Red 40, Yellow 5, Yellow 6, Blue 2.<br><br>Contains Peanuts.<br><br>This product was manufactured in a facility where milk, eggs, almonds, coconut and soy are used in the production of other products. Products may be artificially flavoured. Reference product packaging for details.</p>
+<h3>NUTRITION FACTS</h3>
+<p>Serving Size: 13 pieces<br>Calories: 70<br>Fat: 2.5g<br>Sodium: 0mg<br>Sugar: 10g</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10515114762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000313</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/649274392603</id>
+    <published>2015-02-20T12:47:00-05:00</published>
+    <updated>2015-02-20T12:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-gum-theatre-pack"/>
+    <title>Dubble Bubble Gum Theatre Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_concord_dubbleBubbleGum_original_99g-Side-jpg-1.jpg?v=1624560762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Dubble Bubble Original Bubble Gum</h2>
+<h3 style="text-align: center;">America's Original Bubblegum!</h3>
+<p><span>This is the sweet pink stuff that candy connoisseurs dream of! The Dubble Bubble Theatre pack is a must-have for every edge of your seat cliffhanger! Chewing on some delicious, old fashioned Bubblegum during those tense movie scenes is always ideal!</span></p>
+<div>Dubble Bubble has been a favourite since 1928, upon unwrapping this sweet Bubble Gum you will be magically transported back to the good old days! You'll also find an amusing comic in every luscious piece! </div>
+<div>For a sweet and succulent Bubble Gum experience, there is only one Dubble Bubble!</div>
+<div>
+<ul>
+<li>Original Bubble Gum Flavour</li>
+<li>Box Contains Approx. 17 Pieces</li>
+<li>Made in Canada</li>
+<li>Peanut Free</li>
+<li>Tree Nut Free</li>
+<li>Kosher Certified Parve</li>
+</ul>
+</div>
+<p><strong> 3.5 oz. (99g)</strong></p>
+<h5><span>Ingredients:</span></h5>
+<p><span>Sugar, Dextrose, Corn Syrup, Gum Base, Tapioca Dextrin, Titanium Dioxide, Confectioner's Glaze, Carnauba Wax, Corn Starch, Artificial Flavors, Artificial Colors, (FD&amp;C Red 40, Blue 1, Yellow 5, Yellow 6, Red 3), BHT (to maintain freshness), milk and soy.</span></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Dubble Bubble Gum</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/649274392603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000556</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399929881</id>
+    <published>2015-01-17T12:04:00-05:00</published>
+    <updated>2015-01-17T12:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/starburst-original-fruit-chews"/>
+    <title>Starburst Original Fruit Chews Theatre Packs</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_mars_Starburst_original_99g-Side-jpg-1.jpg?v=1624588237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Starburst are Retro Candy from the 1970s</h2>
+<p><span>They say you should " shoot for the stars," we say just eat the delicious Starburst Original Fruit Chews, it's close enough!</span></p>
+<p>These delightfully chewy candies are packed with the fragrant and delicious fruitiness of Cherry, Orange, Strawberry and Lemon. You'll be thanking your "lucky stars" when you run out of your popcorn and begin to indulge in this Theatre Pack!  Starburst Original Fruit Chews are a classic movie time candy that will surely make you "starry-eyed"!</p>
+<ul>
+<li>Gluten-Free</li>
+</ul>
+<p><strong>3.5 oz.</strong></p>
+<h5><span>Ingredients: </span></h5>
+<p><span>CORN SYRUP, SUGAR, APPLE JUICE FROM CONCENTRATE, GELATIN, FOOD STARCH-MODIFIED, CITRIC ACID, LESS THAN 1.5% - PECTIN, NATURAL AND ARTIFICIAL FLAVORS, COLORING (RED 40, YELLOW 5). </span></p>
+<strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Starburst</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399929881</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002274</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1988007657531</id>
+    <published>2015-01-17T11:40:00-05:00</published>
+    <updated>2015-01-17T11:40:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/swedish-fish-mini-tropical-candy-theatre-pack"/>
+    <title>Swedish Fish Mini Tropical Candy Theatre Pack - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_mondelez_SwedishFish_mini_tropical_99g-jpg-1.jpg?v=1624588869"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;">Swedish Fish Mini Tropical Soft &amp; Chewy Candy</h2>
+<p><span>You never want to appear like a "fish out of water", especially during a candy-filled movie night!</span></p>
+<div>In order to avoid this be sure and have a classic candy on hand like the Swedish Fish Tropical Candy Theatre Pack! This retro candy now comes in delicious Tropical flavours like Beachy Punch, Passionfruit, Pina Colada and Tropical Island. These mini fish-shaped candies are delightfully chewy and immensely flavourful, even though their mini, they are mighty! </div>
+<div>Impress your movie date with only the Swedish Fish Tropical Candy, and you won't even have to try and fish for a compliment! </div>
+<p><strong>99 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Swedish Fish</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1988007657531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002323</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399925897</id>
+    <published>2015-01-17T11:28:00-05:00</published>
+    <updated>2015-01-17T11:28:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-milk-chocolate-candies-theater-pack"/>
+    <title>M&amp;M&apos;s Milk Chocolate Candies-Theatre Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/m-m-s-milk-chocolate-theatre-pack-candy-funhouse-online-store.jpg?v=1573947089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-name">
+<h2 style="text-align: center;">M&amp;M's Candy in a Theater Box </h2>
+<div class="gs">
+<div class="">
+<div id=":nf" class="ii gt">
+<div id=":mq" class="a3s aXjCH ">
+<div dir="ltr">Spoil yourself while you enjoy the silver screen with these M&amp;M's Candy. M&amp;M's Milk Chocolate Candies are made with real milk chocolate that is covered in a colourful array of candy-coated shells. Every bite is filled with such a rich and satisfying flavour! M&amp;M's Milk Chocolate Candies continue to be a classic candy! Coming out in 1941, they're as irresistibly delightful as ever! </div>
+<div dir="ltr">
+<ul>
+<li>Old Fashioned Candy Since 1941</li>
+<li>Kosher Certified Dairy</li>
+<li>Made in the USA</li>
+</ul>
+</div>
+<div class="yj6qo"><strong>3.1 oz</strong></div>
+<h5 class="yj6qo"><strong><span>Ingredients: </span></strong></h5>
+<div class="yj6qo">Milk chocolate (sugar, chocolate, skim milk, cocoa butter, lactose, milk fat, soy lecithin, salt, artificial flavours), sugar, corn starch, less than 1% - corn syrup, dextrin, coloring (includes blue 1 lake, yellow 6, red 40, yellow 5, blue 1, red 40 lake, blue 2 lake, yellow 6 lake, yellow 5 lake, blue 2), gum acacia.</div>
+<div class="yj6qo"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></div>
+<div class="adL"><strong></strong></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1940s</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Edit</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>m&amp;ms</s:tag>
+    <s:tag>Milk Chocolate</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399925897</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000829</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399922689</id>
+    <published>2015-01-17T11:05:00-05:00</published>
+    <updated>2015-01-17T11:05:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-dark-chocolate-raisinets"/>
+    <title>Raisinets Dark Chocolate Theater Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_ferrero_raisinets_darkchocolate_99g-Side-jpg-1.jpg?v=1624563434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":pw" class="ii gt">
+<div id=":o8" class="a3s aXjCH">
+<h2 class="product_name" style="text-align: center;" itemprop="name">Raisins Covered in Dark Chocolate </h2>
+<div dir="ltr">For the ultimate classic movie time candy, the Rasinets Dark Chocolate Theatre Pack are a deluxe choice! Filled with plump and juicy California Rasins that are sweetly and completely smothered in dark chocolate! Raisnetes Dark Chocolate is made with real fruit and boast 30% less fat, and are a natural source of antioxidants! Now, that's sweet!</div>
+<div dir="ltr"></div>
+<div dir="ltr"><strong>3.5 oz (99g)</strong></div>
+<div dir="ltr"><strong></strong></div>
+<div dir="ltr"></div>
+<h5 dir="ltr"><span>Ingredients: </span></h5>
+<div dir="ltr"><span>Dark Chocolate (Sugar, Chocolate, Cocoa Butter, Milkfat, Soy Lecithin, Nonfat Milk, Natural and Artificial Flavors, Lactose), Raisins, Sugar, Tapioca Dextrin, Confectioner's Glaze (Lac-Resin), Alkalized Cocoa.</span></div>
+<div class="yj6qo"></div>
+<div class="adL"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Edit</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399922689</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001009</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399922433</id>
+    <published>2015-01-17T11:04:00-05:00</published>
+    <updated>2015-01-17T11:04:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/mike-and-ike-tropical-typhoon-theatre-pack"/>
+    <title>Mike and Ike Tropical Typhoon Theatre Pack - 5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Just Born</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mike-and-ike-tropical-typhoon-theatre-pack-candy-funhouse-online-store.jpg?v=1573938418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Just Born<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="gs">
+<div class="">
+<div id=":tw" class="ii gt">
+<div id=":3n" class="a3s aXjCH ">
+<h2 class="product_name" itemprop="name" style="text-align: center;">Mike and Ike Tropical Typhoon Chewy Candies</h2>
+<div dir="ltr">Do you crave the thrill of an action-adventure movie? How about a whirlwind of an action-packed candy? The Mike And Ike Tropical Typhoon Theatre Pack will leave you mind blown! Intense tasting fruity and chewy candies that will have your tastebuds in a sweet tizzy! The Mike And Ike Tropical Typhoon flavours include Mango, Paradise Punch, Carribean Punch, Kiwi Banana, and Strawberry Banana! Hang on to your hats candy lovers, it's going to be a sweet ride!</div>
+<div dir="ltr">
+<ul>
+<li>Flavours include Paradise Punch, Kiwi-Banana, Caribbean Punch, Strawberry-Banana and Mango.</li>
+<li>Kosher Certified Parve</li>
+<li>Gluten-Free</li>
+<li>Fat-Free</li>
+</ul>
+</div>
+<div class="adL"><strong>5 oz.</strong></div>
+</div>
+</div>
+<h5 class="hi"><span>Ingredients: </span></h5>
+<div class="hi"><span>Sugar, corn syrup, modified food starch, fruit juice from concentrate, (pear, orange, strawberry, cherry, lime, lemon), contains less than 2% of the following: citric acid, malic acid, fumaric acid, sodium citrate, natural and artificial flavors, dextrin, artificial color, confectioner's glaze, carnauba wax, medium-chain triglycerides, red 40, yellow 5 (tartrazine), yellow 6, blue 1.</span></div>
+<div class="hi"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399922433</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1001495</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/399924289</id>
+    <published>2015-01-17T10:51:00-05:00</published>
+    <updated>2015-01-17T10:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-chewy-cubes-theatre-pack"/>
+    <title>WarHeads Sour Chewy Cubes Theatre Pack - 4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_impact_warheads_cubes_113g-Side-jpg-1.jpg?v=1624586706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sweet &amp; Sour Candy from Warheads</h2>
+<p><span>Make your movie night extra exciting and action-packed with the Warheads sour Chewy Cubes Theatre pack! Pucker up for these extremely sour candies, it's going to be a very bumpy ride for your taste buds! </span></p>
+<div>These chewy cubes pretend to be sweet on the outside but are truly superbly sour on the inside. Talk about a bait and switch!</div>
+<div>The Warheads Sour Chewy Cubes come in some very distinctive, perhaps sourly disturbing( to some only sweet candy eaters) flavours like Black Cherry, Blue Raspberry, Orange, Watermelon, and Green Apple. </div>
+<div></div>
+<p><strong>4oz (113g)</strong></p>
+<h5>Ingredients:</h5>
+<p>Sugar, corn syrup, corn starch, modified corn starch, citric acid, red 40, yellow 6, blue 1, artificial colour, natural and artificial flavours, fumaric acid, sodium citrate.</p>
+<p>Manufactured on equipment that processes milk, soy and peanut products.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Theatre</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>theatrepack</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/399924289</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002651</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

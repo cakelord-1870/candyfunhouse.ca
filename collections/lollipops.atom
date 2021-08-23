@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/lollipops.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-22T11:15:00-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632785739835</id>
+    <published>2021-07-22T11:15:00-04:00</published>
+    <updated>2021-07-22T11:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/white-pink-baby-bear-pops"/>
+    <title>White Baby Bear Pops - 24g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/espeez-white-baby-bear-pop-candy-funhouse_1.jpg?v=1626966737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Adorable and Appealing Little Bears</h2>
+<p data-mce-fragment="1">    These super cute baby bears are here to win over your heart and your tastebuds. A beautiful shade of<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">pearl white</strong>, these<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">individually wrapped, hand-made</strong> lollies are perfect for any event, party, or even just to satisfy your candy craving. Each<span data-mce-fragment="1"> <strong data-mce-fragment="1">Natural Sugar</strong></span><strong data-mce-fragment="1"> flavoured</strong><span data-mce-fragment="1"> </span>bear is holding a tiny bees nest, a super sweet sight to match the delectable flavour that'll take over your senses!</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">24g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_White</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632785739835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>01-1003019</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632785510459</id>
+    <published>2021-07-22T11:14:03-04:00</published>
+    <updated>2021-07-22T11:14:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/pink-baby-bear-pops"/>
+    <title>Pink Baby Bear Pops - 24g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/espeez-pink-baby-bear-pop-candy-funhouse_1.jpg?v=1626966756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Adorable and Appealing Little Bears</h2>
+<p data-mce-fragment="1">    These super cute baby bears are here to win over your heart and your tastebuds. A beautiful shade of<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">pastel pink</strong>, these<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">individually wrapped, hand-made</strong> lollies are perfect for any event, party, or even just to satisfy your candy craving. Each<span data-mce-fragment="1"> <strong>Bubble Gum</strong></span><strong data-mce-fragment="1"> flavoured</strong><span data-mce-fragment="1"> </span>bear is holding a tiny bees nest, a super sweet sight to match the delectable flavour that'll take over your senses!</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">24g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632785510459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>01-1003018</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632785412155</id>
+    <published>2021-07-22T11:13:54-04:00</published>
+    <updated>2021-07-22T11:13:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/blue-baby-bear-pops"/>
+    <title>Blue Baby Bear Pops - 24g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Espeez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/espeez-blue-baby-bear-pop-candy-funhouse_1.jpg?v=1626966690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Espeez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Adorable and Appealing Little Bears</h2>
+<p>    These super cute baby bears are here to win over your heart and your tastebuds. A beautiful shade of <strong>powder blue</strong>, these <strong>individually wrapped, hand-made</strong> lollies are perfect for any event, party, or even just to satisfy your candy craving. Each <strong>Cotton Candy flavoured</strong> bear is holding a tiny bees nest, a super sweet sight to match the delectable flavour that'll take over your senses!</p>
+<p><strong>24g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632785412155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>01-1003017</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6629140660283</id>
+    <published>2021-07-16T11:46:39-04:00</published>
+    <updated>2021-07-16T11:46:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bee-mini-sour-carnival-pops-lollipop-bag-2-9oz"/>
+    <title>Bee Mini Sour Carnival Pops Lollipop Bag - 2.9oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bee Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/bee-mini-sour-carnival-pops-lollipop-bag-2.9ozoz-candy-funhouse.jpg?v=1626270485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bee Inc<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">From Sweet to Sour</h2>
+<p style="text-align: left;">Enjoy the iconic Giant Carnival Pops now in mini form! Making it much easier to finish and that much more enjoyable. This 7ct bag is bursting with tangy flavours of sour apple and of course popping with the traditional carnival colours we all know and love! </p>
+<p style="text-align: center;">Step right up and give these sours pops a try!</p>
+<p style="text-align: left;"> </p>
+<p><strong>2.9oz (82g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6629140660283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002822</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627979001915</id>
+    <published>2021-07-12T15:03:55-04:00</published>
+    <updated>2021-07-12T15:03:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/unicorn-pops-mini-yellow-lemon-42oz"/>
+    <title>Unicorn Pops Mini Yellow Lemon - .42oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Adams &amp; Brooks Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/adam-and-brooks-unicorn-pops-mini-yellow-lemon-.42oz-candy-funhouse-online-candy-shop.jpg?v=1626098902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adams &amp; Brooks Inc<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1">Bright Yellow and White Twisted Pops<br data-mce-fragment="1">
+</h2>
+<p data-mce-fragment="1">   <span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Unicorn Pops Mini Yellow &amp; White Lemon </strong>flavoured <strong data-mce-fragment="1">Lollipops</strong><span data-mce-fragment="1"> </span>are made by Adams &amp; Brooks using the finest ingredients. These delicious lollipops come in a bright and inviting<span data-mce-fragment="1"> </span>colour that'll make anyone smile. Your candy bar will explode with delicious sweetness! <span data-mce-fragment="1"><strong data-mce-fragment="1">Unicorn Pops Mini Yellow &amp; White Lemon</strong> lollipops are <strong data-mce-fragment="1">individually wrapped</strong> and are 6 1/4" long including the stick.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Medium Blue Candy</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Kosher Parve</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Individually Wrapped</strong></li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Fun Fact:</strong><span data-mce-fragment="1"> </span>Urban legend has it that these exceptional lollipops are made by real Unicorns who live in Candyland. We do not know if this is true but just imagine if it was.</p>
+<h3 style="text-align: center;" data-mce-style="text-align: center;" data-mce-fragment="1"><br data-mce-fragment="1"></h3>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">.42 oz Lollipops </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627979001915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.74</s:price>
+      <s:sku>01-1003010</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627975954491</id>
+    <published>2021-07-12T15:03:48-04:00</published>
+    <updated>2021-07-12T15:03:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/unicorn-pops-mini-black-42oz"/>
+    <title>Unicorn Pops Mini Black - .42oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Adams &amp; Brooks Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/adam-and-brooks-unicornpops-minis-black-.42oz-candy-funhouse-online-candy-shop.jpg?v=1626098755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adams &amp; Brooks Inc<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Classy Black and White Twisted Pops<br>
+</h2>
+<p data-mce-fragment="1">    <strong>Unicorn Pops Mini Black &amp; White Mixed Berry Lollipops</strong> are made by Adams &amp; Brooks using the finest ingredients. These delicious lollipops come in very classy colours for any high-end event. Your candy bar will explode with delicious sweetness! <span data-mce-fragment="1"><strong>Unicorn Pops Mini Black &amp; White Mixed Berry</strong> lollipops are <strong>individually wrapped</strong> and are 6 1/4" long including the stick.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Medium Blue Candy</strong></li>
+<li data-mce-fragment="1"><strong>Kosher Parve</strong></li>
+<li data-mce-fragment="1"><strong>Individually Wrapped</strong></li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Fun Fact:</strong><span data-mce-fragment="1"> </span>Urban legend has it that these exceptional lollipops are made by real Unicorns who live in Candyland. We do not know if this is true but just imagine if it was.</p>
+<h3 style="text-align: center;" data-mce-fragment="1"><br></h3>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">.42 oz Lollipops </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627975954491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.37</s:price>
+      <s:sku>01-1003009</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620583297083</id>
+    <published>2021-07-09T12:06:49-04:00</published>
+    <updated>2021-07-09T12:06:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/chupa-chups-grippy-heroes-surprise"/>
+    <title>Chupa Chups Grippy Heroes Surprise</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/chupa-chups-grippy-heroes-surprise-12-g-candy-funhouse-online-candy-shop.jpg?v=1624039010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sweet Lolly with a Super Surprise</h2>
+<p>    Get ready to reveal the identity of the superhero you'll find inside this surprise toy! They'll join you in fighting for justice as you melt the evil contraption inside your mouth (it's really a lollipop but we thought we'd spice things up).</p>
+<p>Show us your Grippy Heroes collection on social media! Did you get all 16? We're dying to know!<br></p>
+<h3 style="text-align: center;">Collect all 16 fun crime-fighting heroes that come inside this Chupa Chups Surprise egg!</h3>
+<p><strong>12 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Chupa Chups</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620583297083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002893</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622984863803</id>
+    <published>2021-07-08T14:47:25-04:00</published>
+    <updated>2021-07-08T14:47:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/jolly-rancher-filled-lollipops"/>
+    <title>Jolly Rancher Filled Lollipops</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-jolly-rancher-filled-lollipops-16-g-candy-funhouse-online-candy-shop.jpg?v=1624294548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Long-Lasting Lollipops</h2>
+<h3 style="text-align: center;">Original Flavours</h3>
+<p>  Jolly Rancher Filled Lollipops packs a delicious punch of bold flavours that include Green <span>Apple, Watermelon, Cherry &amp; Grape. Either slowly savour the flavour, or bite down after a few licks, and inside you'll discover an intense fruity flavoured filling! Since the 1940s, Jolly Rancher has been delighting candy lovers with their extensive line of iconic candies. Now you can enjoy them on a stick!</span></p>
+<div id="dpx-product-description_feature_div">
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="ydfs1u-uwughi-gnqcoe-toa4c2" data-cel-widget="productDescription_feature_div"><getweblabtreatment treatment="CNTECH_DP_REMOVE_PRODUCT_DESCRIPTION_281136" var="deleteProductDescription">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small"></div>
+</div>
+</getweblabtreatment></div>
+</div>
+</div>
+<h5>Ingredients:</h5>
+<p>Sugar, corn syrup, malic acid, contains 2% or less of: sodium lactate, natural and artificial flavour, artificial colour (red 40, yellow 4, blue 1, yellow 6), sulphur dioxide, to maintain freshness, soy lecithin, BHT, to maintain freshness.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622984863803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.39</s:price>
+      <s:sku>01-1002921</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599680524347</id>
+    <published>2021-07-02T10:27:29-04:00</published>
+    <updated>2021-07-02T10:27:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/icee-dip-n-lik-candy-1-66oz"/>
+    <title>ICEE Dip-N-Lik Candy - 1.66oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Koko&apos;s Confectionery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kokos-confectionary-dip-n-lik-icee-lollipop-with-candy-powder-47-g-candy-funhouse-online-candy-shop.jpg?v=1624475825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koko&#39;s Confectionery<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Stick Out Your Tongue Fun!<br>
+</h2>
+<p style="text-align: left;"><span>The FUN-tastic frozen treat has been revamped for summer in an unmeltable way! The new ICEE Dip-n-Lik Candy looks like the popular Icee drink and features a swirl lollipop that you can dip into delicious candy powder. Dip-N-Lik your way into a sugar rush with these three sweet-craving flavors: Blue Raspberry, Cherry and Watermelon. Make sure to stick out your tongue and check its colour!</span></p>
+<ul></ul>
+<p style="text-align: center;"><strong>*Colours chosen at random*</strong></p>
+<p><strong>1.66 oz.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Powder Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Slush Puppie</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599680524347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002819</s:sku>
+      <s:grams>47</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620571271227</id>
+    <published>2021-06-30T16:48:06-04:00</published>
+    <updated>2021-06-30T16:48:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cry-babies-lipstick"/>
+    <title>Cry Babies Magic Tears Lipstick Candy - 5g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gunz Fine European Food</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/imc-toys-cry-babies-magic-tears-5-g-candy-funhouse-online-candy-shop.jpg?v=1624027317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gunz Fine European Food<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Cry Babies Magic Tears Lipstick Candy</h2>
+<p>Taste the cry babies magic tutti fruitti tears in this lollipop lipstick! This candy is based off of the viral childrens show on youtube <em>Cry Babies Magic Tears.</em></p>
+<p> </p>
+<p><strong>5 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620571271227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>01-1002875</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620443607099</id>
+    <published>2021-06-30T16:27:26-04:00</published>
+    <updated>2021-06-30T16:27:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kidsmania-pop-catch-toy-lollipop-0-39oz"/>
+    <title>Kidsmania Pop &amp; Catch Toy Lollipop - 11g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kidsmania-pop-and-catch-toy-lollipop-11-g-candy-funhouse-online-candy-shop.jpg?v=1624909871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;" data-mce-style="text-align: center;">Pop and Catch!</h1>
+<h3 style="text-align: center;">The sweetest catch (aside from you)!</h3>
+<p>This toy includes a lollipop inside the handle and your own mini game of pop and catch! Even after you have finished the lollipop you can still use it as a game!</p>
+<p>Lollipop flavours include: Blue Raspberry, Grape and Strawberry.</p>
+<p><strong>*Colours selected at random*</strong></p>
+<p><strong>11 g (1 piece each)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620443607099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.87</s:price>
+      <s:sku>01-1002873</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621770350651</id>
+    <published>2021-06-20T11:26:03-04:00</published>
+    <updated>2021-06-20T11:26:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/top-pops-chewy-taffy-watermelon-480g"/>
+    <title>Top Pops Chewy Taffy Watermelon - 480g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Dorval Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dorval-top-pops-chewy-taffy-candy-pops-watermelon-480-g-candy-funhouse-online-candy-shop_3.jpg?v=1624036985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dorval Trading<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span mce-data-marked="1">Refreshing Watermelon Lollipop</span></h2>
+<p><span mce-data-marked="1"><meta charset="utf-8">The ultimate soft taffy lollipop! Top Pops Taffy Pops are <meta charset="utf-8">chewy, fruity and long-lasting candy lollipops. Try their Watermelon flavour for a deliciously sweet and refreshing experience. Red and green taffy expertly molded with mouth-watering flavours, these pops are sure to put a smile on your child's face. </span></p>
+<p><strong>48 count box</strong></p>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span></span></h3>
+<p style="text-align: center;" data-mce-style="text-align: center;"><strong>CandyFunhouse.ca <em>Online Candy Store</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621770350651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>01-1002904</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620736913467</id>
+    <published>2021-06-20T11:24:51-04:00</published>
+    <updated>2021-06-20T11:24:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/top-pops-chewy-taffy-blazpberry-480g"/>
+    <title>Top Pops Chewy Taffy Blazpberry - 480g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Dorval Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dorval-top-pops-chewy-taffy-candy-pops-blazpberry-480-g-candy-funhouse-online-candy-shop_1.jpg?v=1624037133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dorval Trading<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Berry Best Taffy Lollipop</span></h2>
+<p><span mce-data-marked="1"><meta charset="utf-8">
+<span>The ultimate soft taffy lollipop! Top Pops Taffy Pops are </span><meta charset="utf-8">
+<span>chewy, fruity and long-lasting candy lollipops. Try their </span><span>Blazpberry </span><span>flavour for an outstanding berry taste. Each lollipop is a mix of bright blue and red taffy with </span><span>mouth-watering red and blue raspberry flavours! These berry pops are sure to put a smile on your child's face. </span></span></p>
+<p><strong>48 count box</strong></p>
+<h3 style="text-align: center;"><span></span></h3>
+<p style="text-align: center;"><strong>CandyFunhouse.ca <em>Online Candy Store</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620736913467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>01-1002906</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620736520251</id>
+    <published>2021-06-20T11:23:34-04:00</published>
+    <updated>2021-06-20T11:23:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/top-pops-chewy-taffy-strawberry-480g"/>
+    <title>Top Pops Chewy Taffy Strawberry - 480g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Dorval Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dorval-top-pops-chewy-taffy-candy-pops-strawberry-480-g-candy-funhouse-online-candy-shop_2.jpg?v=1624037352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dorval Trading<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Sweet Strawberry Taffy Pop</span></h2>
+<p><span mce-data-marked="1"><meta charset="utf-8">The ultimate soft taffy lollipop! Top Pops Taffy Pops are <meta charset="utf-8">chewy, fruity and long-lasting candy lollipops. Try their Strawberry flavour for a freshly picked berry taste. Bright red taffy expertly molded with mouth-watering flavours, these pops are sure to put a smile on your child's face. </span></p>
+<p><strong>48 count box</strong></p>
+<h3 style="text-align: center;"><span></span></h3>
+<p style="text-align: center;"><strong>CandyFunhouse.ca <em>Online Candy Store</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620736520251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>01-1002905</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620738224187</id>
+    <published>2021-06-20T11:20:15-04:00</published>
+    <updated>2021-06-20T11:20:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/top-pops-chewy-taffy-strawberry-lemon-480g"/>
+    <title>Top Pops Chewy Taffy Strawberry-Lemon - 480g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Dorval Trading</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dorval-top-pops-chewy-taffy-candy-pops-strawberry-lemon-480-g-candy-funhouse-online-candy-shop_1.jpg?v=1624037056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dorval Trading<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Sweet and Tart Taffy Lollipops</span></h2>
+<p><meta charset="utf-8">The ultimate soft taffy lollipop! Top Pops Taffy Pops are <meta charset="utf-8"><span data-mce-fragment="1">chewy, fruity and long-lasting candy lollipops. Try their Strawberry-Lemon flavour for a deliciously sweet and tart experience. Colourful and with mouth-watering flavours, these pops are sure to put a smile on your child's face. </span></p>
+<p><strong>48 count box</strong></p>
+<h3 style="text-align: center;"><span></span></h3>
+<p style="text-align: center;"><strong>CandyFunhouse.ca <em>Online Candy Store</em></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620738224187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>01-1002903</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5077202468923</id>
+    <published>2021-03-07T23:12:41-05:00</published>
+    <updated>2021-03-07T23:12:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/mr-squeezy-pop-56g"/>
+    <title>Mr. Squeezy Pop - 56g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Koko&apos;s Confectionery</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mr-squeezy-pop-candy-funhouse-online-candy-store-canada.jpg?v=1615177321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koko&#39;s Confectionery<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Mr. Squeezy Pop Lollipop </h2>
+<h3 style="text-align: center;">Squeezable liquid candy with lollipop</h3>
+<p><span>Mr. Squeezy Pop is ready for fun! Just squeeze the liquid candy onto the lollipop and enjoy the juicy liquid and lollipop together. This dude will bring all the fun to your parties and redemption counters.</span></p>
+<p style="text-align: center;"><strong>Flavours: Blue Raspberry, Strawberry, Green Apple.</strong></p>
+<p style="text-align: center;"><strong>Flavours are chosen randomly</strong></p>
+<p><strong>1 lollipop - 56g</strong></p>
+<h5>Ingredients</h5>
+<p><strong>Lollipop:</strong> Sugar, glucose syrup, artificial flavour &amp; colours (blue 1, yellow 5)</p>
+<p><strong>Gel:</strong> High fructose corn syrup, citric acid, water, artificial flavour, potassium sorbet as a preservative, artificial colours (blue 1, yellow 5)</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5077202468923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.36</s:price>
+      <s:sku>01-1001515</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5078784868411</id>
+    <published>2020-12-10T11:49:00-05:00</published>
+    <updated>2020-12-10T11:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/adams-brooks-unicorn-cow-tales-21g"/>
+    <title>Adams &amp; Brooks Unicorn Cow Tales - 21g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Adams &amp; Brooks Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/unicorn-pops-cow-tales-candy-funhouse.jpg?v=1607371025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Adams &amp; Brooks Inc<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Adams &amp; Brooks | Unicorn Cow Tales</span></h2>
+<h3 style="text-align: center;">Two Iconic Candies Make One Perfect Lollipop</h3>
+<h3 style="text-align: center;">Made in the USA</h3>
+<p>Unicorn Pops Lollipops are made by Adams &amp; Brooks using the finest ingredients. Your tastebuds will be jumping from the delicious sweetness! Unicorn Pops x Cow Tales<span> are individually wrapped lollipops with the iconic Cow Tales vanilla caramel flavour.</span></p>
+<ul>
+<li>Cow Tales vanilla caramel Flavour</li>
+<li>Kosher Parve</li>
+<li>Individually Wrapped</li>
+</ul>
+<p><strong>Fun Fact:</strong> Urban legend has it that these exceptional lollipops are made by real Unicorns who live in Candyland! We do not know if this is true but we can surely believe it is!</p>
+<p><strong>1 Lollipop - 0.75 oz </strong></p>
+<h5>Ingredients:</h5>
+<p>Corn Syrup, Natural and/or Artificial Flavors, Citric Acid, Colors may include one or more of the following: FD&amp;C Blue 1, Blue 2, Red 3, Red 40, Yellow 5, Yellow 6.</p>
+<p>Processed in a facility that also processed Peanuts, Tree Nuts.</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</p>
+<p><b>﻿*Please see manufacturers packaging for most accurate list of ingredients*</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Orange</s:tag>
+    <s:tag>Cow Tales</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Vanilla</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5078784868411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1000109</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5077156298811</id>
+    <published>2020-12-02T11:59:34-05:00</published>
+    <updated>2020-12-02T11:59:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/polly-pocket-candy-bracelet-kit-28g"/>
+    <title>Polly Pocket Candy Bracelet Kit - 28g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Exclusive Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/PollyPocketCandyBraceletKit-28g.jpg?v=1609254980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Polly Pocket Candy Bracelet Kit </span></h2>
+<p><span data-mce-fragment="1">Polly Pocket believes big dreams come in small packages! </span></p>
+<p><span data-mce-fragment="1">It's certainly true with this heart container full of candy beads! A tasty, dazzling candy bracelet for you to wear and enjoy. Be delighted by the candy shapes of hearts, flowers, and circles, beautifully coloured in purple, pink, and green! </span><span data-mce-fragment="1">Colourful, fun, and tasty - something Polly would truly love! </span></p>
+<p><span data-mce-fragment="1">Comes with a string to attach candies into a bracelet.</span></p>
+<p><span data-mce-fragment="1">Get the matching <a href="https://candyfunhouse.ca/products/polly-pocket-ring-lolly-10g" target="_blank">Polly Pocket Ring-lolly</a>! Exclusively available here at Candyfunhouse.</span></p>
+<ul>
+<li>Peanut-Free<br>
+</li>
+</ul>
+<p><strong>ONE CANDY KIT - 28g</strong></p>
+<p> </p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, dextrin, magnesium stearate, artificial flavour, gum arabic, carnauba wax, artificial colours (FD&amp;C blue 1, FD&amp;C Red 3, FD&amp;C Red 40, FD&amp;C Yellow 5)</p>
+<p>May contain traces of soy*</p>
+<p><strong>28g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>bracelet</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Candy Jewelry</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Purple</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>kit</s:tag>
+    <s:tag>light purple</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>polly pocket</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Toy</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>Valentines Day Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5077156298811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1001922</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5077155971131</id>
+    <published>2020-12-02T11:29:26-05:00</published>
+    <updated>2020-12-02T11:29:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/polly-pocket-ring-lolly-10g"/>
+    <title>Polly Pocket Ring-Lolly - 10g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Exclusive Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Polly-Pocket-lollipop-ring.jpg?v=1607374381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Polly Pocket Ring-Lolly </span></h2>
+<p><span data-mce-fragment="1">Polly Pocket believes big dreams come in small packages! It's certainly true with this delicious strawberry-flavoured ring lollipop! A tasty, dazzling ring for you to wear and enjoy. Candy rings. come in a random assortment of flavours.</span></p>
+<p><span data-mce-fragment="1">Make your own matching candy bracelet! Polly Pocket Candy Bracelet Kit </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>polly pocket</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5077155971131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>01-1001923</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5077142863931</id>
+    <published>2020-12-02T10:41:54-05:00</published>
+    <updated>2020-12-02T10:41:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bak-u-pop-ring-lollipop-10g"/>
+    <title>Bakugan Bak-U-Pop Ring Lollipop - 10g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Spin Master</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Bak-U-Pop-bakugan-Ring-Lollipop-10g.jpg?v=1606924419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spin Master<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bakugan Candy</h2>
+<h2 style="text-align: center;">Bak-U-Pop Ring Lollipop</h2>
+<p>Prepare yourself for an exciting adventure with this lollipop packed with juicy strawberry flavours! <span data-mce-fragment="1">One of the biggest and most powerful Bakugan characters, the Maxus </span>Dragonoid shaped lollipop will give you strength amongst all! <span data-mce-fragment="1"></span></p>
+<p>Check out the Bakugan Keychain Ball with Candy that can also hold your ring lolli, so you can save it for later and have it at any time! Exclusively sold here at Candyfunhouse! </p>
+<h3 style="text-align: center;" class="p1"><b>Fresh Candy Shipped to Canada &amp; the USA!</b></h3>
+<h5>Ingredients</h5>
+<p>Sugars (sugar, corn syrup), buffered lactic acid, soy lecithin, artificial flavours and colours (FD&amp;C Red 40)</p>
+<p>*Allergens: contains soy.</p>
+<p><strong>10g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>bakugan</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5077142863931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>01-1000199</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5064080162875</id>
+    <published>2020-11-12T09:22:42-05:00</published>
+    <updated>2020-11-12T09:22:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/charms-super-blow-pops-sweet-n-sour"/>
+    <title>Charms Super Blow Pops Sweet N Sour</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/charms-super-blow-pops-sweet-n-sour-candy-funhouse.jpg?v=1605191331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Lollipops with a Bubblegum Center</span></h2>
+<p><span>Now you can have your <em>l</em>ollipop and chew it too. Charms Super Blow Pops Sweet N Sour are a hard candy shell on the outside with a yummy Bubble Gum in the middle! Charms Blow Pops have been a popular retro candy since the 1970s.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Blow Pop</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5064080162875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.69</s:price>
+      <s:sku>01-1000397</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5060878008379</id>
+    <published>2020-11-06T22:44:58-05:00</published>
+    <updated>2020-11-06T22:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kidsmania-gator-chomp-lollipop"/>
+    <title>Kidsmania Gator Chomp Lollipop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kidsmania-gator-chomp-lollipop-candy-funhouse-online-candy-store.jpg?v=1604720875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Chomp on this Lollipop</h2>
+<p><span style="font-weight: 400;">Whether you’re craving sweet and delicious Green Apple, Blue Raspberry, or Strawberry, Kidsmania Gator Chomp has got you covered. After all, we’re all kids a heart. And this cute and zany candy will brighten up even the gloomiest of days. </span></p>
+<p><span style="font-weight: 400;">Gators love to chomp but candy is definitely human territory. And Kidsmania Gator Chomp has a cut label with a hungry gator and a real-life (maybe not) plastic gator head on top. Push the button to get that gator chomp, chomp, chomping! Keep the gator after you’re done with the pop. It’s a fun toy you can use for cheering up others. And Kidsmania Gator Chomp is always a laugh-inducing treat for friends and family. </span></p>
+<p><strong>1 Unit</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5060878008379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.24</s:price>
+      <s:sku>01-1001172</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5031822491707</id>
+    <published>2020-10-05T03:30:01-04:00</published>
+    <updated>2020-10-05T03:30:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/baby-bottle-pop-2d-max-1-34oz"/>
+    <title>Baby Bottle Pop 2D Max - 1.34oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/baby-bottle-pop-2-d-max-candy-funhouse.jpg?v=1601870621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Baby Bottle Pop 2D Max</h2>
+<h3 style="text-align: center;">Bazooka Candy Brands</h3>
+<p style="text-align: center;"><strong>Lick the top, dip it in the powder, shake, and lick it again!</strong></p>
+<p><strong>1.34oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Lollipop</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Topps</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5031822491707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000195</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5042419564603</id>
+    <published>2020-10-04T16:47:00-04:00</published>
+    <updated>2020-10-04T16:47:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/swizzels-puds-chew-bars-150g"/>
+    <title>Swizzels Puds Chew Bars - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Swizzels-Matlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/swizzels-puds-chew-bars-150g-candy-funhouse.jpg?v=1601833466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swizzels-Matlow<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro British Candy</h2>
+<h3 style="text-align: center;"><br></h3>
+<p> </p>
+<p>150g</p>
+<p style="text-align: center;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5042419564603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002385</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5025432109115</id>
+    <published>2020-09-04T15:39:07-04:00</published>
+    <updated>2020-09-04T15:39:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/exclusive-hot-wheels-laser-pop"/>
+    <title>Hot Wheels Laser Pop Lollipop</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Exclusive Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hot-wheels-laser-pop-20g-candy-funhouse.jpg?v=1599249060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hot Wheels Laser Pop Lollipop</h2>
+<p><span style="font-weight: 400;">You've never had a treat like this before. This Hot Wheels Laser Pop not only features a delicious lollipop but is a light projector, too. It projects fun Hot Wheels-themed shapes up to several feet away indoors. If you're outside in the dark, you can throw the shapes even further! </span></p>
+<p><span style="font-weight: 400;">This is a great gift for kids of all ages, including you. And the Hot Wheels name will bring you for a walk down memory lane. Once you've devoured the lollipop, keep the projector as a collectible. If you're a Hot Wheels collector, this is an essential item for your collection. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5025432109115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.61</s:price>
+      <s:sku>01-1000643</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/smarties.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-06-10T23:57:09-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590782799931</id>
+    <published>2021-06-10T23:57:09-04:00</published>
+    <updated>2021-06-10T23:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-orange-smarties-milk-chocolate-bar-90-g"/>
+    <title>Nestle Orange Smarties Milk Chocolate Bar - 90 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-orange-smarties-milk-chocolate-bar-90-g-candy-funhouse-online-candy-shop.jpg?v=1622219080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Orange Smarties with Milk Chocolate...</h2>
+<p>That sounds good! Delicious milk chocolate stuffed with orange Smarties. The sweet genius who thought of this creation must have been seating Smarties. Because you are what you eat.</p>
+<ul>
+<li>British Candy</li>
+<li>Paper Packaging</li>
+<li>No Artificial Colours, Flavours or Preservatives. That's Smart!</li>
+</ul>
+<p>90g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590782799931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.51</s:price>
+      <s:sku>02-2001386</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548362559547</id>
+    <published>2021-03-21T04:10:20-04:00</published>
+    <updated>2021-03-21T04:10:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/milkybar-smarties-block-uk-100g"/>
+    <title>Milkybar Smarties Block UK - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_MilkybarSmarties_100-Side-jpg-1.jpg?v=1624555268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Colourful Milkybar!</h2>
+<p>If you love the classic Milkybar, you'll love what they've added to their famous white chocolate recipe. They've turned up the fun by adding in delicious Nestle Smarties! The Milkybar Smarties sharing block has the creamy-tasting Milkybar white chocolate that you love, with the fun, colourful crunch of Smarties!<span> </span>Perfect for moments of simple fun. Made with natural flavourings, it's good to share!</p>
+<p><strong>100 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548362559547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000980</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540681281595</id>
+    <published>2021-03-06T17:09:10-05:00</published>
+    <updated>2021-03-06T17:09:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-bubble-gum-balls-10-pack"/>
+    <title>Smarties Bubble Gum Balls - 10 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum &amp; Machine Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/smarties-bubble-gum-balls-10-pack-funhouse-online-candy-store-canada.jpg?v=1615068545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum &amp; Machine Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Smarties Bubble Gum</span></h2>
+<p><br></p>
+<p>2 oz - 10 Pieces<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540681281595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002149</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115049672763</id>
+    <published>2021-02-21T22:01:19-05:00</published>
+    <updated>2021-02-21T22:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-smarties-milk-chocolate-tablet-bar-100-g"/>
+    <title>Nestle Smarties Milk Chocolate Tablet Bar - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-smarties-milk-chocolate-tablet-bar-100-g-candy-funhouse-online-candy-store-canada.jpg?v=1613962849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="st">A new way to eat Smarties candies!</span></h2>
+<p><span>Snap off a piece of… SMARTIES? That's right! Nestle Smarties Milk Chocolate Tablet Bar is a new way to experience - and share - the love of candy-coated, milk chocolate Smarties. This milk chocolate bar is filled with mini Smarties candy-coated milk chocolate pieces adding a colourful crunch within smooth chocolate deliciousness. It's easy to break off one of the 18 square pieces to share with family and friends. Plus, it's all wrapped up in recyclable paper packaging, which helps ensure that the environment stays as vibrant as Smarties pieces. Made in Switzerland with 100% natural colours and flavours, Nestle purchases 100% RAINFOREST ALLIANCE certified cocoa, as part of the NESTLÉ Cocoa Plan. They work with the Rainforest Alliance and farmers to improve the quality of their products and strengthen their communities.</span></p>
+<li><strong><span class="st">Made in Switzerland</span></strong></li>
+<li><strong><span class="st">No Artificial Colours</span></strong></li>
+<li><strong><span class="st">No Artificial Flavours</span></strong></li>
+<li><strong><span class="st"><span>UTZ Certified</span></span></strong></li>
+<h3 style="text-align: center;"></h3>
+<p><strong><span class="st">100 g</span></strong></p>
+<h5><span class="st"><strong></strong></span></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Origin_Switzerland</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>UTZ Certified</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115049672763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2001024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5070677540923</id>
+    <published>2020-11-19T16:12:25-05:00</published>
+    <updated>2020-11-19T16:12:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-smarties-buttons-78g"/>
+    <title>Nestle Smarties Buttons - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>CandyFunhouse.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/smarties-uk-buttons-candy-funhouse.jpg?v=1605899320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CandyFunhouse.ca<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Nestle Smarties Buttons </h2>
+<h2 style="text-align: center;" data-mce-fragment="1">Imported from the UK</h2>
+<p data-mce-fragment="1">Get together with friends, family film night or just for a special treat - share the delicious colourful fun of Smarties Buttons. Yummy smooth milk chocolate buttons filled with colourful mini Smarties sweets.</p>
+<p data-mce-fragment="1">Deliciously smooth milk chocolate has been at the heart of Smarties for more than 80 years and, in 2005, Smarties was the first UK major confectionery brand to move to no artificial colours - more reasons to enjoy Smarties..</p>
+<p data-mce-fragment="1">Smarties only select quality, 100% certified sustainable cocoa beans through the Nestlé® Cocoa Plan ®, which aims to improve the lives of cocoa farming communities and the quality of their products.</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">No Artificial Colour</li>
+<li data-mce-fragment="1">No Artificial Flavours</li>
+<li data-mce-fragment="1">No Preservatives</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">95 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5070677540923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001021</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5052875276347</id>
+    <published>2020-10-22T11:34:59-04:00</published>
+    <updated>2020-10-22T11:34:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-smarties-white-chocolate-buttons-85g"/>
+    <title>Nestle Smarties White Chocolate Buttons - 85g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-smarties-white-chocolate-buttons-candy-funhouse-online-candy-store.jpg?v=1603380491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Imported from the UK</h2>
+<p style="text-align: center;" data-mce-style="text-align: center;">Get together with friends, family film night or just for a special treat - share the delicious colourful fun of Smarties Buttons. Yummy smooth white chocolate buttons filled with colourful mini Smarties sweets.</p>
+<p style="text-align: center;" data-mce-style="text-align: center;">Deliciously smooth white chocolate has been at the heart of Smarties for more than 80 years and, in 2005, Smarties was the first UK major confectionery brand to move to no artificial colours - more reasons to enjoy Smarties..</p>
+<ul></ul>
+<p style="text-align: left;" data-mce-style="text-align: left;"><strong>85 g</strong></p>
+<h5 style="text-align: left;" data-mce-style="text-align: left;"><strong>Ingredients:</strong></h5>
+<div id="ingredients" class="product-info-block product-info-block--ingredients">
+<p class="product-info-block__content">Sugar, Skimmed Milk Powder, Cocoa Butter, Butterfat (from Milk), Lactose and Proteins from Whey (from Milk), Whey Powder (from Milk), Vegetable Fats (Mango Kernel, Palm, Sal, Shea), Cocoa Mass, Fat-Reduced Cocoa Powder, Wheat Flour, Rice Starch, Dried Whole Milk, Emulsifier (Sunflower Lecithin), Fruit and Vegetable Concentrates (Safflower, Radish, Black Carrot, Lemon, Hibiscus, Grape, Blackcurrant), Spirulina Concentrate, Glazing Agents (Carnauba Wax, Beeswax White, Gum Arabic, Shellac), Natural Flavourings, Colours (Red Beet, Curcumin, Beta-Carotene), Barley Malt Extract, White Chocolate contains Vegetable Fat in addition to Cocoa Butter. Allergy Information: Contains: Barely, Milk, Wheat</p>
+</div>
+<div id="allergens" class="product-info-block product-info-block--allergens">
+<h3 class="product-info-block__title product-info-block__title--h3 undefined">Allergy Information: Contains: Barley, Milk, Wheat</h3>
+</div>
+<p class="p1"><b>Ingredients and nutritional information provided by the manufacturer are considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for the current date</b></p>
+<p><strong><br></strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5052875276347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001025</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5042426282043</id>
+    <published>2020-10-04T15:02:26-04:00</published>
+    <updated>2020-10-04T15:02:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-smarties-buttons-90-g"/>
+    <title>Nestle Smarties Buttons - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_smartiesButtons_90g-Side-jpg-1.jpg?v=1624589486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Imported from the UK</h2>
+<p style="text-align: center;">Get together with friends, family film night or just for a special treat - share the delicious colourful fun of Smarties Buttons. Yummy smooth milk chocolate buttons filled with colourful mini Smarties sweets.</p>
+<p style="text-align: center;">Deliciously smooth milk chocolate has been at the heart of Smarties for more than 80 years and, in 2005, Smarties was the first UK major confectionery brand to move to no artificial colours - more reasons to enjoy Smarties..</p>
+<p style="text-align: center;">Smarties only select quality, 100% certified sustainable cocoa beans through the Nestlé® Cocoa Plan ®, which aims to improve the lives of cocoa farming communities and the quality of their products.</p>
+<ul>
+<li>No Artificial Colour, Flavours to Preservatives</li>
+</ul>
+<p style="text-align: left;"><strong>90 g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5042426282043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001022</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4332581421115</id>
+    <published>2019-11-18T10:24:09-05:00</published>
+    <updated>2019-11-18T10:24:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-squashies-raspberry-and-cream-flavour"/>
+    <title>Smarties Squashies Raspberry and Cream Flavour - 5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Swizzels-Matlow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_smarties_squashies_raspberryandcream_141g-Side-jpg-1.jpg?v=1626120989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swizzels-Matlow<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Squashies Bubble Gum Flavour Candy</h2>
+<h3 style="text-align: center;">New from England</h3>
+<p><span>New to Canada from Swizzels Matlow of Britain comes these soft and chewy Squashies, Raspberry and Cream Flavour.</span></p>
+<p><strong>160 g</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4332581421115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002157</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2230377807931</id>
+    <published>2019-04-29T16:06:05-04:00</published>
+    <updated>2019-04-29T16:06:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-squeeze-candy"/>
+    <title>Smarties Squeeze Candy - 2.25oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum &amp; Machine Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/smarties-squeeze-candy-candy-funhouse-online-candy-store.jpg?v=1597524999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum &amp; Machine Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Squeeze the Delicious Liquid Candy</span></h2>
+<p><span>The great taste of Smarties in a fun liquid squeeze tube. Smarties Squeeze Candy is tart and tangy with mixed fruit flavours. Be the cool kid at the next party!</span></p>
+<p>2.25 oz. Tube</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2230377807931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002158</s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/11836299082</id>
+    <published>2018-11-06T16:41:44-05:00</published>
+    <updated>2018-11-06T16:41:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-sharing-block"/>
+    <title>Smarties Sharing Block UK - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_Smarties_sharingblocks_100g-Side-jpg-1.jpg?v=1625583221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Smarties Sharing Block from the UK</h2>
+<p>This Smarties Chocolate bar from Nestle UK features mini smarties covered in delicious milk chocolate. The smooth milk chocolate combines very well with the crisp sugar shell that adds a light crunch to the overall chocolate bar.</p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Colourful milk chocolate sweets in a crisp sugar shell</span></li>
+<li><span class="a-list-item">Coloured by nature - from food and plant extracts only</span></li>
+<li><span class="a-list-item">With no artificial flavours, colours or preservatives</span></li>
+</ul>
+<p><strong>﻿(100g) </strong></p>
+<h5><strong>Ingredients:</strong></h5>
+<p>Sugar, Dried Whole MILK, Cocoa Butter, Cocoa Mass, Vegetable Fat (from Palm/Shea/Sal/Illipe/Kokum Gurgi/Mango Kernel), Lactose and Proteins from Whey (from MILK), Whey Powder (from MILK), Butterfat (from MILK), Skimmed MILK Powder, WHEAT Flour, Emulsifier</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/11836299082</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001226</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/268625149</id>
+    <published>2014-03-19T11:58:00-04:00</published>
+    <updated>2014-03-19T11:58:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-mega-lolly"/>
+    <title>Smarties Mega Lolly</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Smarties</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_megasmarties_lollies_original_31g-Side-jpg-1.jpg?v=1629139499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smarties<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro American Candy</h2>
+<p>A sweet and tart taste from these Smarties Mega Lollies. A Retro Candy favourite from the 1970s. If you love the taste of American Smarties then these Smarties Mega Lollies are for you. Two great flavours in one. You are what you eat..become a Smartie!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/268625149</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>01-1002155</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/166746966</id>
+    <published>2013-10-22T13:19:00-04:00</published>
+    <updated>2013-10-22T13:19:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-candy"/>
+    <title>Nestle Smarties Candies - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_smarties_45g-Side-jpg-1.jpg?v=1628277833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="st">A Classic Canadian Candy</span></h2>
+<h3 style="text-align: center;"><span class="st">Candy Coated Chocolate Chocolate Candies</span></h3>
+<p><span class="st">Smarties Candies have been a part of Canada's candy tradition for over 77 years! Made by Nestle Canada at their Toronto, Ontario Canada chocolate factory. Colourful and crunchy candy-coated chocolate candies that make you smart. Yes, you are what you eat! Smarties have no artificial colours or flavours. That's pretty sweet! Smarties Candies come in eight colours: <strong>Red</strong>, <strong>Orange</strong>, <strong>Yellow</strong>, <strong>Green</strong>, <strong>Purple</strong>, <strong>Pink</strong>, <strong>Blue</strong> &amp;<strong> Brown</strong>.  And Smarties has updated the packaging with the make 'em last pack.</span></p>
+<p style="text-align: center;"><strong><span class="st">The question is-"Do you eat the red ones last?"</span></strong></p>
+<li><strong><span class="st">Made in Canada</span></strong></li>
+<li><strong><span class="st">Peanut Free</span></strong></li>
+<li><strong><span class="st">No Artificial Colours</span></strong></li>
+<li><strong><span class="st">No Artificial Flavours</span></strong></li>
+<li><strong><span class="st"><span>UTZ Certified</span></span></strong></li>
+<h3 style="text-align: center;">Smarties Candies are one of the <b><a href="https://candyfunhouse.ca/blogs/around-the-funhouse/top-10-canadian-candies" title="Top 10 Canadian Candies" target="_blank">Top 10 Canadian Candies</a>.</b><br>
+</h3>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span class="st">Watch this cool 1980's <a href="https://www.youtube.com/watch?v=9B2L4vjELF8" title="Smarties Candy" target="_blank">Smarties Candy</a> commercial.</span></h3>
+<p><strong><span class="st">45 g</span></strong></p>
+<h5><span class="st"><strong>Ingredients:</strong> </span></h5>
+<p><span class="st"><span>Milk chocolate (sugar, milk ingredients, cocoa butter, cocoa mass, whey powder, lactose, soya lecithin, polyglycerol polyricinoleate, natural flavour), sugar, wheat flour, modified corn starch, carnauba wax, colour.</span></span></p>
+<p><span class="st"><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>UTZ Certified</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/166746966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001209</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+</feed>

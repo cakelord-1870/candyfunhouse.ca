@@ -1,0 +1,1593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/all.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-18T09:22:33-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643875807291</id>
+    <published>2021-08-18T09:22:33-04:00</published>
+    <updated>2021-08-18T09:22:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/monster-mash-cereal-16oz"/>
+    <title>Monster Mash Cereal - 16oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>General Mills</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/general-mills-monster-mash-cereal-16oz-candyfunhouse.jpg?v=1628864715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>General Mills<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">They Did The Mash...</h2>
+<h2 style="text-align: center;">The MONSTER MASH!</h2>
+<h3 style="text-align: center;">Breakfast of Sweeties</h3>
+<div style="text-align: center;">For the first time ever, The Monsters are coming together in one scary delicious bowl of cereal! All of the classic monster-based brands: <em><strong>Count Chocula, Franken Berry, Boo Berry, Yummy Mummy, and Fruit Brute</strong> </em>– are joining forces for the mashup cereal. </div>
+<div style="text-align: center;">This mashup celebrates the 50th birthday of the line’s launch with the Count Chocula and Franken Berry cereals back in 1971. Boo Berry followed in 1973, with Fruit Brute coming along in 1974 and Yummy Mummy in 1988. </div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">This rocking cereal is only produced by General Mills during the Halloween season and available for a limited time!</div>
+<div style="text-align: center;"> </div>
+<div style="text-align: left;"><strong>﻿16 oz (453g) - Family Size</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643875807291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>03-3001331</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643237486651</id>
+    <published>2021-08-16T09:57:45-04:00</published>
+    <updated>2021-08-16T09:57:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-green-apple-cotton-candy-1-75oz"/>
+    <title>Warheads Sour Green Apple Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-green-apple-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629122247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2>Pucker Up!<br>
+</h2>
+<h3>Sour Green Apple<br>
+</h3>
+<div><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div><span>Try Warheads Sour Green Apple! Your taste buds will (literally) be exploding! You will love the unique tart, sour green apple taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<p> </p>
+<p>Check out all of the<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" title="warheads cotton candy" target="_blank">Warheads Cotton Candy</a><span> </span>flavours!</p>
+<p style="text-align: left;"><strong>1.75oz (49g)</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643237486651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003050</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643237224507</id>
+    <published>2021-08-16T09:56:13-04:00</published>
+    <updated>2021-08-16T09:56:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-watermelon-cotton-candy-1-75oz"/>
+    <title>Warheads Sour Watermelon Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-watermelon-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629122153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2>Pucker Up!<br>
+</h2>
+<h3>Sour Watermelon<br>
+</h3>
+<div><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div><span>Try Warheads Sour Watermelon! Your taste buds will (literally) be exploding! You will love the unique tart, sour watermelon taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<p> </p>
+<p>Check out all of the<span> </span><a title="warheads cotton candy" href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" target="_blank">Warheads Cotton Candy</a><span> </span>flavours!</p>
+<p style="text-align: left;"><strong>1.75oz (49g)</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643237224507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003049</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643237584955</id>
+    <published>2021-08-16T09:54:22-04:00</published>
+    <updated>2021-08-16T09:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-blue-raspberrycotton-candy-1-75oz"/>
+    <title>Warheads Sour Blue Raspberry Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-blue-raspberry-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629122043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pucker Up!<br>
+</h2>
+<h3 style="text-align: center;">Sour Blue Raspberry<br>
+</h3>
+<div style="text-align: center;"><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div style="text-align: center;"><span>Try Warheads Sour Blue Raspberry! Your taste buds will (literally) be exploding! You will love the unique tart, sour blue raspberry taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;">Check out all of the<span> </span><a title="warheads cotton candy" href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" target="_blank">Warheads Cotton Candy</a><span> </span>flavours!</div>
+<div style="text-align: center;"><strong></strong></div>
+<div style="text-align: left;"><strong>1.75oz (49g)</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643237584955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003051</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643236995131</id>
+    <published>2021-08-16T09:52:44-04:00</published>
+    <updated>2021-08-16T09:52:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-black-cherry-cotton-candy-1-75oz"/>
+    <title>Warheads Sour Black Cherry Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-black-cherry-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629121949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pucker Up!<br>
+</h2>
+<h3 style="text-align: center;">Sour Black Cherry<br>
+</h3>
+<div style="text-align: center;"><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div style="text-align: center;"><span>Try Warheads Sour Black Cherry! Your taste buds will (literally) be exploding! You will love the unique tart, sour black cherry taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Check out all of the <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" title="warheads cotton candy" target="_blank">Warheads Cotton Candy</a> flavours!</p>
+<p><strong>1.75oz (49g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643236995131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003048</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643236569147</id>
+    <published>2021-08-13T12:08:55-04:00</published>
+    <updated>2021-08-13T12:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rowntrees-randoms-foamies-pouch-140g"/>
+    <title>Rowntree&apos;s Randoms Foamies Pouch - 140g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-uk-rowntrees-randoms-foamies-140g-candyfunhouse_1.jpg?v=1628870928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<h2 style="text-align: center;"><span>Completely Unpredictable!</span></h2>
+<h3 style="text-align: center;"><span>Like a fluffy pillow for your mouth!</span></h3>
+<p style="text-align: left;"><span data-mce-fragment="1">Rowntree's® Randoms Foamies boast a fun and random assortment of gummy candies! Originally from the UK, this package of delightfully foamy sweet flavoured treats is a perfect snack for all ages. With prominnet flavours of strawberry biscuit and ice-cream biscuit. From ping-pong paddles to paintbrushes, ice cream cones to saxophones, every bag contains billions of possible combinations of textures, shapes, colours and flavours. You never know what you're going to get! </span></p>
+<p style="text-align: left;"><br></p>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><strong>140 g</strong></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Rowntree&apos;s</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643236569147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.59</s:price>
+      <s:sku>01-1003047</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643236405307</id>
+    <published>2021-08-13T12:06:08-04:00</published>
+    <updated>2021-08-13T12:06:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rowntrees-randoms-juicers-pouch-140g"/>
+    <title>Rowntree&apos;s Randoms Juicers Pouch - 140g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-uk-rowntrees-randoms-juicers-140g-candyfunhouse.jpg?v=1628870690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<h2 style="text-align: center;"><span>Completely Unpredictable!</span></h2>
+<h3 style="text-align: center;"><span mce-data-marked="1">Bursting with yummy juiciness!</span></h3>
+<p style="text-align: left;"><span data-mce-fragment="1">Rowntree's® Randoms Juicers boast a fun and random assortment of gummy candies! Originally from the UK, this package of soft fruity-flavoured chewy sweets filled with a liquid center is a perfect snack for all ages. From ping-pong paddles to paintbrushes, ice cream cones to saxophones, every bag contains billions of possible combinations of textures, shapes, colours and flavours. You never know what you're going to get! <meta charset="utf-8">A squishy, juicy experience that is beyond words! </span></p>
+<p style="text-align: left;"><strong>140 g</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>filled gummy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Rowntree&apos;s</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643236405307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.47</s:price>
+      <s:sku>01-1003046</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2338858303547</id>
+    <published>2021-08-13T11:06:31-04:00</published>
+    <updated>2021-08-13T11:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/halloween-3-pack-monster-cereals"/>
+    <title>Halloween 3-Pack Monster Cereals</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-halloween-3-pack-monster-cereals-candyfunhouse.jpg?v=1628022490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro American Cereal</h2>
+<h3 style="text-align: center;">Breakfast of Sweeties</h3>
+<p>Introduced in Halloween in 1971, this mix of cereal and marshmallows has a distinct chocolate flavour and is only produced by General Mills during the halloween season. Pick yours up today before they run off scared!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>sweet deal</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2338858303547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>03-3000707</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6642520457275</id>
+    <published>2021-08-13T10:56:58-04:00</published>
+    <updated>2021-08-13T10:56:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-mini-eggs-bars-100g"/>
+    <title>Cadbury Dairy Milk Mini Eggs Bars - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-dairy-milk-mini-eggs-bars-100g-candyfunhouse.jpg?v=1628524000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Mini Eggs</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bars | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added our favourite Mini Eggs in this Dairy Milk chocolate bar. With each bite, taste the crunch of the Mini Eggs, balanced with a smooth silky milk chocolate...Mmmm this bar hits the sweet spot!</p>
+<p style="text-align: left;"> </p>
+<p style="text-align: left;"><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6642520457275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001467</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6640862330939</id>
+    <published>2021-08-12T09:47:13-04:00</published>
+    <updated>2021-08-12T09:47:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/doritos-twisted-lime-18-8oz"/>
+    <title>Doritos Twisted Lime - 18.8oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Frito-Lay Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/frito-lay-inc-doritos-twisted-lime-18oz-candyfunhouse.jpg?v=1628087726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frito-Lay Inc<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">BACK FOR A LIMITED TIME<br>
+</h2>
+<h3 style="text-align: center;"><em>The Long-Awaited Return of...</em></h3>
+<h3 style="text-align: center;"> Doritos Twisted Lime </h3>
+<h4 style="text-align: center;">American Snacks | Potato Chips</h4>
+<p>If you love Doritos, you <strong>must </strong>try these! With a citrusy flavour and a sour bite at the end, your mouth will be watering. The bag is so big which makes it the perfect movie night snack to munch on. Doritos released this new flavour last year and they definitely were a fan favourite. This time they are back and very exclusive...</p>
+<p><br></p>
+<p>Don't wait any longer! Order today and discover what you've been missing out on!</p>
+<p><b>1 family size bag - 18.8oz</b></p>
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">Fresh Snacks Shipped Within Canada &amp; to USA! </h2>
+<h5>Ingredients</h5>
+<p><meta charset="utf-8"><span>Corn Flour, Vegetable Oil (Corn, Canola, and/or Sunflower), Salt, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Whey, Spices, Maltodextrin (Made From Corn), Monosodium Glutamate, Buttermilk, Romano Cheese (Cow’s Milk, Cheese Cultures, Salt, Enzymes), Natural and Artificial Flavors, Onion Powder, Baking Soda, Whey Protein Concentrate, Tomato Powder, Citric Acid, Garlic Powder, Potassium Chloride, Hydrolyzed Corn Protein, Monoglycerides, Artificial Color (Yellow 6, Yellow 5, Yellow 6 Lake, Blue 2 Lake), Disodium Inosinate, and Disodium Guanylate. CONTAINS MILK INGREDIENTS.</span></p>
+<h6>
+<b></b> <span style="font-weight: 400;">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data. </span><span style="font-weight: 400;">We cannot be held responsible for the accuracy of </span><span style="font-weight: 400;">ingredients</span><span style="font-weight: 400;"> or nutritional information provided, nor liable for any reactions caused by the products we sell.</span>
+</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1990s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>cheddar</s:tag>
+    <s:tag>cheese</s:tag>
+    <s:tag>Chips</s:tag>
+    <s:tag>Doritos</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6640862330939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>03-3001325</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641145610299</id>
+    <published>2021-08-11T12:26:20-04:00</published>
+    <updated>2021-08-11T12:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-jelly-buddies-127g"/>
+    <title>Hotel Transylvania Jelly Buddies - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-jelly-buddies-127g-candyfunhouse_1.jpg?v=1628178853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>    Ever wondered what a slime monster would taste like? Take a bite and find out! These tangy <strong>Jelly Buddies</strong> will overwhelm your senses with (spoiler alert!) <strong>Lemon</strong>, <strong>Mango</strong>, <strong>Orange</strong>, and <strong>Tropical</strong> flavour, all made with<span> </span><strong>natural fruit juice</strong>.</p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641145610299</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003042</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641144954939</id>
+    <published>2021-08-11T12:26:19-04:00</published>
+    <updated>2021-08-11T12:26:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-party-animals-127g"/>
+    <title>Hotel Transylvania Party Animals - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-party-animals-127g-candyfunhouse.jpg?v=1628178789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>    Jealous of the huge parties Dracula and his friends always have? Just invite over a few of these <strong>Party Animals</strong>! Tons of cute and creepy critters come in each of these bags, full of <strong>Pineapple</strong>, <strong>Raspberry</strong>, <strong>Orange</strong>, <strong>Watermelon</strong>, and <strong>Grape </strong>flavour, all made with<span> </span><strong>natural fruit juice</strong>.</p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641144954939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003040</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641146200123</id>
+    <published>2021-08-11T12:26:18-04:00</published>
+    <updated>2021-08-11T12:26:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-vampire-teeth-127g"/>
+    <title>Hotel Transylvania Vampire Teeth - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-vampire-teeth-127g-candyfunhouse.jpg?v=1628179101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>   <span> If you've ever dreamed of being a vampire, now's your chance! Soft foam-like gummies shaped like sharp and shiny <strong>Vampire Teeth</strong> taste of delicious <strong>Strawberry</strong>. Take a few bites of these yummy treats made with <strong>natural fruit juice</strong>, and you may get a taste for something a lot more dangerous!</span></p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641146200123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003044</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641144823867</id>
+    <published>2021-08-11T11:57:21-04:00</published>
+    <updated>2021-08-11T11:57:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-gummy-bears-127g"/>
+    <title>Hotel Transylvania Gummy Bears - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-gummy-bears-127g-candyfunhouse_1.jpg?v=1628178521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>    These gummy bears are hauntingly delicious! Squishy, spooky, and tons of juicy fun, each bite into these yummy gummies delivers a wave of <strong>Strawberry</strong>, <strong>Orange</strong>, <strong>Apple</strong>, <strong>Pineapple</strong>, and <strong>Lemon</strong>, all flavoured with <strong>natural fruit juice</strong>.</p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641144823867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003039</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641144987707</id>
+    <published>2021-08-11T11:57:20-04:00</published>
+    <updated>2021-08-11T11:57:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-gummy-worms-127g"/>
+    <title>Hotel Transylvania Gummy Worms - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-gummy-worms-127g-candyfunhouse_2.jpg?v=1628179005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>    Scary and squirmy, these worms are also super fruity and delicious! Bold bursts of <strong>Blue Raspberry</strong>, <strong>Grape</strong>, <strong>Cherry</strong>, <strong>Apple</strong>, and <strong>Peach</strong> flavour will fill your mouth with every bite, all flavoured with<span> </span><strong>natural fruit juice</strong>.</p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641144987707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003041</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641145872443</id>
+    <published>2021-08-11T11:56:55-04:00</published>
+    <updated>2021-08-11T11:56:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-berry-bones-127g"/>
+    <title>Hotel Transylvania Berry Bones - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-berry-bones-127g-candyfunhouse.jpg?v=1628179249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>    Throw yourself a bone with these super sweet and delicious <strong>Berry Bones</strong>! Powerful flavours of <strong>Raspberry</strong>, <strong>Blackberry</strong>, and <strong>Blue</strong> <strong>Raspberry</strong> will overwhelm your senses with every bite, made with<span> </span><strong>natural fruit juice</strong>.</p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641145872443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003043</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641149739067</id>
+    <published>2021-08-11T11:56:53-04:00</published>
+    <updated>2021-08-11T11:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-cola-bats-127g"/>
+    <title>Hotel Transylvania Cola Bats - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-cola-bats-127g-candyfunhouse.jpg?v=1628179161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>   <span> Don't be afraid! <strong>Cola Bats</strong> may look spooky, but they're totally sweet and made with <strong>natural fruit juice</strong>. We should warn you though, there is a potential side effect that'll turn you into a cola guzzling monster! </span></p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641149739067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003045</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6641144234043</id>
+    <published>2021-08-11T11:56:03-04:00</published>
+    <updated>2021-08-11T11:56:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hotel-transylvania-monster-mayhem-127g"/>
+    <title>Hotel Transylvania Monster Mayhem - 127g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-hotel-Transylvania-monster-mayhem-127g-candyfunhouse.jpg?v=1628178654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Recipe For Monstrous Fun!</h2>
+<p>     Complete your Halloween party with guests that'll put your friends' costumes to shame! A flood of zany monsters will come loaded with <strong>Cherry</strong>, <strong>Blackberry</strong>, <strong>Watermelon</strong>, <strong>Peach</strong>, and <strong>Blueberry</strong> flavour, all made with <strong>natural fruit juice</strong>.</p>
+<p><span data-mce-fragment="1">     Also made <strong>100% halal</strong></span><span data-mce-fragment="1"> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these delicious ghouls are a fun and safe treat that everyone is able to enjoy!</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+</div>
+<p><strong>127g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Egg Free</s:tag>
+    <s:tag>Fish Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sesame-free</s:tag>
+    <s:tag>Soy Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Wheat Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6641144234043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003038</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6640869769275</id>
+    <published>2021-08-09T12:52:02-04:00</published>
+    <updated>2021-08-09T12:52:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/halloween-decorated-butter-cookies"/>
+    <title>Halloween Decorated Butter Cookies</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Bud&apos;s Best</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/halloween-decorated-butter-cookies-candyfunhouse.jpg?v=1628527914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bud&#39;s Best<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Enchantingly Spooky Cookies</h2>
+<h4 style="text-align: center;">**Cookies chosen at random** </h4>
+<p style="text-align: center;">Beware of these magical butter cookies, they may look like a delicious treat but they have a trick up their sleeve...<meta charset="utf-8"><span data-mce-fragment="1">Hocus Pocus! You will turn into the cookie character you eat! A Witch, Frankenstein, Pumpkin, or Mummy—the brewing options are endless. </span></p>
+<p style="text-align: center;"><meta charset="utf-8"><span>Trick-or-TREAT yo' self at </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a><span>!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6640869769275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>03-3001326</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623738658875</id>
+    <published>2021-08-06T11:08:55-04:00</published>
+    <updated>2021-08-06T11:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/big-league-chew-changemaker-bucket-240pcs-41-6oz"/>
+    <title>Big League Chew Team Rally Bucket 240pcs - 50.8oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum &amp; Machine Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/ford_gum_and_machine_company_big_league_chew_bubble_gumballs_240_piece_tub_team_rally_bucket_3.2lbs_candy_funhouse.jpg?v=1626279026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum &amp; Machine Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Back in the Big Leagues!</span></h2>
+<p>     A treat made for the whole team to enjoy! This massive tub full of the beloved <strong>Original Big League Chew bubblegum balls</strong> is sure to be a home run hit with everyone, no matter how young or old. Each piece inside the tub is <strong>individually wrapped</strong> for the freshest gum-chewing experience possible, the only thing you'll need to be worried about is the run from third to home! A fantastic choice for the concession stand or even the dugout. </p>
+<ul>
+<li><strong>Only 4 Carbs Per Piece</strong></li>
+</ul>
+<p> </p>
+<p style="text-align: left;"> <strong>(1 tub includes 240 pieces) 50.8oz / 3.2lbs</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>gumball</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623738658875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>01-1002945</s:sku>
+      <s:grams>1600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638382776379</id>
+    <published>2021-08-06T00:17:00-04:00</published>
+    <updated>2021-08-06T00:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-mini-bites-assorted-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Assorted Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-assorted-bites-pouch-3.5oz-candyfunhouse.jpg?v=1628172602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Embrace Your Punch</h2>
+<h3 style="text-align: center;">Sour Punch Mini Bites Assorted Flavours </h3>
+<p>Enjoy Sour Punches iconic straws in mini form! 3 flavors of sour candy per bag: <em><strong>Blue Raspberry, Green Apple &amp; Strawberry</strong></em>.</p>
+<p>These soft &amp; chewy candy bites are covered in the classic sour sugar coating and come in small bite-sized pieces. What is awesome about this candy is that it comes in a resealable bag! It will perfectly fit in your backpack or purse for a on-the-go snack. You can even try pairing these sour fruity candies with a snack like popcorn!<br data-mce-fragment="1"><br></p>
+<ul>
+<li>Low Fat</li>
+<li>Low Sodium</li>
+<li>Kosher &amp; Halal Certified</li>
+</ul>
+<p><strong>3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638382776379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003034</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638381596731</id>
+    <published>2021-08-06T00:16:40-04:00</published>
+    <updated>2021-08-06T00:16:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-mini-bites-rad-reds-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Rad Reds Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-red-bites-pouch-3.5oz-candyfunhouse.jpg?v=1628172478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Embrace Your Punch</h2>
+<h3 style="text-align: center;">Sour Punch Mini Bites Rad Reds</h3>
+<p>Enjoy Sour Punches iconic straws in mini form! 3 flavors of sour candy per bag:<em><strong> Strawberry, Watermelon, &amp; Cherry</strong></em>.</p>
+<p>These soft &amp; chewy candy bites are covered in the classic sour sugar coating and come in small bite-sized pieces. What is awesome about this candy is that it comes in a resealable bag! It will perfectly fit in your backpack or purse for a on-the-go snack. You can even try pairing these radical sour fruity candies with a snack like popcorn!</p>
+<p> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Low Fat</li>
+<li data-mce-fragment="1">Low Sodium</li>
+<li data-mce-fragment="1">Kosher &amp; Halal Certified</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638381596731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6631501234235</id>
+    <published>2021-08-05T10:59:09-04:00</published>
+    <updated>2021-08-05T10:59:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kraft-jell-o-no-bake-oreo-cheesecake-12-6oz"/>
+    <title>Kraft Jell-O No Bake Oreo Cheesecake - 12.6oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Kraft Foods Group, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kraft-foods-no-bake-oreo-cheesecake-12.6oz-candyfunhouse_1.jpg?v=1628174432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Foods Group, Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A Batch Made in Heaven</strong></h2>
+<div style="text-align: center;"><strong>15 MINUTE PREP</strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"> All you need to add to this oreotastic dessert mix is butter and milk! Yes it's really that simple, you can have your cake and eat it too! Not only does this look delicious, it tastes soooo good too. It is the perfect dessert mix if you're in a rush and want to make a sweet treat for friends and family! Put on your baking hat and get ready to add your own twist to this mix. </div>
+<div style="text-align: center;"><strong> </strong></div>
+<div style="text-align: center;">
+<strong>Includes:</strong> <em>filling mix, crust mix, and cookie pieces.</em>
+</div>
+<h4 style="text-align: center;"><em></em></h4>
+<h4 style="text-align: center;"> Checkout This <a href="https://www.myfoodandfamily.com/recipe/053668/jell-o-no-bake-oreo-cups" target="_blank" rel="noopener noreferrer">Recipe</a>!</h4>
+<p> </p>
+<p> </p>
+<p><strong>12.6oz (357g)</strong></p>
+<h2 style="text-align: center;"><span data-mce-fragment="1"></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Baking</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6631501234235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>03-3001311</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634760994875</id>
+    <published>2021-08-05T10:38:15-04:00</published>
+    <updated>2021-08-05T10:38:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/mike-and-ike-sour-lemon-24ct"/>
+    <title>Mike and Ike Sour Lemon - 24ct</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Just Born</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/just-born-mike-and-ike-sour-lemon-24ct-candyfunhouse.jpg?v=1628174286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Just Born<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 dir="ltr" style="text-align: center;" data-mce-fragment="1"> Sour Citrusy Mike and Ike's for On-The-Go</h2>
+<div dir="ltr" data-mce-fragment="1">    So you forgot your lemon ginger shot at home and now you're looking for some way to get your tangy, citrus fix? Try this sweet and sour alternative,<strong> Mike and Ike's Sour Lemon</strong>! Each pack contains a burst of <strong>fruity Lemon flavoured Mike and Ike's</strong> that'll leave your tastebuds stunned. </div>
+<div dir="ltr" data-mce-fragment="1"></div>
+<div dir="ltr" data-mce-fragment="1"></div>
+<div dir="ltr" data-mce-fragment="1">    This box comes with <strong>24 mini-packs</strong> that are perfect to take with you wherever you go. Whether you down the pack in one gulp, or share with your friends, we'll support you any way you want to enjoy your candy. </div>
+<div dir="ltr" style="text-align: center;" data-mce-fragment="1"></div>
+<h4 dir="ltr" style="text-align: center;" data-mce-fragment="1">Perfect for keeping your favourite treat in stock, for lunch boxes, or on-the-go snacks!</h4>
+<div dir="ltr" data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong>Made in the USA</strong></li>
+<li data-mce-fragment="1"><strong>Kosher Certified Parve</strong></li>
+<li data-mce-fragment="1"><strong>Gluten-Free</strong></li>
+<li data-mce-fragment="1"><strong>Fat-Free</strong></li>
+<li data-mce-fragment="1"><strong>Made with Real Fruit Juice</strong></li>
+</ul>
+<h3 data-mce-fragment="1">
+<strong data-mce-fragment="1">528g | </strong><strong data-mce-fragment="1">24 packs in one box</strong>
+</h3>
+</div>
+<div dir="ltr"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MikeAndIke</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634760994875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>04-4000747</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634760339515</id>
+    <published>2021-08-05T10:16:57-04:00</published>
+    <updated>2021-08-05T10:16:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kervan-cherry-rings-gummy-candy-5lb"/>
+    <title>Kervan Cherry Rings Gummy Candy - 5lb</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Kervan USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kervan-usa-cherry-rings-5lbs-candyfunhouse.jpg?v=1628173011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kervan USA<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Juicy Gummy Rings with a Cherry Taste</h2>
+<p>     Kervan Cherry Rings are one of the world's finest gummy candies. These juicy, cherry-flavoured treats taste like they were freshly picked from the cherry orchard in Candyland. And there, over the horizon, a unicorn is running free. Sweet Dreams Live Here! </p>
+<p style="text-align: center;"><strong>Kervan Cherry Rings Bulk Candy is a sweet addition to any Candy Buffet or Corporate Event.</strong></p>
+<ul>
+<li>Halal Candy</li>
+<li>Made in Turkey</li>
+<li>Made with the finest ingredients</li>
+</ul>
+<p><strong>5 lbs Bulk Candy </strong></p>
+<h5><strong></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kervan</s:tag>
+    <s:tag>Origin_Turkey</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634760339515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.97</s:price>
+      <s:sku>04-4000745</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

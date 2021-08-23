@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/valor-chocolates.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2020-01-08T22:40:47-05:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420157440059</id>
+    <published>2020-01-08T22:40:47-05:00</published>
+    <updated>2020-01-08T22:40:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-creamy-milk-chocolate-with-almonds-sugar-free-100-g"/>
+    <title>Valor Milk Chocolate with Almonds Sugar Free - 150 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_valor_milkchocolate_almonds_150g-Side-jpg-1.jpg?v=1624564116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Sugar-Free Creamy Milk Chocolate</h2>
+<h3 style="text-align: center;">With Almonds</h3>
+<ul>
+<li>Gourmet Creamy Milk Chocolate with Almonds</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>150 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" title="Valor Sugar-Free Chocolates" target="_blank">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420157440059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001333</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420141842491</id>
+    <published>2020-01-08T22:34:22-05:00</published>
+    <updated>2020-01-08T22:34:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-creamy-milk-chocolate-hazelnut-cream-sugar-free-100-g"/>
+    <title>Valor Creamy Milk Chocolate Hazelnut Cream Sugar Free-100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/valor-creamy-milk-chocolate-hazelnut-cream-sugar-free-100g-candy-funhouse-online-candy-store-canada.jpg?v=1578541211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Sugar-Free Creamy Milk Chocolate</h2>
+<h3 style="text-align: center;">Hazelnut Cream</h3>
+<ul>
+<li>Gourmet Creamy Milk Chocolate with Hazelnut Cream</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420141842491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001332</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420127883323</id>
+    <published>2020-01-08T22:27:03-05:00</published>
+    <updated>2020-01-08T22:27:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-milk-chocolate-sugar-free-100-g"/>
+    <title>Valor Milk Chocolate Sugar Free-100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/valor-milk-chocolate-sugar-free-100g-candy-funhouse-online-candy-store-canada.jpg?v=1578540784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Sugar-Free Milk Chocolate</h2>
+<ul>
+<li>Gourmet Milk Chocolate </li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420127883323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001335</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420116217915</id>
+    <published>2020-01-08T22:20:28-05:00</published>
+    <updated>2020-01-08T22:20:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-creamy-dark-chocolate-orange-cream-sugar-free-100-g"/>
+    <title>Valor Creamy Dark Chocolate Orange Cream Sugar Free -100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_valor_Creamy70_DarkChocolateOrange_100g-Side-jpg-1.jpg?v=1624563880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Creamy 70% Dark Chocolate</h2>
+<h3 style="text-align: center;">Orange Cream </h3>
+<ul>
+<li>Creamy 70% Dark Chocolate Orange Cream</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420116217915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001330</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420089413691</id>
+    <published>2020-01-08T22:05:20-05:00</published>
+    <updated>2020-01-08T22:05:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-creamy-dark-chocolate-truffle-cream-sugar-free-100-g"/>
+    <title>Valor Creamy Dark Chocolate Truffle Cream Sugar Free - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_valor_CreamyDarkChocolateTruffleCream_100g-Side-jpg-1.jpg?v=1624563947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Creamy Dark Chocolate</h2>
+<h3 style="text-align: center;">Truffle Cream </h3>
+<ul>
+<li>Creamy Dark Chocolate Truffle Cream</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420089413691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2001331</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420064313403</id>
+    <published>2020-01-08T21:54:53-05:00</published>
+    <updated>2020-01-08T21:54:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-70-cacao-intense-dark-sugar-free-100-g"/>
+    <title>Valor 70% Cacao Intense Dark Sugar Free-100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_valor_70_cacao_100g-Side-jpg-1.jpg?v=1624563422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Intense Dark Chocolate </h2>
+<ul>
+<li>Intense Dark Chocolate </li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420064313403</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2001327</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420051206203</id>
+    <published>2020-01-08T21:50:41-05:00</published>
+    <updated>2020-01-08T21:50:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-70-cacao-with-orange-sugar-free-100-g"/>
+    <title>Valor 70% Cacao with Orange Sugar Free-100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_valor_70_cacaoOrange_100g-Side-jpg-1.jpg?v=1624563513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Dark Chocolate with Orange</h2>
+<ul>
+<li>Dark Chocolate with Orange</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420051206203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001328</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4420022370363</id>
+    <published>2020-01-08T21:41:37-05:00</published>
+    <updated>2020-01-08T21:41:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-dark-chocolate-with-almonds-sugar-free-150-g"/>
+    <title>Valor Dark Chocolate with Almonds Sugar Free-150 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/valor-dark-chocolate-with-almonds-sugar-free-150g-candy-funhouse-online-candy-store-canada.jpg?v=1578538074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Gourmet Dark Chocolate with Almonds</h2>
+<ul>
+<li>Dark Chocolate with Almonds</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>150 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4420022370363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001334</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4394579951675</id>
+    <published>2020-01-08T14:41:57-05:00</published>
+    <updated>2020-01-08T14:41:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/valor-85-dark-chocolate-sugar-free-100-g"/>
+    <title>Valor 85% Dark Chocolate Sugar Free-100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Valor Chocolates</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_valor_85_cacao_100g-Top-jpg-1.jpg?v=1624563752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valor Chocolates<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Supreme Dark Chocolate</h2>
+<ul>
+<li>Extra Dark Chocolate</li>
+<li>Real Spanish Bitter Chocolate Cocoa</li>
+<li>0% Added Sugars</li>
+<li>Addition of Stevia instead of Sugar</li>
+<li>Gluten-Free</li>
+<li>Made in Spain</li>
+<li>Since 1881</li>
+</ul>
+<p><strong>100 g</strong></p>
+<h3 style="text-align: center;"><strong>Enjoy all the <a href="https://candyfunhouse.ca/collections/valor-chocolates" target="_blank" title="Valor Sugar-Free Chocolates" rel="noopener noreferrer">Valor Sugar-Free Chocolates</a>!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Valor Chocolates</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4394579951675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001329</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/chocolate-bars.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-19T11:50:00-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625064058939</id>
+    <published>2021-07-19T11:50:00-04:00</published>
+    <updated>2021-07-19T11:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-buttons-treat-68g"/>
+    <title>Maltesers Buttons Treat - 68g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-maltesers-buttons-treat-bag-68g-candy-funhouse.jpg?v=1626709286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Lighter Way to Enjoy Chocolate </span></h2>
+<p><span mce-data-marked="1"></span>   These crunchy, chocolatey snacks are a fun way to get all that <strong>Maltesers</strong> goodness in a smaller bite! Delectable chocolate buttons filled with crispy <strong>Maltesers</strong> bits, chomp down for a satisfying crunch, or let them melt on your tongue to enjoy that blissful warm chocolate taste. No matter how you enjoy these delicious treats, make sure you take advantage of this treat-sized bag and share the joy with all your friends!</p>
+<p><strong>68 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625064058939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku>02-2001432</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632817492027</id>
+    <published>2021-07-15T16:46:23-04:00</published>
+    <updated>2021-07-15T16:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/glosette-peanuts-105g"/>
+    <title>Glosette Peanuts - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys_glosette_peanuts_105g_candy_funhouse.jpg?v=1626369211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Classic Canadian Retro Candy</h2>
+<h3 style="text-align: center;">Hershey's Canada</h3>
+<p>Glosette is an exclusive Canadian Candy Brand of Confectionery. Glosette <span class="st">pieces are the classic movie theater treat containing little pieces of candy with a distinctive glossy chocolate shell</span> coating with raisins, peanuts, or almonds - simple yet a delicious retro snack!</p>
+<p><strong>105g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632817492027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001461</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625626456123</id>
+    <published>2021-07-13T16:07:14-04:00</published>
+    <updated>2021-07-13T16:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boyer-peanut-butter-cups-fun-bites-10oz"/>
+    <title>Boyer Peanut Butter Cups Fun Bites - 10oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Boyer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boyer-peanut-butter-cups-fun-bites-10z-funhouse-online-candy-shop.jpg?v=1625860655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boyer<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Boyer Peanut Butter Cups Fun Size</h2>
+<p style="text-align: center;">Bite-sized milk chocolate goodness filled with creamy peanut butter! Thanks Boyer! Hand them out on Halloween or simply fill a bowl with them. All we know is you will love getting a dose of peanut butter in this cute treat!</p>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;">
+<span data-mce-fragment="1">Trick-or-TREAT yo' self at</span><span data-mce-fragment="1"> </span><a data-mce-fragment="1" href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span data-mce-fragment="1">!</span>
+</div>
+<p> </p>
+<p><strong><br></strong></p>
+<p><strong>10oz (283g)</strong></p>
+<ul>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>Made In The USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625626456123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>02-2001445</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238886459</id>
+    <published>2021-07-09T12:07:16-04:00</published>
+    <updated>2021-07-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-fast-break-bar-king-size-3-5oz"/>
+    <title>Reese&apos;s Fast Break Bar King Size - 3.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhseys-reeses-fast-break-bar-king-szie-3.5-oz-candy-funhouse-online-candy-shop.jpg?v=1625238118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Reimagined</h2>
+<h3 style="text-align: center;">🤴KING SIZE🤴</h3>
+<p>Craving the classic peanut butter and chocolate cup? Try Reese's Fast Break King Size! It's a delicious bar filled with a thick hunk of chewy nougat, topped with the traditional Reese's creamy peanut butter, and <span data-mce-fragment="1">completely covered in rich milk chocolate. </span></p>
+<p><span data-mce-fragment="1">Indulge today!</span></p>
+<p><strong>3.5 oz (99 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238886459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001401</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625115242555</id>
+    <published>2021-07-09T11:13:50-04:00</published>
+    <updated>2021-07-09T11:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-white-chocolate-45g"/>
+    <title>Kit Kat White Chocolate UK - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-kit-kat-white-chocolate-bar-45-g-candy-funhouse-online-candy-shop.jpg?v=1625082546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Kit Kat is Now a Little Creamier!</span></h2>
+<div style="text-align: left;">  A different way to enjoy Kit Kat, for those of us with a sweeter than average tooth! Each bar contains 4 crispy wafer sticks dipped in a smooth, creamy batch of rich white chocolate. This great treat will have you up on cloud nine!</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<p><strong>(1 bar) 45g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625115242555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001442</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625065238587</id>
+    <published>2021-07-08T12:47:11-04:00</published>
+    <updated>2021-07-08T12:47:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-smooth-orange-bar-42g"/>
+    <title>Galaxy Smooth Orange Bar - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-galaxy-smooth-range-bar-42g-candy-funhouse-online-candy-shop.jpg?v=1625762826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Galaxy Smooth Orange Bar </h2>
+<h3 style="text-align: center;"><span>British Candy</span></h3>
+<p>A delicious smooth and creamy Orange <em>Milk Chocolate Bar</em>. One of any<em> Chocolate Lovers</em> favourite! But what else is this <em>Chocolate Bar</em>? It has out of this world flavours of orange!</p>
+<p><strong>42g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625065238587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001434</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623282266171</id>
+    <published>2021-07-06T11:16:29-04:00</published>
+    <updated>2021-07-06T11:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/yorkie-orange-bar-46g"/>
+    <title>Yorkie Orange Bar - 46g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-yorkie-orange-chocolate-bar-46-g-candy-funhouse-online-candy-shop.jpg?v=1624378265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Don't Miss Out On This Limited Edition Flavour!</h2>
+<p>  This classic British chocolate bar features a citrusy twist! If you're a fan of chunky pieces of smooth milk chocolate with a delicious orange flavour, this is definitely the bar for you. Don't miss out because this bar won't be here for long, so you might as well try it while it's here! </p>
+<p>  Aren't a fan of orange chocolate yourself? Get it as a gift for anyone you know who does, or check out our <a href="https://candyfunhouse.ca/pages/search-results?q=yorkie" title="Yorkie Bars Candy Funhouse"><strong>other flavours of Yorkie</strong></a> if we've got you curious about this awesome Nestle chocolate bar!</p>
+<p> </p>
+<p><strong>(1 bar) 46g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623282266171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001408</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621761404987</id>
+    <published>2021-06-21T09:33:21-04:00</published>
+    <updated>2021-06-21T09:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-symphony-chocolate-bar-192g"/>
+    <title>Hershey&apos;s GIANT Symphony Chocolate Bar - 6.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-giant-symphony-chocolate-bar-192g-candy-funhouse-online-candy-shop.jpg?v=1624034463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's GIANT Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>6.8oz (192 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621761404987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001403</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621762420795</id>
+    <published>2021-06-21T09:32:31-04:00</published>
+    <updated>2021-06-21T09:32:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-xl-symphony-chocolate-bar-120g"/>
+    <title>Hershey&apos;s XL Symphony Chocolate Bar - 4.25oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-xl-symphony-chocolate-bar-120g-candy-funhouse-online-candy-shop.jpg?v=1624034790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's XL Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>4.25 oz (125 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621762420795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001404</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6576227254331</id>
+    <published>2021-05-10T00:52:51-04:00</published>
+    <updated>2021-05-10T00:52:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-crunchy-peanut-king-size-bar-3-2oz"/>
+    <title>Reese&apos;s Crunchy Peanut King Size Bar - 3.2oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/reeses-crunchy-peanut-king-size-bar-3-2oz-candy-funhouse.jpg?v=1620622306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Step Right Up!<br>
+</h2>
+<p>Craving the classic peanut butter and chocolate combo but want something a little more filling? Try Reese's new Crunchy Peanut King Bar! This candy bar is both smooth and crunchy and has three helpings of peanut butter! Packed full of salty peanuts, silky peanut butter creme and smooth peanut butter then coated in chocolate, there's zero chance you're going to pass this one up.</p>
+<p><strong>87g </strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6576227254331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001082</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6576578461755</id>
+    <published>2021-05-09T03:15:05-04:00</published>
+    <updated>2021-05-09T03:15:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ritter-sport-milk-chocolate-with-joghurt-100g-bb-may-30"/>
+    <title>Ritter Sport Milk Chocolate with Joghurt - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ritter Sport</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/ritter-sport-milk-chocolate-with-joghurt-yogurt-filling-germany-100g-candy-funhouse.jpg?v=1620333252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ritter Sport<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Made with Alpine Milk</h2>
+<h3 style="text-align: center;">Ritter Sport with Joghurt</h3>
+<p><span>Did you know Ritter Sport was the first to produce a yogurt chocolate?! In 1971 they introduced their Milk Chocolate with Joghurt and today it's a cult favourite. Each bar is filled with slightly tart and tangy yoghurt filling made from fine skim milk and then coated with j</span><span>ust enough milk chocolate. The tangy and tart notes compliment the sweet and aromatic taste of the milk chocolate. Let it melt in your mouth today!</span></p>
+<p>Ritter Sport are a small German family business that was established in 1912. Now sold in over 80 countries including Canada!</p>
+<p><strong><span class="font5">100 g</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1910s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1910s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>German</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_German</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6576578461755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.79</s:price>
+      <s:sku>02-2001165</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6575093907515</id>
+    <published>2021-05-03T02:04:43-04:00</published>
+    <updated>2021-05-03T02:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-twirl-orange-uk-43g"/>
+    <title>Cadbury Twirl Orange UK - 43g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-twirl-orange-43g-candy-funhouse.jpg?v=1620021907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>Give this Twirl a Whirl!</span></h2>
+<h3 style="text-align: center;">Retro Candy -1970's</h3>
+<p><span>Looking for an intense chocolate hit? Try the Limited Edition Cadbury Twirl Orange chocolate bar that offers twice the pleasure, with two delicious milk chocolate fingers infused with an orange hit. These two flake-style bars were originally introduced in the 1970s as a solo bar, but repackaged in 1984 as a twin, since 2 are better than 1!</span><span data-mce-fragment="1"> Let it melt in your mouth as the twirling ribbons unfold. Perfect for indulging. </span></p>
+<p><strong>43g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6575093907515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2000377</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6556781674555</id>
+    <published>2021-04-01T00:01:36-04:00</published>
+    <updated>2021-04-01T00:01:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-spring-bun-118g"/>
+    <title>Japanese Kit Kat Spring Bun - 118g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_1_118g-Side-jpg-1.jpg?v=1625581493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span mce-data-marked="1">A Taste of Japan</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span>12 Kit Kat Snack Size Candy Bars per Bag</span></h3>
+<p><span data-mce-fragment="1">Kit Kat never misses! Introducing Kit Kat Spring Bun, influenced by the culture of Japan. Spring Buns are steamed buns filled with a sweet red bean paste and are a traditional Japanese treat that is sold near hot springs in Japan. Kit Kat has recreated this snack by inserting red bean cream in between the traditional wafers and wrapping them in light brown chocolate.</span></p>
+<p><span>Traditionally, these Kit Kats are only available near hot springs in Japan as a souvenir snack. However, Nestle Japan has decided to make these Spring Bun Kit Kats available for a limited time only.</span></p>
+<p><strong>120g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6556781674555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>02-2000738</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552822644795</id>
+    <published>2021-03-25T01:34:32-04:00</published>
+    <updated>2021-03-25T01:34:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/daim-bar-uk-25g"/>
+    <title>Daim Bar UK - 25g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/daim-bar-25g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616650466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Smooth and Crunchy</span></h2>
+<p><span>Smooth on the outside and crunchy on the inside, the classic Diam bar is a much loved treat. Made with d</span>elicious milk chocolate with a crunchy almond caramel center.</p>
+<p><strong>25 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552822644795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000418</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552812945467</id>
+    <published>2021-03-25T01:23:56-04:00</published>
+    <updated>2021-03-25T01:23:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-70-dark-uk-41-5g"/>
+    <title>Kit Kat 70% Dark UK - 41.5g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_dark70__41g-Side-jpg-1.jpg?v=1625581671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Made for Dark Chocolate Lovers<br>
+</h2>
+<p><span>Four delicious fingers of signature Kit Kat but with an intense dark chocolate coating. A great treat for true dark chocolate lovers. Kit Kat 70% Dark Chocolate Wafer starts with the signature crispy wafer, and covers it in a rich, dark-chocolate coating – made from 70% dark cocoa, sustainably-sourced by the Nestlé Cocoa Plan</span><sup>®</sup><span>. Have a break, have a Kit Kat</span><sup>®</sup><span>.</span></p>
+<h2 style="text-align: center;"></h2>
+<p><strong>41.5g</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552812945467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000677</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548401913915</id>
+    <published>2021-03-21T04:58:46-04:00</published>
+    <updated>2021-03-21T04:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-chunky-peanut-butter-uk-42g"/>
+    <title>Kit Kat Chunky Peanut Butter UK - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_KitkatChunky_42-Side-jpg-1.jpg?v=1624554316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Peanut Butter Dream</span></h2>
+<p>Mix up your break with peanut butter! <span data-mce-fragment="1">Unwrap, snap off a chunk and enjoy the delicious smooth milk chocolate, crispy wafer and creamed peanut topping of </span>Kit Kat Chunky Peanut Butter. A Kit Kat with a bit more bite. Have a break, have a Kit Kat.</p>
+<div class="longTextItems">
+<p>No artificial colours, flavours or preservatives.</p>
+<p>Suitable for vegetarians.</p>
+</div>
+<p><strong>42 g Chocolate Candy Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548401913915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000698</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548389724219</id>
+    <published>2021-03-21T04:42:02-04:00</published>
+    <updated>2021-03-21T04:42:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-bubbly-purely-chocolate-4-pack-108g"/>
+    <title>Aero Bubbly Purely Chocolate 4 Pack - 108g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_108g-Side-jpg-1.jpg?v=1624589243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Bubbly Aero Milk Chocolate</span></h2>
+<p><em>Areo Milk Chocolate Bubble Bars</em><span> are </span><span>famous for their smooth &amp; rich Milk Chocolate and unique bubbly texture. This package includes 4 bars, perfect for sharing. Feel the bubbles melt!</span></p>
+<p><strong>108 g</strong></p>
+<h5></h5>
+<h5></h5>
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548389724219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000110</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548362559547</id>
+    <published>2021-03-21T04:10:20-04:00</published>
+    <updated>2021-03-21T04:10:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/milkybar-smarties-block-uk-100g"/>
+    <title>Milkybar Smarties Block UK - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_MilkybarSmarties_100-Side-jpg-1.jpg?v=1624555268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Colourful Milkybar!</h2>
+<p>If you love the classic Milkybar, you'll love what they've added to their famous white chocolate recipe. They've turned up the fun by adding in delicious Nestle Smarties! The Milkybar Smarties sharing block has the creamy-tasting Milkybar white chocolate that you love, with the fun, colourful crunch of Smarties!<span> </span>Perfect for moments of simple fun. Made with natural flavourings, it's good to share!</p>
+<p><strong>100 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548362559547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000980</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548327235643</id>
+    <published>2021-03-21T03:32:20-04:00</published>
+    <updated>2021-03-21T03:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/yorkie-raisin-biscuit-duo-66g"/>
+    <title>Yorkie Raisin &amp; Biscuit Duo - 66g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_yorkieDuo_66-jpg-2.jpg?v=1624508562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Delicious Duo of Raisin &amp; Biscuit<br>
+</h2>
+<p><span>A twist on the classic Yorkie Bar! Yorkie chocolate evolved from a bar that was originally launched in 1924 under the name 'York Chocolate' as a single milk chocolate bar produced in York. The Yorkie Duo contains 2 bars of chunky milk chocolate loaded with raisins &amp; biscuits!<em> </em></span></p>
+<p><strong>66g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548327235643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001365</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548286603323</id>
+    <published>2021-03-21T02:47:16-04:00</published>
+    <updated>2021-03-21T02:47:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-cookies-n-chocolate-bar-uk"/>
+    <title>Hershey&apos;s Cookies N Chocolate Bar UK</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_CookiesNChocolate_40-Side-jpg-1.jpg?v=1624469559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span mce-data-marked="1">Chocolate Twist on Cookies N Cream</span></h2>
+<p style="text-align: left;" data-mce-style="text-align: center;"><span>Love Cookies N Cream but aren't the biggest fan of white chocolate? Look no further! Hershey's has introduced their Cookies N Chocolate bar for all chocolate lovers. This delicious treat from Hershey's blends the perfect combination of original milk chocolate with crunchy cookie pieces mixed in.</span><br></p>
+<ul></ul>
+<p><strong>40 g</strong></p>
+<h5><span></span></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Foil Chococlate</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548286603323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000564</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548230307899</id>
+    <published>2021-03-21T01:55:24-04:00</published>
+    <updated>2021-03-21T01:55:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-buttons-mint-treat-68g"/>
+    <title>Maltesers Buttons Mint Treat - 68g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_mars_Maltesers_buttons_mint_68g-Side-jpg-1.jpg?v=1625579978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Minty Goodness</span></h2>
+<p><span>Crunchy little Maltesers pieces floating in creamy mint flavoured milk chocolate buttons. Perfect for snacking!</span> </p>
+<p><strong>68 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1930s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548230307899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000859</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548202389563</id>
+    <published>2021-03-21T01:28:17-04:00</published>
+    <updated>2021-03-21T01:28:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-strawberries-n-creme-bar-uk"/>
+    <title>Hershey&apos;s Strawberries N Creme Bar UK</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_StrawberriesNCreme_39-Side-jpg-1.jpg?v=1624473873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">
+<span></span><span mce-data-marked="1">Did you hear the scoop?</span>
+</h2>
+<p style="text-align: left;" data-mce-style="text-align: left;"><span>Nothing says summer like strawberries and cream ice cream! The good news is now you can experience all that delicious flavour with one bite into Hershey’s strawberries ‘N’ cream bars. Inspired by ice cream, enjoy this mess-free ice cream experience perfect for the warmer weather! </span></p>
+<ul></ul>
+<p><strong>39 g</strong></p>
+<h5><span></span></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Foil Chococlate</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548202389563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000616</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548198654011</id>
+    <published>2021-03-21T01:23:32-04:00</published>
+    <updated>2021-03-21T01:23:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-sprinkles-n-creme-bar-uk"/>
+    <title>Hershey&apos;s Sprinkles N Creme Bar UK</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_SpinklesNCreme_39-Side-jpg-1.jpg?v=1624473826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span mce-data-marked="1">Did you hear the scoop?</span></h2>
+<p style="text-align: left;" data-mce-style="text-align: left;"><span>The scrumptious Hershey’s sprinkles ‘N’ cream bars take after the delicious birthday cake flavour ice cream you know and love. Inspired by ice cream, enjoy this mess-free ice cream experience perfect for summer! Made from milky white chocolate, and loaded with bright and fun sprinkles, this is a must have chocolate bar! Don't wait for your birthday to try it!</span></p>
+<p style="text-align: left;" data-mce-style="text-align: left;"> <strong>39 g</strong></p>
+<h5><span></span></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Foil Chococlate</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548198654011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000615</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6543057748027</id>
+    <published>2021-03-11T21:58:26-05:00</published>
+    <updated>2021-03-11T21:58:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-turtles-4-pieces-67g"/>
+    <title>Nestle Turtles 4 Pieces - 67g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_turtles_67-Side-jpg-1.jpg?v=1624556872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Original Classic Recipe</h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">A cherished Canadian tradition since 1949</h3>
+<p><span>Indulge in Turtles 3-Piece Chocolate Bar. Its distinct combination of milk chocolate, decadent caramel, and delicious pecans has been a Canadian favourite since 1949. The slow pull of caramel and the crunch of pecans can be experienced in three “me moments” pieces or shared with a loved one for a mutually delightful experience. Guaranteed it’ll have anyone saying “Mmm... I love TURTLES”</span></p>
+<ul>
+<li><span>4 Piece Pack</span></li>
+<li><span>Crafted in Canada</span></li>
+</ul>
+<p><strong>67g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6543057748027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001026</s:sku>
+      <s:grams>67</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540674760763</id>
+    <published>2021-03-06T16:38:01-05:00</published>
+    <updated>2021-03-06T16:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-nutrageous-king-size"/>
+    <title>Reese&apos;s Nutrageous King Size - 87g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesNutrageous_87-Side-jpg-1.jpg?v=1624470520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Nutrageous King Size Candy Bar</h2>
+<p style="text-align: center;">Reese's Nutrageous is a candy bar made by the Hershey Company that was first introduced in 1994. It may not be one of the oldest chocolate bars in the world, but like all Reese's products, it has staying power. It consists of Reese's Peanut Butter Cups<a href="http://en.wikipedia.org/wiki/Reese%27s_Peanut_Butter_Cups" title="Reese's Peanut Butter Cups"></a> topped with caramel covered roasted peanuts<a href="http://en.wikipedia.org/wiki/Peanut" title="Peanut"></a> and and is covered with a chocolate coating.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: left;"><strong>87g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540674760763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001093</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+</feed>

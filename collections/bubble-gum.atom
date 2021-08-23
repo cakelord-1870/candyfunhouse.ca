@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/bubble-gum.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-14T14:49:40-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625453441083</id>
+    <published>2021-07-14T14:49:40-04:00</published>
+    <updated>2021-07-14T14:49:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-fizzn"/>
+    <title>Dubble Bubble Fizz&apos;n - 49g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections Ltd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dubble-bubble-fizzn-49g-funhouse-online-candy-shop.jpg?v=1625860782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections Ltd<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" style="text-align: center;" itemprop="name">Live for the Fizz </h2>
+<p>     Pop one of these in your mouth the next time you have a carbonation craving, this frothy, fizzy <strong>Dubble Bubble</strong> gum is sure to quell it! Feel the delicious soda flavoured bubble gum start to foam up in your mouth the moment you chew. These bubblegum balls come in 5 sizzlin' soda flavours: <strong>Orange, Cherry, Cherry Cola, Grape,</strong> and <strong>Root Beer</strong>,<strong> </strong>there's a little something for everyone in each pouch!</p>
+<p> </p>
+<p><strong>(1 tube contains 7 gumballs) 49g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Dubble Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625453441083</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>01-1002983</s:sku>
+      <s:grams>66</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620583133243</id>
+    <published>2021-07-09T12:06:53-04:00</published>
+    <updated>2021-07-09T12:06:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/fini-sport-balls-tennis-bubble-gum-uk"/>
+    <title>Fini Sport Balls Tennis Bubble Gum - UK</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Fini Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Fini-Sport-Balls-Tennis-Bubble-Gum-UK-candy-funhouse-online-candy-shop.jpg?v=1624039827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fini Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Tennis Ball Filled Bubble Gum</span></h2>
+<div style="text-align: center;"><span>Fini Sport Balls Bubble Gum is fizzy filled bubblegum with bright colours and shape of a tennis ball on the outside. </span></div>
+<p style="text-align: center;"><span><strong></strong></span><span> <strong>Fini is one of the worlds premier candy companies.</strong></span></p>
+<h3 style="text-align: center;"><span>Sweet Addition to Loot Bags and Candy Buffets</span></h3>
+<ul>
+<li>Individually Wrapped</li>
+<li>Gluten Free</li>
+<li>British Candy</li>
+</ul>
+<p><strong>Imported from the UK</strong></p>
+<p>10g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Brown</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Colour_Brown</s:tag>
+    <s:tag>Fini Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620583133243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>01-1002892</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623404556347</id>
+    <published>2021-07-07T17:56:38-04:00</published>
+    <updated>2021-07-07T17:56:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/teaberry-chewing-gum"/>
+    <title>Teaberry Chewing Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gerrit J. Verburg Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/gerrit-teaberry-refreshing-gum-30g-candy-funhouse-online-candy-shop.jpg?v=1624470666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gerrit J. Verburg Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">Time for a Blast to the Past</h2>
+<p>     Put on your nostalgia goggles, this minty-fresh gum is taking us back! Originally developed by Charles Burke who experimented with different flavours of his gum from his basement, the patent was then bought by the D.L. Clark Company.</p>
+<p>    Clark's Teaberry surged in popularity after an ad campaign in the 1960s. Using the tune "The Mexican Shuffle" from Tijuana Brass, Clark got Herb Alpert to rerecord it as "The Teaberry Shuffle". The commercials it was featured in showed uptight folk who would then chew a bit of Teaberry gum, and <strong><a href="https://www.youtube.com/watch?v=Fk11Acjofu8" title="Teaberry Gum Commercial 1960s Herb Alpert Teaberry Shuffle">begin breaking out in dance!</a> </strong> </p>
+<p>     This gum gets its flavour (and name) from the <i data-mce-fragment="1"><b data-mce-fragment="1">Gaultheria procumbens</b></i>, better known as the <strong>eastern teaberry</strong>. The taste is reminiscent of a milder wintergreen mint. And you probably thought you weren't going to learn anything today, huh?</p>
+<h4 style="text-align: center;">Enjoy the refreshing taste of yesterday, today!</h4>
+<p> </p>
+<p><strong>20g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623404556347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>01-1002941</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6579024789563</id>
+    <published>2021-05-11T09:40:47-04:00</published>
+    <updated>2021-05-11T09:40:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kidsmania-dino-doo-candy-dispenser-large-56-oz"/>
+    <title>Kidsmania Dino Doo Candy Dispenser Large - .56 oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kidsmania-dino-doo-jurassic-droppings-dinosaur-candy-dispenser-0.56oz-package-candy-funhouse.jpg?v=1620740244"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Candy from Kidsmania<br>
+</h2>
+<p>Now we know it's true, Dinos do exist! We found their Doo. And it tastes so yummy. <span data-mce-fragment="1">Thrill friends with this sweet jelly bean</span> Dino Doo candy dispenser from Kidsmania, the makers of the most interesting novelty candy on earth. Dino Doo proves it. A<span data-mce-fragment="1"> playful way to share chewy candy treats.</span></p>
+<p><strong>.56 oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6579024789563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002778</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6575842754619</id>
+    <published>2021-05-05T00:02:09-04:00</published>
+    <updated>2021-05-05T00:02:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/wrigleys-doublemint-15-sticks-gum"/>
+    <title>Wrigley&apos;s Doublemint 15 Sticks Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/wrigleys-doublemint-15-sticks-gum-candy-funhouse.jpg?v=1620187740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Doublemint is much Smoother</span></h2>
+<p>Doublemint Gum, Double Your Pleasure, Double Your Fun. Wrigley's first introduced their soft-stick gum in<span data-mce-fragment="1"> 1914 and it has been popular ever since. </span>Enjoy the refreshing taste of Doublemint gum - the unique, minty flavour <span data-mce-fragment="1">that lasts a long time so you can chew and chew! </span>Wrigley's Double Mint chewing gum is an easy way to invigorate your taste buds and freshen breath. Try the slim packs that are easy to carry with you. </p>
+<p><strong>15 Sticks Per Pack</strong></p>
+<p>Ingredients:<span> </span><br></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Wrigley&apos;s</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6575842754619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1002748</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6574865940539</id>
+    <published>2021-05-02T18:36:12-04:00</published>
+    <updated>2021-05-02T18:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/barbie-bubblegum-tape-2-05oz"/>
+    <title>Barbie/Polly Pocket Bubblegum Tape - 2.05oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Exclusive Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/barbie-bubblegum-tape-2-05oz-candy-funhouse.jpg?v=1619994978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Anything Is Possible In A Barbie-Polly Pocket World!</h2>
+<h3 style="text-align: center;" class="p1">
+<b>☆</b> Bubblegum Tape <b>☆</b>
+</h3>
+<h3 style="text-align: center;">New from Exclusive Brands!</h3>
+<p><em>“We can do anything, right Barbie?” </em>Yes, you can!<em> </em></p>
+<p> ***********One Flavour Selected at Random*******************</p>
+<p><strong>2.05oz</strong></p>
+<h3 class="p1" style="text-align: center;"><b>Fresh Candy Shipped Across Canada &amp; the USA!</b></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6574865940539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1000207</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6564543692859</id>
+    <published>2021-04-16T14:27:45-04:00</published>
+    <updated>2021-04-16T14:27:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/el-bubble-its-a-girl-bubble-gum-cigars"/>
+    <title>El-Bubble It&apos;s A Girl Bubble Gum Cigars</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections Ltd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/el-bubble-its-a-girl-bubble-gum-cigars-candy-funhouse.jpg?v=1618597803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections Ltd<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Bubble Gum</h2>
+<h3 style="text-align: center;">Original Bubble Gum Flavours</h3>
+<p><em>El Bubble Bubble Gum</em> Cigars are perfect for any sweet celebration. </p>
+<p><span>El Bubble Bubble Gum Cigars are made harder to keep the shape. </span></p>
+<p><strong>No Refunds for Hardness</strong><span>.</span></p>
+<p><strong>Box of 36 Bubble Gum Cigars</strong></p>
+<p><strong>Made in Canada</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>smoking</s:tag>
+    <s:tag>sticks</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6564543692859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>01-1000634</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540681281595</id>
+    <published>2021-03-06T17:09:10-05:00</published>
+    <updated>2021-03-06T17:09:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/smarties-bubble-gum-balls-10-pack"/>
+    <title>Smarties Bubble Gum Balls - 10 Pack</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ford Gum &amp; Machine Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/smarties-bubble-gum-balls-10-pack-funhouse-online-candy-store-canada.jpg?v=1615068545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ford Gum &amp; Machine Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Smarties Bubble Gum</span></h2>
+<p><br></p>
+<p>2 oz - 10 Pieces<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540681281595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002149</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540662571067</id>
+    <published>2021-03-06T15:39:17-05:00</published>
+    <updated>2021-03-06T15:39:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/mentos-gum-red-fruit-lime"/>
+    <title>Mentos Gum Red Fruit Lime</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_mentos_redfruitlime_15pieces-Side-jpg-1.jpg?v=1629139617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Mentos Gum Red Fruit Lime<br>
+</h2>
+<p><strong>15 pieces</strong></p>
+<p style="text-align: center;"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gum</s:tag>
+    <s:tag>Mentos</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540662571067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1001441</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115013070907</id>
+    <published>2021-02-26T13:09:14-05:00</published>
+    <updated>2021-02-26T13:09:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-super-sour-10-gumballs-2oz"/>
+    <title>Warheads Super Sour 10-Gumballs - 2oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/warheads-Gumballs-10-pieces-candy-funhouse.jpg?v=1614362959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Warheads Gumballs</h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">Most Sour Candy!</h3>
+<p>Experience the mouthwatering flavors of warheads in a completely different way with these Warhead Gumballs. 5 large super sour gumballs come in <meta charset="utf-8"><span data-mce-fragment="1">assorted flavors - Blue Raspberry, Lemon, Green Apple, Orange and Watermelon</span><span data-mce-fragment="1">. </span><br></p>
+<h5>Ingredients:</h5>
+<p>Sugar Hume Base, Dextrose, Corn Syrup, Citric Acid, Les than 2% of Maltodextrin, Natural &amp; Artificial Flavour, Gum Arabic, Soy Lecithin, Glycerine Corn Starch, Resinous Glaze, Carnauba Wax, Bees Wax, Color (Titanium Dioxide Red 40 Yello2 5, Yellow 6, Blue 1). CONTAINS SOY.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer are considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for the current date</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>gumball</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115013070907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002660</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5070711717947</id>
+    <published>2020-11-19T17:05:28-05:00</published>
+    <updated>2020-11-19T17:05:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/mentos-gum-pure-fresh-tropical-15g"/>
+    <title>Mentos Gum Pure Fresh Tropical - 15g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>CandyFunhouse.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mentos-tropical-fresh-candy-funhouse.jpg?v=1605884044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CandyFunhouse.ca<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Mentos Gum Tropical Pure Fresh</h2>
+<div data-mce-fragment="1">Discover the sweet taste of Mentos Tropical Pure Fresh candy gum rolls imported from Britain.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">15g Candy Roll</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gum</s:tag>
+    <s:tag>Mentos</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5070711717947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.79</s:price>
+      <s:sku>01-1001440</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5028453941307</id>
+    <published>2020-09-18T16:11:02-04:00</published>
+    <updated>2020-09-18T16:11:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/black-jack-gum-tin-4-13oz"/>
+    <title>Black Jack Gum Tin - 4.40oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gerrit J. Verburg Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/black-jack-gum-4.40oz-candy-funhouse.jpg?v=1600459800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gerrit J. Verburg Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<h2 style="text-align: center;">
+<span data-sheets-value='{"1":2,"2":"Black Jack Gum Tin 4.13oz"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}'>Black Jack Gum Tin</span><br>
+</h2>
+<p>Beemans Chewing gum was invented by <span>Dr. Edward Beeman of Ohio in the 1890s when he added pepsin powder to chicle and created the one and only Beemans Pepsin Chewing Gum. It was made famous by Chuck Yeager who chewed it before every flight for good luck. </span><span>Beemans</span> gum<span> was sold for more than 90 years before being discontinued in 1978, only to be brought back to the market in 1985 and again in 2005 as a limited-edition nostalgia product. Now it's back again for a Limited Time Only!</span></p>
+<p style="text-align: center;"> </p>
+<p><span><strong>4.40 oz</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5028453941307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>01-1000266</s:sku>
+      <s:grams>124</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5028452368443</id>
+    <published>2020-09-18T15:57:09-04:00</published>
+    <updated>2020-09-18T15:57:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/beemans-gum-tin-4-13oz"/>
+    <title>Beemans Gum Tin - 4.40 oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Gerrit J. Verburg Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/beemans-chewing-gum-4.40oz-candy-funhouse.jpg?v=1600458965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gerrit J. Verburg Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Beemans Gum Tin</h2>
+<p>Beemans Chewing gum was invented by <span>Dr. Edward Beeman of Ohio in the 1890s when he added pepsin powder to chicle and created the one and only Beemans Pepsin Chewing Gum. It was made famous by Chuck Yeager who chewed it before every flight for good luck. </span><span>Beemans</span> gum<span> was sold for more than 90 years before being discontinued in 1978, only to be brought back to the market in 1985 and again in 2005 as a limited-edition nostalgia product. Now it's back again for a Limited Time Only!</span></p>
+<p style="text-align: center;"> </p>
+<p><span><strong>4.13 oz</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5028452368443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>01-1000241</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5008547807291</id>
+    <published>2020-08-04T12:04:28-04:00</published>
+    <updated>2020-08-04T12:04:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bazooka-throwback-original-bubble-gum-10-pieces"/>
+    <title>Bazooka Throwback Original Bubble Gum 10 Pieces</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_troops_bazooka_10-Side-jpg-1.jpg?v=1624556961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Original Bubble Gum in Throwback Pack</span></h2>
+<p><span>Bazooka Bubble Gum is a brand we all know and love. But did you know you can still buy it in its original packaging? That's what you'll get here with Bazooka Throwback Original Bubble Gum.</span></p>
+<p><span>Bazooka Bubble Gum first hit the market in the 1940s. It's been part of most of our childhoods, and chances are you remember buying handfuls of single Bazooka bubble gum at the neighborhood corner store during the summer with friends. </span></p>
+<p><span>Come on, we're all kids at heart. So give your inner child a treat with this nostalgic bubble gum treat! Get ordering so you don't miss out. </span></p>
+<p><strong>10 Pieces per Pack</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5008547807291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku>01-1000233</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5000281522235</id>
+    <published>2020-07-17T13:23:36-04:00</published>
+    <updated>2020-07-17T13:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-jackpot-gumball-dispencer"/>
+    <title>Dubble Bubble Jackpot Gumball Dispencer - 56g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dubble-bubble-jackpot-dispencer-candy-funhouse-canada.jpg?v=1595006732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Dubble Bubble</h2>
+<h2 style="text-align: center;">Novelty Candy Fun | Gumball Prizes!</h2>
+<p>Fun Fact: <span data-mce-fragment="1">Dubble Bubble was invented by Walter Diemer, an accountant at Philadelphia-based Fleer Chewing Gum Company in 1928!</span></p>
+<p>Gum is the prize and you're a winner every time!<br></p>
+<p>Check out our growing selection of novelty items at Candyfunhouse! <a href="https://candyfunhouse.ca/collections/novelty-candy" target="_blank">Click here to see.</a></p>
+<p>1 piece assorted colour 56g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Dubble Bubble</s:tag>
+    <s:tag>Dubble Bubble Gum</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>gumball</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Toy</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5000281522235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1000558</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5000203173947</id>
+    <published>2020-07-17T11:46:24-04:00</published>
+    <updated>2020-07-17T11:46:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-water-blaster"/>
+    <title>Dubble Bubble Water Blaster - 36g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dubble-bubble-water-blaster-36g-candy-funhouse-canada.jpg?v=1596531014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="hdng3" id="hdngItemName" itemprop="name" style="text-align: center;"><span>Bubble Blaster Gumball Filled Squirt Gun</span></h2>
+<p style="text-align: center;"><span style="font-weight: 400;">Looking for candytainment this summer? Look no further than the Dubble Bubble Water Blaster. First, enjoy soft Bubble Gum, then fill it up with water and let the good times continue. This is the candy that just keeps on delivering fun and happy times. Rest assured that Bubble Gums don’t get shot out, only the water does. This is a fun toy for the kids to love for countless hours and hours.</span></p>
+<h3 style="text-align: center;"> Great for parties, fundraising or corporate events!</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>gumball</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5000203173947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.96</s:price>
+      <s:sku>01-1000563</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4999796916283</id>
+    <published>2020-07-16T12:39:50-04:00</published>
+    <updated>2020-07-16T12:39:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/wrigleys-juicy-fruit-original-15-stick-packs"/>
+    <title>Wrigley&apos;s Juicy Fruit Original 15 Stick Packs</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_Mars_JuicyFruit_original_15sticks-Side-jpg-1.jpg?v=1624560205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Juicy Fruit Gum since 1893</h2>
+<p><span style="font-weight: 400;">Classic, retro gum that is still fresh and delicious. Give yourself a reason to smile with these big juicy flavours. First introduced in 1893, this retro gum is still a fan favourite today. Looking for great chewing gum? Look no further than Wrigley’s Juicy Fruit Original Gum! What are you waiting for? Order juicy and fruity gum today!</span></p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1890s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>Era_1890s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4999796916283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.79</s:price>
+      <s:sku>01-1002750</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4994270036027</id>
+    <published>2020-07-04T15:25:00-04:00</published>
+    <updated>2020-07-04T15:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kidsmania-unicorn-doo"/>
+    <title>Kidsmania Unicorn Doo Candy Dispenser-.32 oz.</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kidsmania</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/unicorn-doo-candy-dispensers-candyfunhouse-online-candy-store-canada.png?v=1594341062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kidsmania<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Candy from Kidsmania<br>
+</h2>
+<p>Now we know it's true. Unicorns do exist. We found their Doo. And it tastes so yummy. Prove it to your friends with the new Unicorn Doo candy dispenser from Kidsmania, the makers of the most interesting novelty candy on earth. Unicorn Doo proves it.</p>
+<p><strong>.32 oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kidsmania</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4994270036027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku>01-1001186</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4884080099387</id>
+    <published>2020-05-06T22:05:23-04:00</published>
+    <updated>2020-05-06T22:05:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-cotton-candy-bubble-gum-18-g"/>
+    <title>Dubble Bubble Cotton Candy Bubble Gum-18 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections Ltd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_concord_cottonCandy_18g-Side-jpg-1.jpg?v=1624559270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections Ltd<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="product_name" itemprop="name" style="text-align: center;">Summertime Bubble Gum!</h2>
+<p>Dubble Bubble Cotton Candy Bubble Gum is a summertime favourite! Each tube contains 4 pastel coloured gumballs in the fruit flavours of <span>blue raspberry, cherry, and lemon.</span></p>
+<ul>
+<li><span>4 Gumballs per tube</span></li>
+<li><span>Gumballs are 3/4"</span></li>
+<li><span>Kosher</span></li>
+<li><span>Gluten-Free</span></li>
+<li><span>Peanut Free</span></li>
+<li><span>Nut Free</span></li>
+<li><span>Made in Canada</span></li>
+</ul>
+<p><strong>18 g</strong></p>
+<h5>Ingredients:</h5>
+<p>Sugar, dextrose, corn syrup (glucose), gum base, tapioca dextrin, corn starch, artificial flavours, artificial colours (FD&amp;C red 40, blue 1, yellow 5), BHT (to maintain freshness). May contain milk and soy.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4884080099387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>01-1000549</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4674290253883</id>
+    <published>2020-03-20T10:09:28-04:00</published>
+    <updated>2020-03-20T10:09:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bazooka-original-throwback-bubble-gum-theater-pack"/>
+    <title>Bazooka Original Throwback Bubble Gum Theater Pack - 4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/bazooka-bubble-gum-throwback-gum-114g-candy-funhouse-online-candy-store-canada.jpg?v=1584714824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Throwback Bazooka Gum with Comics</span></h2>
+<p><span>Bazooka brand's iconic bubble gum is available in a sweet theatre pack! </span></p>
+<p><span>The signature taste of Bazooka Bubble Gum you know and love with a throwback to the brand's classic look on the packaging plus original comics! </span></p>
+<p><span>Take the original flavour Bazooka Bubble Gum to the movies. Unwrap each piece to enjoy the<strong> original Bazooka Joe comics</strong>. Play while you chew-the jokes never get old. </span></p>
+<p><span>Bazooka also lets you take the fun online, with unique codes under each wrapper that let you unlock fun videos, games, and other exclusive content.</span></p>
+<p><span>Try the delicious gum that fans worldwide have loved for generations! </span></p>
+<p><strong>114 g</strong></p>
+<h5><strong><span class="subTitle font-bold">Ingredients:<span> </span></span></strong></h5>
+<p><span class="aboutModuleText">SUGAR, GUM BASE, GLUCOSE SYRUP, NATURAL &amp; ARTIFICIAL FLAVORS, GLYCERINE, CITRIC ACID, TITANIUM DIOXIDE, BHT (PRESERVATIVE), RED 40 LAKE, RED 40. ALLERGY INFORMATION: MAY CONTAIN SOY INGREDIENTS: SUGAR, GUM BASE, GLUCOSE SYRUP, CONTAINS 2% OR LESS OF NATURAL &amp; ARTIFICIAL FLAVORS, GLYCERIN, CITRIC ACID, SOY LECITHIN, BHT (TO MAINTAIN FRESHNESS), RED 40 LAKE. ALLERGY INFORMATION: CONTAINS SOY</span></p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4674290253883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000228</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4674221047867</id>
+    <published>2020-03-20T09:15:36-04:00</published>
+    <updated>2020-03-20T09:15:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/starburst-original-gum-hero-bottle"/>
+    <title>Starburst Original Gum Hero Bottle - 15 Piece Bottle</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_starburst_gum_original_15pieces-Side-jpg-1.jpg?v=1629206839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Starburst Gum</h2>
+<p>New from Wrigley. Starburst Gum Orignal in the fruity flavours of cherry, orange, strawberry and lemon. Bursting with flavour and available in this handy hero pack.</p>
+<ul>
+<li><strong>Sugar-Free Gum</strong></li>
+</ul>
+<p><strong>15 Pieces per pack </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>bubblegum</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Starburst</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4674221047867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.19</s:price>
+      <s:sku>01-1002277</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4644178362427</id>
+    <published>2020-03-12T20:04:55-04:00</published>
+    <updated>2020-03-12T20:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bazooka-original-throwback-bubble-gum-225-count-tub"/>
+    <title>Bazooka Original Throwback Bubble Gum-225 Count Tub 43.7oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bazooka Candy Brands</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/bazooka-original-throwback-bubble-gum-225-pieces-candyfunhouse-online-candy-store-canada.jpg?v=1584065143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bazooka Candy Brands<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Throwback Bazooka Gum with Comics</span></h2>
+<p><span>Bazooka brand's iconic bubble gum is available in a handy 225-piece tub! </span></p>
+<p><span>The signature taste of Bazooka Bubble Gum you know and love with a throwback to the brand's classic look on the packaging plus original comics! </span></p>
+<p><span>This Bazooka tub comes with 225 pieces of original flavour Bazooka Bubble Gum. Unwrap each piece to enjoy the<strong> original Bazooka Joe comics</strong>. Play while you chew-the jokes never get old. </span></p>
+<p><span>Bazooka also lets you take the fun online, with unique codes under each wrapper that let you unlock fun videos, games, and other exclusive content. </span></p>
+<p><span>This tub is perfect for the pantry, concessions, and much more. </span></p>
+<p><span>Try the delicious gum that fans worldwide have loved for generations! </span></p>
+<p><strong>225 Count Tub</strong></p>
+<h5><strong><span class="subTitle font-bold">Ingredients:<span> </span></span></strong></h5>
+<p><span class="aboutModuleText">SUGAR, GUM BASE, GLUCOSE SYRUP, NATURAL &amp; ARTIFICIAL FLAVORS, GLYCERINE, CITRIC ACID, TITANIUM DIOXIDE, BHT (PRESERVATIVE), RED 40 LAKE, RED 40. ALLERGY INFORMATION: MAY CONTAIN SOY INGREDIENTS: SUGAR, GUM BASE, GLUCOSE SYRUP, CONTAINS 2% OR LESS OF NATURAL &amp; ARTIFICIAL FLAVORS, GLYCERIN, CITRIC ACID, SOY LECITHIN, BHT (TO MAINTAIN FRESHNESS), RED 40 LAKE. ALLERGY INFORMATION: CONTAINS SOY</span></p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4644178362427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.99</s:price>
+      <s:sku>01-1000227</s:sku>
+      <s:grams>1240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4636416409659</id>
+    <published>2020-03-10T21:04:50-04:00</published>
+    <updated>2020-03-10T21:04:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/razzles-berry-mix"/>
+    <title>Razzles Berry Mix Candy - 45 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections Ltd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_concord_razzles_berrymix_45-Side-jpg-1.jpg?v=1624553055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections Ltd<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy goes Modern</h2>
+<h3 style="text-align: center;">First, it's candy... then it's gum! </h3>
+<p><span style="font-weight: 400;">Is it candy? Is it gum? Is it Berry? It is all the above! A sweet-tart candy that transforms into Bubble Gum is everything you need to sweeten your tastebuds. This tempting Berry Mix flavour is fruity, delicious, and irresistible. This retro candy gone modern is still fresh and sweet, just like you remember it to be! </span><br><b>Razzles Candy</b><span style="font-weight: 400;"> takes a revolutionary twist with </span><b>Razzles Berry Mix. </b><span style="font-weight: 400;">Each pouch contains 36 pieces of fruity 2-1 Candy. Feed your tastebuds with Razzles Berry Mix. Enjoy this delicious colourful candy today.</span><br></p>
+<p>45g</p>
+<h5>Ingredients</h5>
+<p>Sugar, gum base, dextrose, calcium stearate, natural and artificial flavours, citric acid, gum arabic, tapioca dextrin, artificial colours (FD&amp;C red 40 lake, blue 1 lake), carnauba wax, BHT (to maintain freshness).</p>
+<p>Soy may be present.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4636416409659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>01-1001985</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4565627076667</id>
+    <published>2020-02-20T15:32:36-05:00</published>
+    <updated>2020-02-20T15:32:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bubblicious-bubble-gum"/>
+    <title>Bubblicious Bubble Gum</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_mondelez_bubblicious_bubblegum_5pieces-Side-jpg-1.jpg?v=1624588447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Yummy Bubble Gum from the 1970s</span></h2>
+<p><span>Delicious and juicy bubble gum flavour bursts from these big Bubble Gum chunks. Experience the fun of intense bubble blowing action in every piece!</span><br><span></span></p>
+<p><span>Contains 5 pieces per pack.</span><br><span></span></p>
+<h3 style="text-align: center;"><span>Fresh Bubble Gum Shipped Fast!</span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>bubble gum</s:tag>
+    <s:tag>bubblicious</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>gum</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4565627076667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>01-1000340</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4506740981819</id>
+    <published>2020-02-17T16:09:00-05:00</published>
+    <updated>2020-02-17T16:09:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-cry-baby"/>
+    <title>Dubble Bubble Cry Baby Peg Bag</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Concord Confections Ltd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dubble-bubble-cry-baby-candy-funhouse-online-candy-store.jpg?v=1581024248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections Ltd<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Dubble Bubble Extra Sour Bubble Gum<br>
+</h2>
+<p>Caution: You'll only cry for 40 seconds! Stay with it and be part of the Cry Baby Hall of Fame! America's favourite sour gum comes in five flavours: Lemon, Cherry, Berry, Orange, and Apple!</p>
+<ul>
+<li>Soy may be present</li>
+</ul>
+<p>4 oz (113 g)</p>
+<h5>Ingredients</h5>
+<p><b>SUGAR</b><span>, </span><b>DEXTROSE</b><span>, </span><b>CORN SYRUP</b><span> (GLUCOSE), </span><b>GUM BASE</b><span>, </span><b>CITRIC ACID</b><span>, TAPIOCA DEXTRIN, CORN STARCH, </span><b>ARTIFICIAL FLAVORS</b><span>, </span><b>ARTIFICIAL COLORS</b><span> (FD&amp;C RED 40, BLUE 1, YELLOW 5, YELLOW 6), </span><b>BHT</b><span> (TO MAINTAIN FRESHNESS)</span></p>
+<p><b>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Dubble Bubble</s:tag>
+    <s:tag>Dubble Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4506740981819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1000551</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+</feed>

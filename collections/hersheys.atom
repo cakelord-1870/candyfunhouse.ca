@@ -1,0 +1,1389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/hersheys.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-05T10:05:16-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4974925512763</id>
+    <published>2021-08-05T10:05:16-04:00</published>
+    <updated>2021-08-05T10:05:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reese-sticks-4-bars-85-g"/>
+    <title>Reese Sticks 4 Bars - 85 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/reese-sticks-4-bars-king-size-candy-funhouse-online-candy-store-canada.jpg?v=1591915786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><b>Reese's Sticks Wafer Bars</b></h2>
+<h3 style="text-align: center;"><b>King Size</b></h3>
+<p><span>Now you can enjoy our delicious chocolate peanut butter taste in the form of a crisp, crunchy wafery bar. And with four sticks in this king-size candy bar, you might even be willing to share one.</span></p>
+<p><strong>85 g </strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1990s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Hersheys</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4974925512763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>02-2001070</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634760601659</id>
+    <published>2021-08-03T15:11:43-04:00</published>
+    <updated>2021-08-03T15:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/york-peppermint-patties-changemakers-175ct"/>
+    <title>York Peppermint Patties Changemakers - 175ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys_york_peppermint_patties_changemakers_175_count_84oz_candy_funhouse.jpg?v=1628017356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Whole Box of Minty Goodness</h2>
+<p>     A refreshing chocolate treat like no other, <strong>York Peppermint Patties</strong> are a delicious and beloved confection that has been around since the early 1940s. Taste the<strong> creamy mint filling</strong> enveloped by <strong>rich dark chocolate</strong>, a combo that has proven to be the perfect after coffee dessert for almost 75 years.</p>
+<h3 style="text-align: center;">Add to Loot Bags or any themed Candy Buffet</h3>
+<h3>84oz | 2.38kg | (1) 175 count box</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Colour_Silver</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>type_bulk</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634760601659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>04-4000746</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627991781435</id>
+    <published>2021-07-16T11:54:59-04:00</published>
+    <updated>2021-07-16T11:54:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-fruity-cereal-snack-size-12-pack"/>
+    <title>Kit Kat Fruity Cereal Snack Size - 12 Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kit-kat-fruity-pebbles-12-13g-bars-candy-funhouse-online-candy-shop.jpg?v=1625771322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Craving Cereal For Dessert?</h2>
+<p style="text-align: center;">Introducing the new Limited Edition Kit Kat Fruity Cereal Bar Snack Size! Replace your late night cereal with this amazing treat! This sweet treat still<span> </span>contains the classic crispy wafers we all love, BUT is now covered in a fruity cereal flavor cream, with specs of cereal throughout! The flavour of this chocolate bar tastes literally like you're eating Froot Loops or Fruity Pebbles, that's how on point the flavour is!</p>
+<p style="text-align: center;">Now the only thing we haven't tried is dipping this KitKat in milk! Try it and let us know how it tastes! Tag us on Instagram<span> </span><a title="candy Funhouse On Instagram" href="https://www.instagram.com/candyfunhouse/?hl=en" target="_blank" data-mce-href="https://www.instagram.com/candyfunhouse/?hl=en">@candyfunhouse</a></p>
+<p> </p>
+<p><strong> 12 x 13g (.49oz) BARS</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627991781435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001450</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632828567611</id>
+    <published>2021-07-16T11:53:08-04:00</published>
+    <updated>2021-07-16T11:53:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/jolly-rancher-tropical-hard-candy-198g-1"/>
+    <title>Jolly Rancher Tropical Hard Candy - 198g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/jolly-rancher-tropical-hard-candy-198g-candy-funhouse-online-candy-store-canada_601999db-2b44-477d-aee2-13f7bbda5061.jpg?v=1626448580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Jolly Rancher Tropical Hard Candy</span></h2>
+<p><span data-mce-fragment="1">This hard candy is packed with bold tropical fruit flavours so you can dream of being on an island paradise. These hard candies come in an assortment of flavours: A tropical blend of fruit punch, golden pineapple, mango, and lime flavours. </span><span data-mce-fragment="1">Each candy is individually wrapped which makes it great for sharing! </span></p>
+<p><strong>198g</strong></p>
+<h5><span data-mce-fragment="1"></span></h5>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>tropical</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632828567611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1003021</s:sku>
+      <s:grams>198</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632817492027</id>
+    <published>2021-07-15T16:46:23-04:00</published>
+    <updated>2021-07-15T16:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/glosette-peanuts-105g"/>
+    <title>Glosette Peanuts - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys_glosette_peanuts_105g_candy_funhouse.jpg?v=1626369211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Classic Canadian Retro Candy</h2>
+<h3 style="text-align: center;">Hershey's Canada</h3>
+<p>Glosette is an exclusive Canadian Candy Brand of Confectionery. Glosette <span class="st">pieces are the classic movie theater treat containing little pieces of candy with a distinctive glossy chocolate shell</span> coating with raisins, peanuts, or almonds - simple yet a delicious retro snack!</p>
+<p><strong>105g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632817492027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001461</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627991584827</id>
+    <published>2021-07-13T16:02:46-04:00</published>
+    <updated>2021-07-13T16:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-fruity-cereal"/>
+    <title>Kit Kat Fruity Cereal - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kit-kat-fruity-cereal-1.5ozcandy-funhouse-online-candy-shop.jpg?v=1626096947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Craving Cereal For Dessert?<br>
+</h2>
+<p style="text-align: center;">Introducing the new Limited Edition Kit Kat Fruity Cereal Bar! Replace your late night cereal with this amazing treat! This sweet treat still contains the classic crispy wafers we all love, BUT is now covered in a fruity cereal flavor cream, with specs of cereal throughout! The flavour of this chocolate bar tastes literally like you're eating Froot Loops or Fruity Pebbles, that's how on point the flavour is!</p>
+<p style="text-align: center;">Now the only thing we haven't tried is dipping this KitKat in milk! Try it and let us know how it tastes! Tag us on Instagram <a href="https://www.instagram.com/candyfunhouse/?hl=en" target="_blank" title="candy Funhouse On Instagram " rel="noopener noreferrer">@candyfunhouse</a></p>
+<p> </p>
+<p><strong>1.5oz (42g)</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627991584827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001449</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623746523195</id>
+    <published>2021-07-12T15:13:19-04:00</published>
+    <updated>2021-07-12T15:13:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-twizzlers-licorice-twists-16oz"/>
+    <title>Hershey&apos;s Chocolate Twizzlers Licorice Twists - 16oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhsey_s-twizzlers-licorice-twists-16oz-candy-funhouse-online-candy-shop.jpg?v=1625506826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>A Twist - Twofold!</span></h2>
+<p>Did anyone see this coming? Introducing New Twizzlers Hershey's Chocolate! <span data-mce-fragment="1">Chocolate fans will cheer for this chewy candy. </span>The signature Twizzlers twists <span data-mce-fragment="1">chock full of real HERSHEY’S chocolate</span>! The combination you didn't know you wanted. Try it today and <span data-mce-fragment="1">enjoy this delicious twist on two classic treats.</span></p>
+<p><strong>16 oz</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Hersheys</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623746523195</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1002952</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238886459</id>
+    <published>2021-07-09T12:07:16-04:00</published>
+    <updated>2021-07-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-fast-break-bar-king-size-3-5oz"/>
+    <title>Reese&apos;s Fast Break Bar King Size - 3.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhseys-reeses-fast-break-bar-king-szie-3.5-oz-candy-funhouse-online-candy-shop.jpg?v=1625238118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Reimagined</h2>
+<h3 style="text-align: center;">🤴KING SIZE🤴</h3>
+<p>Craving the classic peanut butter and chocolate cup? Try Reese's Fast Break King Size! It's a delicious bar filled with a thick hunk of chewy nougat, topped with the traditional Reese's creamy peanut butter, and <span data-mce-fragment="1">completely covered in rich milk chocolate. </span></p>
+<p><span data-mce-fragment="1">Indulge today!</span></p>
+<p><strong>3.5 oz (99 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238886459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001401</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599647723579</id>
+    <published>2021-07-09T12:07:00-04:00</published>
+    <updated>2021-07-09T12:07:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/jolly-rancher-awesome-reds-hard-candy-184g"/>
+    <title>Jolly Rancher Awesome Reds Hard Candy - 184g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hershey-jolly-rancher-hard-candy-awesome-reds-184-g-candy-funhouse-online-candy-shop.jpg?v=1623368639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Jolly Rancher Awesome Reds Hard Candy </h2>
+<p><span>JOLLY RANCHER AWESOME REDS Hard Candy in all your favourite red flavours! Taste the deliciousness of <strong>cherry, watermelon, strawberry, </strong>and<strong> fruit punch</strong>.</span></p>
+<p><span>Each candy is individually wrapped. Perfect as a grab-and-go treat, candy bowls, for a red-themed or Valentine's Day party! </span></p>
+<ul>
+<li>Made in the USA</li>
+<li>Gelatin-Free<br>
+</li>
+<li>Dairy-Free</li>
+<li>Egg-Free</li>
+</ul>
+<p><strong>184g</strong></p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><strong></strong></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599647723579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002865</s:sku>
+      <s:grams>184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238984763</id>
+    <published>2021-07-09T12:06:57-04:00</published>
+    <updated>2021-07-09T12:06:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-sugar-free-peg-chocolate-filled-w-caramel-3oz"/>
+    <title>Hershey&apos;s Sugar Free Peg Chocolate Filled w/Caramel - 3oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-sugar-free-chocolate-filled-with-caramel-3-oz-candy-funhouse-online-candy-shop.jpg?v=1624909514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delicious Sugar-free Candy</h2>
+<p>Now you can enjoy the classic Hershey's chocolate candy in a sugar-free treat! Including one of our favourites, Hershey's chocolate filled with caramel...yummy!</p>
+<ul>
+<li>Hershey's chocolate in the sugar-free variety</li>
+<li>Ideal for those with special dietary needs</li>
+<li>35 calories per sugar-free chocolate bar</li>
+<li>Individually Wrapped</li>
+<li>Kosher Candy</li>
+<li>Gluten Free</li>
+</ul>
+<p><strong>3 oz. Bag</strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<h5 class="Ingredients"><span class="subTitle font-bold">Ingredients:<span> </span></span></h5>
+<p class="Ingredients"><span class="aboutModuleText">Maltitol, Cocoa Butter, Chocolate*,Polydextrose, Cream Milk*, Polyglycitol, Milk Fat, Contains 2% or Less of Calcium Carbonate, Cocoa Processed with Alkali*, Maltodextrin*, Sodium Caseinate (Milk), Lecithin (Soy), Natural Flavor and Artificial Flavor, PGPR, Emulsifier*Adds a Negligible Amount of Sugar</span></p>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238984763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001402</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599672758331</id>
+    <published>2021-07-09T12:06:56-04:00</published>
+    <updated>2021-07-09T12:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-kisses-mlik-chocolate-party-pack-35-8oz"/>
+    <title>Hershey&apos;s Milk Chocolate Kisses Party Pack - 35.8oz</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kisses-milk-chocolate-part-pack-35oz-candy-funhouse-online-candy-shop.jpg?v=1623372825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hershey's Milk Chocolate Kisses Party Pack </h2>
+<p>Hershey's Kisses are an old fashioned candy that has been around since 1907! Made from the most delicious Hershey's creamy milk chocolate. Urban legend has it that these delicious candies were named kisses because of the sounds the machinery made when depositing the candies. </p>
+<p>The silver foil wrapping and the delicious milk chocolate within make Hershey's Kisses a perfect addition for wedding candy, showers, corporate events, candy buffets or any party! Or add to a candy dish and munch away.</p>
+<p> </p>
+<strong>35.8oz</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Colour_Silver</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>Valentines Day Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599672758331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.99</s:price>
+      <s:sku>04-4000710</s:sku>
+      <s:grams>1580</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627900031035</id>
+    <published>2021-07-09T10:45:17-04:00</published>
+    <updated>2021-07-09T10:45:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dessert-topper-crush-12oz"/>
+    <title>Dessert Topper Crush - 12oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-dessert-topper-crush-12oz-candy-funhouse-online-candy-shop.jpg?v=1625841232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="feature" data-feature-name="productDescription" data-cel-widget="productDescription_feature_div">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small">
+<h2 style="text-align: center;">Amazingly Smooth!<br>
+</h2>
+<h3 style="text-align: center;">🍊🍊🍊</h3>
+<p><span data-mce-fragment="1">And you thought dessert couldn't get any sweeter. Introducing Dessert Topper Crush. </span><span data-mce-fragment="1">Drizzle the amazingly smooth taste of Crush Orange on your desserts to give them that delicious classic flavor you love. Pour this syrupy goodness on waffles, pancakes, brownies, cheesecakes and so much more! Indulge your sweet side with this one-of-a-kind experience!</span></p>
+<p> </p>
+</div>
+<div class="a-section a-spacing-small">
+<h5>
+<span class="a-text-bold">Ingredients</span><span></span>
+</h5>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.<br></p>
+</div>
+</div>
+</div>
+</div>
+<div id="detail-bullets"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627900031035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>03-3001305</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625626095675</id>
+    <published>2021-07-09T09:48:33-04:00</published>
+    <updated>2021-07-09T09:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-kisses-filled-with-strawberry-creme"/>
+    <title>Hershey&apos;s Kisses Vampire Filled with Strawberry Creme - 9oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kisses-vampire-milk-chocolate-filled-with-strawberry-creme-9oz-candy-funhouse-online-candy-shop.jpg?v=1625840007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">A Bite And Drink All Wrapped In One</h2>
+<div style="text-align: center;" data-mce-style="text-align: left;">Get your fangs ready and enjoy a Milk Chocolate Kiss oozing with blood<span data-mce-fragment="1">—</span>oops we mean a delicious Strawberry Creme! So many Kisses it'll drive you batty! </div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;">Trick-or-TREAT yo' self at<span> </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a>!<br>
+</div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<strong></strong><br>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><strong></strong></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><strong></strong></div>
+<p><strong>9oz (255g)</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625626095675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001444</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625625309243</id>
+    <published>2021-07-09T09:34:25-04:00</published>
+    <updated>2021-07-09T09:34:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-fall-harvest-miniatures-11oz"/>
+    <title>Hershey&apos;s Fall Harvest Miniatures - 11oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hershey-fall-harvest-miniatures-11oz-candy-funhouse-online-candy-shop.jpg?v=1625080624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Hershey's Fall Harvest Miniatures<br>
+</h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">LIMITED EDITION</h3>
+<div style="text-align: center;">Celebrate the changing seasons and set out a bowl of these limited-edition Hersheyʼs Miniatures! Enjoy this special assortment of Hershey's Milk Chocolate, Krackel Chocolate Candy with Crisped Rice and Mr. Goodbar Chocolate Candy with Peanuts in adorable autumn-themed wrappers!</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">But like the changing leaves, theyʼll be gone before you know it! </div>
+<p> </p>
+<p> </p>
+<p><strong>11oz (311g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625625309243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001443</s:sku>
+      <s:grams>311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622984863803</id>
+    <published>2021-07-08T14:47:25-04:00</published>
+    <updated>2021-07-08T14:47:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/jolly-rancher-filled-lollipops"/>
+    <title>Jolly Rancher Filled Lollipops</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-jolly-rancher-filled-lollipops-16-g-candy-funhouse-online-candy-shop.jpg?v=1624294548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            0.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Long-Lasting Lollipops</h2>
+<h3 style="text-align: center;">Original Flavours</h3>
+<p>  Jolly Rancher Filled Lollipops packs a delicious punch of bold flavours that include Green <span>Apple, Watermelon, Cherry &amp; Grape. Either slowly savour the flavour, or bite down after a few licks, and inside you'll discover an intense fruity flavoured filling! Since the 1940s, Jolly Rancher has been delighting candy lovers with their extensive line of iconic candies. Now you can enjoy them on a stick!</span></p>
+<div id="dpx-product-description_feature_div">
+<div id="descriptionAndDetails" class="a-section a-spacing-extra-large">
+<div id="productDescription_feature_div" class="celwidget" data-feature-name="productDescription" data-csa-c-id="ydfs1u-uwughi-gnqcoe-toa4c2" data-cel-widget="productDescription_feature_div"><getweblabtreatment treatment="CNTECH_DP_REMOVE_PRODUCT_DESCRIPTION_281136" var="deleteProductDescription">
+<div id="productDescription_feature_div" data-feature-name="productDescription" data-template-name="productDescription" class="a-row feature" data-cel-widget="productDescription_feature_div">
+<div id="productDescription" class="a-section a-spacing-small"></div>
+</div>
+</getweblabtreatment></div>
+</div>
+</div>
+<h5>Ingredients:</h5>
+<p>Sugar, corn syrup, malic acid, contains 2% or less of: sodium lactate, natural and artificial flavour, artificial colour (red 40, yellow 4, blue 1, yellow 6), sulphur dioxide, to maintain freshness, soy lecithin, BHT, to maintain freshness.</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>jolly rancher</s:tag>
+    <s:tag>lollipop</s:tag>
+    <s:tag>Lollipops</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Lollipop</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622984863803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.39</s:price>
+      <s:sku>01-1002921</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623031525435</id>
+    <published>2021-07-08T13:03:05-04:00</published>
+    <updated>2021-07-08T13:03:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-rounds-128g"/>
+    <title>Reese&apos;s Rounds UK - 128g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-reese-rounds-chocolate-covered-biscuits-128-g-candy-funhouse-online-candy-shop.jpg?v=1624304435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">They're Back and Better Than Ever!</h2>
+<p> Cookie meets Reese's in a way you've never tried before with Reese's Rounds! Get lost in the rich chocolate coating the creamy Reese's peanut butter filling, all surrounding a chewy, delicious chocolate biscuit.</p>
+<p> 8 of these decadent treats come in each package, so keep that in mind, because you won't be able to resist the temptation to go back for more. Make sure you get them quick, who knows when these superb Reese's snacks will return again!</p>
+<h5 style="text-align: center;">The Treat Any Reese's Fan Won't Be Able To Resist!</h5>
+<p> </p>
+<p><strong>(1 pack containing 8 biscuits) 128g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Britain</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623031525435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>02-2001410</s:sku>
+      <s:grams>134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623037030459</id>
+    <published>2021-07-08T13:02:40-04:00</published>
+    <updated>2021-07-08T13:02:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-cookies-n-creme-rounds-128g"/>
+    <title>Hershey&apos;s Cookies &apos;n&apos; Creme Rounds UK - 128g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-cookies-n-creme-rounds-chocolate-covered-biscuits-128-g-candy-funhouse-online-candy-shop.jpg?v=1624307321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">A Whole New Way to Experience Cookies 'n' Creme</h2>
+<p style="text-align: left;">  If you've ever tried Hershey's Cookies 'n' Creme and thought that it needed a lot more cookie and less creme, today is your lucky day! This amazing snack is a chewy, chocolatey cocoa biscuit, topped off with a white chocolate flavoured filling and crunchy cookie bits, surrounded with a white creme to finish it off.</p>
+<p style="text-align: left;"> A delicious treat sure to satisfy anyone with a craving for creamy white chocolate and chocolate cookie, pull out the milk for the perfect pairing. Just be careful - it's an incredibly addicting dessert, so stock up while you still can!</p>
+<h5 style="text-align: center;">White Chocolate and Cookie Fans Rejoice!</h5>
+<p> </p>
+<p><strong>(1 pack containing 8 biscuits) 128g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Britain</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623037030459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>02-2001411</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238460475</id>
+    <published>2021-07-06T09:19:40-04:00</published>
+    <updated>2021-07-06T09:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-shell-topping-7-25oz"/>
+    <title>Reese&apos;s Shell Topping - 7.25oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hershey-reeses-shell-topping-chocolate-and-peanut-butter-205-g-candy-funhouse-online-candy-shop.jpg?v=1624045879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-feature-name="productDescription" class="feature" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<h2 style="text-align: center;">Pour the Reese's</h2>
+<p><br></p>
+<ul></ul>
+<p>Pour on top of your ice cream and watch it transform into a sweet masterpiece!  Enjoy the delicious taste of Reese's chocolate on your favourite ice cream, pie, or cake. </p>
+<p> </p>
+<h5><span class="a-text-bold">Ingredients:</span></h5>
+<p><span class="a-text-bold">Coming soon...</span></p>
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3">
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="detail-bullets"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238460475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>03-3001243</s:sku>
+      <s:grams>205</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590792826939</id>
+    <published>2021-06-30T15:43:06-04:00</published>
+    <updated>2021-06-30T15:43:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-big-cup-with-peanuts-king-size-79g"/>
+    <title>Reese&apos;s Big Cup with Peanuts King Size - 79g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/reeses-big-cup-with-peanuts-king-size-79g-candy-funhouse-online-candy-shop.jpg?v=1622230177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">When you need more peanut flavour! </h2>
+<p>  This is a must-try for any true Reese's fan! These massive peanut butter cups are jam-packed with peanut halves, to give you a bigger, crunchier, nuttier Reese's experience. Once you've gone Big Cup, you can never go back!</p>
+<p> </p>
+<p><strong>(1 pack - containing 2 cups) </strong></p>
+<p><strong>79g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Reese&apos;s</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590792826939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>02-2001385</s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238689851</id>
+    <published>2021-06-21T09:48:57-04:00</published>
+    <updated>2021-06-21T09:48:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-sugar-free-choc-syrup-bottle-17-5oz"/>
+    <title>Hershey&apos;s Sugar Free Chocolate Syrup Bottle - 17.5oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hershey-syrup-zero-sugar-genuine-chocolate-flavor-496-g-candy-funhouse-online-candy-shop.jpg?v=1624046256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="a-section a-spacing-extra-large" id="descriptionAndDetails">
+<div data-cel-widget="productDescription_feature_div" data-feature-name="productDescription" class="feature" id="productDescription_feature_div">
+<div data-cel-widget="productDescription_feature_div" class="a-row feature" data-template-name="productDescription" data-feature-name="productDescription" id="productDescription_feature_div">
+<div class="a-section a-spacing-small" id="productDescription">
+<h2 style="text-align: center;">Hershey's Chocolate Zero Sugar Syrup</h2>
+<ul></ul>
+<p> </p>
+<p>Nothing says sweet like the classic taste of HERSHEY’S Syrup. Enjoy with ease as it now comes sugar free! Use this easy-squeeze bottle to create cold glasses of chocolate milk, chocolate floats, chocolate sundaes, rich hot cocoa and more!</p>
+<p><strong><br></strong></p>
+<p><strong>17.5oz (496g)</strong></p>
+<h5><span class="a-text-bold"><br></span></h5>
+<h5>
+<span class="a-text-bold">Ingredients</span><span></span>
+</h5>
+<p>Coming Soon...</p>
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="detail-bullets"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238689851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>03-3001244</s:sku>
+      <s:grams>496</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621761404987</id>
+    <published>2021-06-21T09:33:21-04:00</published>
+    <updated>2021-06-21T09:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-symphony-chocolate-bar-192g"/>
+    <title>Hershey&apos;s GIANT Symphony Chocolate Bar - 6.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-giant-symphony-chocolate-bar-192g-candy-funhouse-online-candy-shop.jpg?v=1624034463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's GIANT Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>6.8oz (192 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621761404987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001403</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621762420795</id>
+    <published>2021-06-21T09:32:31-04:00</published>
+    <updated>2021-06-21T09:32:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-xl-symphony-chocolate-bar-120g"/>
+    <title>Hershey&apos;s XL Symphony Chocolate Bar - 4.25oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-xl-symphony-chocolate-bar-120g-candy-funhouse-online-candy-shop.jpg?v=1624034790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's XL Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>4.25 oz (125 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621762420795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001404</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620583395387</id>
+    <published>2021-06-20T11:10:13-04:00</published>
+    <updated>2021-06-20T11:10:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/twizzlers-minis-strawberry-watermelon-strawberry-lemonade-8oz"/>
+    <title>Twizzlers Minis Strawberry Watermelon/Strawberry Lemonade - 8oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-twizzlers-minis-strawberry-watermelon-lemonade-8oz-candy-funhouse-online-candy-shop.jpg?v=1624030230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">NEW Twizzlers Gummy Candy</h2>
+<p style="text-align: left;">    These new Twizzlers are sure to be a hit for any long-time fan. Each mini <strong>strawberry</strong> licorice tube is filled with either <strong>watermelon</strong> or <strong>lemonade</strong> flavoured candy, a delicious twist to the original treat. The resealable bag makes it the perfect snack to share all around, and you never have to feel bad about indulging in this low-fat sweet!<br><br>    So don't wait, dig in! This summertime candy won't last long and you don't want to miss out.</p>
+<ul></ul>
+<strong>226g / 8oz</strong><br>
+<ul></ul>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Twizzlers</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620583395387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>01-1002894</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599679213627</id>
+    <published>2021-06-10T21:39:17-04:00</published>
+    <updated>2021-06-10T21:39:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/twizzlers-pull-n-peel-watermelon-licorice-14oz"/>
+    <title>Twizzlers Pull &apos;N&apos; Peel Watermelon Licorice - 14oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-twizzlers-pull-n-peel-licorice-limited-edition-licorice-340g-candy-funhouse_589a3c21-b4d9-4bf4-99db-4f4ec3038991.jpg?v=1623356061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Ultimate Watermelon Treat</h2>
+<div class="gs">
+<div class="">
+<div id=":nf" class="ii gt">
+<div id=":lx" class="a3s aXjCH">
+<div dir="ltr">Looking for that watermelon sugar high? Look no further! Just in time for the summer season, try this limited edition <span data-mce-fragment="1">sweet and juicy watermelon licorice. The Twizzlers Pull "N" Peel Licorice candy let's you play with your food as you unwrap the red and green strands for the ultimate fun to eat summer time treat! Delicious and entertaining!</span>
+</div>
+<div dir="ltr"></div>
+<div dir="ltr">
+<ul>
+<li>Peanut Free</li>
+<li>0 trans fat</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><strong>14oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Snacks</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Watermelon</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599679213627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>01-1002820</s:sku>
+      <s:grams>396</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6586129776699</id>
+    <published>2021-05-18T13:18:22-04:00</published>
+    <updated>2021-05-18T13:18:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/twizzlers-sweet-sour-filled-twists-11oz"/>
+    <title>Twizzlers Sweet &amp; Sour Filled Twists Cherry Kick and Citrus Punch - 11oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/twizzlers-sweet-and-sour-filled-twists-11oz-candy-funhouse.jpg?v=1621358384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Blast of Fruity Flavor</span></h2>
+<p><span>When you're craving something both sweet and sour, these Twizzlers are perfect for you. TWIZZLERS Filled Twists Cherry &amp; Citrus Flavored Sweet &amp; Sour Chewy Candy are bursting with enough fruity flavor to satisfy a </span>sweet<span> tooth anytime of day. Each piece of these chewy ropes are packed with a Citrus Punch and Cherry Kick deliciousness and are filled in the center for an extra bite! We know you're drooling just thinking about it. </span>Twirl them around, bite off tiny pieces and have fun sharing. </p>
+<p><strong>11oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Hersheys</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6586129776699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>01-1002782</s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/british-chocolate.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-19T11:50:00-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625064058939</id>
+    <published>2021-07-19T11:50:00-04:00</published>
+    <updated>2021-07-19T11:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-buttons-treat-68g"/>
+    <title>Maltesers Buttons Treat - 68g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-maltesers-buttons-treat-bag-68g-candy-funhouse.jpg?v=1626709286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Lighter Way to Enjoy Chocolate </span></h2>
+<p><span mce-data-marked="1"></span>   These crunchy, chocolatey snacks are a fun way to get all that <strong>Maltesers</strong> goodness in a smaller bite! Delectable chocolate buttons filled with crispy <strong>Maltesers</strong> bits, chomp down for a satisfying crunch, or let them melt on your tongue to enjoy that blissful warm chocolate taste. No matter how you enjoy these delicious treats, make sure you take advantage of this treat-sized bag and share the joy with all your friends!</p>
+<p><strong>68 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625064058939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku>02-2001432</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10483567114</id>
+    <published>2021-07-09T12:00:35-04:00</published>
+    <updated>2021-07-09T12:00:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-eclairs-classic-uk"/>
+    <title>Cadbury Eclairs Classic UK - 166g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-eclairs-classic-uk-1960s-british-caramel-chocolate_187.jpg?v=1571438935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Candy</h2>
+<p><span>Delicious Caramels with Milk Chocolate Centres from the sweet and creative geniuses at Cadbury UK.</span></p>
+<p><strong>166g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10483567114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2000303</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552794398779</id>
+    <published>2021-07-09T11:59:50-04:00</published>
+    <updated>2021-07-09T11:59:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-chocolate-eclairs-uk-130g"/>
+    <title>Cadbury Chocolate Eclairs UK - 130g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Cadbury-Chocolate-Eclairs-130g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616648583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Perfect Combination</h2>
+<p style="text-align: left;" data-mce-style="text-align: center;">The<span> mouthwatering combination of caramel and chocolate makes this treat a long time favourite. Let Cadbury Eclairs take you on a delicious journey through a layer of chewy caramel to a heart of rich Cadbury chocolate. </span>Individually wrapped and perfect for sharing with friends and family.</p>
+<p><strong>130 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552794398779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000208</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625115242555</id>
+    <published>2021-07-09T11:13:50-04:00</published>
+    <updated>2021-07-09T11:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-white-chocolate-45g"/>
+    <title>Kit Kat White Chocolate UK - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-kit-kat-white-chocolate-bar-45-g-candy-funhouse-online-candy-shop.jpg?v=1625082546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Kit Kat is Now a Little Creamier!</span></h2>
+<div style="text-align: left;">  A different way to enjoy Kit Kat, for those of us with a sweeter than average tooth! Each bar contains 4 crispy wafer sticks dipped in a smooth, creamy batch of rich white chocolate. This great treat will have you up on cloud nine!</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<p><strong>(1 bar) 45g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625115242555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001442</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623276138555</id>
+    <published>2021-07-09T11:10:07-04:00</published>
+    <updated>2021-07-09T11:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-counters-peg-bag-122g"/>
+    <title>Galaxy Counters Peg Bag - 122g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-counters-peg-bag-122-g-candy-funhouse-online-candy-shop_1.jpg?v=1624473382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pieces of Pure Chocolate Pleasure </h2>
+<p>  Galaxy Counters are a perfect snack for any milk chocolate fan. These bite-sized morsels of rich Galaxy Milk Chocolate will slowly melt in your mouth, allowing you to indulge in the silky smooth texture of this luxurious chocolate treat. </p>
+<p>  The resealable* bag is the perfect size to share with friends and family, but if you can't bring yourself to give them away, it's okay, we've been there too. Get lost in the amazing flavour, sure to transport you out of this world!</p>
+<h5 style="text-align: center;">Why have cotton when you can have silk?</h5>
+<p> </p>
+<p><strong>(1 pouch) 122g</strong></p>
+<p>*resealable when using the provided fresh seal sticker located on the back of the bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623276138555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>02-2001407</s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625095057467</id>
+    <published>2021-07-09T09:13:28-04:00</published>
+    <updated>2021-07-09T09:13:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-munchies-milk-chocolate-roll-51-9g"/>
+    <title>Nestle Munchies Milk Chocolate Roll - 51.9g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-munchies-roll-51.9-g-candy-funhouse-online-candy-shop.jpg?v=1625082387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A Delicious UK Treat To Take On The Go</strong></h2>
+<p><strong>   </strong>A sweet, crunchy cookie center enrobed in smooth, creamy caramel and all wrapped up in a rich milk chocolate coating, this British favourite will become one of yours too! This roll is perfect for snacking when out and about, or the right portion to down all in one go. You might want to order our <a href="https://candyfunhouse.ca/products/nestle-munchies-104g" title="Nestle Munchies Share Bag - 104g | Candy Funhouse">share size bag</a> too, as these might disappear quicker than you thought!</p>
+<p> </p>
+<p><strong>(1 roll) 51.9g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625095057467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001438</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625113833531</id>
+    <published>2021-07-08T15:06:15-04:00</published>
+    <updated>2021-07-08T15:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kinder-chocolate-with-cereal-bar-24g"/>
+    <title>Kinder Chocolate with Cereal Bar UK - 24g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kinder-chocolate-with-cereal-bar-24g-candy-funhouse-online-candy-shop.jpg?v=1625518144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Different Way to Enjoy Kinder!</h2>
+<p>  Any fan of Kinder chocolate will adore this fun new bar! A creamy, milky filling loaded with popped and toasted cereal pieces (r<span data-mce-fragment="1">ice, buckwheat, barley, hulled wheat, and wheat), enrobed in a smooth milk chocolate coating. A sure way to put a smile on anyone's face, no matter how young or old!</span></p>
+<div><br></div>
+<div><strong>(1 bar) 24 g</strong></div>
+<div style="text-align: center;"><strong>Imported Fresh From The UK!</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>ferrero</s:tag>
+    <s:tag>kinder</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625113833531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>02-2001441</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623272403003</id>
+    <published>2021-07-08T14:48:22-04:00</published>
+    <updated>2021-07-08T14:48:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-minstrels-big-bag-66g"/>
+    <title>Galaxy Minstrels Big Bag - 66g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-minstrels-big-bag-chocolates-66-g-candy-funhouse-online-candy-shop.jpg?v=1624374492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;"> Pleasure Worth Sharing.</h2>
+<p>  It's the same Galaxy Minstrels you know and love, just in a bigger bag! Share the rich, creamy goodness of Galaxy Milk Chocolate coated in a crispy, hard candy shell with all of your friends - or just have them all yourself (don't worry, we won't judge). M&amp;M's truly have nothing on these premium chocolates! </p>
+<h5 style="text-align: center;">Why have cotton when you can have silk?</h5>
+<p> </p>
+<p><strong>(1 share size pouch) 66g</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623272403003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2001406</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623278989371</id>
+    <published>2021-07-08T14:36:57-04:00</published>
+    <updated>2021-07-08T14:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/revels-35g"/>
+    <title>Revels - 35g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-revels-chocolates-35-g-candy-funhouse-online-candy-shop.jpg?v=1624376843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Bit of Mystery in Every Bite! </h2>
+<p>   Traditional chocolate has been boring you lately, huh? We get it, you need some spice and excitement in your life. Well, your flavour adventure begins right here with the treat only able to be found in the UK - Revels!</p>
+<p>  Each creamy Revel contains a surprise underneath the chocolate exterior. Which flavour will you get next? You can never be sure! Will it be raisin? Orange? Coffee? Maybe just plain chocolate. Or it could be Malteser or even toffee! These chocolate bites will keep you guessing what you're going to taste. </p>
+<h4 style="text-align: center;"> So tell us, can you guess right?</h4>
+<p> </p>
+<p><strong>(1 pouch) 35g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623278989371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001409</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623678824507</id>
+    <published>2021-07-08T13:40:58-04:00</published>
+    <updated>2021-07-08T13:40:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-orange-giant-buttons-uk-95g"/>
+    <title>Cadbury Dairy Milk Orange Giant Buttons UK - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mondelez-cadbury-dairy-milk-orange-giant-buttons-95-g-candy-funhouse-online-candy-shop.jpg?v=1624473590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>The Delectable Dairy Milk Chocolate Taste You Love, With a Citrusy Twist!</span></h2>
+<p><span>  Straight from the UK, Cadbury has brought you a new sweet that you're sure to love. These Giant Buttons have the same creamy and smooth Dairy Milk chocolate taste infused with real Orange oil to give you a boost of fruity flavour, elevating the enjoyment of your confection. </span></p>
+<p><span>  Whether you're a fan of Dairy Milk or orange flavoured chocolate, we know you won't be able to get enough of these tangy treats!</span></p>
+<p class="descriptionText"> </p>
+<p> </p>
+<p class="descriptionText"><strong>(1 bag) 95g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623678824507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001440</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625065238587</id>
+    <published>2021-07-08T12:47:11-04:00</published>
+    <updated>2021-07-08T12:47:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-smooth-orange-bar-42g"/>
+    <title>Galaxy Smooth Orange Bar - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-galaxy-smooth-range-bar-42g-candy-funhouse-online-candy-shop.jpg?v=1625762826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Galaxy Smooth Orange Bar </h2>
+<h3 style="text-align: center;"><span>British Candy</span></h3>
+<p>A delicious smooth and creamy Orange <em>Milk Chocolate Bar</em>. One of any<em> Chocolate Lovers</em> favourite! But what else is this <em>Chocolate Bar</em>? It has out of this world flavours of orange!</p>
+<p><strong>42g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625065238587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001434</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623282266171</id>
+    <published>2021-07-06T11:16:29-04:00</published>
+    <updated>2021-07-06T11:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/yorkie-orange-bar-46g"/>
+    <title>Yorkie Orange Bar - 46g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-yorkie-orange-chocolate-bar-46-g-candy-funhouse-online-candy-shop.jpg?v=1624378265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Don't Miss Out On This Limited Edition Flavour!</h2>
+<p>  This classic British chocolate bar features a citrusy twist! If you're a fan of chunky pieces of smooth milk chocolate with a delicious orange flavour, this is definitely the bar for you. Don't miss out because this bar won't be here for long, so you might as well try it while it's here! </p>
+<p>  Aren't a fan of orange chocolate yourself? Get it as a gift for anyone you know who does, or check out our <a href="https://candyfunhouse.ca/pages/search-results?q=yorkie" title="Yorkie Bars Candy Funhouse"><strong>other flavours of Yorkie</strong></a> if we've got you curious about this awesome Nestle chocolate bar!</p>
+<p> </p>
+<p><strong>(1 bar) 46g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623282266171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001408</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590728110139</id>
+    <published>2021-06-30T14:27:50-04:00</published>
+    <updated>2021-06-30T14:27:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-hazelnut-milk-chocolate-bar-uk-165g"/>
+    <title>M&amp;M&apos;s Hazelnut Milk Chocolate Bar UK - 165g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-m_m-hazelnut-milk-chocolate-bar-uk-165g-candy-funhouse-online-candy-shop.jpg?v=1624475844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">M&amp;M's Hazelnut Milk Chocolate Bar </h2>
+<h3 style="text-align: center;">Imported from the UK</h3>
+<p>Enjoy the fun of Hazelnut M&amp;M’s bar made with delicious milk chocolate. This bar is specially filled with M&amp;M’s minis and chopped hazelnuts. The perfect bar for a nut lover!</p>
+<p><strong>165g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>m&amp;m&apos;s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590728110139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001393</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599666106427</id>
+    <published>2021-06-11T00:09:36-04:00</published>
+    <updated>2021-06-11T00:09:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/easter-haribo-eggs-galore-160g"/>
+    <title>Haribo Easter Eggs Galore  - 160g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/haribo-eggs-galore-gummi-candies-160-g-candy-funhouse-online-candy-shop.jpg?v=1623367759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sure to put a spring in your step!<br>
+</h2>
+<h2 style="text-align: center;">Easter Themed Gummy Candies</h2>
+<p>Celebrate this Easter with these fun and colourful eggs. Each package is loaded with <span data-mce-fragment="1">multicoloured egg shaped jelly and foam pieces,</span> including the favourite fried egg. This sweet treat will delight you with its fresh, fruity and chewy goodness! Fun, themed and delicious.</p>
+<p> </p>
+<ul></ul>
+<p><strong>16</strong><strong>0g</strong></p>
+<h5></h5>
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter 2021</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599666106427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002860</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590716018747</id>
+    <published>2021-06-11T00:06:56-04:00</published>
+    <updated>2021-06-11T00:06:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-cookie-milk-chocolate-bar-uk-165g"/>
+    <title>M&amp;M&apos;s Cookie Milk Chocolate Bar UK - 165g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/m-ms-cookie-milk-chocolate-candy-bar-165g-candy-funhouse-online-candy-shop.jpg?v=1622213877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">King Size M&amp;M'S Milk Chocolate Bar</h2>
+<h3 style="text-align: center;">Imported from the UK</h3>
+<p>Enjoy the fun of the Cookie M&amp;M’S bar, packed into an extra-large chocolate bar. Made with delicious milk chocolate &amp; filled with M&amp;M’S Minis &amp; cookies.</p>
+<ul>
+<li><span>Made in the UK</span></li>
+</ul>
+<p><strong>165g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>m&amp;m&apos;s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Britain</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590716018747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001391</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590704189499</id>
+    <published>2021-06-11T00:06:31-04:00</published>
+    <updated>2021-06-11T00:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-crispy-milk-chocolate-candy-bar-150g"/>
+    <title>M&amp;M&apos;s Crispy Milk Chocolate Bar UK - 150g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/m-ms-crispy-milk-chocolate-candy-bar-150g-candy-funhouse-online-candy-shop.jpg?v=1622212570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">King Size M&amp;M'S Milk Chocolate Candy Bar</h2>
+<h3 style="text-align: center;">Imported from the UK</h3>
+<p><span>M&amp;M’S Crispy &amp; Minis Chocolate Candy Bars: enjoy all the colourful fun of Crispy M&amp;M’S</span><sup> </sup><span>Candy, now packed into an extra-large chocolate bar. Each bar is made with delicious milk chocolate and filled with M&amp;M’S Minis and crispy rice.</span></p>
+<ul>
+<li><span>Made in the UK</span></li>
+</ul>
+<p><strong>150g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>m&amp;m&apos;s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Britain</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590704189499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001390</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590701076539</id>
+    <published>2021-06-11T00:06:13-04:00</published>
+    <updated>2021-06-11T00:06:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-minis-milk-chocolate-candy-bar-165g"/>
+    <title>M&amp;M&apos;s Mini&apos;s Milk Chocolate Bar UK - 165g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/m-ms-minis-milk-chocolate-candy-bar-165g-candy-funhouse-online-candy-shop.jpg?v=1622211785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">King Size M&amp;M'S Milk Chocolate Bar</h2>
+<h3 style="text-align: center;">Imported from the UK</h3>
+<p><span>This just in - M&amp;M’S Minis Milk Chocolate Candy Bars. Enjoy all the fun of M&amp;M’S</span><sup> </sup><span>Candy, now packed into a king-size candy bar. Each extra-large chocolate bar is made with milk chocolate and filled with everyone's favourite M&amp;M’S Minis Candies.</span></p>
+<ul>
+<li><span>Made in the UK</span></li>
+</ul>
+<p><strong>165g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Britain</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590701076539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001389</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590717591611</id>
+    <published>2021-06-11T00:05:26-04:00</published>
+    <updated>2021-06-11T00:05:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-peanut-milk-chocolate-bar-uk-165g"/>
+    <title>M&amp;M&apos;s Peanut Milk Chocolate Bar UK - 165g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/m-ms-peanut-milk-chocolate-candy-bar-165g-candy-funhouse-online-candy-shop.jpg?v=1622213738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">King Size M&amp;M'S Milk Chocolate Bar</h2>
+<h3 style="text-align: center;">Imported from the UK</h3>
+<p>Enjoy the fun of the Peanut M&amp;M’S bar, packed into an extra-large chocolate bar. Made with delicious milk chocolate &amp; filled with M&amp;M’S Minis &amp; peanuts.</p>
+<ul>
+<li><span>Made in the UK</span></li>
+</ul>
+<p><strong>165g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>m&amp;m&apos;s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Britain</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590717591611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001392</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6581160575035</id>
+    <published>2021-05-12T00:28:43-04:00</published>
+    <updated>2021-05-12T00:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-caramel-uk-45g"/>
+    <title>Cadbury Dairy Milk Caramel UK - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-dairy-milk-caramel-uk-45g-candy-funhouse.jpg?v=1620795188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bar</h2>
+<p>The <strong>Cadbury Dairy Milk Caramel</strong> is an exquisite bar imported from across the pond. Delightful Dairy Milk milk chocolate and filled with a delicious caramel filling. </p>
+<p><strong>45g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6581160575035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001374</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6579470598203</id>
+    <published>2021-05-11T23:42:14-04:00</published>
+    <updated>2021-05-11T23:42:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-smooth-orange-chocolate-bar-uk-110-g"/>
+    <title>Galaxy Smooth Orange Milk Chocolate Bar UK - 110g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Galaxy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/galaxy-smooth-orange-milk-chocolate-bar-UK-110g-candy-funhouse.jpg?v=1620790992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Galaxy<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Orange Chocolate Bliss</h2>
+<h3 style="text-align: center;">Chocolate Bars</h3>
+<p style="text-align: left;">Looking for flavour out of this galaxy? Try the new <span data-mce-fragment="1">Galaxy Smooth Orange Chocolate Bar from their Galaxy Collection. Known for its smooth texture and delicious taste, they've taken it one step further by incorporating an intense orange flavour.</span><span data-mce-fragment="1"> Snap off a piece and enjoy a moment of pure chocolate bliss, also perfect for sharing.</span></p>
+<p><strong>110g British Chocolate Bar</strong></p>
+<div id="ingredients" class="product-info-block product-info-block--ingredients">
+<h5 class="product-info-block__title product-info-block__title--h3 undefined">Ingredients</h5>
+<p class="product-info-block__content">Coming Soon...<br></p>
+</div>
+<div id="allergens" class="product-info-block product-info-block--allergens">
+<h4 class="product-info-block__title product-info-block__title--h3 undefined"></h4>
+<h4 class="product-info-block__title product-info-block__title--h3 undefined"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></h4>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6579470598203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001376</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6575093907515</id>
+    <published>2021-05-03T02:04:43-04:00</published>
+    <updated>2021-05-03T02:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-twirl-orange-uk-43g"/>
+    <title>Cadbury Twirl Orange UK - 43g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-twirl-orange-43g-candy-funhouse.jpg?v=1620021907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>Give this Twirl a Whirl!</span></h2>
+<h3 style="text-align: center;">Retro Candy -1970's</h3>
+<p><span>Looking for an intense chocolate hit? Try the Limited Edition Cadbury Twirl Orange chocolate bar that offers twice the pleasure, with two delicious milk chocolate fingers infused with an orange hit. These two flake-style bars were originally introduced in the 1970s as a solo bar, but repackaged in 1984 as a twin, since 2 are better than 1!</span><span data-mce-fragment="1"> Let it melt in your mouth as the twirling ribbons unfold. Perfect for indulging. </span></p>
+<p><strong>43g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6575093907515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2000377</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6564553326651</id>
+    <published>2021-04-16T15:08:32-04:00</published>
+    <updated>2021-04-16T15:08:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-dark-milk-sharing-bar-uk-90g"/>
+    <title>Aero Dark &amp; Milk Sharing Bar UK - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/aero-dark-milk-sharing-bar-uk-90g-candy-funhouse.jpg?v=1618600160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bars</h2>
+<p><br></p>
+<p> </p>
+<p style="text-align: center;"><strong>No Artificial Colours | </strong><strong>No Artificial Flavours | </strong><strong>No Preservatives | </strong><strong>Suitable for Vegetarians</strong></p>
+<p><strong>90 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6564553326651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000113</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6564550082619</id>
+    <published>2021-04-16T14:54:23-04:00</published>
+    <updated>2021-04-16T14:54:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/lindt-creation-dessert-ballotin-200g"/>
+    <title>Lindt Creation Dessert Ballotin - 200g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Lindt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/lindt-creation-dessert-ballotin-200g-candy-funhouse.jpg?v=1618599305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lindt<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New from Lindt</h2>
+<h5><strong></strong></h5>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p>200g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6564550082619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>02-2000768</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552851873851</id>
+    <published>2021-03-25T02:21:11-04:00</published>
+    <updated>2021-03-25T02:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kinder-happy-hippo-hazelnut-5-pack-uk-105g"/>
+    <title>Kinder Happy Hippo Hazelnut 5 Pack UK - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kinder-happy-hippo-hazelnut-5-pack-105g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616653249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Happy Hippo</h2>
+<p><span>How cute are these biscuits?! Hippo shaped cookies filled with a milk and hazelnut creamy filling. So cute, you could just eat them up! Each package includes 5 individually wrapped hippos.</span></p>
+<div>
+<ul></ul>
+</div>
+<div><strong>105g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>ferrero</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>kinder</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552851873851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2000653</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552849186875</id>
+    <published>2021-03-25T02:19:14-04:00</published>
+    <updated>2021-03-25T02:19:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kinder-happy-hippo-cocoa-cream-5-pack-uk-105g"/>
+    <title>Kinder Happy Hippo Cocoa Cream 5 Pack UK - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_ferrero_kinderHappyHippoBiscuit_103-jpg-1.jpg?v=1624469404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Happy Hippo</h2>
+<p><span>How cute are these biscuits?! Hippo shaped cookies filled with a milk and cocoa cream filling. So cute, you could just eat them up! Each package includes 5 individually wrapped hippos.</span></p>
+<div>
+<ul></ul>
+</div>
+<div><strong>105g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>ferrero</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>kinder</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552849186875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2000651</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+</feed>

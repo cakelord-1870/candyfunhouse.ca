@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/american-chocolate-bars.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-13T16:07:14-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625626456123</id>
+    <published>2021-07-13T16:07:14-04:00</published>
+    <updated>2021-07-13T16:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boyer-peanut-butter-cups-fun-bites-10oz"/>
+    <title>Boyer Peanut Butter Cups Fun Bites - 10oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Boyer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boyer-peanut-butter-cups-fun-bites-10z-funhouse-online-candy-shop.jpg?v=1625860655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boyer<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Boyer Peanut Butter Cups Fun Size</h2>
+<p style="text-align: center;">Bite-sized milk chocolate goodness filled with creamy peanut butter! Thanks Boyer! Hand them out on Halloween or simply fill a bowl with them. All we know is you will love getting a dose of peanut butter in this cute treat!</p>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;">
+<span data-mce-fragment="1">Trick-or-TREAT yo' self at</span><span data-mce-fragment="1"> </span><a data-mce-fragment="1" href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span data-mce-fragment="1">!</span>
+</div>
+<p> </p>
+<p><strong><br></strong></p>
+<p><strong>10oz (283g)</strong></p>
+<ul>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>Made In The USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625626456123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>02-2001445</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238886459</id>
+    <published>2021-07-09T12:07:16-04:00</published>
+    <updated>2021-07-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-fast-break-bar-king-size-3-5oz"/>
+    <title>Reese&apos;s Fast Break Bar King Size - 3.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhseys-reeses-fast-break-bar-king-szie-3.5-oz-candy-funhouse-online-candy-shop.jpg?v=1625238118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Reimagined</h2>
+<h3 style="text-align: center;">🤴KING SIZE🤴</h3>
+<p>Craving the classic peanut butter and chocolate cup? Try Reese's Fast Break King Size! It's a delicious bar filled with a thick hunk of chewy nougat, topped with the traditional Reese's creamy peanut butter, and <span data-mce-fragment="1">completely covered in rich milk chocolate. </span></p>
+<p><span data-mce-fragment="1">Indulge today!</span></p>
+<p><strong>3.5 oz (99 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238886459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001401</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621761404987</id>
+    <published>2021-06-21T09:33:21-04:00</published>
+    <updated>2021-06-21T09:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-symphony-chocolate-bar-192g"/>
+    <title>Hershey&apos;s GIANT Symphony Chocolate Bar - 6.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-giant-symphony-chocolate-bar-192g-candy-funhouse-online-candy-shop.jpg?v=1624034463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's GIANT Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>6.8oz (192 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621761404987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001403</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621762420795</id>
+    <published>2021-06-21T09:32:31-04:00</published>
+    <updated>2021-06-21T09:32:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-xl-symphony-chocolate-bar-120g"/>
+    <title>Hershey&apos;s XL Symphony Chocolate Bar - 4.25oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-xl-symphony-chocolate-bar-120g-candy-funhouse-online-candy-shop.jpg?v=1624034790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's XL Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>4.25 oz (125 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621762420795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001404</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6576227254331</id>
+    <published>2021-05-10T00:52:51-04:00</published>
+    <updated>2021-05-10T00:52:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-crunchy-peanut-king-size-bar-3-2oz"/>
+    <title>Reese&apos;s Crunchy Peanut King Size Bar - 3.2oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/reeses-crunchy-peanut-king-size-bar-3-2oz-candy-funhouse.jpg?v=1620622306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Step Right Up!<br>
+</h2>
+<p>Craving the classic peanut butter and chocolate combo but want something a little more filling? Try Reese's new Crunchy Peanut King Bar! This candy bar is both smooth and crunchy and has three helpings of peanut butter! Packed full of salty peanuts, silky peanut butter creme and smooth peanut butter then coated in chocolate, there's zero chance you're going to pass this one up.</p>
+<p><strong>87g </strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6576227254331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001082</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540674760763</id>
+    <published>2021-03-06T16:38:01-05:00</published>
+    <updated>2021-03-06T16:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-nutrageous-king-size"/>
+    <title>Reese&apos;s Nutrageous King Size - 87g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesNutrageous_87-Side-jpg-1.jpg?v=1624470520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Nutrageous King Size Candy Bar</h2>
+<p style="text-align: center;">Reese's Nutrageous is a candy bar made by the Hershey Company that was first introduced in 1994. It may not be one of the oldest chocolate bars in the world, but like all Reese's products, it has staying power. It consists of Reese's Peanut Butter Cups<a href="http://en.wikipedia.org/wiki/Reese%27s_Peanut_Butter_Cups" title="Reese's Peanut Butter Cups"></a> topped with caramel covered roasted peanuts<a href="http://en.wikipedia.org/wiki/Peanut" title="Peanut"></a> and and is covered with a chocolate coating.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: left;"><strong>87g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540674760763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001093</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540658933819</id>
+    <published>2021-03-06T15:16:36-05:00</published>
+    <updated>2021-03-06T15:16:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/whozeewhatzit-1-7oz"/>
+    <title>Whozeewhatzit - 48g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_WhozeewhatzitLisaM_48-Side-jpg-1.jpg?v=1624473956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Funny Name... Serious Flavor!</span></h2>
+<p><span data-mce-fragment="1">The new WHOZEEWHATZIT Chocolate Candy Bar is the latest addition to the Whatchamacallit brand. Packed with chocolatey crisp pieces and smooth peanut butter coated in rich chocolate, this chocolate bar is sure to win you over. I</span><span data-mce-fragment="1">ts attention-grabbing name was submitted by Hershey candy super-fan Lisa M! Fans of the discontinued Thingamajig bar will find this strikingly similar!</span></p>
+<p><strong>48g</strong></p>
+<h3 style="text-align: center;">American Chocolate Bar </h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540658933819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001356</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5076505854011</id>
+    <published>2020-12-01T17:00:47-05:00</published>
+    <updated>2020-12-01T17:00:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/big-hunk-candy-bar-1-5oz"/>
+    <title>Big Hunk Chocolate Covered Candy Bar - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/big-hunk-candy-funhouse.jpg?v=1606859983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Big Hunk Candy Bar</h2>
+<h3 style="text-align: center;">A Big Hunk of Sweet Love since the 1950's!</h3>
+<p>Big Hunk Candy Bar is a delicious, chewy and honey sweetened nougat bar with whole roasted peanuts.This old fashioned candy has been around since the 1950's. Originally created by the Golden Nugget Candy Company but purchased by the wonderful and sweet Annabelle Candy Company in the 1970's. The Big Hunk Candy Bar lives up to it's name with its generous weight of 1.5 oz. filled with whole roasted peanuts and measures over 8 inches long.</p>
+<p style="text-align: center;"><strong>Made in USA | Gluten Free | Low Fat</strong></p>
+<strong>1.5 oz Candy Bar</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Nougat</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5076505854011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000164</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5064272150587</id>
+    <published>2020-11-12T14:04:06-05:00</published>
+    <updated>2020-11-12T14:04:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-big-cup-stuffed-with-pretzel-1-3oz"/>
+    <title>Reeses Big Cup Stuffed with Pretzel King Size - 73g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesBigcupPretzels_73-Side-jpg-1.jpg?v=1624470251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<h2 class="product_name" style="text-align: center;" itemprop="name">
+<span data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-value='{"1":2,"2":"Reeses Big Cup Stuffed with Pretzel 1.3oz"}'>Reeses Big Cup Stuffed with Pretzel</span><br>
+</h2>
+<h3 style="text-align: center;">"Peanut Butter Lovers Cup"</h3>
+<p>The Reese's Big Cup now comes stuffed with pretzels! Get 2 extra large serving of creamy Reese peanut butter stuffed with pretzels and enrobed in the traditional Hershey's milk chocolate.</p>
+<p> </p>
+<p>73g</p>
+<p> </p>
+<h5>
+<strong style="font-size: 1.4em;">Ingredients:</strong><br>
+</h5>
+<p><meta charset="utf-8"><span>Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Nonfat Milk, Milk Fat, Lactose, Lecithin (Soy), PGPR Emulsifier), Peanuts, Sugar, Dextorse, Salt, Brown rice flour, Potato Starch, Contains 2% or less of Modified Cornstarch, soluble corn fiber, canola oil, sea salt, baking powder, cellulose gum, sunflower <span style="font-size: 14px;">lecithin</span>,  TBHQ, and Citric Acid To Maintain Freshness.</span></p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>pretzels</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5064272150587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.29</s:price>
+      <s:sku>02-2001074</s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5024508608571</id>
+    <published>2020-09-02T15:53:55-04:00</published>
+    <updated>2020-09-02T15:53:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-peanut-butter-cup-mini-pouches-7-6oz"/>
+    <title>Reese&apos;s Peanut Butter Cup Mini Pouches - 7.6oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_Reeses_minis_215g-Side-jpg-1.jpg?v=1624674642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Minis</h2>
+<p>These Reese's Minis are the same classic Reese's peanut butter cups we all know and love so much but in a convenient smaller bite size. We love the chocolate to peanut butter ratio in these!</p>
+<p><strong>7.6oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5024508608571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>02-2001098</s:sku>
+      <s:grams>215</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5020752773179</id>
+    <published>2020-08-25T16:41:25-04:00</published>
+    <updated>2020-08-25T16:41:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/100-grand-bar-fun-size-10oz"/>
+    <title>100 Grand Bar Fun Size - 10oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_ferrero_100Grand_funSize_283g-Side-jpg-1.jpg?v=1624633369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">100 Grand American Chocolate Bars</h2>
+<h3 style="text-align: center;">Retro Candy from the 1960's</h3>
+<p>100 Grand Bar provides a richer, more rewarding snack experience because of its crunchy chocolate, an abundance of soft, chewy caramel and inherent association with money. 100 Grand Bar American Chocolate Bars contain a sweet, chewy caramel center, surrounded in crispy crunchie pieces of crisped rice embedded in creamy milk chocolate.</p>
+<p style="text-align: center;"><meta charset="utf-8"><span>Trick-or-TREAT yo' self at </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a><span>!</span></p>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;"><strong>100 Grand Bars are one of the <a href="https://candyfunhouse.ca/blogs/around-the-funhouse/top-15-favourite-american-chocolate-bars" title="Top 15 Favourite American Chocolate Bars" target="_blank">Top 15 Favourite American Chocolate Bars</a>!</strong></p>
+<p style="text-align: center;"><strong>What would you do with 100 Grand?</strong></p>
+<p style="text-align: center;"><strong>Kosher | Made in the USA</strong></p>
+<p><strong>10oz</strong></p>
+<h5><span class="subTitle font-bold"><strong>Ingredients:</strong><span> </span></span></h5>
+<p>Milk Chocolate (Sugar, Cocoa Butter, Chocolate, Nonfat Milk, Lactose, Milkfat, Soy Lecithin, Natural Flavor), Sugar, Corn Syrup, Nonfat Milk, Crisped Rice (Rice Flour, Sugar, Barley Malt, Salt), Coconut Oil, Butter, Mono- and Diglycerides, Salt, Soy Lecithin, Natural Flavor.</p>
+<p><strong><span class="aboutModuleText">Made on equipment that also processes Peanuts, Egg and Soy.</span></strong></p>
+<div class="pt30">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1" name="description-Warnings">
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>TUS</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5020752773179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2000101</s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5020733571131</id>
+    <published>2020-08-25T16:06:50-04:00</published>
+    <updated>2020-08-25T16:06:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-peanut-butter-cups-glow-in-the-dark-snack-size-9-35oz"/>
+    <title>Reese&apos;s Peanut Butter Cups Glow in the Dark Snack Size - 9.35oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Reeses-peanut-butter-cups-snack-size-glow-in-the-dark-halloween-9.35oz-candy-funhouse-canada.jpg?v=1598386066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="st">Reese's Peanut Butter Cups</span></h2>
+<h3 style="text-align: center;"><span class="st">Made by Hershey's USA</span></h3>
+<p><span class="st">They're the perfect combination of chocolate and peanut butter - comes in the classic, rich milk chocolate cup.</span> Reese's Peanut Butter Cups were originally created in 1928, and are still a favourite for many today! Who can resist the heavenly match of the unique Reese's Peanut Butter taste and creamy milk chocolate?! Nothing goes together better than creamy milk chocolate and REESE’S peanut butter! Except maybe REESE’S Peanut Butter Cups and your refrigerator. So start chilling out with the perfect combo today!</p>
+<p>9.35oz</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1920s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5020733571131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>02-2001100</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5020722266171</id>
+    <published>2020-08-25T14:43:25-04:00</published>
+    <updated>2020-08-25T14:43:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/payday-snack-size-11-6oz"/>
+    <title>Payday Snack Size - 11.6oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/payday-snack-size-11.6oz-candy-funhouse-canada.jpg?v=1598381000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            8.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>PayDay</span></h3>
+<p><span>Try a PayDay peanut caramel bar! Its a bar of smooth caramel rolled in salty roasted peanuts.</span></p>
+<p><span>11.6oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5020722266171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.24</s:price>
+      <s:sku>02-2001053</s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5015553179707</id>
+    <published>2020-08-15T11:10:10-04:00</published>
+    <updated>2020-08-15T11:10:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/payday-chocolatey-1-85oz"/>
+    <title>Payday Chocolatey - 1.85oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_payday_chocolate_52-Side-jpg-1.jpg?v=1624553987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span>Chocolatey PayDay</span></h3>
+<p><span>Try a PayDay peanut caramel bar! Its a bar of smooth caramel rolled in salty roasted peanuts.</span></p>
+<p><span>1.85oz</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5015553179707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001051</s:sku>
+      <s:grams>53</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4666141638715</id>
+    <published>2020-03-18T16:24:55-04:00</published>
+    <updated>2020-03-18T16:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bar-none-chocolate"/>
+    <title>Bar None Chocolate</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Iconic Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/bar-none-chocolate-wafer-candy-funhouse-online-candy-store-canada.jpg?v=1584564716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Iconic Candy<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Chocolate Wafer - Pure Milk Chocolate - Peanuts</p>
+<p> </p>
+<p>42g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4666141638715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.09</s:price>
+      <s:sku>02-2000154</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2036514848827</id>
+    <published>2019-01-10T11:04:56-05:00</published>
+    <updated>2019-01-10T11:04:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/snickers-creamy-peanut-butter-4-bar"/>
+    <title>Snickers Creamy Peanut Butter 4 Squares - 2.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_Mars_SnickersPeanutButter_79-Side-jpg-1.jpg?v=1624476923"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="content-hed standard-hed" style="text-align: center;">All New Snickers Candy Bar</h2>
+<h3 style="text-align: center;">Peanuts. Caramel. Milk Chocolate.</h3>
+<p>Snickers Creamy Peanut Butter is the newest sweet creations from Mars and they're totally different from what you expect a Snickers Candy Bar to be. This candy bar comes with 4 squares of peanut butter with freshly ground peanuts, caramel and delicious milk chocolate. We can say it's very smooth!</p>
+<ul>
+<li>Kosher Certified Dairy</li>
+<li>No Artificial Flavours</li>
+<li>No Artifical Colours</li>
+<li>No Sweeteners</li>
+</ul>
+<p><strong>79.4 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Artificial Sweetners</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>peanuts</s:tag>
+    <s:tag>Peanutt Butter</s:tag>
+    <s:tag>Snickers</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2036514848827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001237</s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1987120300091</id>
+    <published>2018-12-11T14:21:45-05:00</published>
+    <updated>2018-12-11T14:21:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/2-snickers-white-2-85-oz"/>
+    <title>Snickers White Candy Bar</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_Mars_SnickersWhite_40-Side-jpg-1.jpg?v=1624508349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">White Chocolate. Peanuts. Caramel. Nougat. Yum!</h2>
+<p style="text-align: center;">New from Snickers. Just enough to share...maybe.</p>
+<p style="text-align: center;">White Snickers Chocolate Bars</p>
+<p><b><br></b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snickers</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1987120300091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000102</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1985890091067</id>
+    <published>2018-12-10T19:44:54-05:00</published>
+    <updated>2018-12-10T19:44:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-milk-chocolate-reeses-pieces-candy-bars-43g"/>
+    <title>Hershey&apos;s Milk Chocolate &amp; Reese&apos;s Pieces Candy Bars - 1.55oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_Reeses_43-Side-jpg-1.jpg?v=1624469938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>2 Iconic Candy Brands in One Epic Chocolate Bar</span></h2>
+<p><span>Hershey's Milk Chocolate &amp; Reese's Pieces chocolate bars are the scrumptious Hershey's Milk Chocolate infused with the out of this world Reese's Pieces candy.</span></p>
+<p><strong>1.55 oz Bars</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1985890091067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.39</s:price>
+      <s:sku>02-2000603</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/166711792</id>
+    <published>2018-09-11T16:50:08-04:00</published>
+    <updated>2018-09-11T16:50:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/big-hunk"/>
+    <title>Big Hunk Candy Bar - 1.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Annabelle Candy Co. Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/big-hunk-candy-bar-2-oz-1950s-american-chocolate-era-annabelle-co-inc_290.jpg?v=1573973003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Annabelle Candy Co. Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Big Hunk of Sweet Love!</h2>
+<p><strong>Big Hunk Candy Bar</strong> is a delicious, chewy and honey sweetened nougat bar with whole roasted peanuts.This old fashioned candy has been around since the 1950's. Originally created by the Golden Nugget Candy Company but purchased by the wonderful and sweet Annabelle Candy Company in the 1970's. The Big Hunk Candy Bar lives up to it's name with it's generous weight of 2 oz. filled with whole roasted peanuts and measures over 8 inches long.</p>
+<p style="text-align: center;"><strong>Made in USA | Gluten Free | Low Fat</strong></p>
+<strong>2 oz Candy Bar</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Nougat</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/166711792</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000163</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5853119303</id>
+    <published>2018-08-10T19:06:52-04:00</published>
+    <updated>2018-08-10T19:06:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boyer-butterscotch-smoothie-peanut-butter-cups"/>
+    <title>Boyer Butterscotch Smoothie Peanut Butter Cups</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Boyer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_boyer_smoothieButterscotch_45-Side-jpg-1.jpg?v=1624553004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boyer<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">American Chocolate Candy Bars</h2>
+<p>Boyer Butterscotch Smoothie Peanut Butter Cups are a twist on your regular peanut butter cup - these babies have a sweet butterscotch coating covering the already good chocolate and peanut butter goodness inside! </p>
+<div id="tabstop"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5853119303</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.19</s:price>
+      <s:sku>02-2000169</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1429129101371</id>
+    <published>2018-07-30T21:58:39-04:00</published>
+    <updated>2018-07-30T21:58:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-outrageous"/>
+    <title>Reese&apos;s Outrageous - 1.48 oz.</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesOutrageous_41-Side-jpg-1.jpg?v=1624473278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">An Outrageous Candy Bar from Reese's</h2>
+<p><strong>Reese's Outrageous Candy Bars</strong> are filled with creamy peanut butter, caramel and tiny Reese's Pieces. This chocolate bar is so delicious that it's outrageous!</p>
+<p class="subheading-desktop">1.48 oz.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1429129101371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001096</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5853101447</id>
+    <published>2018-04-23T17:04:20-04:00</published>
+    <updated>2018-04-23T17:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boyer-mallo-cup-dark-chocolate"/>
+    <title>Boyer Mallo Cup Dark Chocolate</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Boyer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boyer-mallo-cup-dark-chocolate-1930s-american-bar_549.jpg?v=1571438895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boyer<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Dark Chocolate Mallo Cup</span></h2>
+<h3 style="text-align: center;"><span>Old Fashioned &amp; Nostalgic Candy</span></h3>
+<div id="tabstop"><span><em>Dark Chocolate Mallo Cup</em> are the delicious combination of rich dark chocolate and a creamy mallo center that is sure to satisfy even the biggest sweet tooth. This American made candy is favored among candy lovers around the world.  When you’re looking for gluten free candy that is delicious, classic, and original, choose Dark Mallo Cup.</span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5853101447</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>02-2000171</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10071171210</id>
+    <published>2018-02-21T01:22:32-05:00</published>
+    <updated>2018-02-21T01:22:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dove-milk-chocolate"/>
+    <title>Dove Milk Chocolate - 1.44oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_Mars_dove_40-Side-jpg-1.jpg?v=1624554475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="left45" style="text-align: center;">Silky Smooth Milk Chocolate Bar</h2>
+<p>Dove Milk Chocolate Bar is made from the finest cacao creating an exceptional and delicious chocolate eating experience. </p>
+<p><strong>40.8 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10071171210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>02-2000444</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1791885803579</id>
+    <published>2017-04-15T13:01:20-04:00</published>
+    <updated>2017-04-15T13:01:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bartons-million-dollar-rich-dark-chocolate"/>
+    <title>Barton&apos;s Million Dollar Rich Dark Chocolate</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Barton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/bartons-million-dollar-rich-dark-chocolate-2000s-american-bar-barton_561.jpg?v=1573939383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barton<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Million Dollar American Chocolate Bars</span></h2>
+<div style="text-align: center;"><span>Barton's Million Dollar Dark Chocolate Bars with Peppermint Crunch will make you feel like a millionaire as you're eating this rich and creamy dark chocolate bar. Now get this American Chocolate Bar with Canadian money. That's a sweet deal!</span></div>
+<p><strong>57 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1791885803579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.87</s:price>
+      <s:sku>02-2000158</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/9299415690</id>
+    <published>2016-10-16T18:01:00-04:00</published>
+    <updated>2016-10-16T18:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-sticks"/>
+    <title>Reeses Sticks - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesSticks_42-Side-jpg-1.jpg?v=1624473421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><b>Reese's Sticks Wafer Bars</b></h2>
+<p>Reese's Sticks are wafer bars filled with Reese's Peanut Butter and covered in delicious milk chocolate. Reese's Sticks were first introduced in 1998 and have been loved since.</p>
+<p><strong>42 g Wafer Bars</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1990s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>Hersheys</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/9299415690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001116</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+</feed>

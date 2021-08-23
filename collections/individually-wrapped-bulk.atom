@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/individually-wrapped-bulk.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-03T15:11:43-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634760601659</id>
+    <published>2021-08-03T15:11:43-04:00</published>
+    <updated>2021-08-03T15:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/york-peppermint-patties-changemakers-175ct"/>
+    <title>York Peppermint Patties Changemakers - 175ct</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys_york_peppermint_patties_changemakers_175_count_84oz_candy_funhouse.jpg?v=1628017356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Whole Box of Minty Goodness</h2>
+<p>     A refreshing chocolate treat like no other, <strong>York Peppermint Patties</strong> are a delicious and beloved confection that has been around since the early 1940s. Taste the<strong> creamy mint filling</strong> enveloped by <strong>rich dark chocolate</strong>, a combo that has proven to be the perfect after coffee dessert for almost 75 years.</p>
+<h3 style="text-align: center;">Add to Loot Bags or any themed Candy Buffet</h3>
+<h3>84oz | 2.38kg | (1) 175 count box</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Colour_Silver</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>type_bulk</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634760601659</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>04-4000746</s:sku>
+      <s:grams>2400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552836341819</id>
+    <published>2021-03-25T01:50:32-04:00</published>
+    <updated>2021-03-25T01:50:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kingsway-milk-chocolate-gold-coins-uk-1kg"/>
+    <title>Kingsway Milk Chocolate Gold Coins UK - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kingsway-milk-chocolate-gold-coins-1kg-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616651428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Milk Chocolate Coins</span></h2>
+<p><span>Milk chocolate coins wrapped in a beautiful gold foil, perfect for any occasion. These chocolate coins are supplied in bulk 1kg bags large enough to share and are great for parties and events of all kinds.</span></p>
+<ul></ul>
+<p><strong>1kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552836341819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>04-4000386</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540623183931</id>
+    <published>2021-03-06T12:03:11-05:00</published>
+    <updated>2021-03-06T12:03:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/tootsie-roll-frooties-strawberry-lemonade-candy"/>
+    <title>Tootsie Roll Frooties Strawberry Lemonade Candy</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/frooties-strawberry-lemonade-tootsie-candy-funhouse-online-candy-store-canada.jpg?v=1615049940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Red Candy from Tootsie Roll</span></h2>
+<p style="text-align: center;">This sweet bag contains 360 Red Strawberry Lemonade Tootsie Roll Frooties Candy</p>
+<p style="text-align: center;"><span>Bursting with fresh, fruit flavour, Frooties are soft, chewy, bite-sized candies. </span></p>
+<p style="text-align: center;"><span>The Frooties family includes Mango, Grape, Strawberry, Fruit Punch, Green Apple, Blue Raspberry, Watermelon, Strawberry Lemonade,  Cherry-limeade and Lemon Lime.</span></p>
+<p style="text-align: center;">Sweet Addition to any Candy Buffet or Corporate Event!</p>
+<h3 style="text-align: center;">Fresh Candy Shipped Fast across Canada and the USA!</h3>
+<ul>
+<li><span>Made in the USA</span></li>
+<li><span>Kosher Certified Dairy</span></li>
+<li><span>Nut Free</span></li>
+<li>
+<p>Gluten Free</p>
+</li>
+</ul>
+<p><strong>360 Count Bag</strong></p>
+<h5>Ingredients:</h5>
+<p>Sugar, corn syrup, partially hydrogenated soybean oil, condensed skim milk, whey, artificial flavour, soya lecithin, artificial colours (FD&amp;C red 40, blue 1, yellow 5).</p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Tootsie Roll</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540623183931</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>04-4000629</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5051195719739</id>
+    <published>2020-10-20T10:28:33-04:00</published>
+    <updated>2020-10-20T10:28:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/tootsie-roll-frooties-sour-cherry"/>
+    <title>Tootsie Roll Frooties Sour Cherry</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/tootsie-roll-frooties-sour-cherry-bulk-individually-wrapped-candy-funhouse.jpg?v=1603204621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Red Candy from Tootsie Roll</span></h2>
+<p style="text-align: center;">This sweet bag contains 360 red sour cherry flavoured Tootsie Roll Frooties Candy</p>
+<p style="text-align: center;"><span>Bursting with fresh, fruit flavour, Frooties are soft, chewy, bite-sized candies. </span></p>
+<p style="text-align: center;"><span>The Frooties family includes Mango, Grape, Strawberry, Fruit Punch, Green Apple, Blue Raspberry, Watermelon, and Lemon Lime.</span></p>
+<p style="text-align: center;">Sweet Addition to any Candy Buffet or Corporate Event!</p>
+<h3 style="text-align: center;">Fresh Candy Shipped Fast across Canada and the USA!</h3>
+<ul>
+<li><span>Made in the USA</span></li>
+<li><span>Kosher Certified Dairy</span></li>
+<li><span>Nut Free</span></li>
+<li>
+<p>Gluten Free</p>
+</li>
+</ul>
+<p><strong>360 Count Bag</strong></p>
+<h5></h5>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Tootsie Roll</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5051195719739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>04-4000627</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2031945711675</id>
+    <published>2019-01-07T19:30:06-05:00</published>
+    <updated>2019-01-07T19:30:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/tootsie-roll-frooties-fruit-punch-candy"/>
+    <title>Tootsie Roll Frooties Fruit Punch Candy</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/tootsie-roll-frooties-fruit-punch-candy-american-bulk-colour-orange-red-industires_979.jpg?v=1571439003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Red Candy from Tootsie Roll</span></h2>
+<p style="text-align: center;">This sweet bag contains 360 Red-Fruit Punch Tootsie Roll Frooties Candy</p>
+<p style="text-align: center;"><span>Bursting with fresh, fruit flavour, Frooties are soft, chewy, bite-sized candies. </span></p>
+<p style="text-align: center;"><span>The Frooties family includes Mango, Grape, Strawberry, Fruit Punch, Green Apple, Blue Raspberry, Watermelon, Strawberry Lemonade, Cherry-limeade and Lemon Lime.</span></p>
+<p style="text-align: center;">Sweet Addition to any Candy Buffet or Corporate Event!</p>
+<h3 style="text-align: center;">Fresh Candy Shipped Fast across Canada and the USA!</h3>
+<ul>
+<li><span>Made in the USA</span></li>
+<li><span>Kosher Certified Dairy</span></li>
+<li><span>Nut Free</span></li>
+<li>
+<p>Gluten Free</p>
+</li>
+</ul>
+<p><strong>360 Count Bag</strong></p>
+<h5>Ingredients:</h5>
+<p><span>Sugar, corn syrup, partially hydrogenated soybean oil, condensed skim milk, whey, artificial flavour, soya lecithin, artificial colours (FD&amp;C red 40, blue 1, yellow 5).</span></p>
+<p>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Colour_Orange</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Tootsie Roll</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2031945711675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>04-4000622</s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/1444828446779</id>
+    <published>2018-08-06T11:13:38-04:00</published>
+    <updated>2018-08-06T11:13:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/airheads-candy-60-bars-assorted-flavors"/>
+    <title>AirHeads Candy 60 Bars Assorted Flavors</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/airheads-candy-90-bars-assorted-flavors-1980s-american-colour-bulk-perfetti-van-melle-inc_896.jpg?v=1591307260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy from the 1980s</h2>
+<p>Airheads Candy is a sweet blast from the past. These delicious taffy candies in assorted flavours are just as yummy as you remember them. Enjoy this bulk candy pack of Airheads Candy at your next get together and think of the good ole days!</p>
+<div style="text-align: center;"><strong>Kosher | Peanut Free | Made in the USA</strong></div>
+<p><strong>.55 oz Bars | 60 Count Box</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Airheads</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/1444828446779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.99</s:price>
+      <s:sku>04-4000101</s:sku>
+      <s:grams>935</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/779943149672</id>
+    <published>2018-05-09T19:37:52-04:00</published>
+    <updated>2018-05-09T19:37:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/regal-creamy-caramels-2kg"/>
+    <title>Regal Creamy Caramels - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/regal-creamy-caramels-2kg-1940s-colour-brown-era-individually-wrapped-nostalgic-candy-bulk-confections_745.jpg?v=1577130870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Old Fashioned &amp; Nostalgic Treats</h2>
+<h2 style="text-align: center;">Bulk Candy</h2>
+<p>If you love caramels, you're in for a treat! This is a 2kg bag filled with Regal's Creamy Caramels - a<span data-mce-fragment="1"> Canadian classic</span><span data-mce-fragment="1">. Caramel candies have been a hit for decades and continue to live up to their name with their rich, creamy, delicious taste packed into each little caramel. </span></p>
+<p><meta charset="utf-8"><span>Regal Creamy Caramels are made with fresh milk in Quebec, Canada! </span></p>
+<p>The<span data-mce-fragment="1"> perfect office candy, addition to your table, or simply just for snacking. Indulge in these creamy, chewy caramels and you'll be reaching for more each time. </span></p>
+<p>Individually wrapped caramels. Perfect for sharing or taking on-the-go. However you decide to have it, these caramels will have you wanting more every time!</p>
+<p><span>From the newest candies to original classic treats, find it all </span><a href="https://candyfunhouse.ca/collections/new-items" target="_blank">here</a><span> at Candyfunhouse! </span></p>
+<h2 style="text-align: center;">Fresh Retro Candy Shipped Fast!</h2>
+<h5>
+<meta charset="utf-8"> <b>Ingredients</b>
+</h5>
+<p><span>Sugars (sugar, corn syrup), whole milk, whey powder, palm oil, salt, soya lecithin, artificial flavour, sulphietes. Contains: milk, soya, Sulphites.</span></p>
+<h6 class="p1">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. We cannot be held responsible for the accuracy of ingredients or nutritional information provided, nor liable for any reactions caused by the products we sell.</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>caramels</s:tag>
+    <s:tag>Colour_Brown</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/779943149672</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>04-4000503</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/694378201115</id>
+    <published>2018-03-13T00:02:45-04:00</published>
+    <updated>2018-03-13T00:02:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rockets-candy"/>
+    <title>Rockets Candy - 2kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Ce De Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/rockets-candy-bulk-canadian-colour-assorted-individually-wrapped-ce-de_637.jpg?v=1577120173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ce De Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Fresh Rockets Candy Shipped Fast!</h2>
+<p>Get the classic and retro candy we all remember. Rockets Candy in now available as bulk candies. This nostalgic Canadian Candy is loved around the world!</p>
+<h3 style="text-align: center;">Add to <a href="https://candyfunhouse.ca/collections/candy-loot-bags" target="_blank" title="Loot Bags" rel="noopener noreferrer">loot bags</a>, goodie bags, or any themed <a href="https://candyfunhouse.ca/collections/candy-buffet" target="_blank" title="Candy Buffet" rel="noopener noreferrer">Candy Buffet</a>.</h3>
+<p><strong>110 Rockets Candy / kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/694378201115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>04-4000505</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/742377980008</id>
+    <published>2017-05-03T12:59:37-04:00</published>
+    <updated>2017-05-03T12:59:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/butterscotch-discs-hard-candy"/>
+    <title>Butterscotch Discs Hard Candy</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Exclusive Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/butterscotch-discs-hard-candy-bulk-buffet-colour-yellow-gold-exclusive_813.jpg?v=1577770975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Individually Wrapped Butterscotch Discs Candy</h2>
+<h3 style="text-align: center;">Hard Bulk Candy</h3>
+<p>The classic butterscotch flavoured hard candies are perfect for the office candy dish or add to any themed candy buffet</p>
+<p><strong>1.8 kg Bulk Candy Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Butterscotch</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Yellow</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>Hard Candy Bulk</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/742377980008</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>04-4000169</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/742377193576</id>
+    <published>2017-05-03T12:59:37-04:00</published>
+    <updated>2017-05-03T12:59:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/spearmint-starlight-mints-hard-candy"/>
+    <title>Spearmint Starlight Mints Hard Candy</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Exclusive Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/spearmint-starlight-mints-hard-candy-bulk-buffet-colour-green-exclusive_662.jpg?v=1577770993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Individually Wrapped Spearmint Starlight Mints</h2>
+<h3 style="text-align: center;">Hard Bulk Candy</h3>
+<p>The classic green and white striped spearmint flavoured hard candies are perfect for the office candy dish or add to any themed candy buffet</p>
+<p><strong>1.8 kg Bulk Candy Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>Hard Candy Bulk</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mints</s:tag>
+    <s:tag>Spearmint</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/742377193576</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>04-4000606</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/740372742248</id>
+    <published>2017-05-03T12:59:37-04:00</published>
+    <updated>2017-05-03T12:59:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/starlight-mints-hard-candy"/>
+    <title>Peppermint Starlight Mints Hard Candy-1.8 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Exclusive Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/starlight-mints-hard-candy-bulk-buffet-colour-red-exclusive_190.jpg?v=1577771012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exclusive Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Individually Wrapped Peppermint Starlight Mints</h2>
+<h3 style="text-align: center;">Hard Bulk Candy</h3>
+<p>The classic red and white striped peppermint flavoured hard candies are perfect for the office candy dish or add to any themed candy buffet</p>
+<p><strong>1.8 kg Bulk Candy Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>Hard Candy Bulk</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mints</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/740372742248</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>04-4000608</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/416173813</id>
+    <published>2015-02-20T12:47:00-05:00</published>
+    <updated>2015-02-20T12:47:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-tub-240-pieces"/>
+    <title>Dubble Bubble with Comics Tub - 240 Pieces</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Concord Confections Ltd</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dubble-bubble-with-comics-tub-240-pieces-gum-bulk-colour-pink-gluten-free-concord-confections-ltd_694.jpg?v=1602788023"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Concord Confections Ltd<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Dubble Bubble Bubblegum with Comics</h2>
+<h3 style="text-align: center;">Since 1928</h3>
+<p>This tub is not only filled with 240  pieces of the original flavour Dubble Bubble Bubblegum but each piece comes with a comic. See image below.</p>
+<p style="text-align: center;"><strong>Made in Canada | Kosher | Peanut Free | Nut Free | Gluten Free</strong></p>
+<p>Dubble Bubble twist gum is a 5 g, bite-size piece of chewing gum containing 20 calories with 0 g of fat, 0 mg of cholesterol, 5 mg of sodium, 5 g of carbohydrates, 0 g of dietary fiber, 4 g of sugar and 0 g of protein</p>
+<p><strong>240 Pieces</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Dubble Bubble Gum</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>retro</s:tag>
+    <s:tag>Royal Candies</s:tag>
+    <s:tag>Royal Candy</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/416173813</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>04-4000209</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/416173621</id>
+    <published>2015-02-20T12:41:00-05:00</published>
+    <updated>2015-02-20T12:41:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dubble-bubble-assorted-420-ct"/>
+    <title>Dubble Bubble Bubblegum Assorted 420+ Pieces</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dubble-bubble-assorted-gum-bulk-candy-funhouse.jpg?v=1573974975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Dubble Bubble Bubblegum Assorted Flavours</h2>
+<h3 style="text-align: center;">America's Original Bubblegum!</h3>
+<p>Dubble Bubble Bubblegum means yummy summertime fun. We've been blowing this bubblegum since 1928. 420 plus pieces per bag!</p>
+<p style="text-align: center;"><strong>4 Classic Flavours: Original Bubble Gum, Grape, Apple, Watermelon</strong></p>
+<p style="text-align: center;"><strong>Made in Canada | Peanut Free | Tree Nut Free | Kosher</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubble Gum</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Dubble Bubble Gum</s:tag>
+    <s:tag>Gum</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>retro</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gum</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/416173621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>04-4000205</s:sku>
+      <s:grams>2200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

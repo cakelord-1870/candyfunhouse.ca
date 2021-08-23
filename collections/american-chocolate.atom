@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/american-chocolate.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-22T11:55:25-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632775024699</id>
+    <published>2021-07-22T11:55:25-04:00</published>
+    <updated>2021-07-22T11:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-creme-de-raspberry-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Raspberry - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-raspberry-5.53oz-candy-funhouse.jpg?v=1626896392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Raspberry filled Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632775024699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001456</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632771092539</id>
+    <published>2021-07-22T11:54:46-04:00</published>
+    <updated>2021-07-22T11:54:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-pumpkin-spice-5-53oz"/>
+    <title>Ovation Break-A-Parts Pumpkin Spice - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-pumpkin-spice-5.53oz-candy-funhouse.jpg?v=1626897368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Pumpkin Spice filled Swiss Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>pumpkin</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632771092539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001453</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632769814587</id>
+    <published>2021-07-22T11:54:12-04:00</published>
+    <updated>2021-07-22T11:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-dark-chocolate-creme-de-mint-5-53oz"/>
+    <title>Ovation Break-A-Parts Dark Chocolate Creme de Mint - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-dark-chocolate-mint-5.53oz-candy-funhouse.jpg?v=1626896554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Mint filled Dark Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>mint chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632769814587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001452</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632774598715</id>
+    <published>2021-07-22T11:53:37-04:00</published>
+    <updated>2021-07-22T11:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-creme-de-pineapple-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Pineapple - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-pineapple-5.53oz-candy-funhouse.jpg?v=1626897143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Pineapple filled Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632774598715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001455</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632773419067</id>
+    <published>2021-07-22T11:53:04-04:00</published>
+    <updated>2021-07-22T11:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-creme-de-coconut-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Coconut - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-coconut-milk-5.53oz-candy-funhouse_1.jpg?v=1626896692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Coconut filled Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632773419067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001454</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625626456123</id>
+    <published>2021-07-13T16:07:14-04:00</published>
+    <updated>2021-07-13T16:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boyer-peanut-butter-cups-fun-bites-10oz"/>
+    <title>Boyer Peanut Butter Cups Fun Bites - 10oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Boyer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boyer-peanut-butter-cups-fun-bites-10z-funhouse-online-candy-shop.jpg?v=1625860655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boyer<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Boyer Peanut Butter Cups Fun Size</h2>
+<p style="text-align: center;">Bite-sized milk chocolate goodness filled with creamy peanut butter! Thanks Boyer! Hand them out on Halloween or simply fill a bowl with them. All we know is you will love getting a dose of peanut butter in this cute treat!</p>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;">
+<span data-mce-fragment="1">Trick-or-TREAT yo' self at</span><span data-mce-fragment="1"> </span><a data-mce-fragment="1" href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span data-mce-fragment="1">!</span>
+</div>
+<p> </p>
+<p><strong><br></strong></p>
+<p><strong>10oz (283g)</strong></p>
+<ul>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>Made In The USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625626456123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>02-2001445</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627991584827</id>
+    <published>2021-07-13T16:02:46-04:00</published>
+    <updated>2021-07-13T16:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-fruity-cereal"/>
+    <title>Kit Kat Fruity Cereal - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kit-kat-fruity-cereal-1.5ozcandy-funhouse-online-candy-shop.jpg?v=1626096947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Craving Cereal For Dessert?<br>
+</h2>
+<p style="text-align: center;">Introducing the new Limited Edition Kit Kat Fruity Cereal Bar! Replace your late night cereal with this amazing treat! This sweet treat still contains the classic crispy wafers we all love, BUT is now covered in a fruity cereal flavor cream, with specs of cereal throughout! The flavour of this chocolate bar tastes literally like you're eating Froot Loops or Fruity Pebbles, that's how on point the flavour is!</p>
+<p style="text-align: center;">Now the only thing we haven't tried is dipping this KitKat in milk! Try it and let us know how it tastes! Tag us on Instagram <a href="https://www.instagram.com/candyfunhouse/?hl=en" target="_blank" title="candy Funhouse On Instagram " rel="noopener noreferrer">@candyfunhouse</a></p>
+<p> </p>
+<p><strong>1.5oz (42g)</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627991584827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001449</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238886459</id>
+    <published>2021-07-09T12:07:16-04:00</published>
+    <updated>2021-07-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-fast-break-bar-king-size-3-5oz"/>
+    <title>Reese&apos;s Fast Break Bar King Size - 3.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhseys-reeses-fast-break-bar-king-szie-3.5-oz-candy-funhouse-online-candy-shop.jpg?v=1625238118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Reimagined</h2>
+<h3 style="text-align: center;">🤴KING SIZE🤴</h3>
+<p>Craving the classic peanut butter and chocolate cup? Try Reese's Fast Break King Size! It's a delicious bar filled with a thick hunk of chewy nougat, topped with the traditional Reese's creamy peanut butter, and <span data-mce-fragment="1">completely covered in rich milk chocolate. </span></p>
+<p><span data-mce-fragment="1">Indulge today!</span></p>
+<p><strong>3.5 oz (99 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238886459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001401</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238984763</id>
+    <published>2021-07-09T12:06:57-04:00</published>
+    <updated>2021-07-09T12:06:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-sugar-free-peg-chocolate-filled-w-caramel-3oz"/>
+    <title>Hershey&apos;s Sugar Free Peg Chocolate Filled w/Caramel - 3oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-sugar-free-chocolate-filled-with-caramel-3-oz-candy-funhouse-online-candy-shop.jpg?v=1624909514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delicious Sugar-free Candy</h2>
+<p>Now you can enjoy the classic Hershey's chocolate candy in a sugar-free treat! Including one of our favourites, Hershey's chocolate filled with caramel...yummy!</p>
+<ul>
+<li>Hershey's chocolate in the sugar-free variety</li>
+<li>Ideal for those with special dietary needs</li>
+<li>35 calories per sugar-free chocolate bar</li>
+<li>Individually Wrapped</li>
+<li>Kosher Candy</li>
+<li>Gluten Free</li>
+</ul>
+<p><strong>3 oz. Bag</strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<h5 class="Ingredients"><span class="subTitle font-bold">Ingredients:<span> </span></span></h5>
+<p class="Ingredients"><span class="aboutModuleText">Maltitol, Cocoa Butter, Chocolate*,Polydextrose, Cream Milk*, Polyglycitol, Milk Fat, Contains 2% or Less of Calcium Carbonate, Cocoa Processed with Alkali*, Maltodextrin*, Sodium Caseinate (Milk), Lecithin (Soy), Natural Flavor and Artificial Flavor, PGPR, Emulsifier*Adds a Negligible Amount of Sugar</span></p>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238984763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001402</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625626095675</id>
+    <published>2021-07-09T09:48:33-04:00</published>
+    <updated>2021-07-09T09:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-kisses-filled-with-strawberry-creme"/>
+    <title>Hershey&apos;s Kisses Vampire Filled with Strawberry Creme - 9oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kisses-vampire-milk-chocolate-filled-with-strawberry-creme-9oz-candy-funhouse-online-candy-shop.jpg?v=1625840007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">A Bite And Drink All Wrapped In One</h2>
+<div style="text-align: center;" data-mce-style="text-align: left;">Get your fangs ready and enjoy a Milk Chocolate Kiss oozing with blood<span data-mce-fragment="1">—</span>oops we mean a delicious Strawberry Creme! So many Kisses it'll drive you batty! </div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: center;" data-mce-style="text-align: center;">Trick-or-TREAT yo' self at<span> </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a>!<br>
+</div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><br></div>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<strong></strong><br>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><strong></strong></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><strong></strong></div>
+<p><strong>9oz (255g)</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625626095675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001444</s:sku>
+      <s:grams>255</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621761404987</id>
+    <published>2021-06-21T09:33:21-04:00</published>
+    <updated>2021-06-21T09:33:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-symphony-chocolate-bar-192g"/>
+    <title>Hershey&apos;s GIANT Symphony Chocolate Bar - 6.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-giant-symphony-chocolate-bar-192g-candy-funhouse-online-candy-shop.jpg?v=1624034463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's GIANT Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>6.8oz (192 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621761404987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001403</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621762420795</id>
+    <published>2021-06-21T09:32:31-04:00</published>
+    <updated>2021-06-21T09:32:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-xl-symphony-chocolate-bar-120g"/>
+    <title>Hershey&apos;s XL Symphony Chocolate Bar - 4.25oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-xl-symphony-chocolate-bar-120g-candy-funhouse-online-candy-shop.jpg?v=1624034790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<h2 style="text-align: center;"><span><span>Hershey's XL Symphony Chocolate Bar</span></span></h2>
+<p>The <em>Hershey's Symphony Chocolate Bar</em> contains creamy milk chocolate with almonds and toffee chips. A great addition to the already delicious and iconic Hershey's Milk Chocolate. <span>The name "Symphony" is given to the bars because it is a treat to the mouth like music is to the ears.</span></p>
+<p><strong>4.25 oz (125 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621762420795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001404</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6576227254331</id>
+    <published>2021-05-10T00:52:51-04:00</published>
+    <updated>2021-05-10T00:52:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-crunchy-peanut-king-size-bar-3-2oz"/>
+    <title>Reese&apos;s Crunchy Peanut King Size Bar - 3.2oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/reeses-crunchy-peanut-king-size-bar-3-2oz-candy-funhouse.jpg?v=1620622306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Step Right Up!<br>
+</h2>
+<p>Craving the classic peanut butter and chocolate combo but want something a little more filling? Try Reese's new Crunchy Peanut King Bar! This candy bar is both smooth and crunchy and has three helpings of peanut butter! Packed full of salty peanuts, silky peanut butter creme and smooth peanut butter then coated in chocolate, there's zero chance you're going to pass this one up.</p>
+<p><strong>87g </strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6576227254331</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001082</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6570050879547</id>
+    <published>2021-04-26T16:03:11-04:00</published>
+    <updated>2021-04-26T16:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersehy-zero-sugar-milk-chocolate-pouch-5-1oz"/>
+    <title>Hershey&apos;s Zero Sugar Milk Chocolate Pouch - 5.1oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_zerosugar_chocolatecandy_144g-Side-jpg-1.jpg?v=1624586459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Same Great Taste, Zero Sugar<br>
+</h2>
+<p><span>There’s happy, and then there’s HERSHEY'S Happy... now with ZERO SUGAR.  Indulge in one of </span><span data-mce-fragment="1">HERSHEY'S Organic </span>Zero Sugar Milk Chocolat<span data-mce-fragment="1">e Candy Bars, the same Hershey goodness you love and none of the sugar. This package contains individually wrapped bite sized treats m</span><span>ade of delicious, creamy milk chocolate. Perfect whether enjoyed alone or shared with a friend. Use them in your favorite sugar-free baking recipes!</span></p>
+<p><strong>5.1oz (144g)</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6570050879547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>02-2000545</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6566506987579</id>
+    <published>2021-04-20T13:37:29-04:00</published>
+    <updated>2021-04-20T13:37:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-key-lime-pie"/>
+    <title>Kit Kat Key Lime Pie - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kit-kat-key-lime-pie-limited-edition-candy-funhouse.jpg?v=1618940265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Kit Kat Limited Edition</h2>
+<p> </p>
+Brand new from Hershey's, Kit Kat Key Lime Pie is this year's special Limited Edition new Kit Kat Flavour. Available for a limited time so be sure to try it before it's gone!
+<p> </p>
+<p><strong>1.5oz</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6566506987579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000723</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552677285947</id>
+    <published>2021-03-24T22:59:02-04:00</published>
+    <updated>2021-03-24T22:59:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/andes-snap-mint-cookie-crunch-1-5oz"/>
+    <title>Andes Snap Mint Cookie Crunch - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Tootsie Roll Industries</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_tootsie_andes_snapBar_mintCookieCrunch_43g-Side-jpg-1.jpg?v=1624591452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tootsie Roll Industries<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Andes Crème de Menthe Snap Bars</span></h2>
+<p><br></p>
+<h5></h5>
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>mint chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Royal Candies</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Mints</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552677285947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>02-2000140</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547020873787</id>
+    <published>2021-03-17T20:29:40-04:00</published>
+    <updated>2021-03-17T20:29:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersehy-zero-sugar-special-dark-pouch-5-1oz"/>
+    <title>Hershey&apos;s Zero Sugar Special Dark Pouch - 5.1oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_zerosugar_specialdark_144g-Side-jpg-1.jpg?v=1624586531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hershey's Zero Sugar Special Dark Pouch - 5.1oz</h2>
+<p><strong>5.1oz (144g)</strong></p>
+<p> </p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547020873787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>02-2000546</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547017891899</id>
+    <published>2021-03-17T20:10:35-04:00</published>
+    <updated>2021-03-17T20:10:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/herhsey-kisses-strawberry-ice-cream-cone-9oz"/>
+    <title>Hershey&apos;s Kisses Strawberry Ice Cream Cone - 9oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhsey-kisses-strawberry-ice-cream-cone-9oz-candy-funhouse.jpg?v=1616026267"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Hershey's Exclusive New Release of 2021</h2>
+<p>New Limited Summertime Edition Hershey Kisses Strawberry Ice Cream Cone</p>
+<p>9oz</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547017891899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.49</s:price>
+      <s:sku>02-2000543</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547013140539</id>
+    <published>2021-03-17T19:46:07-04:00</published>
+    <updated>2021-03-17T19:46:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-ultimate-peanut-butter-lovers-king-size-cups-2-8-oz"/>
+    <title>Reese&apos;s ULTIMATE Peanut Butter Lovers King Size Cups - 2.8oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesUltimate_79-Side-jpg-1.jpg?v=1624473694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New from Reese's</span></h2>
+<h3 style="text-align: center;"><span>Limited Edition</span></h3>
+<p><span>Reeses figured out the best way to savour REESE’S Peanut Butter. They coated these REESE’S Peanut Butter Lovers Cups in an extra layer of smooth, sweet peanut butter creme. It was just too good to hide inside the cups any longer. Thank you, Reeses. Thank you very much.</span></p>
+<p><strong>2.8</strong><strong> oz. (79g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Reese</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547013140539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001124</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547012878395</id>
+    <published>2021-03-17T19:41:29-04:00</published>
+    <updated>2021-03-17T19:41:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-ultimate-peanut-butter-lovers-cups-1-4-oz"/>
+    <title>Reese&apos;s ULTIMATE Peanut Butter Lovers Cups - 1.4oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesUltimate_39-Side-jpg-1.jpg?v=1624473627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New from Reese's</span></h2>
+<h3 style="text-align: center;"><span>Limited Edition</span></h3>
+<p><span>Reeses figured out the best way to savour REESE’S Peanut Butter. They coated these REESE’S Peanut Butter Lovers Cups in an extra layer of smooth, sweet peanut butter creme. It was just too good to hide inside the cups any longer. Thank you, Reeses. Thank you very much.</span></p>
+<p><strong>39g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Reese</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547012878395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001123</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540686786619</id>
+    <published>2021-03-06T17:46:55-05:00</published>
+    <updated>2021-03-06T17:46:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-zero-sugar-miniature-cups-144g"/>
+    <title>Reese&apos;s Zero Sugar Miniature Cups - 5.1oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_Reeses_ZeroSugar_144g-Side-jpg-1.jpg?v=1624675151"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">ZERO SUGAR MINIATURE CUPS<br>
+</h2>
+<p> </p>
+<p><strong>144g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Hersheys</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Reese</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540686786619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>02-2001129</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540674760763</id>
+    <published>2021-03-06T16:38:01-05:00</published>
+    <updated>2021-03-06T16:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-nutrageous-king-size"/>
+    <title>Reese&apos;s Nutrageous King Size - 87g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ReesesNutrageous_87-Side-jpg-1.jpg?v=1624470520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Nutrageous King Size Candy Bar</h2>
+<p style="text-align: center;">Reese's Nutrageous is a candy bar made by the Hershey Company that was first introduced in 1994. It may not be one of the oldest chocolate bars in the world, but like all Reese's products, it has staying power. It consists of Reese's Peanut Butter Cups<a href="http://en.wikipedia.org/wiki/Reese%27s_Peanut_Butter_Cups" title="Reese's Peanut Butter Cups"></a> topped with caramel covered roasted peanuts<a href="http://en.wikipedia.org/wiki/Peanut" title="Peanut"></a> and and is covered with a chocolate coating.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: left;"><strong>87g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540674760763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001093</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540658933819</id>
+    <published>2021-03-06T15:16:36-05:00</published>
+    <updated>2021-03-06T15:16:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/whozeewhatzit-1-7oz"/>
+    <title>Whozeewhatzit - 48g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_WhozeewhatzitLisaM_48-Side-jpg-1.jpg?v=1624473956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Funny Name... Serious Flavor!</span></h2>
+<p><span data-mce-fragment="1">The new WHOZEEWHATZIT Chocolate Candy Bar is the latest addition to the Whatchamacallit brand. Packed with chocolatey crisp pieces and smooth peanut butter coated in rich chocolate, this chocolate bar is sure to win you over. I</span><span data-mce-fragment="1">ts attention-grabbing name was submitted by Hershey candy super-fan Lisa M! Fans of the discontinued Thingamajig bar will find this strikingly similar!</span></p>
+<p><strong>48g</strong></p>
+<h3 style="text-align: center;">American Chocolate Bar </h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540658933819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001356</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540656705595</id>
+    <published>2021-03-06T14:55:53-05:00</published>
+    <updated>2021-03-06T14:55:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-organic-special-dark-mildly-sweet-chocolate"/>
+    <title>Hershey&apos;s Organic Special Dark Mildly Sweet Chocolate</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_organic_specialDark_119g-Side-jpg-1.jpg?v=1624585990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Perfect for dark chocolate lovers!</h2>
+<p><span>When a candy bar features the words  'Organic' and 'Special', you know it’s going to be awesome. Indulge in one of </span><span data-mce-fragment="1">HERSHEY'S Organic Special Dark Mildly Sweet Chocolate, the same Hershey goodness you love, now made with simple organic ingredients. This package contains individually wrapped bite sized treats m</span><span>ade of mildly sweet and positively delicious dark chocolate. Perfect whether enjoyed alone or shared with a friend. </span></p>
+<p><meta charset="utf-8"><strong>119g</strong></p>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540656705595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>02-2000612</s:sku>
+      <s:grams>119</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540639010875</id>
+    <published>2021-03-06T13:14:05-05:00</published>
+    <updated>2021-03-06T13:14:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-thins-share-pack"/>
+    <title>Kit Kat Thins Share Pack</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_kitkat_thins_208g-Side-jpg-1.jpg?v=1624585699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span>Break into 'me' time.</span></h2>
+<p><span>When there’s only time for a quick break, have KIT KAT® THiNS! The same great taste as a regular size KIT KAT®, but thinner. These bite sized candies offer the perfect amount of smooth chocolate and crispy wafers in individually wrapped portions. Perfect for when you need a little me time. Also excellent for sharing, but only if you want to!</span></p>
+<p><strong>208g</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540639010875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2000743</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+  </entry>
+</feed>

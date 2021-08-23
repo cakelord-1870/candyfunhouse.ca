@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/waterbridge.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-09T12:07:19-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620580741179</id>
+    <published>2021-07-09T12:07:19-04:00</published>
+    <updated>2021-07-09T12:07:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-mallow-sour-strawberry-vanilla-125g"/>
+    <title>Waterbridge Just Mallow Sour Strawberry Vanilla - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-mallow-sour-strawberry-vanilla-marshmallows-125-g-candy-funhouse-online-candy-shop.jpg?v=1624034546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Soft and Sour? Sign Me Up!</h2>
+<p>     Waterbridge has come with a new kind of treat to satisfy our tastebuds. The sweet flavour of a foamy strawberry-vanilla milkshake mixed with a lip-puckering sour taste will have you reaching in for more. Luckily, this bag is resealable to ensure fresh marshmallows any time you want! Make sure to share, they might be gone sooner than you think.</p>
+<ul>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Fat-Free</strong></li>
+<li><strong>Lactose-Free</strong></li>
+<li><strong>GMO-Free</strong></li>
+</ul>
+<p><br></p>
+<p><strong>125g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620580741179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002888</s:sku>
+      <s:grams>134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587455864891</id>
+    <published>2021-05-21T01:13:30-04:00</published>
+    <updated>2021-05-21T01:13:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-fun-factory-candy-150g"/>
+    <title>Waterbridge Fun Factory Candy - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-fun-factory-assorted-candy-150g-candy-funhouse.jpg?v=1621574030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">More than Fun!<br>
+</h2>
+<p><span>Do you love candy? Then Waterbridge Fun Factory is for you! In this bag of sweets find all kinds of delicious candies from lollipops to candy bracelets. Individually wrapped candies and a resealable bag, this package is perfect for sharing. Bring the fun to parties, study sessions and long car rides, wherever you are you can snack on these delicious treats!</span></p>
+<p><strong>150g</strong><br></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587455864891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002791</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587454455867</id>
+    <published>2021-05-21T01:11:43-04:00</published>
+    <updated>2021-05-21T01:11:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbriidge-bananas-200g"/>
+    <title>Waterbridge Bananas - 200g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-bananas-200g-candy-funhouse.jpg?v=1621573936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A-Peeling Banana Treat<br>
+</h2>
+<p>It's all monkey business! Soft, chewy and sweet, Waterbridge Bananas are surprisingly delicious. These squishy<span> banana-shaped, yellow candies are loaded with a tasty banana flavour that's sure to tickle your fancy. Made with all natural flavours, these bananas are the perfect fruity treat. </span></p>
+<ul></ul>
+<p><strong>200</strong><strong>g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587454455867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002792</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587452457019</id>
+    <published>2021-05-21T01:10:14-04:00</published>
+    <updated>2021-05-21T01:10:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-fizzy-bubblegum-bottles-200g"/>
+    <title>Waterbridge Fizzy Bubblegum Bottles - 200g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-fizzy-bottles-200g-candy-funhouse.jpg?v=1621573831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bottles Up!<br>
+</h2>
+<p><span>Everyone’s favourite cola bottle has been combined with a delicious new flavour in Waterbridge Fizzy Bubblegum Bottles. These tantalizingly tangy gummy bottles are loaded with bubblegum flavour in a cute bottle shape. Made with all natural flavours and suitable for vegetarians, these brightly coloured pop bottles are the perfect fizzy treat for all bubblegum lovers.</span></p>
+<ul></ul>
+<p><strong>200</strong><strong>g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemtype="http://schema.org/Product" itemscope="">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div id="tab-description" class="tab-content is-active">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587452457019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002793</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587450458171</id>
+    <published>2021-05-21T01:08:14-04:00</published>
+    <updated>2021-05-21T01:08:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-taffy-sour-125g"/>
+    <title>Waterbridge Just Taffy Sour - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-taffy-sour-125g-candy-funhouse.jpg?v=1621573724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour and Salty Taffy<br>
+</h2>
+<p><span>Deliciously sweet and chewy taffy, now sour! Waterbridge has taken their classic salt water taffy recipe and added a whole bunch of sour flavours. Grab a bag and see which flavour is your favourite. They have tangy lemon, sparkly raspberry, crisp apple, juicy grape, zesty orange and succulent cherry! Each flavour is fruity and tangy and is sure to satisfy your taste buds. Take them with you on all your summer activities!</span></p>
+<ul></ul>
+<p><strong>125g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Taffy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587450458171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002794</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587449475131</id>
+    <published>2021-05-21T01:07:05-04:00</published>
+    <updated>2021-05-21T01:07:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-taffy-original-125g"/>
+    <title>Waterbridge Just Taffy Original - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-taffy-traditional-125g-candy-funhouse.jpg?v=1621573649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Summer Flavours Galore<br>
+</h2>
+<p><span>The most flavour you'll find in a bag! Each package of Waterbridge Just Taffy Original is loaded with mouthwatering flavours such as watermelon, passion fruit, raspberry lemonade, strawberry banana, cotton candy, caramel swirl, frosted cupcake and orange crème. Deliciously sweet and chewy these fruity and sugary sweet summer flavours are sure to satisfy all cravings. Take them with you on all your summer activities!</span></p>
+<ul></ul>
+<p><strong>125g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemtype="http://schema.org/Product" itemscope="">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div id="tab-description" class="tab-content is-active">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587449475131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002795</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587447967803</id>
+    <published>2021-05-21T01:05:43-04:00</published>
+    <updated>2021-05-21T01:05:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-mallow-smiles-twists-125g"/>
+    <title>Waterbridge Just Mallow Smiles Twists - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-mallow-twists-and-smiles-125g-candy-funhouse.jpg?v=1621573588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">With a Twist!<br>
+</h2>
+<p><span>Soft</span><span> and fluffy these marshmallows have a twist! Introducing Waterbridge Just Mallow </span><span>Twists and Smileys</span><span>. Vanilla flavoured</span><span> and full of different shapes, these marshmallows bring the fun. Search through the bag and find </span><span>shapes like smiley faces, twists and multicoloured squares</span><span>! Fat-free and </span><span>made with all-natural flavours they </span><span>are the perfect indulgent sweet treat! </span><span>Add them to your snack time for a delicious and light snack.</span></p>
+<ul></ul>
+<p><strong>125g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587447967803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002796</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6587444985915</id>
+    <published>2021-05-21T01:02:40-04:00</published>
+    <updated>2021-05-21T01:02:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-mallow-bubblegum-125g"/>
+    <title>Waterbridge Just Mallow Bubblegum - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-mallow-bubble-gum-sour-125g-candy-funhouse.jpg?v=1621573446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bursting with Flavour<br>
+</h2>
+<p><span>Fizzy, fluffy, sour and sweet the Mallows are more than meets the eye! These bright pink and blue marshmallows are exploding with a tasty, tangy and sour Bubblegum flavour unlike any you've had before. Add in that the colouring comes from all-natural sources and that they are made without any fat and these Mallows are the way to go. Add them to your snack time for a delicious and light treat. </span></p>
+<p><strong>125g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6587444985915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.36</s:price>
+      <s:sku>01-1002797</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6575843704891</id>
+    <published>2021-05-05T00:13:11-04:00</published>
+    <updated>2021-05-05T00:13:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/foxs-glacier-mints-200g"/>
+    <title>Fox&apos;s Glacier Mints - 200g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/foxs-glacier-mints-200g-candy-funhouse.jpg?v=1620188075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Better Mint</h2>
+<p><span>Made from natural mint oils, Fox's Glacier Mints bring you true refreshment. Each package is filled with mint flavoured boiled sweets that look like little glaciers! Originally started back in 1897 the Classic Glacier Mints have been loved for generations and are made with with no artificial colours or flavourings. </span></p>
+<ul>
+<li><span>British Candy</span></li>
+</ul>
+<p><strong>200 g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemtype="http://schema.org/Product" itemscope="">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div id="tab-description" class="tab-content is-active">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Mints</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6575843704891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>01-1000683</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540633997371</id>
+    <published>2021-03-06T12:47:55-05:00</published>
+    <updated>2021-03-06T12:47:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-spring-masterpiece-collection"/>
+    <title>Easter Waterbridge Spring Masterpiece Collection</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Waterbridge-spring-masterpiece-collection-candy-funhouse-online-candy-store-canada_1.jpg?v=1615052896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Waterbridge Spring Masterpiece Collection<br>
+</h2>
+<p><br></p>
+<p><strong>204 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540633997371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>01-1002710</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540630097979</id>
+    <published>2021-03-06T12:38:20-05:00</published>
+    <updated>2021-03-06T12:38:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-mallow-bunnies-and-chicks-150g"/>
+    <title>Waterbridge Just Mallow Bunnies and Chicks - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Waterbridge-just-mallow-bunnies-and-chicks-candy-funhouse-online-candy-store-canada_1.jpg?v=1615052283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Waterbridge Just Mallow Bunnies and Chicks<br>
+</h2>
+<p><br></p>
+<p><strong>150 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540630097979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1002688</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540628885563</id>
+    <published>2021-03-06T12:30:54-05:00</published>
+    <updated>2021-03-06T12:30:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-spring-mix-200g"/>
+    <title>Waterbridge Spring Mix - 200g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-spring-mix-gummies-candy-funhouse-online-candy-store-canada.jpg?v=1615051832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Spring Mix Gummies<br>
+</h2>
+<p><br></p>
+<p><strong>200 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540628885563</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1002712</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6540625444923</id>
+    <published>2021-03-06T12:21:31-05:00</published>
+    <updated>2021-03-06T12:21:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-spring-mini-eggs-400g"/>
+    <title>Easter Waterbridge Spring Mini Eggs - 400g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-mini-eggz-candy-funhouse-online-candy-store-canada.jpg?v=1615051278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Waterbridge Spring Mini Eggs</span></h2>
+<p><br></p>
+<p><strong>400 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>All Natural</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>chocolate egg</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6540625444923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>01-1002711</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5112922898491</id>
+    <published>2021-02-17T20:39:38-05:00</published>
+    <updated>2021-02-17T20:39:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-mini-eggz-150-g"/>
+    <title>Waterbridge Mini Eggz - 150 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-mini-eggz-british-candies-150g-candy-funhouse-online-candy-store-canada.jpg?v=1613611881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Easter Mini Eggz from the UK</span></h2>
+<p><span>A delectable Easter candy treat from the UK. Waterbridge Mini Eggs are delightful milk chocolate eggs covered in a crispy speckled candy shell. A sweet addition to any celebration.</span></p>
+<ul>
+<li><span>Gourmet Quality Chocolate Eggs</span></li>
+<li><span>British Candy</span></li>
+<li><span>Resealable Bag</span></li>
+</ul>
+<p><strong>150 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Easter Candy Shipped Fast!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>All Natural</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5112922898491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>01-1002704</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5088772620347</id>
+    <published>2020-12-28T10:43:56-05:00</published>
+    <updated>2020-12-28T10:43:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-allsorts-large-pouch-400g"/>
+    <title>Waterbridge Allsorts Large Pouch - 400g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-allsorts-british-candy-candyfunhouse-canada.jpg?v=1609173351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            8.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span data-mce-fragment="1">Waterbridge Allsorts Large Pouch</span></h1>
+<h2 style="text-align: center;"><span data-mce-fragment="1">British Liquorice Candy </span></h2>
+<h3 style="text-align: center;"><span data-mce-fragment="1">Fun Shaped and All-natural </span></h3>
+<p><span data-mce-fragment="1">Have a taste of England as you indulge in this bag of fun, colourful, all-natural candies! You will surely enjoy the quality of these sweet, chewy assortment of licorice, gummies, and treats. Each piece of candy has its own unique texture and taste. Which one will be your favourite? Discover what fulfils your tastebuds today!</span></p>
+<p><span data-mce-fragment="1">Since 1993, Waterbridge has been seeking out fresh, new treats from the best manufacturers around the world so that Canadians can have a taste of these delightful English delicacies. </span></p>
+<div style="text-align: center;"><span data-mce-fragment="1">This large pouch features 5 delicious varieties to enjoy:</span></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<span data-mce-fragment="1"><strong>L</strong></span><span data-mce-fragment="1"><strong>emon | Raspberry and chocolate sandwiches |</strong></span>
+</div>
+<div style="text-align: center;">
+<span data-mce-fragment="1"><strong>Pink &amp; yellow coconut rolls </strong></span><span data-mce-fragment="1"><strong>| Candy-coated jelly buttons | Liquorice bites</strong></span>
+</div>
+<p><span data-mce-fragment="1"><strong>400g</strong></span></p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><strong>Fresh Candy Shipped Fast!</strong></h2>
+<h5><span data-mce-fragment="1">Ingredients</span></h5>
+<p><span>Sugar, Molasses, Enriched Wheat Flour, Glucose Syrup (Wheat). Desiccated Coconut (Contains Sulphites), Palm Oil, Gelatine, Cornflour, Glycerol, Natural Colours, Cocoa Powder, Liquorice Extract, Beeswax, Flavours, Fruit &amp; Vegetable Juices for Colour. </span><span>Contains Gluten.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>All Natural</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Colour_Black</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Brown</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Yellow</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Artificial Sweetners</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5088772620347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.99</s:price>
+      <s:sku>01-1002666</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5088766132283</id>
+    <published>2020-12-28T10:16:54-05:00</published>
+    <updated>2020-12-28T10:16:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-wine-gums-canadian-mix-200-g"/>
+    <title>Waterbridge Wine Gums Canadian Mix - 200 g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_waterbridge_WineGums_200g-Side-jpg-1.jpg?v=1624567853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><b>Waterbridge | Canada's 150 Anniversary</b></h1>
+<h2 style="text-align: center;"><b>Classic British Candy with a Canadian Twist</b></h2>
+<h3 style="text-align: center;"><b>All-Natural Wine Gums</b></h3>
+<p><span>In honour of celebrating Canada’s 150th anniversary in 2017, Waterbridge created 8 fun shapes that reflect some of the most iconic items of Canada. Brian Hicks, Waterbridge founder, chose these shapes while reminiscing on Canadian memories he’s made since living here.</span><span class="Apple-converted-space"> </span></p>
+<p>Did you know?... In the late 1800s, English candy artisans discovered that mixing fermented wine with a gelling agent produces an irresistibly delicious confection - Wine Gums! Today, Wine Gums made by Waterbridge have perfected their recipes with <strong>all-natural colours and flavours!</strong> These special Wine Gums are made without gelatin, allowing vegetarians and vegans to enjoy this sweet treat. This chewy and uniquely delicious candy does not contain wine, making it the perfect treat for both kids and adults.<span class="Apple-converted-space"> </span></p>
+<p style="text-align: center;">In this 200g pouch you will find 8 candy shapes:</p>
+<div style="text-align: center;"><strong>Beaver | Ice Skates | Canoe | Loonie Coin |<span class="Apple-converted-space"> </span></strong></div>
+<div style="text-align: center;"><strong>Maple Leaf | Canadian Flag | Moose Head | Waterbridge Bar</strong></div>
+<p style="text-align: center;"> </p>
+<p>What iconic Canadian memories have you created with loved ones? Share your story with a bag of Waterbridge’s Special Edition Canadian Mix and use #WaterbridgeJoy and #Canada150 on social media! Don’t forget to tag @candyfunhouse #candyfunhouse to share where you got this delicious bag of wine gums so others can enjoy too.</p>
+<ul>
+<li><strong>Gelatin-Free</strong></li>
+<li><strong>Zero Artificial Colours</strong></li>
+<li><strong>Zero Artificial Flavours</strong></li>
+<li><strong>Vegan</strong></li>
+<li><strong>Vegetarian</strong></li>
+</ul>
+<p><b>200 g</b></p>
+<p>If you love Waterbridge Wine Gums, you'd love these varieties too!</p>
+<p><a href="https://candyfunhouse.ca/products/waterbridge-wine-gums-200-g"><span>Waterbridge Wine Gums Jumbo Bag - 1kg</span></a></p>
+<p><span><a href="https://candyfunhouse.ca/products/waterbridge-wine-gums-red-and-black-berries" target="_blank">Waterbridge Wine Gums Red and Black Berries - 200 g</a></span></p>
+<p><span><a href="https://candyfunhouse.ca/products/waterbridge-jelly-babies" target="_blank">Waterbridge Jelly Babies - 200g</a></span></p>
+<h2 style="text-align: center;"><strong>Fresh British Candy Shipped Fast!</strong></h2>
+<h5><strong>Ingredients</strong></h5>
+<p><b>﻿*Please see manufacturers packaging for most accurate list of ingredients*</b></p>
+<h6><b><span style="font-weight: 400;">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data. </span><span style="font-weight: 400;">We cannot be held responsible for the accuracy of </span><span style="font-weight: 400;">ingredients</span><span style="font-weight: 400;"> or nutritional information provided, nor liable for any reactions caused by the products we sell.</span></b></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>All Natural</s:tag>
+    <s:tag>Assorted</s:tag>
+    <s:tag>Assorted Bulk</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Canadian Snacks</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>candy bowl</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>fruit chews</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5088766132283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.39</s:price>
+      <s:sku>01-1002722</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5086372266043</id>
+    <published>2020-12-23T10:48:19-05:00</published>
+    <updated>2020-12-23T10:48:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-wine-gums-200-g"/>
+    <title>Waterbridge Wine Gums - 1kg</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Untitleddesign-22.jpg?v=1609169416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span>Waterbridge Mini Allsorts</span></h1>
+<h2 style="text-align: center;"><span>All-Natural Wine Gums</span></h2>
+<p>In the late 1800s, English candy artisans discovered that mixing fermented wine with a gelling agent produces an irresistibly delicious confection - Wine Gums! Today, Wine Gums made by Waterbridge have perfected their recipes with all natural colours and flavours! Be delighted by wine gums made with real fruit juices: orange, pear, lemon, lime, raspberry, &amp; blackcurrant. This chewy and uniquely delicious candy does not contain wine, making it the perfect treat for both kids and adults.<span class="Apple-converted-space"> </span></p>
+<p><span><strong>This is a 1kg bag of wine gums.</strong> Perfect for movie night, candy bowls, office treats, or simply for enjoyment. Features a resealable top for maintaining maximum freshness, and so you can snack whenever you please.</span></p>
+<p><strong>1kg</strong></p>
+<h2 style="text-align: center;"><strong>Fresh British Candy Shipped Fast!</strong></h2>
+<p>If you love Waterbridge Wine Gums, you'd love these varieties too!</p>
+<p><span><a href="https://candyfunhouse.ca/products/waterbridge-wine-gums-red-and-black-berries" target="_blank">Waterbridge Wine Gums Red and Black Berries - 200 g</a></span></p>
+<p><a href="https://candyfunhouse.ca/products/waterbridge-wine-gums-canadian-mix-200-g" target="_blank"><span>Waterbridge Wine Gums Canadian Mix - 200 g</span></a></p>
+<p><span><a href="https://candyfunhouse.ca/products/waterbridge-jelly-babies" target="_blank">Waterbridge Jelly Babies - 200g</a></span></p>
+<p> </p>
+<h5><strong>Ingredients</strong></h5>
+<p>GLUCOSE SYRUP (WHEAT), SUGAR, MODIFIED CORN STARCH, WATER, MODIFIED POTATO STARCH, GELATIN, LACTIC ACID, ACETIC ACID, NATURAL FLAVOURS (RASPBERRY, LEMON, LIME, ORANGE, PEAR, BLACKCURRANT), COLOUR, VEGETABLE OILS (PALM OIL, SUNFLOWER OIL, COCONUT OIL), BEESWAX.</p>
+<h6>
+<span style="font-weight: 400;">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data. </span><span style="font-weight: 400;">We cannot be held responsible for the accuracy of </span><span style="font-weight: 400;">ingredients</span><span style="font-weight: 400;"> or nutritional information provided, nor liable for any reactions caused by the products we sell.</span>
+</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>All Natural</s:tag>
+    <s:tag>Assorted Bulk</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>candy bowl</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>fruit chews</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:tag>wine</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5086372266043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.99</s:price>
+      <s:sku>01-1002721</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5060901077051</id>
+    <published>2020-11-06T23:30:56-05:00</published>
+    <updated>2020-11-06T23:30:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-fudge-butter-fudge-150g"/>
+    <title>Waterbridge Just Fudge Butter Fudge - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_waterbridge_JustFudge_ButterFudge_150g-Side-jpg-1.jpg?v=1624592343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delicious Gourmet Fudge</h2>
+<p><span style="font-weight: 400;">If you’re craving the best of vanilla flavour combined with traditional, luxurious fudge, look no further. This is a treat for you. Waterbridge Just Fudge Butter Fudge is supremely creamy and sweet, and it’s just the thing for a cold winter afternoon or evening. Enjoy with some hot chocolate or just some coffee. </span></p>
+<p><span style="font-weight: 400;">Waterbridge Just Fudge Butter Fudge is a gift that’s always certain to please. Get this fool-proof present for all the people in your life. If you haven’t tried traditional fudge, you don’t know what you’re missing. Place your order now and finally find out. This fudge is calling your name! </span></p>
+<p><strong>150 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Fudge</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5060901077051</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.26</s:price>
+      <s:sku>01-1002686</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5060895244347</id>
+    <published>2020-11-06T23:21:48-05:00</published>
+    <updated>2020-11-06T23:21:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-fudge-maple-butter-fudge-150g"/>
+    <title>Waterbridge Just Fudge Maple Butter Fudge - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-fudge-maple-butter-fudge-150g-candy-funhouse-online-candy-store.jpg?v=1604723312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delicious Gourmet Fudge</h2>
+<p><span>The rich, sweet flavour of Maple Syrup is the star of our deliciously crumbly Waterbridge Maple Butter Fudge. This soft and fluffy fudge is great for sharing with family and friends, not to mention it’s bursting with Canadian pride! Whether its paired with a hot cuppa on a relaxing afternoon or packed as a quick snack on your next trip our rich and smooth Maple Fudge is the perfect sweet indulgence.</span></p>
+<p><strong>150 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Fudge</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5060895244347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.69</s:price>
+      <s:sku>01-1002687</s:sku>
+      <s:grams>175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5057559494715</id>
+    <published>2020-10-30T17:48:01-04:00</published>
+    <updated>2020-10-30T17:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-gourmet-sour-jelly-beans-150-g"/>
+    <title>Waterbridge Gourmet Sour Jelly Beans - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-gourmet-sour-jelly-beans-150-g-candy-funhouse-online-candy-store.jpg?v=1604094724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Gourmet Sour Jelly Beans</span></h2>
+<p><span>With deliciously fruity flavours like raspberry, lemon-lime, tangerine and green apple, our Waterbridge Gourmet Sour Jellybeans pack a tangy punch! Like a party for your taste buds, these jellybeans are packed with exciting flavour and are sure to become your new favourite indulgence! Made with all-natural colours and flavours, these zesty little beans are the perfect sweet and sour snack!</span></p>
+<p><strong>150 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Jelly Beans</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Jelly Beans</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5057559494715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.39</s:price>
+      <s:sku>01-1002678</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5057559199803</id>
+    <published>2020-10-30T17:45:02-04:00</published>
+    <updated>2020-10-30T17:45:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-gourmet-jelly-beans-150-g"/>
+    <title>Waterbridge Gourmet Jelly Beans - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-gourmet-jelly-beans-150-g-candy-funhouse-online-candy-store.jpg?v=1604094438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Gourmet Jelly Beans</span></h2>
+<p><span data-mce-fragment="1">Every Waterbridge Gourmet Jelly Bean is packed full of delicious, mouth-watering flavour! With tons of beans to explore you’ll find everything from fruity favourites like strawberry, pineapple and grapefruit to cozy, comforting notes of butterscotch, marshmallow and French vanilla inside each bag! Made with all-natural colours and flavours, these exquisite jellybeans make a fantastic sweet treat for any occasion!</span></p>
+<p><strong>150 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Jelly Beans</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Jelly Beans</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5057559199803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.39</s:price>
+      <s:sku>01-1002677</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5025663483963</id>
+    <published>2020-09-05T13:29:54-04:00</published>
+    <updated>2020-09-05T13:29:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-sesame-150g"/>
+    <title>Waterbridge Sesame - 150g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_waterbridge_Sesame_CrisptSesameTreats_150g-Side-jpg-1.jpg?v=1624567644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Waterbridge Sesame</h2>
+<p><span>The English love their toffee… and we know you will too! Warning: you will definitely eat the whole bag! The word “Toffee” first appeared in the Oxford English Dictionary in 1825 though it is believed that toffee was invented before its official induction. We at Waterbridge are bringing these exquisite centuries-old traditional sweets to all Canadians!</span></p>
+<ul>
+<li><span>British Candy</span></li>
+</ul>
+<p><strong>150 g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Toffee</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5025663483963</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.39</s:price>
+      <s:sku>01-1002708</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2256319971387</id>
+    <published>2020-06-20T12:36:44-04:00</published>
+    <updated>2020-06-20T12:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-fruit-chocolate-limes-200g"/>
+    <title>Waterbridge Just Fruit Chocolate Limes - 200g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_waterbridge_JustFruit_ChocolateLimes_200g-Side-jpg-1.jpg?v=1624566510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Chocolate Limes English Sweets!</h2>
+<div class="product attribute overview">
+<div class="value" itemprop="description">These incredibly unique premium English sweets are chocked full of intense and all-natural lime flavour, right from the moment you pop one into your mouth. Waterbridge Chocolate Limes are a traditional hard-boiled treat with a delicious twist… the centre is filled with exquisite chocolate! The flavours of chocolate and lime are a perfect pairing of tangy, refreshing and decadent</div>
+<div class="value" itemprop="description"></div>
+</div>
+<div style="text-align: center;"><strong>Sealed safely inside of the Waterbridge resealable pouch. </strong></div>
+<p><strong>200 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2256319971387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.39</s:price>
+      <s:sku>01-1002683</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4911598338107</id>
+    <published>2020-05-17T11:34:03-04:00</published>
+    <updated>2020-05-17T11:34:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-toffee-chocolate-caramels-180-g"/>
+    <title>Waterbridge Just Toffee Chocolate Caramels - 180g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-toffee-chocolate-caramels-180-g-british-candy-candyfunhouse-online-candy-store-canada.jpg?v=1589729847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Waterbridge Chocolate Covered Caramels</h2>
+<p><span>We at Waterbridge were wondering… what could be better than caramel toffee? That’s when it came to us, delicious caramel toffee covered in silky smooth chocolate, Eureka! Of course, the idea isn’t so new. In the United Kingdom, people have enjoyed this mouth-watering treat for decades! If the Brits can enjoy it… why can’t we! Introducing Waterbridge’s luxurious Chocolate Caramel.</span></p>
+<ul>
+<li><span>British Candy</span></li>
+</ul>
+<p><strong>200 g</strong></p>
+<div class="container">
+<div class="page row"><main itemscope="" itemtype="http://schema.org/Product" class="page-content col-sm-12">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Toffee</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4911598338107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>01-1002698</s:sku>
+      <s:grams>220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4911577989179</id>
+    <published>2020-05-17T11:19:07-04:00</published>
+    <updated>2020-05-17T11:19:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-toffee-creamy-toffee-200-g"/>
+    <title>Waterbridge Just Toffee Creamy Toffee - 180g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_waterbridge_JustToffee_CreamyToffee_180g-Side-jpg-1.jpg?v=1624567325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Waterbridge Creamy Toffee</h2>
+<p><span>The English love their toffee… and we know you will too! This gorgeously creamy toffee will melt in your mouth. Warning: you will definitely eat the whole bag! The word “Toffee” first appeared in the Oxford English Dictionary in 1825 though it is believed that toffee was invented before its official induction. We at Waterbridge are bringing these exquisite centuries-old traditional sweets to all Canadians!</span></p>
+<ul>
+<li><span>British Candy</span></li>
+</ul>
+<p><strong>180 g</strong></p>
+<div class="container">
+<div class="page row"><main itemscope="" itemtype="http://schema.org/Product" class="page-content col-sm-12">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Toffee</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Toffee</s:tag>
+    <s:tag>Waterbridge</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4911577989179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>01-1002699</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+</feed>

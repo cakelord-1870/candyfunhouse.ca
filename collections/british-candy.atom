@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/british-candy.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-13T12:08:55-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643236569147</id>
+    <published>2021-08-13T12:08:55-04:00</published>
+    <updated>2021-08-13T12:08:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rowntrees-randoms-foamies-pouch-140g"/>
+    <title>Rowntree&apos;s Randoms Foamies Pouch - 140g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-uk-rowntrees-randoms-foamies-140g-candyfunhouse_1.jpg?v=1628870928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<h2 style="text-align: center;"><span>Completely Unpredictable!</span></h2>
+<h3 style="text-align: center;"><span>Like a fluffy pillow for your mouth!</span></h3>
+<p style="text-align: left;"><span data-mce-fragment="1">Rowntree's® Randoms Foamies boast a fun and random assortment of gummy candies! Originally from the UK, this package of delightfully foamy sweet flavoured treats is a perfect snack for all ages. With prominnet flavours of strawberry biscuit and ice-cream biscuit. From ping-pong paddles to paintbrushes, ice cream cones to saxophones, every bag contains billions of possible combinations of textures, shapes, colours and flavours. You never know what you're going to get! </span></p>
+<p style="text-align: left;"><br></p>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><strong>140 g</strong></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Rowntree&apos;s</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643236569147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.59</s:price>
+      <s:sku>01-1003047</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643236405307</id>
+    <published>2021-08-13T12:06:08-04:00</published>
+    <updated>2021-08-13T12:06:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rowntrees-randoms-juicers-pouch-140g"/>
+    <title>Rowntree&apos;s Randoms Juicers Pouch - 140g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-uk-rowntrees-randoms-juicers-140g-candyfunhouse.jpg?v=1628870690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<h2 style="text-align: center;"><span>Completely Unpredictable!</span></h2>
+<h3 style="text-align: center;"><span mce-data-marked="1">Bursting with yummy juiciness!</span></h3>
+<p style="text-align: left;"><span data-mce-fragment="1">Rowntree's® Randoms Juicers boast a fun and random assortment of gummy candies! Originally from the UK, this package of soft fruity-flavoured chewy sweets filled with a liquid center is a perfect snack for all ages. From ping-pong paddles to paintbrushes, ice cream cones to saxophones, every bag contains billions of possible combinations of textures, shapes, colours and flavours. You never know what you're going to get! <meta charset="utf-8">A squishy, juicy experience that is beyond words! </span></p>
+<p style="text-align: left;"><strong>140 g</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>filled gummy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Rowntree&apos;s</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643236405307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.47</s:price>
+      <s:sku>01-1003046</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625064058939</id>
+    <published>2021-07-19T11:50:00-04:00</published>
+    <updated>2021-07-19T11:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-buttons-treat-68g"/>
+    <title>Maltesers Buttons Treat - 68g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-maltesers-buttons-treat-bag-68g-candy-funhouse.jpg?v=1626709286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Lighter Way to Enjoy Chocolate </span></h2>
+<p><span mce-data-marked="1"></span>   These crunchy, chocolatey snacks are a fun way to get all that <strong>Maltesers</strong> goodness in a smaller bite! Delectable chocolate buttons filled with crispy <strong>Maltesers</strong> bits, chomp down for a satisfying crunch, or let them melt on your tongue to enjoy that blissful warm chocolate taste. No matter how you enjoy these delicious treats, make sure you take advantage of this treat-sized bag and share the joy with all your friends!</p>
+<p><strong>68 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625064058939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku>02-2001432</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6631598915643</id>
+    <published>2021-07-15T15:43:21-04:00</published>
+    <updated>2021-07-15T15:43:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/millions-vimto-remix"/>
+    <title>Millions Vimto Remix - 35g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Millions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/millions-vimto-remix-35g-candy-funhouse.jpg?v=1626269860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Millions<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Tiny, Tasty, Chewy Sweets</h2>
+<p>    Time to drop the <em>sweet</em>, this is one tasty remix! This <strong>Vimto Millions</strong> pouch is jam-packed with fruity flavours that were made with <strong>real fruit juice</strong>. A delicious blend of <strong>Mango</strong>, <strong>Strawberry</strong>, and <strong>Pineapple</strong> will create a hurricane of juicy goodness in your mouth! Any fan of tropical flavours needs to try this tantalizing treat.</p>
+<ul>
+<li><strong>Natural Colour</strong></li>
+<li><strong>Contains Real Fruit Juice</strong></li>
+</ul>
+<p> </p>
+<p><strong>﻿(1 pouch) 35g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6631598915643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1003014</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620580741179</id>
+    <published>2021-07-09T12:07:19-04:00</published>
+    <updated>2021-07-09T12:07:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/waterbridge-just-mallow-sour-strawberry-vanilla-125g"/>
+    <title>Waterbridge Just Mallow Sour Strawberry Vanilla - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Waterbridge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/waterbridge-just-mallow-sour-strawberry-vanilla-marshmallows-125-g-candy-funhouse-online-candy-shop.jpg?v=1624034546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Waterbridge<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Soft and Sour? Sign Me Up!</h2>
+<p>     Waterbridge has come with a new kind of treat to satisfy our tastebuds. The sweet flavour of a foamy strawberry-vanilla milkshake mixed with a lip-puckering sour taste will have you reaching in for more. Luckily, this bag is resealable to ensure fresh marshmallows any time you want! Make sure to share, they might be gone sooner than you think.</p>
+<ul>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Fat-Free</strong></li>
+<li><strong>Lactose-Free</strong></li>
+<li><strong>GMO-Free</strong></li>
+</ul>
+<p><br></p>
+<p><strong>125g</strong></p>
+<div class="container">
+<div class="page row"><main class="page-content col-sm-12" itemscope="" itemtype="http://schema.org/Product">
+<div class="productView">
+<article class="productView-description" itemprop="description">
+<div class="tabs-contents">
+<div class="tab-content is-active" id="tab-description">
+<h5></h5>
+</div>
+</div>
+</article>
+</div>
+</main></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Marshmallow</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620580741179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1002888</s:sku>
+      <s:grams>134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623266373691</id>
+    <published>2021-07-09T12:06:55-04:00</published>
+    <updated>2021-07-09T12:06:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-chocolate-chip-cookie-mix-180g"/>
+    <title>Galaxy Chocolate Chip Cookie Mix - 180g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-chocolate-chip-cookie-mix-180-g-candy-funhouse-online-candy-shop.jpg?v=1624374546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Time To DIY With This Fabulously Delicious Cookie Mix!</h2>
+<p>  Sometimes store-bought cookies just ain't it, we know you're looking to treat your tastebuds with nothing but the best. Thankfully Galaxy has come to the rescue with the perfect dessert and activity mixed into one! <br></p>
+<p>  All you need to make this pouch turn into 8 soft, chewy cookies is 25g of butter, 15ml of water, and 20 minutes of your time. Baking has never been easier - or quite this mouthwatering! The batter mix contains many chunks of rich, silky smooth Galaxy Milk Chocolate that will melt over your tongue with each bite you take. </p>
+<p>  Don't hesitate! Make your next sleepover, stay-at-home date, or get-together with friends a hit bit this fun and succulent way to make some memories.</p>
+<h5 style="text-align: center;">Think chocolate. Think Galaxy.</h5>
+<p><br></p>
+<p><strong>(1 packet) 180g</strong></p>
+<p> </p>
+<p> </p>
+<p><strong>Directions (as listed on the packaging):</strong></p>
+<ul>
+<li>Preheat your oven to 180°C/ Fan 160°C/ Gas Mark 4</li>
+<li>Empty the contents of the pouch into a bowl</li>
+<li>Soften 25g of butter in the microwave. (Make sure it isn't too hot or it will melt the chocolate)</li>
+<li>Add the softened butter to the cookie mix and stir well. (It should look a bit like a crumble mix)</li>
+<li>Add water and mix if you have stiff dough. (Add extra water if necessary)</li>
+<li>Divide the mix into 8 evenly sized balls. Place on an ungreased baking tray and flatten. (Leave enough room between cookies so they can spread)</li>
+<li>Bake in the centre of the oven for 12 minutes until golden (or leave in a little longer for extra crunch)</li>
+<li>Allow the cookies to cool on the baking tray before transferring to a wire rack to cool completely</li>
+</ul>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623266373691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>03-3001274</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10483567114</id>
+    <published>2021-07-09T12:00:35-04:00</published>
+    <updated>2021-07-09T12:00:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-eclairs-classic-uk"/>
+    <title>Cadbury Eclairs Classic UK - 166g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-eclairs-classic-uk-1960s-british-caramel-chocolate_187.jpg?v=1571438935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Candy</h2>
+<p><span>Delicious Caramels with Milk Chocolate Centres from the sweet and creative geniuses at Cadbury UK.</span></p>
+<p><strong>166g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10483567114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2000303</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552794398779</id>
+    <published>2021-07-09T11:59:50-04:00</published>
+    <updated>2021-07-09T11:59:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-chocolate-eclairs-uk-130g"/>
+    <title>Cadbury Chocolate Eclairs UK - 130g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Cadbury-Chocolate-Eclairs-130g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616648583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Perfect Combination</h2>
+<p style="text-align: left;" data-mce-style="text-align: center;">The<span> mouthwatering combination of caramel and chocolate makes this treat a long time favourite. Let Cadbury Eclairs take you on a delicious journey through a layer of chewy caramel to a heart of rich Cadbury chocolate. </span>Individually wrapped and perfect for sharing with friends and family.</p>
+<p><strong>130 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552794398779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000208</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625115242555</id>
+    <published>2021-07-09T11:13:50-04:00</published>
+    <updated>2021-07-09T11:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-white-chocolate-45g"/>
+    <title>Kit Kat White Chocolate UK - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-kit-kat-white-chocolate-bar-45-g-candy-funhouse-online-candy-shop.jpg?v=1625082546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Kit Kat is Now a Little Creamier!</span></h2>
+<div style="text-align: left;">  A different way to enjoy Kit Kat, for those of us with a sweeter than average tooth! Each bar contains 4 crispy wafer sticks dipped in a smooth, creamy batch of rich white chocolate. This great treat will have you up on cloud nine!</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<p><strong>(1 bar) 45g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625115242555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001442</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623276138555</id>
+    <published>2021-07-09T11:10:07-04:00</published>
+    <updated>2021-07-09T11:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-counters-peg-bag-122g"/>
+    <title>Galaxy Counters Peg Bag - 122g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-counters-peg-bag-122-g-candy-funhouse-online-candy-shop_1.jpg?v=1624473382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pieces of Pure Chocolate Pleasure </h2>
+<p>  Galaxy Counters are a perfect snack for any milk chocolate fan. These bite-sized morsels of rich Galaxy Milk Chocolate will slowly melt in your mouth, allowing you to indulge in the silky smooth texture of this luxurious chocolate treat. </p>
+<p>  The resealable* bag is the perfect size to share with friends and family, but if you can't bring yourself to give them away, it's okay, we've been there too. Get lost in the amazing flavour, sure to transport you out of this world!</p>
+<h5 style="text-align: center;">Why have cotton when you can have silk?</h5>
+<p> </p>
+<p><strong>(1 pouch) 122g</strong></p>
+<p>*resealable when using the provided fresh seal sticker located on the back of the bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623276138555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>02-2001407</s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627466674235</id>
+    <published>2021-07-09T11:09:20-04:00</published>
+    <updated>2021-07-09T11:09:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/fruit-tella-summer-fruits-peg-bag-135g"/>
+    <title>Fruit-tella Summer Fruits Peg Bag - 135g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/fruit-tella-summer-fruits-135g-candy-funhouse-online-candy-shop.jpg?v=1625770910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Let Loose With The Taste of Summer</h2>
+<p>     <strong>Fruit-tella fruit chews</strong> are always a fantastic treat, and now you can enjoy them while beating the heat! Each chew has an intense, juicy, and long-lasting flavour that's made with<strong> real fruit juice</strong>, so you know you're getting an authentic fruit taste. With delicious <strong>Lemon</strong>, <strong>Strawberry</strong>, and <strong>Orange</strong> flavours, it's the perfect mix to chow down on during the hottest season of the year - or any time you want to remember it!</p>
+<p>    These<strong> individually wrapped</strong> Juicy Chews are perfect for sharing the great taste with all your friends!</p>
+<ul>
+<li><strong>All Natural Colours and Flavours</strong></li>
+<li><strong>Individually Wrapped</strong></li>
+<li><strong>Made with Real Fruit Juice</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Dairy-Free</strong></li>
+<li><strong>Nut-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>135g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruit chews</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627466674235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002993</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625095057467</id>
+    <published>2021-07-09T09:13:28-04:00</published>
+    <updated>2021-07-09T09:13:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-munchies-milk-chocolate-roll-51-9g"/>
+    <title>Nestle Munchies Milk Chocolate Roll - 51.9g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-munchies-roll-51.9-g-candy-funhouse-online-candy-shop.jpg?v=1625082387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A Delicious UK Treat To Take On The Go</strong></h2>
+<p><strong>   </strong>A sweet, crunchy cookie center enrobed in smooth, creamy caramel and all wrapped up in a rich milk chocolate coating, this British favourite will become one of yours too! This roll is perfect for snacking when out and about, or the right portion to down all in one go. You might want to order our <a href="https://candyfunhouse.ca/products/nestle-munchies-104g" title="Nestle Munchies Share Bag - 104g | Candy Funhouse">share size bag</a> too, as these might disappear quicker than you thought!</p>
+<p> </p>
+<p><strong>(1 roll) 51.9g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625095057467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001438</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625113833531</id>
+    <published>2021-07-08T15:06:15-04:00</published>
+    <updated>2021-07-08T15:06:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kinder-chocolate-with-cereal-bar-24g"/>
+    <title>Kinder Chocolate with Cereal Bar UK - 24g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kinder-chocolate-with-cereal-bar-24g-candy-funhouse-online-candy-shop.jpg?v=1625518144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Different Way to Enjoy Kinder!</h2>
+<p>  Any fan of Kinder chocolate will adore this fun new bar! A creamy, milky filling loaded with popped and toasted cereal pieces (r<span data-mce-fragment="1">ice, buckwheat, barley, hulled wheat, and wheat), enrobed in a smooth milk chocolate coating. A sure way to put a smile on anyone's face, no matter how young or old!</span></p>
+<div><br></div>
+<div><strong>(1 bar) 24 g</strong></div>
+<div style="text-align: center;"><strong>Imported Fresh From The UK!</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>ferrero</s:tag>
+    <s:tag>kinder</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625113833531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.29</s:price>
+      <s:sku>02-2001441</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627471097915</id>
+    <published>2021-07-08T15:05:20-04:00</published>
+    <updated>2021-07-08T15:05:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/fruit-tella-juicy-chews-rainbow-peg-bag-135g"/>
+    <title>Fruit-tella Juicy Chews Rainbow Peg Bag - 135g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/fruit-tella-juicy-chews-rainbow-135g-candy-funhouse-online-candy-shop.jpg?v=1625770258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">An Addicting Chew You Won't Forget</h2>
+<p>   <span> </span><strong> Fruit-tella fruit chews</strong><span> </span>are always a fantastic treat, with an irresistibly soft and enticing bite! Each chew has an intense, juicy, and long-lasting flavour that's made with<span> </span><strong>real fruit juice</strong>, so you know you're getting an authentic fruit taste. <span data-mce-fragment="1">With delicious </span><strong data-mce-fragment="1">Lemon</strong><span data-mce-fragment="1">, </span><strong data-mce-fragment="1">Strawberry</strong><span data-mce-fragment="1">, and </span><strong data-mce-fragment="1">Orange</strong><span data-mce-fragment="1"> flavours,</span> they're the perfect candy to help you take a sweet and relaxing break at the end of a long day.</p>
+<p>    These<span> </span><strong>individually wrapped</strong><span> </span>Juicy Chews are perfect for sharing the great taste with all your friends!</p>
+<ul>
+<li><strong>All Natural Colours and Flavours</strong></li>
+<li><strong>Individually Wrapped</strong></li>
+<li><strong>Made with Real Fruit Juice</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Dairy-Free</strong></li>
+<li><strong>Nut-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>135g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruit chews</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627471097915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002994</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627471261755</id>
+    <published>2021-07-08T15:05:16-04:00</published>
+    <updated>2021-07-08T15:05:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/fruit-tella-juicy-chews-strawberry-peg-bag-135g"/>
+    <title>Fruit-tella Favourites Juicy Strawberry Peg Bag - 135g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/fruit-tella-favourites-juicy-strawberry-135g-candy-funhouse-online-candy-shop.jpg?v=1625770526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">An Addicting Chew You Won't Forget</h2>
+<p>    <strong> Fruit-tella fruit chews</strong> are always a fantastic treat, and now you can enjoy them while beating the heat! Each chew has an intense, juicy, and long-lasting flavour that's made with <strong>real fruit juice</strong>, so you know you're getting an authentic fruit taste. A <strong>Strawberry</strong> flavour that can only be compared to a fresh, ripe berry straight off the vine, it's the perfect candy to help you take a sweet and relaxing break at the end of a long day.</p>
+<p>    These <strong>individually wrapped</strong> Juicy Chews are perfect for sharing the great taste with all your friends!</p>
+<ul>
+<li><strong>All Natural Colours and Flavours</strong></li>
+<li><strong>Individually Wrapped</strong></li>
+<li><strong>Made with Real Fruit Juice</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Dairy-Free</strong></li>
+<li><strong>Nut-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>135g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>fruit</s:tag>
+    <s:tag>fruit chews</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627471261755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002995</s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627932110907</id>
+    <published>2021-07-08T15:04:25-04:00</published>
+    <updated>2021-07-08T15:04:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/haribo-little-jelly-babies-uk-60g"/>
+    <title>Haribo Little Jelly Babies UK - 60g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/haribo-little-jelly-babies-60g-candy-funhouse-online-candy-shop.jpg?v=1625764971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>Perfect Pocket-Sized Snack</strong></h2>
+<p>    The wonderful confectioners at <strong>Haribo</strong> have made a fantastically juicy classic that comes in a small pouch, ready for you to have a delicious treat wherever life may take you! These delectable <strong>Little Jelly Babies</strong> come in 5 amazing fruity flavours: <strong>Apple</strong>, <strong>Blackcurrant</strong>, <strong>Orange</strong>, <strong>Lemon</strong>, and <strong>Kiwi</strong>. Luckily <strong>Haribo</strong> knows you need a treat on the go!</p>
+<p> </p>
+<p><strong>(1 peg bag) 60 g</strong></p>
+<h5><strong></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627932110907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002999</s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623272403003</id>
+    <published>2021-07-08T14:48:22-04:00</published>
+    <updated>2021-07-08T14:48:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-minstrels-big-bag-66g"/>
+    <title>Galaxy Minstrels Big Bag - 66g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-minstrels-big-bag-chocolates-66-g-candy-funhouse-online-candy-shop.jpg?v=1624374492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;"> Pleasure Worth Sharing.</h2>
+<p>  It's the same Galaxy Minstrels you know and love, just in a bigger bag! Share the rich, creamy goodness of Galaxy Milk Chocolate coated in a crispy, hard candy shell with all of your friends - or just have them all yourself (don't worry, we won't judge). M&amp;M's truly have nothing on these premium chocolates! </p>
+<h5 style="text-align: center;">Why have cotton when you can have silk?</h5>
+<p> </p>
+<p><strong>(1 share size pouch) 66g</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623272403003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2001406</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623278989371</id>
+    <published>2021-07-08T14:36:57-04:00</published>
+    <updated>2021-07-08T14:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/revels-35g"/>
+    <title>Revels - 35g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-revels-chocolates-35-g-candy-funhouse-online-candy-shop.jpg?v=1624376843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Bit of Mystery in Every Bite! </h2>
+<p>   Traditional chocolate has been boring you lately, huh? We get it, you need some spice and excitement in your life. Well, your flavour adventure begins right here with the treat only able to be found in the UK - Revels!</p>
+<p>  Each creamy Revel contains a surprise underneath the chocolate exterior. Which flavour will you get next? You can never be sure! Will it be raisin? Orange? Coffee? Maybe just plain chocolate. Or it could be Malteser or even toffee! These chocolate bites will keep you guessing what you're going to taste. </p>
+<h4 style="text-align: center;"> So tell us, can you guess right?</h4>
+<p> </p>
+<p><strong>(1 pouch) 35g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623278989371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001409</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623678824507</id>
+    <published>2021-07-08T13:40:58-04:00</published>
+    <updated>2021-07-08T13:40:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-orange-giant-buttons-uk-95g"/>
+    <title>Cadbury Dairy Milk Orange Giant Buttons UK - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mondelez-cadbury-dairy-milk-orange-giant-buttons-95-g-candy-funhouse-online-candy-shop.jpg?v=1624473590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>The Delectable Dairy Milk Chocolate Taste You Love, With a Citrusy Twist!</span></h2>
+<p><span>  Straight from the UK, Cadbury has brought you a new sweet that you're sure to love. These Giant Buttons have the same creamy and smooth Dairy Milk chocolate taste infused with real Orange oil to give you a boost of fruity flavour, elevating the enjoyment of your confection. </span></p>
+<p><span>  Whether you're a fan of Dairy Milk or orange flavoured chocolate, we know you won't be able to get enough of these tangy treats!</span></p>
+<p class="descriptionText"> </p>
+<p> </p>
+<p class="descriptionText"><strong>(1 bag) 95g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623678824507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001440</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625102528571</id>
+    <published>2021-07-08T13:35:43-04:00</published>
+    <updated>2021-07-08T13:35:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maynards-bassetts-jelly-babies-165g"/>
+    <title>Maynards Bassetts Jelly Babies - 165g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Maynards Bassetts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/maynards-bassetts-jelly-babies-bag-165-g-candy-funhouse-online-candy-shop.jpg?v=1625082225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Maynards Bassetts<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">A Classic British Sweet</h2>
+<p>   These soft jelly candies that have been around for over a century are wonderful sweet treats that have been enjoyed by millions. Each baby has its own name and flavour: <span data-mce-fragment="1">Brilliant (red; strawberry), Bubbles (yellow; lemon), Baby Bonny (pink; raspberry), Boofuls (green; lime), Bigheart (purple; blackcurrant), and Bumper (orange).</span></p>
+<p>   Did you know that when Bassett's began production of Jelly Babies, they were originally named "Peace Babies" and released in celebration of the end of World War I in 1918? Production had to cease during World War II due to wartime shortages, but the fantastic and colourful sweets made a great return in 1953 under the current name, "Jelly Babies!</p>
+<p> </p>
+<p><strong>(1 bag) 165 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1900s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>Maynards Bassetts</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625102528571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002972</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625111310395</id>
+    <published>2021-07-08T13:31:13-04:00</published>
+    <updated>2021-07-08T13:31:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/haribo-starbeams-160g"/>
+    <title>Haribo Starbeams - 160g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/haribo-starbeams-160g-candy-funhouse-online-candy-shop.jpg?v=1625765285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Fresh Fruity Treat From Haribo UK</h2>
+<p>   A delicious mix of sweet foam and soft jelly, these gummy candies made with fruit juice come in 3 tasty flavours: Cherry, Apple, and Lemon. With bright colours, you'll feel positively uplifted chewing on these sweet treats! They're also suitable for vegetarians, so you can share them with more of your friends and family. </p>
+<h5 style="text-align: center;">Kids and grown-ups love it so... the happy world of Haribo!</h5>
+<p>  </p>
+<p><strong>﻿(1 bag) 160g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Haribo</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625111310395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002976</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625110720571</id>
+    <published>2021-07-08T13:29:52-04:00</published>
+    <updated>2021-07-08T13:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/haribo-sour-sparks-160g-1"/>
+    <title>Haribo Sour Sparks - 160g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/haribo-sour-sparks-160g-candy-funhouse-online-candy-shop_1.jpg?v=1625765411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Don't Shock Yourself On These Sour Bolts!</h2>
+<p>   These may look like your typical gummy candy, but beware! - there's a sour surprise in the centre. Each bolt gummy has a unique dual flavour combination, there's pineapple &amp; raspberry, cola &amp; lemon, and apple &amp; cherry! These gummies are also vegetarian, making them safe to share with more of your friends and family. </p>
+<p>   We hope you like the flavour, they're electrifying!</p>
+<h5 style="text-align: center;" data-mce-fragment="1">Kids and grown-ups love it so... the happy world of Haribo!</h5>
+<p data-mce-fragment="1">  </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">﻿(1 bag) 160g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Haribo</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625110720571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002975</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625124843579</id>
+    <published>2021-07-08T13:01:30-04:00</published>
+    <updated>2021-07-08T13:01:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-chocolate-milkshake-drink-no-added-sugar-350ml"/>
+    <title>Galaxy Chocolate Milkshake Drink No Added Sugar - 350mL</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-galaxy-chocolate-milkshake-no-added-sugar-350mL-candy-funhouse.jpg?v=1626975055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1"></span></h2>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><strong>Out of this world milkshake</strong></h2>
+<p> <span> We know that Galaxy chocolate is a decadent treat you can't get enough of. That's why this delicious, creamy chocolate milkshake drink is the perfect new way to enjoy it! Taste the smooth, rich flavour of Galaxy as if it just melted into your mouth - luscious bliss. Just refrigerate, shake, and sip on the mouthwatering goodness of this beverage. The 350mL bottle is also perfect to take with you on the go, wherever your day may take you!</span><br></p>
+<ul>
+<li><b>No Added Sugar</b></li>
+<li><b>Suitable for Vegetarians </b></li>
+</ul>
+<p> </p>
+<p><strong>350mL</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>milkshake</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625124843579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>03-3001287</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625119273019</id>
+    <published>2021-07-08T13:01:17-04:00</published>
+    <updated>2021-07-08T13:01:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bounty-coconut-chocolate-milkshake-drink-no-added-sugar-350ml"/>
+    <title>Bounty Coconut &amp; Chocolate Milkshake Drink No Added Sugar - 350mL</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-bounty-coconut-chocolate-milkshake-no-added-sugar-350mL-candy-funhouse.jpg?v=1626974807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">
+<span data-mce-fragment="1">A Different Taste of Paradise</span><br>
+</h2>
+<p><span>  The light island breeze, bright rays from the sun warming your skin, the only thing that could perfect this vacay daydream is the creamy taste of coconut on your tongue. Luckily, this refreshing Bounty chocolate milkshake drink is sure to hit the spot! Delicious chocolate mixed together with rich coconut, you'll experience a flavour you won't be able to resist. Just refrigerate, shake, and start sipping. The 350mL bottle is also perfect to take with you on the go, wherever your day may take you!</span><br></p>
+<ul>
+<li><b>No Added Sugar</b></li>
+<li><b>Suitable for Vegetarians </b></li>
+</ul>
+<p> </p>
+<p><strong>350mL</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>milkshake</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625119273019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>03-3001286</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625065238587</id>
+    <published>2021-07-08T12:47:11-04:00</published>
+    <updated>2021-07-08T12:47:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-smooth-orange-bar-42g"/>
+    <title>Galaxy Smooth Orange Bar - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-galaxy-smooth-range-bar-42g-candy-funhouse-online-candy-shop.jpg?v=1625762826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Galaxy Smooth Orange Bar </h2>
+<h3 style="text-align: center;"><span>British Candy</span></h3>
+<p>A delicious smooth and creamy Orange <em>Milk Chocolate Bar</em>. One of any<em> Chocolate Lovers</em> favourite! But what else is this <em>Chocolate Bar</em>? It has out of this world flavours of orange!</p>
+<p><strong>42g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625065238587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001434</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+</feed>

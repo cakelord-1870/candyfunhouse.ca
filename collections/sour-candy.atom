@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/sour-candy.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-06T00:17:00-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638382776379</id>
+    <published>2021-08-06T00:17:00-04:00</published>
+    <updated>2021-08-06T00:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-mini-bites-assorted-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Assorted Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-assorted-bites-pouch-3.5oz-candyfunhouse.jpg?v=1628172602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Embrace Your Punch</h2>
+<h3 style="text-align: center;">Sour Punch Mini Bites Assorted Flavours </h3>
+<p>Enjoy Sour Punches iconic straws in mini form! 3 flavors of sour candy per bag: <em><strong>Blue Raspberry, Green Apple &amp; Strawberry</strong></em>.</p>
+<p>These soft &amp; chewy candy bites are covered in the classic sour sugar coating and come in small bite-sized pieces. What is awesome about this candy is that it comes in a resealable bag! It will perfectly fit in your backpack or purse for a on-the-go snack. You can even try pairing these sour fruity candies with a snack like popcorn!<br data-mce-fragment="1"><br></p>
+<ul>
+<li>Low Fat</li>
+<li>Low Sodium</li>
+<li>Kosher &amp; Halal Certified</li>
+</ul>
+<p><strong>3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638382776379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003034</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638381596731</id>
+    <published>2021-08-06T00:16:40-04:00</published>
+    <updated>2021-08-06T00:16:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-mini-bites-rad-reds-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Rad Reds Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-red-bites-pouch-3.5oz-candyfunhouse.jpg?v=1628172478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Embrace Your Punch</h2>
+<h3 style="text-align: center;">Sour Punch Mini Bites Rad Reds</h3>
+<p>Enjoy Sour Punches iconic straws in mini form! 3 flavors of sour candy per bag:<em><strong> Strawberry, Watermelon, &amp; Cherry</strong></em>.</p>
+<p>These soft &amp; chewy candy bites are covered in the classic sour sugar coating and come in small bite-sized pieces. What is awesome about this candy is that it comes in a resealable bag! It will perfectly fit in your backpack or purse for a on-the-go snack. You can even try pairing these radical sour fruity candies with a snack like popcorn!</p>
+<p> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Low Fat</li>
+<li data-mce-fragment="1">Low Sodium</li>
+<li data-mce-fragment="1">Kosher &amp; Halal Certified</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638381596731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6635446534203</id>
+    <published>2021-08-03T16:05:40-04:00</published>
+    <updated>2021-08-03T16:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-spooky-straws-3-7oz"/>
+    <title>Sour Punch Spooky Straws - 3.7oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-spooky-straws-3.7oz-candyfunhouse.jpg?v=1628019494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">🎃Sip in Spooky Fashion👻<br>
+</h2>
+<div>
+<h3 style="text-align: center;"> LIMITED EDITION FLAVOURS</h3>
+</div>
+<p style="text-align: center;">Just in time for spooky season, enjoy your drink in true Halloween fashion with a chewy licorice straw that is sure to pack a spooky punch! </p>
+<p style="text-align: center;"><em><strong> Apple, Grape, and Tangerine</strong></em> flavoured spooky straws! </p>
+<p style="text-align: center;"> </p>
+<ul>
+<li>Halal &amp; Kosher Certified </li>
+<li>Made in a Zero Waste Certified Facility!</li>
+</ul>
+<p style="text-align: center;"> <span data-mce-fragment="1">Trick-or-TREAT yo' self at </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" data-mce-fragment="1" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a><span data-mce-fragment="1">!</span></p>
+<p> </p>
+<p><b>3.7oz (105g)</b></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Licorice</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Licorice</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6635446534203</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003024</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/372217701</id>
+    <published>2021-08-02T18:16:28-04:00</published>
+    <updated>2021-08-02T18:16:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/skittles-sour-candies-151g"/>
+    <title>Skittles Sour Candies - 5.7oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Wrigley JR. Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_skittles_sour_161g-Side-jpg-1.jpg?v=1628188463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wrigley JR. Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Skittles Sour Bite Size Candies</h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">Skittles Candy lets you Taste the Sour Rainbow!</h3>
+<p>Skittles Sour are bold and chewy candies in five sour and fruity flavours of <span>Lemon, Green Apple, Grape, Orange, and Strawberry</span><span>. Share this bag with your family and friends for sweet times!</span></p>
+<p style="text-align: center;" data-mce-style="text-align: center;"><strong>Can you handle the taste of this sour rainbow? Pucker Up, Sweeties!</strong></p>
+<ul>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Gelatin Free</strong></li>
+</ul>
+<p style="text-align: left;" data-mce-style="text-align: left;"><strong>5.7 oz</strong></p>
+<h5>Ingredients:</h5>
+<p>Sugar, Corn Syrup, Hydrogenated Palm Kernel Oil, Citric Acid, Tapioca Dextrin, Modified Corn Starch, Natural And Artificial Flavours, Colours With Tartrazine), Sodium Citrate, Carnauba Wax.</p>
+<p><strong data-mce-fragment="1">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Gelatin Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Skittles</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/372217701</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1002123</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6635038408763</id>
+    <published>2021-07-22T11:19:10-04:00</published>
+    <updated>2021-07-22T11:19:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/toxic-waste-mega-slime-licker-3oz"/>
+    <title>Toxic Waste Mega Slime Licker - 3oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Candy Dynamics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/candy-dynamics-toxic-waste-mega-slime-licker-3oz-candy-funhouse.jpg?v=1626876576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Candy Dynamics<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>As Seen on Tik Tok!</span></h2>
+<h3 style="text-align: center;"><span>Toxic Waste Slime Licker Sour Candy</span></h3>
+<p><span>A very toxic sour candy creation from the not so sweet geniuses at Toxic Waste Sour Candy. </span><strong>Toxic Waste MEGA Slime Licker</strong> is a sour rolling liquid candy that you roll on your tongue. It will make your face, and brain, PUCKER!</p>
+<p style="text-align: center;"><strong>Strawberry</strong> and <strong>Blue Razz</strong>.</p>
+<ul>
+<li><b>*Flavour is randomly selected*</b></li>
+<li>
+<b>3</b><b>6 Bottle max per order</b>
+</li>
+</ul>
+<p><strong>*ONE PIECE PER ORDER*</strong></p>
+<p><strong>3 oz </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>tiktok</s:tag>
+    <s:tag>Toxic Waste</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6635038408763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>01-1003022</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627930243131</id>
+    <published>2021-07-15T10:45:02-04:00</published>
+    <updated>2021-07-15T10:45:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-patch-kids-tropical-candy-8oz"/>
+    <title>Sour Patch Kids Tropical Candy - 8oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/modelez-sour-patch-kids-tropical-8oz-candy-funhouse-online-candy-shop.jpg?v=1625769103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Tropical Flavours from Sour Patch Kids</h2>
+<div class="gs">
+<div class="">
+<div class="ii gt" id=":w3">
+<div class="a3s aXjCH" id=":n6">
+<div dir="ltr">Get your sunglasses on, and get ready to be taken away to a beachy Tropical Island! Feel the cool ocean breeze as <strong>Sour Patch Kids Tropical Candies</strong> take you away on an exotic, delicious adventure! This American Candy starts you off on a tangy sour note but then rewards you with some sweetness! You will taste the Tropical flavours of <strong>Paradise Punch</strong>, <strong>Pineapple</strong>, <strong>Tropical Twist</strong> and <strong>Passion</strong> <strong>Fruit</strong>! Get ready for a fun whirlwind of taste with <strong>Sour Patch Kids Tropical Candies</strong>!</div>
+<div dir="ltr"></div>
+<h5 style="text-align: center;" dir="ltr">Sour. Sweet. Gone.</h5>
+<div dir="ltr"><br></div>
+<p><strong>(1 bag) 8oz / 226g</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Patch</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627930243131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.49</s:price>
+      <s:sku>01-1002998</s:sku>
+      <s:grams>245</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627971104827</id>
+    <published>2021-07-12T15:04:01-04:00</published>
+    <updated>2021-07-12T15:04:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-halloween-pucker-party-pack-20oz"/>
+    <title>Warheads Halloween Pucker Party Pack - 20oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/impact-confections-warheads-halloween-pucker-party-pack-20oz-candy-funhouse-online-candy-shop.jpg?v=1626098033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Share the Sour!</h2>
+<p>    We all know the tantalizing, tangy taste of <strong>Warheads </strong>is hard to resist, so share the flavour with the <strong>Pucker Party Pack</strong>! With <strong>90 pieces </strong>of mouth-puckering <strong>Warheads</strong> candies, this bag is packed with sour goodness to be shared with all the kids who stop by your door on Halloween. Featuring our favourite <strong>Warheads</strong> candies; <strong>Extreme Sour Hard Candy</strong>, <strong>Chewy Cubes</strong>, <strong>Colossal Sours</strong>, and <strong>Sour Bubblegum Pops</strong>. Hope you're prepared for a wicked shock to your senses!</p>
+<p> </p>
+<p><strong>(1 party pack includes 90 pieces) 20oz / 567g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627971104827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>01-1003007</s:sku>
+      <s:grams>567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625110720571</id>
+    <published>2021-07-08T13:29:52-04:00</published>
+    <updated>2021-07-08T13:29:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/haribo-sour-sparks-160g-1"/>
+    <title>Haribo Sour Sparks - 160g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/haribo-sour-sparks-160g-candy-funhouse-online-candy-shop_1.jpg?v=1625765411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1">Don't Shock Yourself On These Sour Bolts!</h2>
+<p>   These may look like your typical gummy candy, but beware! - there's a sour surprise in the centre. Each bolt gummy has a unique dual flavour combination, there's pineapple &amp; raspberry, cola &amp; lemon, and apple &amp; cherry! These gummies are also vegetarian, making them safe to share with more of your friends and family. </p>
+<p>   We hope you like the flavour, they're electrifying!</p>
+<h5 style="text-align: center;" data-mce-fragment="1">Kids and grown-ups love it so... the happy world of Haribo!</h5>
+<p data-mce-fragment="1">  </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">﻿(1 bag) 160g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Haribo</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625110720571</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002975</s:sku>
+      <s:grams>160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625624391739</id>
+    <published>2021-07-08T12:58:46-04:00</published>
+    <updated>2021-07-08T12:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rip-rolls-watermelon-1-4oz"/>
+    <title>Rip Rolls Watermelon - 1.4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Foreign Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/foreign-candy-company-rip-rolls-watermelon-1oz-candy-funhouse-online-candy-shop.jpg?v=1625763518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foreign Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">40 Inches of Fun!</h2>
+<p data-mce-fragment="1">    Buckle your seatbelts ladies, gentlemen, and anyone in between; you're about to embark on a wild flavour journey with<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rip Rolls<span data-mce-fragment="1"> Watermelon</span></strong>! <br data-mce-fragment="1"><br data-mce-fragment="1">    This uber intense fruit roll candy is flavoured with<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious fruit juice</strong>, giving it that<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">authentic Watermelon<span data-mce-fragment="1"> </span>taste</strong><span data-mce-fragment="1"> </span>you're bound to love. The<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">hint of sour</strong><span data-mce-fragment="1"> </span>mixed with the sweet fruit gives this seemingly never-ending candy roll amazing tastiness<span data-mce-fragment="1"> </span>that'll last you hours!</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Fat-Free</strong></li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">40g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625624391739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002988</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625624293435</id>
+    <published>2021-07-08T12:57:27-04:00</published>
+    <updated>2021-07-08T12:57:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rip-rolls-strawberry-1-4oz"/>
+    <title>Rip Rolls Strawberry - 1.4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Foreign Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/foreign-candy-company-rip-rolls-strawberry-1oz-candy-funhouse-online-candy-shop.jpg?v=1625763439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foreign Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">40 Inches of Fun!</h2>
+<p data-mce-fragment="1">    Buckle your seatbelts ladies, gentlemen, and anyone in between; you're about to embark on a wild flavour journey with<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Rip Rolls Strawberry</strong>! <br data-mce-fragment="1"><br data-mce-fragment="1">    This uber intense fruit roll candy is flavoured with<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious fruit juice</strong>, giving it that<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">authentic Strawberry taste</strong><span data-mce-fragment="1"> </span>you're bound to love. The<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">hint of sour</strong><span data-mce-fragment="1"> </span>mixed with the sweet fruit gives this seemingly never-ending candy roll amazing tastiness<span data-mce-fragment="1"> </span>that'll last you hours!</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Fat-Free</strong></li>
+</ul>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">40g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625624293435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002987</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625623998523</id>
+    <published>2021-07-08T12:55:47-04:00</published>
+    <updated>2021-07-08T12:55:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rip-rolls-rainbow-reaction-1-4oz"/>
+    <title>Rip Rolls Rainbow Reaction - 1.4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Foreign Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/foreign-candy-company-rip-rolls-rainbow-reaction-1oz-candy-funhouse-online-candy-shop.jpg?v=1625763344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foreign Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">40 Inches of Fun!</h2>
+<p>    This wild roll that doesn't seem to end is packed with amazing fruity flavours you won't be able to resist! Made with <strong>delicious fruit juice</strong>, the intense flavour and sour power are going to blow your mind! Pucker up as you taste the sour tangled in with <strong>Green Apple</strong>, <strong>Strawberry</strong>, <strong>Tutti</strong> <strong>Frutti</strong>, and <strong>Blue</strong> <strong>Raspberry</strong>. This mega-long rainbow will take your tastebuds on a super sour, super fun adventure you won't forget!</p>
+<ul>
+<li><strong>Fat-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>40g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625623998523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.49</s:price>
+      <s:sku>01-1002986</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625624490043</id>
+    <published>2021-07-08T12:54:37-04:00</published>
+    <updated>2021-07-08T12:54:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/rip-rolls-cherry-1-4oz"/>
+    <title>Rip Rolls Cherry - 1.4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Foreign Candy Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/foreign-candy-company-rip-rolls-cherry-1oz-candy-funhouse-online-candy-shop.jpg?v=1625763262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Foreign Candy Company<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">40 Inches of Fun!</h2>
+<p>    Buckle your seatbelts ladies, gentlemen, and anyone in between; you're about to embark on a wild flavour journey with <strong>Rip Rolls Cherry</strong>! <br><br>    This uber intense fruit roll candy is flavoured with <strong>delicious fruit juice</strong>, giving it that <strong>authentic Cherry taste</strong> you're bound to love. The <strong>hint of sour</strong> mixed with the sweet fruit gives this seemingly never-ending candy roll amazing tastiness that'll last you hours!</p>
+<ul>
+<li><strong>Fat-Free</strong></li>
+</ul>
+<p> </p>
+<p><strong>40g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625624490043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002989</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620594241595</id>
+    <published>2021-07-06T09:16:13-04:00</published>
+    <updated>2021-07-06T09:16:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dare-real-juicee-fruit-slices-818g"/>
+    <title>Dare Real Juicee Fruit Slices - 818g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Dare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dare-real-juicee-fruit-slices-assorted-818-g-candy-funhouse-online-candy-shop.jpg?v=1624045391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dare<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Candy Made Better</h2>
+<p>Bursting with tangy fruit flavours, Dare Real Juicee Fruit Slices is sure to delight your tastebuds.<span data-mce-fragment="1"> </span>You know these sour candies are the best around because they are made better by the legendary Dare Candy. Dare has been delighting candy lovers since 1892.</p>
+<h3 style="text-align: center;"></h3>
+<ul>
+<li>Peanut Free</li>
+<li>Gelatin Free</li>
+<li>Gluten-Free</li>
+<li>No Artificial Colours or Flavours</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>385 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Canadian Candy Shipped Fast!</strong></h3>
+<h5>INGREDIENTS:</h5>
+<p>Corn syrup, sugar, modified corn starch, concentrated fruit juices (watermelon, huito), malic acid, colour, sodium citrate, natural flavour, mineral oil, carnauba wax.</p>
+<h4 class="js-accordion">ALLERGY INFORMATION</h4>
+<ul class="normal">
+<li>Manufactured in a peanut-free facility</li>
+<li>May contain Milk</li>
+</ul>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+<ul class="normal"></ul>
+<ul class="normal"></ul>
+<ul class="normal"></ul>
+<ul class="normal"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dare Candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Gelatin Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620594241595</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>04-4000722</s:sku>
+      <s:grams>830</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620593258555</id>
+    <published>2021-07-06T09:16:13-04:00</published>
+    <updated>2021-07-06T09:16:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dare-real-jubes-original-1-5kg"/>
+    <title>Dare Real Jubes Original - 1.5kg</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Dare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dare-real-jubes-original-1.5-kg-candy-funhouse-online-candy-shop.jpg?v=1624911227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dare<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            11.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Candy Made Better</h2>
+<p>Bursting with tangy fruit flavours, Dare Real Jubes Candy is sure to delight your tastebuds. with the puckering flavours of o<span data-mce-fragment="1">range, lemon, lime, and cherry. </span>You know these sour candies are the best around because they are made better by the legendary Dare Candy. Dare has been delighting candy lovers since 1892.</p>
+<h3 style="text-align: center;"></h3>
+<ul>
+<li>Peanut Free</li>
+<li>Gelatin Free</li>
+<li>Gluten-Free</li>
+<li>No Artificial Colours or Flavours</li>
+<li>Canadian Candy</li>
+</ul>
+<p><strong>1.5 kg</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Canadian Candy Shipped Fast!</strong></h3>
+<h5>INGREDIENTS:</h5>
+<p>Corn syrup, sugar, modified corn starch, concentrated fruit juices (watermelon, huito), malic acid, colour, sodium citrate, natural flavour, mineral oil, carnauba wax.</p>
+<h4 class="js-accordion">ALLERGY INFORMATION</h4>
+<ul class="normal">
+<li>Manufactured in a peanut-free facility</li>
+<li>May contain Milk</li>
+</ul>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p>
+<ul class="normal"></ul>
+<ul class="normal"></ul>
+<ul class="normal"></ul>
+<ul class="normal"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dare Candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Gelatin Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620593258555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.69</s:price>
+      <s:sku>04-4000720</s:sku>
+      <s:grams>1500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622987518011</id>
+    <published>2021-06-30T22:33:49-04:00</published>
+    <updated>2021-06-30T22:33:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ccc-sour-jacked-up-juice-berries"/>
+    <title>CCC Sour Jacked Up Juice Berries</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/canada-candy-co-sour-jacked-up-juice-berries-bulk-gummies-2.5-kg-candy-funhouse-online-candy-shop.jpg?v=1624294192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Jacked Up Juice Berries Bulk Candy</h2>
+<p>You've never had Sour Juice Berries like these before, enjoy the powerful flavour and these berries won't be the only thing that are jacked up! Not only are they wildly delicious and made right here in Canada, but they are also Halal and Kosher. </p>
+<p style="text-align: center;"><strong>Try all the<span> </span><a href="https://candyfunhouse.ca/collections/canada-candy-co" title="Canada Candy Co." target="_blank">Canada Candy Co.</a><span> </span>Bulk Candies!</strong></p>
+<h3 style="text-align: center;">Perfect for Candy Buffets or Corporate Events</h3>
+<p style="text-align: center;"><strong>Peanut Free | Gluten Free | Halal | Kosher | Made in Canada</strong></p>
+<p><strong>Available in 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622987518011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000723</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625621999675</id>
+    <published>2021-06-30T16:22:55-04:00</published>
+    <updated>2021-06-30T16:22:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/trolli-sour-brite-crawlers-twisted-4oz"/>
+    <title>Trolli Sour Brite Crawlers Twisted - 4oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/trolli-sour-brite-crawlers-twisted-4oz-candy-funhouse-online-candy-shop.jpg?v=1625084444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">‼ NEW Twisted Update ‼</h2>
+<div style="text-align: center;">Trolli has taken their classic sour brite crawlers and twisted it up with this new mix for you to try! Featuring a chewy outside and soft berry filling ready to tingle and twist your taste buds. The balance of sweet and sour will unleash your wild side and you might even want to wiggle these into your top favourite candy lists!</div>
+<p> </p>
+<p style="text-align: center;"><em><strong>Did you know that in 1986 Trolli invented the gummi worm! </strong></em><br data-mce-fragment="1"><br></p>
+<p><strong>4 oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>gummy worms</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Trolli Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625621999675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002985</s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625625735227</id>
+    <published>2021-06-30T15:41:49-04:00</published>
+    <updated>2021-06-30T15:41:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-patch-kids-zombie-theater-box-3-5oz"/>
+    <title>Sour Patch Kids Zombie Theater Box - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sour-patch-kids-zombie-theater-box-3-5oz-candy-funhouse-online-candy-shop.jpg?v=1625082042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">The Zombie that Wants <em>You</em> To Eat <em>Them</em>!</h2>
+<p>    The treat that's come to spook your tastebuds with a sour vengeance! These sour then sweet <strong>Sour Patch Zombie Kids</strong> are hauntingly delicious, and if you thought that they were tart before, you better believe they've gone truly sour now. Only the <strong>Grape</strong> and <strong>Orange</strong> flavours have risen from their graves, making them a part of the perfect palette to include in any festive Halloween candy bowl! Just be careful... if you hear a creak in the night, it might be these dastardly sweets trying to <strong>give you something good to eat!</strong></p>
+<p> </p>
+<p><strong>(1 theatre box) 100g / 3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Sour Patch</s:tag>
+    <s:tag>Theatre Pack</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Type_Theatre Pack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625625735227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002990</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622978277435</id>
+    <published>2021-06-23T16:32:06-04:00</published>
+    <updated>2021-06-23T16:32:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/albanese-sour-large-neon-gummi-worms-4-5lb"/>
+    <title>Albanese Sour Large Neon Gummi Worms - 4.5lb</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Albanese Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/albanese-sour-large-neon-gummi-worms-4.5-lb-candy-funhouse-online-candy-shop.jpg?v=1624294083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Albanese Candy<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 class="title with-badge top-seller-badge" style="text-align: center;">Sour Large Neon Gummy Worms Candy<span class="top-seller-badge product-badge"></span>
+</h2>
+<p>Pucker up Sweeties! These <strong>Sour Neon Gummy Worms</strong> from Albanese Candy are the best way to enjoy this beloved classic gummy candy! Flavours include <span>Blue Raspberry, Lemon, Orange, Cherry and Green Apple.</span></p>
+<h3 style="text-align: center;"> Add to any themed candy buffet or corporate event. </h3>
+<p><strong>2.04 kg | 4.5 lbs</strong></p>
+<p style="text-align: center;"><strong>Dairy Free | Gluten Free | Low Sodium | MSG Free | No Artificial Sweeteners | Peanut Free | Tree Nut Free | Fat Free  Made in the USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Albanese</s:tag>
+    <s:tag>assorted</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Dairy Free</s:tag>
+    <s:tag>Fat Free</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>gummy worms</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>MSG Free</s:tag>
+    <s:tag>No Artificial Sweetners</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>sour</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622978277435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000727</s:sku>
+      <s:grams>2340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6619505426491</id>
+    <published>2021-06-21T09:39:20-04:00</published>
+    <updated>2021-06-21T09:39:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/crayola-sour-neon-gummies-3-5oz"/>
+    <title>Crayola Sour Neon Gummies - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bebeto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chew-crayola-sour-neon-gummies-100g-candy-funhouse-online-candy-shop_1.jpg?v=1624046771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bebeto<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">
+<meta charset="utf-8">
+<span>Gummy worms Crayola style! </span>
+</h2>
+<p><meta charset="utf-8"><span>Just as colourful as Crayola, these bright neon worms are hard to miss. Each worm is a mouth-watering combination of 2 flavours like firefly red, screamin green, outrageous orange, unmellow yellow and electric blue. Bursting with flavour and coated in a sour sugar, these worms are sure to be your favourite. </span><span data-mce-fragment="1">Delicious,</span><span data-mce-fragment="1"> fresh and chewy they combine sweet and sour in the best way. </span></p>
+<div>
+<ul></ul>
+</div>
+<p><strong>100g\3.5oz</strong></p>
+<h5><strong><span class="color_3">INGREDIENTS: </span></strong></h5>
+<p><span mce-data-marked="1">Coming Soon...</span></p>
+<p><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</span></strong></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6619505426491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002884</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6619506245691</id>
+    <published>2021-06-21T09:38:32-04:00</published>
+    <updated>2021-06-21T09:38:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/crayola-sour-rainbow-belts-3-5oz"/>
+    <title>Crayola Sour Rainbow Belts - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Bebeto</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chew-crayola-sour-rainbow-belts-gummies-100g-candy-funhouse-online-candy-shop.jpg?v=1624046640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bebeto<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Colourful Gummy Belts</span></h2>
+<p><meta charset="utf-8"><span>Delicious rainbow belts done Crayola style! <meta charset="utf-8">These fresh and chewy belts combine sweet and sour in the best way. Just as colourful as Crayola, each belt is a mouth-watering combination of firefly red, screamin green, unmellow yellow and electric blue flavours. Bursting with flavour and coated in a sour sugar, these belts are the way to go. Try them today!</span></p>
+<div>
+<ul></ul>
+</div>
+<p><strong>100g/3.5oz</strong></p>
+<h5><strong><span class="color_3">INGREDIENTS: </span></strong></h5>
+<p><span mce-data-marked="1">Coming Soon...</span></p>
+<p><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</span></strong></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6619506245691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002883</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620579954747</id>
+    <published>2021-06-20T11:11:37-04:00</published>
+    <updated>2021-06-20T11:11:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/huer-sour-rainbow-streamers-70g"/>
+    <title>Huer Sour Rainbow Streamers - 70g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Huer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/huer-sour-rainbow-streamers-70-g-candy-funhouse-online-candy-shop.jpg?v=1624047799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Huer<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Sour Gummy Streamers</h2>
+<p><meta charset="utf-8"><span>Treat yourself to something special with Huer Sour Rainbow Streamers. These fresh and chewy streamers are exactly what you are looking for. They're fruit flavoured, rainbow coloured gummies that are dusted with sour sugar for extra punch. Absolutely delicious, you'll feel like a different person after a few bites. Grab a package today!</span></p>
+<p><strong>70 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Huer</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620579954747</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002869</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620579987515</id>
+    <published>2021-06-20T11:07:32-04:00</published>
+    <updated>2021-06-20T11:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/huer-sour-rainbow-creme-whips-70g"/>
+    <title>Huer Sour Rainbow Creme Whips - 70g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Huer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/huer-sour-rainbow-creme-whips-70-g-candy-funhouse-online-candy-shop.jpg?v=1624047324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Huer<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour then Sweet Gummy Ropes<br>
+</h2>
+<p><meta charset="utf-8"><span>The perfect combination of sour and sweet. These fruit-flavoured, rainbow coloured ropes are coated in a sour sugar but filled with a deliciously sweet fondant filling. The best of both worlds. After the initial sour zing, the gummy gives way to a pleasantly sweet and soft fruit chew. Grab a package today to satisfy your cravings. </span></p>
+<p><strong>70 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Huer</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620579987515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002870</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599671578683</id>
+    <published>2021-06-10T23:43:07-04:00</published>
+    <updated>2021-06-10T23:43:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-sweet-fruity-chewy-cubes-5-oz"/>
+    <title>Warheads Sour Sweet &amp; Fruity Chewy Cubes - 5 oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Impact Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/impact-confections-warheads-sour-sweet-and-fruity-cubes-4oz-candy-funhouse-online-candy-shop.jpg?v=1623373210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Impact Confections<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Deliciously Sweet and Sour Candy by Warheads </h2>
+<p><span>Kick up the sour with these chewy cubes! They pretend to be sweet on the outside but are extremely sour on the inside. Warheads Sour Sweet and Fruity Chewy Cubes are an exciting adventure. Colourful and shaped like little blocks these little treats come in deliciously fruity flavours including Black Cherry, Blue Raspberry, Orange, Watermelon, and Green Apple. </span></p>
+<p style="text-align: center;"><strong>Enjoy these Sour Sweet Chewy Candies today!</strong></p>
+<p><strong>5 oz Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>impact confections</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Peg Bags</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599671578683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002862</s:sku>
+      <s:grams>144</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6576225550395</id>
+    <published>2021-05-10T15:51:16-04:00</published>
+    <updated>2021-05-10T15:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nerds-sour-big-chewy-theater-box-4-25oz"/>
+    <title>Nerds SOUR Big Chewy Theater Box - 4.25oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nerds-sour-big-chewy-theater-box-4-25oz-candy-funhouse.jpg?v=1620676285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour and Sweet and BIG!<br>
+</h2>
+<p style="text-align: left;"><span>A fan of nerds, but craving something bigger?! Sour Big Chewy Nerds are here and they are the tastiest titans. These jumbo style nerds are a twist on the classic and are both sour and sweet! The outside is a sweet crunchy shell, and the inside is a delicious sour chewy center! Four shocking flavors you’ll just love to eat. Strawberry Lemonade, Blue Raspberry, Blood Orange and Watermelon. These colourful nerds pack a punch! Get them for your next movie night!</span></p>
+<p style="text-align: left;">They might not be called Wonka anymore, but we all know these NERDS originated from the candy king and no one else! Now available in a chewy form. Enjoy this new item available at Candy Funhouse!</p>
+<p><strong>4.25oz (120g)</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1970s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>fruits</s:tag>
+    <s:tag>Nerds Candy</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:tag>Wonka</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6576225550395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1001554</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5086379245627</id>
+    <published>2021-05-03T02:11:34-04:00</published>
+    <updated>2021-05-03T02:11:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/airheads-xtremes-bites-rainbow-berry-57g"/>
+    <title>AirHeads Xtremes Bites Rainbow Berry - 6oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Perfetti Van Melle Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_perfetti_airheads_xtremes_rainbowberry_170g-Side-jpg-1.jpg?v=1628188078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Perfetti Van Melle Inc.<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Air Heads Xtremes Bites Sour Candy</h2>
+<p>Buckle up for this flavourful adventure! Airheads brings the Xtreme fun with a bigger bag of Rainbow Berry Bites! These candies are like classic sour rainbow belts but in bite-sized version, for a super fun snacking experience! They may be mini in size, but every bite packs huge flavour of intensely sweet and sour sensations. Each candy is covered in a sour coating for a sweet yet tangy candy experience. You'll be constantly reaching for more! </p>
+<ul>
+<li>Nut-Free</li>
+<li>Gluten-Free</li>
+<li>Low-Fat</li>
+</ul>
+<p><a href="https://candyfunhouse.ca/products/air-heads-xtremes-bites-rainbow-berry" target="_blank">Click here for the snack-sized version of AirHeads Xtremes Candy Bites (57g)</a>.</p>
+<p><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=airheads*" target="_blank">Click here to see our collection of AirHeads treats.</a></p>
+<p><br></p>
+<p> </p>
+<h5><strong><span>Ingredients</span></strong></h5>
+<p>Sugar, corn syrup, wheat flour, high fructose corn syrup, corn starch, modified potato starch, water, malic acid, citric acid, contains less than 2% of: Glycerine, artificial flavors, potassium citrate, salt, hydrogenated soybean oil, artificial color (blue 1, red 40, yellow 5, yellow 6).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Airheads</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candies</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>belts</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>candy bowl</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>rainbow</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5086379245627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1000139</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+</feed>

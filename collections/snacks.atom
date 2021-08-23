@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/snacks.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-16T09:57:45-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643237486651</id>
+    <published>2021-08-16T09:57:45-04:00</published>
+    <updated>2021-08-16T09:57:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-green-apple-cotton-candy-1-75oz"/>
+    <title>Warheads Sour Green Apple Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-green-apple-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629122247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2>Pucker Up!<br>
+</h2>
+<h3>Sour Green Apple<br>
+</h3>
+<div><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div><span>Try Warheads Sour Green Apple! Your taste buds will (literally) be exploding! You will love the unique tart, sour green apple taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<p> </p>
+<p>Check out all of the<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" title="warheads cotton candy" target="_blank">Warheads Cotton Candy</a><span> </span>flavours!</p>
+<p style="text-align: left;"><strong>1.75oz (49g)</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643237486651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003050</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643237224507</id>
+    <published>2021-08-16T09:56:13-04:00</published>
+    <updated>2021-08-16T09:56:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-watermelon-cotton-candy-1-75oz"/>
+    <title>Warheads Sour Watermelon Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-watermelon-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629122153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<h2>Pucker Up!<br>
+</h2>
+<h3>Sour Watermelon<br>
+</h3>
+<div><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div><span>Try Warheads Sour Watermelon! Your taste buds will (literally) be exploding! You will love the unique tart, sour watermelon taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<p> </p>
+<p>Check out all of the<span> </span><a title="warheads cotton candy" href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" target="_blank">Warheads Cotton Candy</a><span> </span>flavours!</p>
+<p style="text-align: left;"><strong>1.75oz (49g)</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643237224507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003049</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643237584955</id>
+    <published>2021-08-16T09:54:22-04:00</published>
+    <updated>2021-08-16T09:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-blue-raspberrycotton-candy-1-75oz"/>
+    <title>Warheads Sour Blue Raspberry Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-blue-raspberry-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629122043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pucker Up!<br>
+</h2>
+<h3 style="text-align: center;">Sour Blue Raspberry<br>
+</h3>
+<div style="text-align: center;"><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div style="text-align: center;"><span>Try Warheads Sour Blue Raspberry! Your taste buds will (literally) be exploding! You will love the unique tart, sour blue raspberry taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<div style="text-align: center;"> </div>
+<div style="text-align: center;">Check out all of the<span> </span><a title="warheads cotton candy" href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" target="_blank">Warheads Cotton Candy</a><span> </span>flavours!</div>
+<div style="text-align: center;"><strong></strong></div>
+<div style="text-align: left;"><strong>1.75oz (49g)</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643237584955</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003051</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6643236995131</id>
+    <published>2021-08-16T09:52:44-04:00</published>
+    <updated>2021-08-16T09:52:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/warheads-sour-black-cherry-cotton-candy-1-75oz"/>
+    <title>Warheads Sour Black Cherry Cotton Candy - 1.75oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>McJak Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mcjak-candy-warheads-sour-black-cherry-cotton-candy-1.75oz-candyfunhouse.jpg?v=1629121949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McJak Candy<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pucker Up!<br>
+</h2>
+<h3 style="text-align: center;">Sour Black Cherry<br>
+</h3>
+<div style="text-align: center;"><span>The same classic extreme sour taste we all love in Warheads candies is now here at Candy Funhouse in Cotton Candy Form! </span></div>
+<div style="text-align: center;"><span>Try Warheads Sour Black Cherry! Your taste buds will (literally) be exploding! You will love the unique tart, sour black cherry taste of this sweet and fluffy treat. Packaged fresh and ready to enjoy anywhere.</span></div>
+<p style="text-align: center;"> </p>
+<p style="text-align: center;">Check out all of the <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=warheads+cotton+candy" title="warheads cotton candy" target="_blank">Warheads Cotton Candy</a> flavours!</p>
+<p><strong>1.75oz (49g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Cotton Candy</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>War Heads</s:tag>
+    <s:tag>Warheads</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6643236995131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.89</s:price>
+      <s:sku>01-1003048</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2338858303547</id>
+    <published>2021-08-13T11:06:31-04:00</published>
+    <updated>2021-08-13T11:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/halloween-3-pack-monster-cereals"/>
+    <title>Halloween 3-Pack Monster Cereals</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-halloween-3-pack-monster-cereals-candyfunhouse.jpg?v=1628022490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro American Cereal</h2>
+<h3 style="text-align: center;">Breakfast of Sweeties</h3>
+<p>Introduced in Halloween in 1971, this mix of cereal and marshmallows has a distinct chocolate flavour and is only produced by General Mills during the halloween season. Pick yours up today before they run off scared!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>sweet deal</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2338858303547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>03-3000707</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6640862330939</id>
+    <published>2021-08-12T09:47:13-04:00</published>
+    <updated>2021-08-12T09:47:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/doritos-twisted-lime-18-8oz"/>
+    <title>Doritos Twisted Lime - 18.8oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Frito-Lay Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/frito-lay-inc-doritos-twisted-lime-18oz-candyfunhouse.jpg?v=1628087726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frito-Lay Inc<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">BACK FOR A LIMITED TIME<br>
+</h2>
+<h3 style="text-align: center;"><em>The Long-Awaited Return of...</em></h3>
+<h3 style="text-align: center;"> Doritos Twisted Lime </h3>
+<h4 style="text-align: center;">American Snacks | Potato Chips</h4>
+<p>If you love Doritos, you <strong>must </strong>try these! With a citrusy flavour and a sour bite at the end, your mouth will be watering. The bag is so big which makes it the perfect movie night snack to munch on. Doritos released this new flavour last year and they definitely were a fan favourite. This time they are back and very exclusive...</p>
+<p><br></p>
+<p>Don't wait any longer! Order today and discover what you've been missing out on!</p>
+<p><b>1 family size bag - 18.8oz</b></p>
+<h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">Fresh Snacks Shipped Within Canada &amp; to USA! </h2>
+<h5>Ingredients</h5>
+<p><meta charset="utf-8"><span>Corn Flour, Vegetable Oil (Corn, Canola, and/or Sunflower), Salt, Cheddar Cheese (Milk, Cheese Cultures, Salt, Enzymes), Whey, Spices, Maltodextrin (Made From Corn), Monosodium Glutamate, Buttermilk, Romano Cheese (Cow’s Milk, Cheese Cultures, Salt, Enzymes), Natural and Artificial Flavors, Onion Powder, Baking Soda, Whey Protein Concentrate, Tomato Powder, Citric Acid, Garlic Powder, Potassium Chloride, Hydrolyzed Corn Protein, Monoglycerides, Artificial Color (Yellow 6, Yellow 5, Yellow 6 Lake, Blue 2 Lake), Disodium Inosinate, and Disodium Guanylate. CONTAINS MILK INGREDIENTS.</span></p>
+<h6>
+<b></b> <span style="font-weight: 400;">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data. </span><span style="font-weight: 400;">We cannot be held responsible for the accuracy of </span><span style="font-weight: 400;">ingredients</span><span style="font-weight: 400;"> or nutritional information provided, nor liable for any reactions caused by the products we sell.</span>
+</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1990s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>cheddar</s:tag>
+    <s:tag>cheese</s:tag>
+    <s:tag>Chips</s:tag>
+    <s:tag>Doritos</s:tag>
+    <s:tag>Era_1990s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6640862330939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>03-3001325</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6631501234235</id>
+    <published>2021-08-05T10:59:09-04:00</published>
+    <updated>2021-08-05T10:59:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kraft-jell-o-no-bake-oreo-cheesecake-12-6oz"/>
+    <title>Kraft Jell-O No Bake Oreo Cheesecake - 12.6oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Kraft Foods Group, Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kraft-foods-no-bake-oreo-cheesecake-12.6oz-candyfunhouse_1.jpg?v=1628174432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kraft Foods Group, Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><strong>A Batch Made in Heaven</strong></h2>
+<div style="text-align: center;"><strong>15 MINUTE PREP</strong></div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;"><br></div>
+<div style="text-align: center;"> All you need to add to this oreotastic dessert mix is butter and milk! Yes it's really that simple, you can have your cake and eat it too! Not only does this look delicious, it tastes soooo good too. It is the perfect dessert mix if you're in a rush and want to make a sweet treat for friends and family! Put on your baking hat and get ready to add your own twist to this mix. </div>
+<div style="text-align: center;"><strong> </strong></div>
+<div style="text-align: center;">
+<strong>Includes:</strong> <em>filling mix, crust mix, and cookie pieces.</em>
+</div>
+<h4 style="text-align: center;"><em></em></h4>
+<h4 style="text-align: center;"> Checkout This <a href="https://www.myfoodandfamily.com/recipe/053668/jell-o-no-bake-oreo-cups" target="_blank" rel="noopener noreferrer">Recipe</a>!</h4>
+<p> </p>
+<p> </p>
+<p><strong>12.6oz (357g)</strong></p>
+<h2 style="text-align: center;"><span data-mce-fragment="1"></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Baking</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6631501234235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>03-3001311</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5021364191291</id>
+    <published>2021-08-05T10:06:05-04:00</published>
+    <updated>2021-08-05T10:06:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/fruity-pebbles-marshmallow-cereal-567g"/>
+    <title>Fruity Pebbles Marshmallow Cereal</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Post</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/marshmallow-fruity-pebbles-567g-candy-funhouse-canada.jpg?v=1598559578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Post<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;"><span>NEW from Post!</span></h1>
+<h1 style="text-align: center;"><span>Fruity Pebbles with Marshmallows</span></h1>
+<h3 style="text-align: center;">
+<span>Special Edition </span>✩ <span>American Cereal</span>
+</h3>
+<meta charset="utf-8">
+<p><span data-mce-fragment="1">Post's </span><span data-mce-fragment="1">Fruity Pebbles</span><span data-mce-fragment="1"> with Marshmallows will make Monday mornings worth waking up for! Your favourite breakfast cereal is made of sweetened rice and the delicious addition of colourful marshmallows provides a tasty twist on the original Fruity Pebbles.</span></p>
+<p>If you love Fruity Pebbles cereal &amp; Lucky Charms marshmallows, you will truly appreciate everything about this delicious cereal!</p>
+<p>Don't miss out on this special edition of Fruity Pebbles. Order while supplies last!</p>
+<p><b>1 box - 311g</b></p>
+<p style="text-align: center;"><b>Click<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=cereal*" title="buy cereal collection specialty canada">here</a><span> </span>for more<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=cereal*" title="buy cereal collection canada specialty limited edition">cereal</a> varieties!</b></p>
+<h2 style="text-align: center;"><b>Specialty Snacks Shipped to Canada &amp; the USA!</b></h2>
+<h5><b>Ingredients</b></h5>
+<meta charset="utf-8">
+<p><span>Rice, Sugar, Marshmallows (Sugar, Modified Cornstarch, Corn Syrup, Dextrose, Gelatin, Sodium Hexametaphosphate, Yellow 5, Red 40, Blue 1, Yellow 6, Artificial Flavor), Corn Syrup, Canola Oil, Salt, Contains 1% or Less of: Natural and Artificial Flavor, Yellow 5, Yellow 6, Red 40, Blue 1, BHT Added to Preserve Freshness. Vitamins and Minerals: Niacinamide (Vitamin B3), Vitamin A Palmitate, Reduced Iron, Zinc Oxide, Pyridoxine Hydrochloride (Vitamin B6), Riboflavin (Vitamin B2), Thiamin Mononitrate (Vitamin B1), Vitamin D3, Folic Acid, Vitamin B12.</span></p>
+<h6>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data. We cannot be held responsible for the accuracy of ingredients or nutritional information provided, nor liable for any reactions caused by the products we sell.</h6>
+<h5><strong></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>american cereal</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>marshmallow</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:tag>Type_Marshmallow</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5021364191291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>03-3000437</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/9694082634</id>
+    <published>2021-08-05T10:05:22-04:00</published>
+    <updated>2021-08-05T10:05:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/pop-tarts-cinnamon-roll"/>
+    <title>Pop-Tarts Cinnamon Roll - 13.5oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Kellogg&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/pop-tarts-cinnamon-roll-8-pack.jpg?v=1577428121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kellogg&#39;s<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Kellogg's Pop-Tarts Cinnamon Roll Toaster Pastries</span></h2>
+<h3 style="text-align: center;"><span>Made for Fun!</span></h3>
+<p><span>The classic taste of a Cinnamon Roll is baked into Pop-Tarts for an amazing eating experience. A very sweet combination of frosting and Cinnamon Roll flavoured filling. Pop-Tarts Cinnamon are ready to eat right out of the box or enjoy them warmed up in the toaster or the microwave.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Pop-Tarts</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Toaster Pastry</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/9694082634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>03-3000837</s:sku>
+      <s:grams>450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599614300219</id>
+    <published>2021-08-05T09:40:04-04:00</published>
+    <updated>2021-08-05T09:40:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/grandmas-mini-sandwich-cremes-vanilla-2-12oz"/>
+    <title>Grandma&apos;s Mini Sandwich Cremes Vanilla - 2.12oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Frito-Lay Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/grandmas-mini-sandwhich-cremes-vanilla-2.12oz-candy-funhouse-online-candy-shop.jpg?v=1623371589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frito-Lay Inc<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 1.4em;"></span></h3>
+<div style="text-align: center;"><span class="Polaris-Badge_2qgie Polaris-Badge--statusInfo_knr66"><span data-mce-fragment="1"></span></span></div>
+<h2 style="text-align: center;">For that Great Homemade Taste, Try Grandma's<sup>®</sup>
+</h2>
+<p style="text-align: left;">    Remember the homestyle baking that you were treated to as a kid with these delicious <strong>Grandma's Vanilla Mini Sandwich Cremes</strong>! Buttery mini golden cookies filled with a smooth vanilla creme, these bite-sized snacks are the perfect treat for all ages. Sure to give you a sweet taste that's both nostalgic and scrumptious, you might not be able to put this bag down until it's empty! Just try your best to share, it's what Grandma would have wanted.</p>
+<h5 style="text-align: center;"> Looking for some more snacks that taste like home? Try <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=grandma%27s" target="_blank" title="Grandma's Snacks and Cookies | Candy Funhouse" rel="noopener noreferrer">more great Grandma's treats</a> you're going to love  just as much!</h5>
+<h3>2.12oz</h3>
+<p> </p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><br></h2>
+<h5><span><span class="subTitle font-bold">Ingredients</span></span></h5>
+<p><span data-mce-fragment="1" mce-data-marked="1">Coming Soon...</span></p>
+<p><span><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599614300219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>03-3001165</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638528233531</id>
+    <published>2021-08-03T14:54:09-04:00</published>
+    <updated>2021-08-03T14:54:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/chips-ahoy-hersheys-fudge-filled-cookies"/>
+    <title>Chips Ahoy! Hershey&apos;s Fudge Filled Cookies</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nabisco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nabisco_chewy_chips_ahoy_hersheys_fudge_filled_cookies_272g_candy_funhouse.jpg?v=1628016843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nabisco<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Soft, Chewy, and Filled with Fudge!</h2>
+<p>     Nothing hits the spot better than a <strong>soft, well-baked chocolate chip cookie</strong>, but we think there's something that can top even that. These delicious cookies are stuffed to the edges with <strong>smooth</strong> <strong>Hershey's Chocolate Fudge</strong>; an indulgent treat you don't want to miss out on!</p>
+<p>     Each bite is a blend of <strong>buttery cookie</strong> and <strong>tons of rich chocolate</strong> that will swirl around your tastebuds, giving you the perfect cookie experience that you've been searching for. <strong>Chips Ahoy! Hershey's Fudge Filled Cookies</strong> are only available for a <strong>limited time</strong>, so hurry and grab some while they're still hot!</p>
+<p>     Don't just stop at munching them right out of the box! These cookies are the perfect addition in an over-the-top sundae dessert, or even just heated up and letting the warm chocolate ooze onto your tongue. However you decide to enjoy them, these are certainly an unforgettable treat!</p>
+<h3>9.6oz / 272g | 1 pack</h3>
+<h2></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Chips! Ahoy</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638528233531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>03-3001323</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5016730140731</id>
+    <published>2021-07-28T10:25:55-04:00</published>
+    <updated>2021-07-28T10:25:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/vachon-super-ah-caramel-single-sandwich"/>
+    <title>Vachon Super Ah Caramel Single Sandwich - 78g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Vachon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/vachon-ah-caramel-78g-candy-funhouse-canada.jpg?v=1598543975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vachon<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New from Vachon</span></h2>
+<p>Freeze for an ice cream bar taste!<br></p>
+<h5 style="text-align: left;"><span class="subTitle font-bold">Ingredients: </span></h5>
+<p style="text-align: left;">Coming Soon...</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:tag>Vachon</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5016730140731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>03-3001038</s:sku>
+      <s:grams>78</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6635657756731</id>
+    <published>2021-07-22T11:30:15-04:00</published>
+    <updated>2021-07-22T11:30:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/krakuski-coconut-cookies-168g"/>
+    <title>Krakuski Coconut Cookies - 168g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>The Bahlsen Family</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/the-bahlsen-family-krakuski-coconut-cookies-168g-candy-funhouse.jpg?v=1626967594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>The Bahlsen Family<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Coconuts For Cookies!</h2>
+<p style="text-align: center;">These new shortbread cookies are extremely delicious with a sweet coconut flavour and aroma! They taste great with a cup of coffee or simply on their own!</p>
+<p> </p>
+<h3 style="text-align: center;"> Imported Fresh From Poland!</h3>
+<p><strong>﻿168g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Poland</s:tag>
+    <s:tag>Polish</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6635657756731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>03-3001322</s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632783085627</id>
+    <published>2021-07-22T10:23:36-04:00</published>
+    <updated>2021-07-22T10:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/crunch-n-munch-brownie-crunch-5-5oz"/>
+    <title>Crunch N&apos; Munch Brownie Crunch - 5.5oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/conagra-crunch-n-munch-brownie-crunch-5.5oz-candy-funhouse.jpg?v=1626895791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 1.4em;"></span></h3>
+<h2 style="text-align: center;" class="Polaris-Header-Title__TitleMetadata_19y17">
+<span class="Polaris-Badge_2qgie Polaris-Badge--statusInfo_knr66"><span data-mce-fragment="1">Chewy Brownie Meets Crunchy Popcorn</span></span><br>
+</h2>
+<p style="text-align: center;" data-mce-style="text-align: center;"><strong>    Crunch 'n Munch</strong><span> </span>popcorn is like no other, bursting with flavour and a satisfying crunch all in one treat!</p>
+    Get the delicious taste of brownies mixed with crispy popcorn in this bag of <strong>Brownie Crunch</strong>! Each piece of popcorn is coated in <strong>rich milk chocolate</strong>, then topped off with <strong>brownie cookies</strong>, <strong>crunchy brownie pieces</strong>, and <strong>honey</strong> <strong>praline almonds</strong>. It might be hard to put this down until the bag is empty!<br><br>
+<p style="text-align: center;" data-mce-style="text-align: center;">   <span> This snack</span> comes in a<span> </span><strong>resealable bag</strong>, making it easy to keep the popcorn fresh for whenever your next craving hits!</p>
+<p><br></p>
+<h4 style="text-align: center;">Looking to try more awesome flavour popcorn snacks? We<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=crunch+%27n+munch" title="Crunch 'n Munch Popcorn | Candy Funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=crunch+%27n+munch" target="_blank">more Crunch 'n Munch</a><span> </span>to go around!</h4>
+<h3>5.5oz</h3>
+<p> </p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><br></h2>
+<h5><span><span class="subTitle font-bold">Ingredients</span></span></h5>
+<p><span data-mce-fragment="1" mce-data-marked="1">Coming Soon...</span></p>
+<p><span><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632783085627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>03-3001317</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632783478843</id>
+    <published>2021-07-22T10:07:35-04:00</published>
+    <updated>2021-07-22T10:07:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/crunch-n-munch-cookies-and-cream-5-5oz"/>
+    <title>Crunch &apos;N Munch Cookies and Cream - 5.5oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>ConAgra Foods Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/conagra-crunch-n-munch-cookies-and-cream-5.5oz-candy-funhouse.jpg?v=1626895682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ConAgra Foods Inc.<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 1.4em;"></span></h3>
+<h2 style="text-align: center;" class="Polaris-Header-Title__TitleMetadata_19y17">A Cookies and Cream Crossover You Won't Wanna Miss</h2>
+<p style="text-align: center;" data-mce-style="text-align: center;"><strong>    Crunch 'n Munch</strong><span> </span>popcorn is like no other, bursting with flavour and a satisfying crunch all in one treat!</p>
+<p style="text-align: center;" data-mce-style="text-align: center;">    You won't be able to stop yourself from reaching in for another bite with this delectable <strong>Cookies and Cream</strong> flavour. Each piece of popcorn is coated in <strong>smooth white chocolate</strong>, then topped off with <strong>chocolate cookie crumbles</strong> and <strong>Dutch cocoa cookies</strong>. <span></span></p>
+<p style="text-align: center;" data-mce-style="text-align: center;">   <span> This snack</span> comes in a<span> </span><strong>resealable bag</strong>, making it easy to keep the popcorn fresh for whenever your next craving hits!</p>
+<p><br></p>
+<h4 style="text-align: center;">Looking to try more awesome flavour popcorn snacks? We<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=crunch+%27n+munch" title="Crunch 'n Munch Popcorn | Candy Funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=crunch+%27n+munch" target="_blank">more Crunch 'n Munch</a><span> </span>to go around!</h4>
+<h3>5.5oz</h3>
+<p> </p>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><br></h2>
+<h5><span><span class="subTitle font-bold">Ingredients</span></span></h5>
+<p><span data-mce-fragment="1" mce-data-marked="1">Coming Soon...</span></p>
+<p><span><span class="aboutModuleText"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632783478843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>03-3001318</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627991289915</id>
+    <published>2021-07-15T17:05:17-04:00</published>
+    <updated>2021-07-15T17:05:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cheez-it-original"/>
+    <title>Cheez-It Original - 3oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Sunshine Biscuit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sunshine-bicuit-cheez-it-original-3oz-candy-funhouse.jpg?v=1626270785"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sunshine Biscuit<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            2.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> The OG Crunchy Cheese Snack</h2>
+<p> </p>
+<p><span data-mce-fragment="1">Have fun during snack time with Cheez-It Original! Enjoy bite-sized cheese snack crackers that are loaded with cheesy flavour and have an exquisite crunchy flaky texture. Made with 100% real cheese to give you 100% real satisfaction.</span> A great size for you to Grab n' Go!</p>
+<p> </p>
+<p> </p>
+<p><strong>3oz (85g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627991289915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.24</s:price>
+      <s:sku>03-3001308</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627990175803</id>
+    <published>2021-07-15T17:02:36-04:00</published>
+    <updated>2021-07-15T17:02:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/popcornopolis-caramel-corn-popcorn-22oz"/>
+    <title>Popcornopolis Caramel Corn Popcorn - 22oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Popcornopolis</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/popcornopolis-caramel-corn-popcorn-22oz-candy-funhouse.jpg?v=1626360615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Popcornopolis<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 1.4em;"></span></h3>
+<h2 style="text-align: center;">Guaranteed Deliciousness</h2>
+<h3 style="text-align: center;">100% American Grown Corn<br>
+</h3>
+<p><em> Known for their cones</em>, Popcornopolis has finally given us a 22oz bag to enjoy! This means a) more popcorn and b) more popcorn. Their caramel recipe is one of the finest and is a closely guarded secret. Perhaps you can figure it out as you taste the<span data-mce-fragment="1"> pure cane sugar and real creamery butter. Even before you take your first bite, the ultra-rich aroma will blow your mind!</span><br data-mce-fragment="1"></p>
+<ul>
+<li>Gluten-Free</li>
+<li>Manufactured in Peanut Facility </li>
+</ul>
+<p><br></p>
+<p> <strong>22oz (624g)</strong></p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>type_popcorn</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627990175803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>03-3001307</s:sku>
+      <s:grams>624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6631595999291</id>
+    <published>2021-07-15T16:54:26-04:00</published>
+    <updated>2021-07-15T16:54:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/birthday-cake-pebbles-cereal-10oz"/>
+    <title>Birthday Cake Pebbles Cereal - 10oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Post</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/post-birthday-cake-pebbles-10oz-candy-funhouse.jpg?v=1626270287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Post<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><strong>Happy Birthday Pebbles!</strong></h2>
+<h2></h2>
+<p>There may not be a more iconic cereal! Fruity Pebbles have been putting smiles on kids faces since the 1970s and are now celebrating their 50th birthday! To this day they still feature the original Flinstones characters created by Hanna-Barbera, now owned by Warner Brothers. Enjoy them today in their new birthday cake flavour, <span data-mce-fragment="1">a fun and delicious twist on the traditional birthday cake</span>! <span data-mce-fragment="1">The new cereal features blue, pink and yellow flakes and a vanilla birthday cake and frosting flavor. Have your cake and eat it too!</span></p>
+<p>Limit 1 Per Customer<br></p>
+<p> </p>
+<p><strong>10oz</strong></p>
+<h5><strong></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6631595999291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>03-3001312</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632719155259</id>
+    <published>2021-07-15T16:46:13-04:00</published>
+    <updated>2021-07-15T16:46:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/chips-ahoy-cereal-12oz"/>
+    <title>Chips Ahoy Cereal - 12oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Post</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/post-chips-ahoy-cereal-12oz-candy-funhouse.jpg?v=1626274649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Post<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><strong></strong></h2>
+<p><br></p>
+<p> </p>
+<p><strong>12oz 340g</strong></p>
+<h5><strong></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Chips Ahoy</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632719155259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>03-3001314</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632743108667</id>
+    <published>2021-07-15T16:20:25-04:00</published>
+    <updated>2021-07-15T16:20:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/oreo-salted-caramel-brownie-12oz"/>
+    <title>Oreo Salted Caramel Brownie - 12oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nabisco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nabisco-oreo-salted-caramel-brownie-12oz-candy-funhouse_1.jpg?v=1626277805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nabisco<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;" data-mce-style="text-align: center;"><span data-mce-fragment="1">LIMITED EDITION</span></h3>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><span data-mce-fragment="1">Gourmet Oreos </span></h2>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><span data-mce-fragment="1">Salted Caramel Brownie Style</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span data-mce-fragment="1">2021's Must-Try Snacks</span></h3>
+<p><span data-mce-fragment="1">Oreo has blow us away with their new rich twist on the original Oreo. These new cookies quite literally encompass everything a salted caramel brownie would have!  </span><span data-mce-fragment="1">At Candy Funhouse we are calling these "Gourmet Oreos" because we are in Oreo heaven after trying these! Why you may ask? Let us tell you...</span></p>
+<p><span data-mce-fragment="1">Say goodbye to one layer of creme and now enjoy 2 layers of creme; a luscious sweet caramel flavour and a rich chocolatey brownie flavour! </span><span data-mce-fragment="1">The iconic chocolate wafers have remained the same, BUT are now topped with a perfect sprinkle of salt that elevates the creme fillings. </span></p>
+<p>Indulge in a cookie like no other, as you add vanilla ice cream to this perfectly formulated Salted Caramel Brownie Oreo ✨<span class="Apple-converted-space">chefs kiss✨</span></p>
+<p><strong>12oz (345g)</strong></p>
+<div style="text-align: center;" data-mce-style="text-align: center;"><strong>Available exclusively at Candy Funhouse</strong></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><a href="https://candyfunhouse.ca/collections/new-items/products/oreo-chocolate-hazelnut-cookie-17oz" target="_blank"><strong></strong></a></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><strong><br></strong></div>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><b>Exclusive Snacks Shipped to Canada &amp; the USA!</b></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>biscuits</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632743108667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.99</s:price>
+      <s:sku>03-3001315</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620574318651</id>
+    <published>2021-07-09T12:37:04-04:00</published>
+    <updated>2021-07-09T12:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/oreo-lady-gaga-cookies-uk-308g"/>
+    <title>Oreo Lady Gaga Cookies Twin Pack UK - 308g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nabisco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mondelez-lady-gaga-oreo-twin-pack-28-biscuits-308-g-candy-funhouse-online-candy-shop_1.jpg?v=1624033569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nabisco<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1"></span></h2>
+<h2 style="text-align: center;">Classic Oreo Cookies in a Lady Gaga Inspired Package!</h2>
+<p>Throw on Lady Gaga's Chromatica album and start your karaoke sesh, because this Oreo will have you singing verses as you dip in a glass of cold milk.<span class="Apple-converted-space"> </span></p>
+<p><span class="Apple-converted-space">Oreo Lady Gaga Cookies are:</span></p>
+<ul>
+<li><span class="Apple-converted-space">Kosher Certified</span></li>
+<li><span class="Apple-converted-space">Limited Edition</span></li>
+<li><span class="Apple-converted-space">Made in the USA</span></li>
+</ul>
+<p><strong>1 twin pack Oreos contains 2 sleeves, 28 cookies total </strong></p>
+<p><strong>308g</strong></p>
+<div style="text-align: center;"><strong>More new flavours from Oreo! Available exclusively at Candy Funhouse:</strong></div>
+<div style="text-align: center;"><a href="https://candyfunhouse.ca/collections/new-items/products/oreo-chocolate-hazelnut-cookie-17oz" target="_blank"><strong>Java Chip Oreos</strong></a></div>
+<div style="text-align: center;"><a href="https://candyfunhouse.ca/products/oreo-brookie-os-374g" data-mce-href="https://candyfunhouse.ca/products/oreo-brookie-os-374g" target="_blank"><strong>Brookie-O's</strong></a></div>
+<div style="text-align: center;"><strong><br></strong></div>
+<h2 style="text-align: center;"><b>Exclusive Snacks Shipped to Canada &amp; the USA!</b></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>biscuits</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620574318651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>03-3001226</s:sku>
+      <s:grams>314</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623746293819</id>
+    <published>2021-07-09T12:32:18-04:00</published>
+    <updated>2021-07-09T12:32:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/grandmas-cookies-chocolate-brownie-2-5oz"/>
+    <title>Grandma&apos;s Cookies Chocolate Brownie - 2.5oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Frito-Lay Inc</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/grandmas-chocolate-brownie-cookie-2.5oz-candy-funhouse-online-candy-shop.jpg?v=1625846898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frito-Lay Inc<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span style="font-size: 1.4em;" data-mce-style="font-size: 1.4em;"><span data-mce-fragment="1">Just Like You Remember</span></span></h2>
+<p>Who doesn't enjoy a chocolate chip cookie?? Each package contains two soft and deliciously decadent home-style chocolate chip cookies just like Grandma makes. Indulge in this chocolaty goodness anywhere and anytime as the convenient packaging makes it easy <span data-mce-fragment="1">to throw in your lunch bag or take on a long day trip. </span>Grandma's cookies are baked with love and are the perfect <span data-mce-fragment="1">sweet and comforting treat.</span></p>
+<h5 style="text-align: center;">Looking for some more snacks that taste like home? Try<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=grandma%27s" title="Grandma's Snacks and Cookies | Candy Funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?type=product&amp;options%5Bprefix%5D=last&amp;options%5Bunavailable_products%5D=last&amp;q=grandma%27s" target="_blank">more great Grandma's treats</a><span> </span>you're going to love  just as much!</h5>
+<h3>2.5oz<br>
+</h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623746293819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>03-3001276</s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621799219259</id>
+    <published>2021-07-09T12:07:21-04:00</published>
+    <updated>2021-07-09T12:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/welchs-cherry-pomegranate-singles-to-go-13g"/>
+    <title>Welch&apos;s Cherry Pomegranate Singles To Go - 13g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Jel Sert</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/jelsert-Welch_s-Cherry-Pomegranate-Singles-To-Go-13g-candy-funhouse-online-candy-shop_2.jpg?v=1624045039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jel Sert<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h2 style="text-align: center;">Welch's Cherry Pomegranate Singles To Go </h2>
+<h3 style="text-align: center;"></h3>
+<p><strong>Easy to Make Directions:</strong> Sip from a full bottle of water to make room for powder. Pour one packet into a 16.9 fl oz bottle of water (0.5 litres) or a large glass of water. Shake the bottle or mix well until powder dissolves. Mix with a 20 fl oz bottle of water for a milder flavour.</p>
+</div>
+<ul class="listLeaf">
+<li>Naturally and Artificially Flavored</li>
+<li>Sugar-Free</li>
+<li>10 Packets</li>
+<li>Low-Calorie Drink Mix</li>
+<li>No Aspartame</li>
+</ul>
+<p><b>13g</b></p>
+<h5></h5>
+<div class="wrap"></div>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Drink Mix</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>Kool-Aid</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Summer Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621799219259</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>03-3001268</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6599647166523</id>
+    <published>2021-07-09T12:07:18-04:00</published>
+    <updated>2021-07-09T12:07:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/royal-sugar-free-gelatin-lime-32oz"/>
+    <title>Royal Sugar Free Gelatin Lime - .32oz</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Jel Sert</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/the-jel-sert-company-royal-reduced-calorie-sugar-free-gelatin-lime-flavor-candy-funhouse-online-candy-shop.jpg?v=1623369916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jel Sert<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Take a Dive in the Lime! </h2>
+<p>     Delicious jello bursting with tangy <strong>Lime flavour</strong>, this <strong>sugar-free</strong> mix is low in calories and <strong>Keto friendly</strong>. Never feel bad about a moment of indulgence with this recipe; just relax and enjoy worry-free, knowing this is a treat that doesn't count towards a cheat day!<br></p>
+<ul>
+<li><strong>0g of Carbs</strong></li>
+<li><strong>Only 5 Calories per Serving</strong></li>
+<li>
+<strong>Fun to Make!   </strong>  </li>
+</ul>
+<p> </p>
+<h3>.32oz | 1 box</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>jello</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6599647166523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>03-3001207</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623266373691</id>
+    <published>2021-07-09T12:06:55-04:00</published>
+    <updated>2021-07-09T12:06:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-chocolate-chip-cookie-mix-180g"/>
+    <title>Galaxy Chocolate Chip Cookie Mix - 180g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-chocolate-chip-cookie-mix-180-g-candy-funhouse-online-candy-shop.jpg?v=1624374546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            8.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Time To DIY With This Fabulously Delicious Cookie Mix!</h2>
+<p>  Sometimes store-bought cookies just ain't it, we know you're looking to treat your tastebuds with nothing but the best. Thankfully Galaxy has come to the rescue with the perfect dessert and activity mixed into one! <br></p>
+<p>  All you need to make this pouch turn into 8 soft, chewy cookies is 25g of butter, 15ml of water, and 20 minutes of your time. Baking has never been easier - or quite this mouthwatering! The batter mix contains many chunks of rich, silky smooth Galaxy Milk Chocolate that will melt over your tongue with each bite you take. </p>
+<p>  Don't hesitate! Make your next sleepover, stay-at-home date, or get-together with friends a hit bit this fun and succulent way to make some memories.</p>
+<h5 style="text-align: center;">Think chocolate. Think Galaxy.</h5>
+<p><br></p>
+<p><strong>(1 packet) 180g</strong></p>
+<p> </p>
+<p> </p>
+<p><strong>Directions (as listed on the packaging):</strong></p>
+<ul>
+<li>Preheat your oven to 180°C/ Fan 160°C/ Gas Mark 4</li>
+<li>Empty the contents of the pouch into a bowl</li>
+<li>Soften 25g of butter in the microwave. (Make sure it isn't too hot or it will melt the chocolate)</li>
+<li>Add the softened butter to the cookie mix and stir well. (It should look a bit like a crumble mix)</li>
+<li>Add water and mix if you have stiff dough. (Add extra water if necessary)</li>
+<li>Divide the mix into 8 evenly sized balls. Place on an ungreased baking tray and flatten. (Leave enough room between cookies so they can spread)</li>
+<li>Bake in the centre of the oven for 12 minutes until golden (or leave in a little longer for extra crunch)</li>
+<li>Allow the cookies to cool on the baking tray before transferring to a wire rack to cool completely</li>
+</ul>
+<h2 style="text-align: center;"></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623266373691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.49</s:price>
+      <s:sku>03-3001274</s:sku>
+      <s:grams>180</s:grams>
+    </s:variant>
+  </entry>
+</feed>

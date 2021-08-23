@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/nestle.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-13T11:06:31-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2338858303547</id>
+    <published>2021-08-13T11:06:31-04:00</published>
+    <updated>2021-08-13T11:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/halloween-3-pack-monster-cereals"/>
+    <title>Halloween 3-Pack Monster Cereals</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-halloween-3-pack-monster-cereals-candyfunhouse.jpg?v=1628022490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro American Cereal</h2>
+<h3 style="text-align: center;">Breakfast of Sweeties</h3>
+<p>Introduced in Halloween in 1971, this mix of cereal and marshmallows has a distinct chocolate flavour and is only produced by General Mills during the halloween season. Pick yours up today before they run off scared!</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>cereal</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>sweet deal</s:tag>
+    <s:tag>Type_Cereal</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2338858303547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>03-3000707</s:sku>
+      <s:grams>1200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638384283707</id>
+    <published>2021-08-05T10:12:57-04:00</published>
+    <updated>2021-08-05T10:12:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nips-sugar-free-caramel-3-25oz"/>
+    <title>Nips Sugar Free Caramel - 3.25oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-nips-sugar-free-caramel-3.25oz-candyfunhouse.jpg?v=1628172765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Indulgence Without The<span data-mce-fragment="1"> </span>Sugar!</h2>
+<p data-mce-fragment="1">     <strong data-mce-fragment="1">Creamy</strong>,<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">rich</strong>,<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">delicious</strong>; that's all that comes to mind when letting<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">Nips Caramel</strong><span data-mce-fragment="1"> </span>slowly melt away on your tongue. This recipe will blow your mind when you remember that the sweet candy you're tasting<span data-mce-fragment="1"> </span>contains<span data-mce-fragment="1"> </span><strong data-mce-fragment="1">zero sugar</strong>!</p>
+<p data-mce-fragment="1">     Every piece is<strong data-mce-fragment="1"><span data-mce-fragment="1"> </span>individually wrapped</strong><span data-mce-fragment="1"> </span>making<span data-mce-fragment="1"> </span>these the perfect treat to share with co-workers, friends, family, and anyone whose day you'd like to sweeten. </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Gluten-Free</strong></li>
+<li data-mce-fragment="1"><strong data-mce-fragment="1">Individually Wrapped</strong></li>
+</ul>
+<h3 data-mce-fragment="1">3.25oz / 92g | 1 bag</h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>hard candy</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Nips</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638384283707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1003035</s:sku>
+      <s:grams>94</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634793140283</id>
+    <published>2021-07-22T11:16:44-04:00</published>
+    <updated>2021-07-22T11:16:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/russian-aero-strawberry-30g"/>
+    <title>Russian Aero Strawberry - 30g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-russian-aero-strawberry-30g-candy-funhouse.jpg?v=1626876870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Russian Chocolate Bars</h2>
+<p>Aero Strawberry Bars are made of smooth bubbly and silky Milk Chocolate filled with intense strawberry flavoured bubbles. <span data-mce-fragment="1">If you like strawberry you will enjoy eating this sweet bar! This counts as eating fruit...right?</span></p>
+<p style="text-align: center;"><strong>Imported Fresh From Russia!</strong></p>
+<p><strong>30 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aero</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Russia</s:tag>
+    <s:tag>russian</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>type_chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634793140283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001464</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634792976443</id>
+    <published>2021-07-22T11:16:28-04:00</published>
+    <updated>2021-07-22T11:16:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/russian-aero-coconut-30g"/>
+    <title>Russian Aero Coconut - 30g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-russian-aero-coconut-30g-candy-funhouse.jpg?v=1626877062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Russian Chocolate Bars</h2>
+<p><span>Aero Coconut Bars are made of smooth bubbly and silky Milk Chocolate filled with intense coconut flavoured bubbles. If you like coconut you will enjoy eating this sweet bar! The flavour is sooooo good it'll drive you coconutty!</span></p>
+<p style="text-align: center;"><strong>Imported Fresh From Russia!</strong></p>
+<p><strong>30 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aero</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>origin_Russia</s:tag>
+    <s:tag>Russian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634792976443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001463</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623282266171</id>
+    <published>2021-07-06T11:16:29-04:00</published>
+    <updated>2021-07-06T11:16:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/yorkie-orange-bar-46g"/>
+    <title>Yorkie Orange Bar - 46g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-yorkie-orange-chocolate-bar-46-g-candy-funhouse-online-candy-shop.jpg?v=1624378265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Don't Miss Out On This Limited Edition Flavour!</h2>
+<p>  This classic British chocolate bar features a citrusy twist! If you're a fan of chunky pieces of smooth milk chocolate with a delicious orange flavour, this is definitely the bar for you. Don't miss out because this bar won't be here for long, so you might as well try it while it's here! </p>
+<p>  Aren't a fan of orange chocolate yourself? Get it as a gift for anyone you know who does, or check out our <a href="https://candyfunhouse.ca/pages/search-results?q=yorkie" title="Yorkie Bars Candy Funhouse"><strong>other flavours of Yorkie</strong></a> if we've got you curious about this awesome Nestle chocolate bar!</p>
+<p> </p>
+<p><strong>(1 bar) 46g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>Limited Edition</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623282266171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001408</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6564553326651</id>
+    <published>2021-04-16T15:08:32-04:00</published>
+    <updated>2021-04-16T15:08:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-dark-milk-sharing-bar-uk-90g"/>
+    <title>Aero Dark &amp; Milk Sharing Bar UK - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/aero-dark-milk-sharing-bar-uk-90g-candy-funhouse.jpg?v=1618600160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bars</h2>
+<p><br></p>
+<p> </p>
+<p style="text-align: center;"><strong>No Artificial Colours | </strong><strong>No Artificial Flavours | </strong><strong>No Preservatives | </strong><strong>Suitable for Vegetarians</strong></p>
+<p><strong>90 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>No Preservatives</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6564553326651</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000113</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6556781674555</id>
+    <published>2021-04-01T00:01:36-04:00</published>
+    <updated>2021-04-01T00:01:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-spring-bun-118g"/>
+    <title>Japanese Kit Kat Spring Bun - 118g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_1_118g-Side-jpg-1.jpg?v=1625581493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span mce-data-marked="1">A Taste of Japan</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span>12 Kit Kat Snack Size Candy Bars per Bag</span></h3>
+<p><span data-mce-fragment="1">Kit Kat never misses! Introducing Kit Kat Spring Bun, influenced by the culture of Japan. Spring Buns are steamed buns filled with a sweet red bean paste and are a traditional Japanese treat that is sold near hot springs in Japan. Kit Kat has recreated this snack by inserting red bean cream in between the traditional wafers and wrapping them in light brown chocolate.</span></p>
+<p><span>Traditionally, these Kit Kats are only available near hot springs in Japan as a souvenir snack. However, Nestle Japan has decided to make these Spring Bun Kit Kats available for a limited time only.</span></p>
+<p><strong>120g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6556781674555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.99</s:price>
+      <s:sku>02-2000738</s:sku>
+      <s:grams>118</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552812945467</id>
+    <published>2021-03-25T01:23:56-04:00</published>
+    <updated>2021-03-25T01:23:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-70-dark-uk-41-5g"/>
+    <title>Kit Kat 70% Dark UK - 41.5g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_dark70__41g-Side-jpg-1.jpg?v=1625581671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Made for Dark Chocolate Lovers<br>
+</h2>
+<p><span>Four delicious fingers of signature Kit Kat but with an intense dark chocolate coating. A great treat for true dark chocolate lovers. Kit Kat 70% Dark Chocolate Wafer starts with the signature crispy wafer, and covers it in a rich, dark-chocolate coating – made from 70% dark cocoa, sustainably-sourced by the Nestlé Cocoa Plan</span><sup>®</sup><span>. Have a break, have a Kit Kat</span><sup>®</sup><span>.</span></p>
+<h2 style="text-align: center;"></h2>
+<p><strong>41.5g</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552812945467</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000677</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548401913915</id>
+    <published>2021-03-21T04:58:46-04:00</published>
+    <updated>2021-03-21T04:58:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-chunky-peanut-butter-uk-42g"/>
+    <title>Kit Kat Chunky Peanut Butter UK - 42g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_KitkatChunky_42-Side-jpg-1.jpg?v=1624554316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Peanut Butter Dream</span></h2>
+<p>Mix up your break with peanut butter! <span data-mce-fragment="1">Unwrap, snap off a chunk and enjoy the delicious smooth milk chocolate, crispy wafer and creamed peanut topping of </span>Kit Kat Chunky Peanut Butter. A Kit Kat with a bit more bite. Have a break, have a Kit Kat.</p>
+<div class="longTextItems">
+<p>No artificial colours, flavours or preservatives.</p>
+<p>Suitable for vegetarians.</p>
+</div>
+<p><strong>42 g Chocolate Candy Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548401913915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000698</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548389724219</id>
+    <published>2021-03-21T04:42:02-04:00</published>
+    <updated>2021-03-21T04:42:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-bubbly-purely-chocolate-4-pack-108g"/>
+    <title>Aero Bubbly Purely Chocolate 4 Pack - 108g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_108g-Side-jpg-1.jpg?v=1624589243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Bubbly Aero Milk Chocolate</span></h2>
+<p><em>Areo Milk Chocolate Bubble Bars</em><span> are </span><span>famous for their smooth &amp; rich Milk Chocolate and unique bubbly texture. This package includes 4 bars, perfect for sharing. Feel the bubbles melt!</span></p>
+<p><strong>108 g</strong></p>
+<h5></h5>
+<h5></h5>
+<div class="product-main">
+<div data-product-description="" class="product-description rte">
+<div id="tabs" class="description ui-tabs ui-widget ui-widget-content ui-corner-all" itemprop="description">
+<div aria-hidden="false" aria-expanded="true" role="tabpanel" class="ui-tabs-panel ui-widget-content ui-corner-bottom" aria-labelledby="ui-id-2" id="tabs-3"></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548389724219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000110</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548362559547</id>
+    <published>2021-03-21T04:10:20-04:00</published>
+    <updated>2021-03-21T04:10:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/milkybar-smarties-block-uk-100g"/>
+    <title>Milkybar Smarties Block UK - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_MilkybarSmarties_100-Side-jpg-1.jpg?v=1624555268"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Colourful Milkybar!</h2>
+<p>If you love the classic Milkybar, you'll love what they've added to their famous white chocolate recipe. They've turned up the fun by adding in delicious Nestle Smarties! The Milkybar Smarties sharing block has the creamy-tasting Milkybar white chocolate that you love, with the fun, colourful crunch of Smarties!<span> </span>Perfect for moments of simple fun. Made with natural flavourings, it's good to share!</p>
+<p><strong>100 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548362559547</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000980</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548349222971</id>
+    <published>2021-03-21T03:57:24-04:00</published>
+    <updated>2021-03-21T03:57:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-bubbles-peppermint-pouch-uk-102g"/>
+    <title>Aero Bubbles Peppermint Pouch UK - 102g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_PeppermintBubbles_102g-Side-jpg-1.jpg?v=1625580987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delightful Peppermint Bubbles<br>
+</h2>
+<div class="product-info-block product-info-block--product-marketing" id="product-marketing">
+<p><span data-mce-fragment="1">Aero Bubbles but with a delicious peppermint twist! Each bubble is a bite-size piece of aerated peppermint chocolate with a half milk chocolate, half peppermint flavoured shell. Aero® Peppermint Bubbles are perfect for moments between friends and comes in an easy to share resealable pouch. Feel the bubbles melt!  </span></p>
+</div>
+<p><strong>102 g Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548349222971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000109</s:sku>
+      <s:grams>102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548345880635</id>
+    <published>2021-03-21T03:52:09-04:00</published>
+    <updated>2021-03-21T03:52:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-bubbles-milk-pouch-uk-102g"/>
+    <title>Aero Bubbles Milk Pouch UK - 102g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aeroBubbles_102-jpg-1.jpg?v=1624553975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Purely Chocolate Bubbles</h2>
+<div id="product-marketing" class="product-info-block product-info-block--product-marketing">
+<p><span data-mce-fragment="1">Introducing Aero Bubbles! Each bubble is a bite-size piece of their famous aerated chocolate covered in a smooth milk chocolate shell. These delightful little balls of chocolate are perfect for sharing with friends and family and come in a resealable pouch. Feel the bubbles melt! </span></p>
+</div>
+<p><strong>102 g Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548345880635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000108</s:sku>
+      <s:grams>102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548327235643</id>
+    <published>2021-03-21T03:32:20-04:00</published>
+    <updated>2021-03-21T03:32:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/yorkie-raisin-biscuit-duo-66g"/>
+    <title>Yorkie Raisin &amp; Biscuit Duo - 66g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_yorkieDuo_66-jpg-2.jpg?v=1624508562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Delicious Duo of Raisin &amp; Biscuit<br>
+</h2>
+<p><span>A twist on the classic Yorkie Bar! Yorkie chocolate evolved from a bar that was originally launched in 1924 under the name 'York Chocolate' as a single milk chocolate bar produced in York. The Yorkie Duo contains 2 bars of chunky milk chocolate loaded with raisins &amp; biscuits!<em> </em></span></p>
+<p><strong>66g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548327235643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001365</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6548259700795</id>
+    <published>2021-03-21T02:20:37-04:00</published>
+    <updated>2021-03-21T02:20:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/munchies-fudge-brownie-uk-101g"/>
+    <title>Munchies Fudge Brownie UK - 101g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-munchies-chocolate-fudge-brownie-101g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616307543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">New Twist on a Classic<br>
+</h2>
+<p>Craving brownies? Treat yourself to d<span data-mce-fragment="1">eliciously decadent, gooey, soft, and indulgent chocolate brownies</span> made by Nestle! <span data-mce-fragment="1">Delicious milk </span>chocolate<span data-mce-fragment="1"> cubes encasing a soft </span>chocolate fudge brownie<span data-mce-fragment="1"> and crunchy biscuit. The perfect treat for sharing with family and friends. </span>Munchies Chocolate Fudge Brownie take your sweet treat game to a whole other level!</p>
+<p><strong>101</strong><strong> g </strong><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6548259700795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000995</s:sku>
+      <s:grams>101</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547424772155</id>
+    <published>2021-03-18T16:19:33-04:00</published>
+    <updated>2021-03-18T16:19:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/milkybar-cookies-cream-block-90g"/>
+    <title>Milkybar Cookies &amp; Cream Block - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_CookiesCream_90-Side-jpg-1.jpg?v=1624554167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New from Nestle<br>
+</h2>
+<p><strong>90g</strong></p>
+<h5><strong></strong></h5>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547424772155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2000975</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6543057748027</id>
+    <published>2021-03-11T21:58:26-05:00</published>
+    <updated>2021-03-11T21:58:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-turtles-4-pieces-67g"/>
+    <title>Nestle Turtles 4 Pieces - 67g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_turtles_67-Side-jpg-1.jpg?v=1624556872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Original Classic Recipe</h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">A cherished Canadian tradition since 1949</h3>
+<p><span>Indulge in Turtles 3-Piece Chocolate Bar. Its distinct combination of milk chocolate, decadent caramel, and delicious pecans has been a Canadian favourite since 1949. The slow pull of caramel and the crunch of pecans can be experienced in three “me moments” pieces or shared with a loved one for a mutually delightful experience. Guaranteed it’ll have anyone saying “Mmm... I love TURTLES”</span></p>
+<ul>
+<li><span>4 Piece Pack</span></li>
+<li><span>Crafted in Canada</span></li>
+</ul>
+<p><strong>67g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6543057748027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001026</s:sku>
+      <s:grams>67</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115077623867</id>
+    <published>2021-02-21T22:39:49-05:00</published>
+    <updated>2021-02-21T22:39:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-roasted-almond-bars-120-g"/>
+    <title>Kit Kat Roasted Almond Bars - 120 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_roastedAlmond_120g-Side-jpg-1.jpg?v=1624561803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Kit Kat Bars</h2>
+<div style="text-align: center;"><strong>Break off a piece of the new, and indulgent Nestl Kit Kat Roasted Almond Canadian Bars.</strong></div>
+<p style="text-align: center;"><strong>Have a break, have a KitKat<sup>®</sup></strong></p>
+<p><strong>120 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115077623867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2000733</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115049672763</id>
+    <published>2021-02-21T22:01:19-05:00</published>
+    <updated>2021-02-21T22:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-smarties-milk-chocolate-tablet-bar-100-g"/>
+    <title>Nestle Smarties Milk Chocolate Tablet Bar - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-smarties-milk-chocolate-tablet-bar-100-g-candy-funhouse-online-candy-store-canada.jpg?v=1613962849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="st">A new way to eat Smarties candies!</span></h2>
+<p><span>Snap off a piece of… SMARTIES? That's right! Nestle Smarties Milk Chocolate Tablet Bar is a new way to experience - and share - the love of candy-coated, milk chocolate Smarties. This milk chocolate bar is filled with mini Smarties candy-coated milk chocolate pieces adding a colourful crunch within smooth chocolate deliciousness. It's easy to break off one of the 18 square pieces to share with family and friends. Plus, it's all wrapped up in recyclable paper packaging, which helps ensure that the environment stays as vibrant as Smarties pieces. Made in Switzerland with 100% natural colours and flavours, Nestle purchases 100% RAINFOREST ALLIANCE certified cocoa, as part of the NESTLÉ Cocoa Plan. They work with the Rainforest Alliance and farmers to improve the quality of their products and strengthen their communities.</span></p>
+<li><strong><span class="st">Made in Switzerland</span></strong></li>
+<li><strong><span class="st">No Artificial Colours</span></strong></li>
+<li><strong><span class="st">No Artificial Flavours</span></strong></li>
+<li><strong><span class="st"><span>UTZ Certified</span></span></strong></li>
+<h3 style="text-align: center;"></h3>
+<p><strong><span class="st">100 g</span></strong></p>
+<h5><span class="st"><strong></strong></span></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Origin_Switzerland</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>UTZ Certified</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115049672763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2001024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115028635707</id>
+    <published>2021-02-21T21:02:32-05:00</published>
+    <updated>2021-02-21T21:02:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-truffle-chocolate-mousse-milk-chocolate-bar-105-g"/>
+    <title>Aero Truffle Chocolate Mousse Milk Chocolate Bar - 105 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_truffle_chocolateMousse_105-Side-jpg-1.jpg?v=1624555867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span></span></h2>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><span>A Delightful Canadian Chocolate Bar!</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span>Pure Chocolate Bliss.</span></h3>
+<p><span>As if Aero milk chocolate wasn't decadent enough, Aero Truffle Chocolate Mousse Milk Chocolate Bar introduces a new way to experience pure chocolate bliss. Each delicious chocolate bar piece is rich in milk chocolate with a bubbly milk chocolate truffle centre you can't resist. It's so smooth, so delightfully melt-in-your-mouth, you'll want to break off a piece to share with family and friends. After all, good things are made great when experienced with others. It's sure to be your latest craving as you FEEL THE BUBBLES MELT.</span></p>
+<p>Aero Truffle <span data-mce-fragment="1">is also available in<a title="Areo Truffle Black Forest Cake Dark Chocolate Bars" href="https://candyfunhouse.ca/products/aero-truffle-black-forest-cake-dark-chocolate-bar-105-g" target="_blank"><strong> Black Forest Cake</strong></a> and <a href="https://candyfunhouse.ca/products/aero-truffle-tiramisu-milk-chocolate-bar-105-g" target="_blank" title="Aero Truffle Tiramisu Milk Chocolate Bar " rel="noopener noreferrer"><strong>Tiramisu</strong></a>.</span></p>
+<p><span>• Made in Canada<br>• All Natural Flavours and No Artificial Colours<br>• Sustainably sourced cocoa from the NESTLÉ COCOA PLAN<br></span></p>
+<p><strong>105 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Courtneys Candies</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115028635707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000128</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115027980347</id>
+    <published>2021-02-21T20:49:29-05:00</published>
+    <updated>2021-02-21T20:49:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-truffle-black-forest-cake-dark-chocolate-bar-105-g"/>
+    <title>Aero Truffle Black Forest Cake Dark Chocolate Bar - 105 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_truffle_blackForest_105-Side-jpg-1.jpg?v=1624555235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span></span></h2>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><span>A Decadent Canadian Chocolate Bar!</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span>Pure Chocolate Bliss.</span></h3>
+<p>As if Aero dark chocolate wasn't decadent enough, the Aero Black Forest Cake Dark Chocolate Bar introduces a new way to experience pure chocolate bliss. Each delicious chocolate bar piece is milk chocolate coated in a rich dark chocolate shell, with a bubbly, cherry-flavoured truffle centre you can't resist. The contrast of bold dark chocolate with fruity cherry flavours is something that can only be described as sensational. It's so smooth, so delightfully melt-in-your-mouth, you'll want to break off a piece to share with family and friends. After all, good things are made great when experienced with others. It's sure to be your latest craving as you FEEL THE BUBBLES MELT.</p>
+<p>Aero Truffle is also available in <a href="https://candyfunhouse.ca/products/aero-truffle-chocolate-mousse-milk-chocolate-bar-105-g" title="Aero Truffle Chocolate Mousse Milk Chocolate Bar" target="_blank"><strong>Chocolate Mousse</strong></a> and <a href="https://candyfunhouse.ca/products/aero-truffle-tiramisu-milk-chocolate-bar-105-g" target="_blank" title="Aero Truffle Tiramisu Milk Chocolate Bar " rel="noopener noreferrer"><strong>Tiramisu</strong></a>.</p>
+<p><span>• Made in Canada<br>• All Natural Flavours and No Artificial Colours<br>• Sustainably sourced cocoa from the NESTLÉ COCOA PLAN<br></span></p>
+<p><strong>105 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Courtneys Candies</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115027980347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000127</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5112672747579</id>
+    <published>2021-02-17T14:06:37-05:00</published>
+    <updated>2021-02-17T14:06:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-chunky-popcorn-bars-48-g"/>
+    <title>Kit Kat Chunky Popcorn Bars - 48 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_chunkyPopcorn_48-Side-jpg-1.jpg?v=1624556285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New KitKat Chunky Bars</h2>
+<p style="text-align: center;"><span> This new Kit Kar Bar</span><span> features a lusciously sweet and savoury combination of smooth milk chocolate, dusted with crusty salted caramel flakes, encasing layers of a freshly baked crisp wafer with salted caramel popcorn praline. Kit Kat Chunky Popcorn Bars are sure to be a hit amongst Kit Kat lovers. Enjoy a new way to take a break!</span></p>
+<p><strong>48 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5112672747579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>02-2000699</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5064186036283</id>
+    <published>2020-11-12T11:48:43-05:00</published>
+    <updated>2020-11-12T11:48:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-bliss-mixed-truffles-177g"/>
+    <title>Aero Bliss Mixed Truffles - 177g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/aero-bliss-mixed-truffles-177g-candy-funhouse-online-candy-store.jpg?v=1605199725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            10.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Aero Bliss Mixed Truffles</span>
+</h2>
+<p><span data-mce-fragment="1">These Individually wrapped truffles are sure to make the perfect gift! Smooth whipped milk chocolate is a perfect pair with these flavours - Salted Caramel and Hazelnut Supreme.</span></p>
+<h5><span data-mce-fragment="1">Ingredients:</span></h5>
+<p><span data-mce-fragment="1"><meta charset="utf-8">Sugar, Dried Whole <strong>Milk</strong>, Vegetable Fats (Palm, Shea), Cocoa Butter, Cocoa Mass, Lactose and Proteins from Whey (from <strong>Milk</strong>), Whey Powder (from <strong>Milk</strong>), Roasted <strong>Hazelnuts</strong>, Fat-Reduced Cocoa Powder, Biscuit Pieces (<strong>Wheat</strong> Flour, Sugar, Malted <strong>Barley</strong> Flour, Raising Agent (Sodium Carbonate), Flavouring, Salt), Emulsifier (Sunflower Lecithin), Butterfat (from <strong>Milk</strong>), Flavourings, Smooth Milk Chocolate filled with a Hazelnut Praline Aerated Whipped Centre (40%). </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">Sugar, Cocoa Butter, Dried Whole <strong data-mce-fragment="1">Milk</strong>, Skimmed <strong data-mce-fragment="1">Milk</strong> Powder, Vegetable Fats (Palm, Shea), Cocoa Mass, Caramel Pieces (Sugar, Cream Powder (from <strong data-mce-fragment="1">Milk</strong>), Dried Whole <strong data-mce-fragment="1">Milk</strong>, Salt), Butterfat (from <strong data-mce-fragment="1">Milk</strong>), Lactose and Proteins from Whey (from <strong data-mce-fragment="1">Milk</strong>), Whey Powder (from <strong data-mce-fragment="1">Milk</strong>), Fat-Reduced Cocoa Powder, Emulsifier (Sunflower Lecithin), Salt, Flavourings, Smooth Milk Chocolate Filled with a Salted Caramel Aerated Whipped Centre (40%). </span></p>
+<p><span data-mce-fragment="1"><meta charset="utf-8">Sugar, Cocoa Butter, Vegetable Fats (Palm, Shea), Dried Whole <strong data-mce-fragment="1">Milk</strong>, Skimmed <strong data-mce-fragment="1">Milk</strong> Powder, Cocoa Mass, Crisped Cocoa Cereal (Sugar, Coconut Oil, Glucose Syrup, Cocoa Powder, <strong data-mce-fragment="1">Wheat</strong> Flour, Whey Protein (from <strong data-mce-fragment="1">Milk</strong>)), Lactose and Proteins from Whey (from <strong data-mce-fragment="1">Milk</strong>), Whey Powder (from <strong data-mce-fragment="1">Milk</strong>), Fat-Reduced Cocoa Powder, Butterfat (from <strong data-mce-fragment="1">Milk</strong>), Emulsifier (Sunflower Lecithin), Flavourings, Milk Chocolate contains Cocoa Solids 30% minimum and Milk Solids 18% minimum.</span></p>
+<p class="p1"><b>Ingredients and nutritional information provided by the manufacturer are considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for the current date</b></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter 2021</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5064186036283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.49</s:price>
+      <s:sku>02-2000107</s:sku>
+      <s:grams>177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5042425331771</id>
+    <published>2020-10-04T18:01:00-04:00</published>
+    <updated>2020-10-04T18:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/milkybar-pouch-103g"/>
+    <title>Milkybar White Buttons - 85g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_milkybar_85g-Side-jpg-1.jpg?v=1624589403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Milkybar White from England</span></h2>
+<p>They love milk at Milkybar, which is why they've added even more of it to their famous white chocolate recipe. It's the same delicious taste that you and your family know and love, but with milk as the No.1 ingredient. It's simple stuff!<br data-mce-fragment="1">Milkybar was created in 1937 when Nestlé almost exclusively manufactured milk products. The recipe is different today, but at Milkybar they still love milk - you only have to look at their simple white chocolate recipe to see how much! <br data-mce-fragment="1">Enjoying chocolate as part of a varied, balanced diet and a healthy lifestyle is one of life's little pleasures.<br data-mce-fragment="1">Milkybar<span style="font-size: 11.6667px;"> </span>is part of the Nestlé Cocoa Plan, which works with UTZ to ensure a better future for cocoa farmers and even better chocolate for you. Find out more at www.nestlecocoaplan.com.</p>
+<p>85 g<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1930s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>british</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>white chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5042425331771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2000978</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5038895530043</id>
+    <published>2020-09-27T17:36:00-04:00</published>
+    <updated>2020-09-27T17:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-chocolate-caramel-sharing-bar-uk-100g"/>
+    <title>Aero Chocolate Caramel Sharing Bar UK - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_Aero_caramel_90g-Side-jpg-1.jpg?v=1625580875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bars</h2>
+<p><span>Make catch-ups bubblier with Aero® Caramel, a smooth milk chocolate shell covering a light, bubbly caramel-flavoured chocolate centre. When you fancy the lightness of bubbly caramel chocolate, pick up a Caramel Aero® Sharing Bar to enjoy with family or friends. This sharing bar is made of nothing but our famous bubbly chocolate. Enjoy every bubbly piece together when you spend time with the family or indulge with friends when you're catching up. Break a piece off and feel it melt on your tongue as every single bubble is released, and revel in the pleasure of smooth milk chocolate. This much-loved chocolate is famous worldwide for its unique, bubbly texture, and has been for decades. Aero® was first launched in 1935 in peppermint flavour, followed by the milk chocolate variation in the 1970s. Since then, we've been creating even more ways to enjoy Aero®, such as Aero® Bubbles, the perfect way to spread the bubbly joy. With new flavours such as orange joining the range, there's an Aero® for everyone. When it's time for a treat, pick up an Aero® and feel the bubbles melt™.</span></p>
+<p><strong>9</strong><strong>0 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Courtneys Favourite</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5038895530043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000112</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

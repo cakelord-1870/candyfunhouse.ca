@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/halal.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-08-06T00:17:00-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638382776379</id>
+    <published>2021-08-06T00:17:00-04:00</published>
+    <updated>2021-08-06T00:17:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-mini-bites-assorted-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Assorted Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-assorted-bites-pouch-3.5oz-candyfunhouse.jpg?v=1628172602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Embrace Your Punch</h2>
+<h3 style="text-align: center;">Sour Punch Mini Bites Assorted Flavours </h3>
+<p>Enjoy Sour Punches iconic straws in mini form! 3 flavors of sour candy per bag: <em><strong>Blue Raspberry, Green Apple &amp; Strawberry</strong></em>.</p>
+<p>These soft &amp; chewy candy bites are covered in the classic sour sugar coating and come in small bite-sized pieces. What is awesome about this candy is that it comes in a resealable bag! It will perfectly fit in your backpack or purse for a on-the-go snack. You can even try pairing these sour fruity candies with a snack like popcorn!<br data-mce-fragment="1"><br></p>
+<ul>
+<li>Low Fat</li>
+<li>Low Sodium</li>
+<li>Kosher &amp; Halal Certified</li>
+</ul>
+<p><strong>3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638382776379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003034</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6638381596731</id>
+    <published>2021-08-06T00:16:40-04:00</published>
+    <updated>2021-08-06T00:16:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/sour-punch-mini-bites-rad-reds-pouch-3-5oz"/>
+    <title>Sour Punch Mini Bites Rad Reds Pouch - 3.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>American Licorice</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/american-licorice-sour-punch-red-bites-pouch-3.5oz-candyfunhouse.jpg?v=1628172478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>American Licorice<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Embrace Your Punch</h2>
+<h3 style="text-align: center;">Sour Punch Mini Bites Rad Reds</h3>
+<p>Enjoy Sour Punches iconic straws in mini form! 3 flavors of sour candy per bag:<em><strong> Strawberry, Watermelon, &amp; Cherry</strong></em>.</p>
+<p>These soft &amp; chewy candy bites are covered in the classic sour sugar coating and come in small bite-sized pieces. What is awesome about this candy is that it comes in a resealable bag! It will perfectly fit in your backpack or purse for a on-the-go snack. You can even try pairing these radical sour fruity candies with a snack like popcorn!</p>
+<p> </p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Low Fat</li>
+<li data-mce-fragment="1">Low Sodium</li>
+<li data-mce-fragment="1">Kosher &amp; Halal Certified</li>
+</ul>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">3.5oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Low Fat</s:tag>
+    <s:tag>Low Sodium</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6638381596731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1003033</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634760339515</id>
+    <published>2021-08-05T10:16:57-04:00</published>
+    <updated>2021-08-05T10:16:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kervan-cherry-rings-gummy-candy-5lb"/>
+    <title>Kervan Cherry Rings Gummy Candy - 5lb</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Kervan USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kervan-usa-cherry-rings-5lbs-candyfunhouse.jpg?v=1628173011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kervan USA<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            19.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Juicy Gummy Rings with a Cherry Taste</h2>
+<p>     Kervan Cherry Rings are one of the world's finest gummy candies. These juicy, cherry-flavoured treats taste like they were freshly picked from the cherry orchard in Candyland. And there, over the horizon, a unicorn is running free. Sweet Dreams Live Here! </p>
+<p style="text-align: center;"><strong>Kervan Cherry Rings Bulk Candy is a sweet addition to any Candy Buffet or Corporate Event.</strong></p>
+<ul>
+<li>Halal Candy</li>
+<li>Made in Turkey</li>
+<li>Made with the finest ingredients</li>
+</ul>
+<p><strong>5 lbs Bulk Candy </strong></p>
+<h5><strong></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kervan</s:tag>
+    <s:tag>Origin_Turkey</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634760339515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.97</s:price>
+      <s:sku>04-4000745</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6571115249723</id>
+    <published>2021-08-05T10:04:26-04:00</published>
+    <updated>2021-08-05T10:04:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ccc-sour-mini-cherry-bombs-5-5lbs"/>
+    <title>CCC Sour Mini Cherry Bombs - 5.5lbs</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/ccc-sour-mini-cherry-bombs-2.5kg-candyfunhouse.jpg?v=1628172188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Bulk Candy for Candy Bars</h2>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>Canada Candy Co. makes crave-worthy candies and treats for all to enjoy. These cherry bombs are a yummy gummy candy bursting with delicious fruity flavours. These red candies would be a sweet addition to a red-themed event or any sweet celebration, or just for snacking.</p>
+<ul>
+<li><strong>Peanut Free</strong></li>
+<li><b>Kosher</b></li>
+<li><b>Halal</b></li>
+<li><b>Made in Canada</b></li>
+</ul>
+<p><strong>bulk bag - 5.5lbs</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast Across Canada and the USA!</strong></h3>
+<h5><strong>Ingredients</strong></h5>
+<p>Corn syrup, sugar, water, modified corn starch, citric acid, natural and artificial flavour, malic acid, soybean oil, artificial colours (brilliant blue FCF , tartrazine), fumaric acid, sodium hydrogen malate.</p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Blue Raspberry</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Canada Candy Co.</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_White</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>fruit chews</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Origin_Spain</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6571115249723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000181</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6606059077691</id>
+    <published>2021-07-12T15:02:14-04:00</published>
+    <updated>2021-07-12T15:02:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ccc-assorted-fish-2-5-kg"/>
+    <title>CCC Assorted Fish - 2.5 kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/canada-candy-co-assorted-fish-2kg-candy-funhouse-online-candy-shop.jpg?v=1625859446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">This Catch is Sure to Be Sweet!<br>
+</h2>
+<p>    Take a dive in this flavourful ocean full of tasty, colourful, fruity fish! The stunning colours and sweet flavours will have you on a maritime adventure you won't forget. Made by Canada Candy Co., you know that you'll be tasting only the best Canadian made candy!</p>
+<p>    This bulk bag provides the perfect amount to share with plenty of friends and family, or to put out at any party - especially one that's sea-themed! </p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p>    </p>
+<ul>
+<li>Peanut Free</li>
+<li>Kosher</li>
+<li>Halal</li>
+<li>Made in Canada</li>
+</ul>
+<p><strong>2.5kg Bulk Bag</strong></p>
+<h5 style="text-align: center;"><strong>Fresh Candy Shipped Fast Across Canada and the USA!</strong></h5>
+<h5><strong></strong></h5>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Canada Candy Co.</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>chewy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chewy Candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6606059077691</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>04-4000712</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623741575227</id>
+    <published>2021-07-06T10:37:16-04:00</published>
+    <updated>2021-07-06T10:37:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kervan-strawberry-gummy-candy-5lbs"/>
+    <title>Kervan Strawberry Gummy Candy - 5lbs</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Kervan USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kervan_strawberry_gummies_bulk_5lbs_candy_funhouse.jpg?v=1625504184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kervan USA<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"></h2>
+<h2 style="text-align: center;">Squishy, Sweet Strawberry Treats</h2>
+<p>   No need to go picking for these delicious, juicy berries! Each gummy candy is shaped like a red strawberry with a green top, with that unforgettable strawberry flavour.</p>
+<p>   This bulk bag makes it perfect for you to share with everyone you know, or put on a platter for your next party. No matter what you choose it'll be a flavourful experience that will linger on your tastebuds!</p>
+<ul>
+<li>Halal Candy (Beef Gelatine)</li>
+<li>Made in Turkey</li>
+<li>Made with the finest ingredients</li>
+</ul>
+<p><strong>5lb Bulk Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kervan</s:tag>
+    <s:tag>Origin_Turkey</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623741575227</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000731</s:sku>
+      <s:grams>2300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622988533819</id>
+    <published>2021-07-06T10:36:33-04:00</published>
+    <updated>2021-07-06T10:36:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kervan-assorted-dinosaurs-gummy-candy-5lbs"/>
+    <title>Kervan Assorted Dinosaurs Gummy Candy - 5lbs</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Kervan USA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kervan-usa-assorted-dinosaur-gummy-candy-5-lb-candy-funhouse-online-candy-shop.jpg?v=1624308507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kervan USA<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Kervan Gourmet Gummy Candy</h2>
+<p>Kervan Dinosaurs Gummy Candies are one of the world's sweetest candy creatures and are made with the finest ingredients. These Dinosaur shaped candies may <strong>ROAR! </strong>but they don't bite! The only one doing any biting around here is you, as you enjoy their yummy fruity flavours. The assorted fruit flavours come in the colours of cherry red, lime green, blue raspberry blue, and lemon yellow.</p>
+<p style="text-align: center;"><strong>Kervan Assorted Dinosaur Bulk Candy is a sweet addition to any Candy Buffet or Corporate Event.</strong></p>
+<ul>
+<li>Halal Candy</li>
+<li>Made in Turkey</li>
+<li>Made with the finest ingredients</li>
+</ul>
+<p><strong>5 lbs Bulk Candy </strong></p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<div class="box-collateral">
+<div class="box-collateral-content">
+<div class="std">Corn Syrup, Sugar, Beef Gelatine, Citric Acid, Palm Oil, Artificial Flavors, Carnauba Wax, Artificial Colors [Yellow #5 (E102), Blue #1 (E133), Red #40 (E129)] Produced in a facility that also processes gluten, soy lecithin, tree nuts, milk and products of milk.</div>
+<div class="std"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Colour_Assorted</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kervan</s:tag>
+    <s:tag>Origin_Turkey</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622988533819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000724</s:sku>
+      <s:grams>2292</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620584738875</id>
+    <published>2021-07-06T10:35:01-04:00</published>
+    <updated>2021-07-06T10:35:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kerrs-light-chai-latte-green-tea-latte-no-sugar-added-candies-90g"/>
+    <title>Kerr&apos;s Light Chai Latte/Green Tea Latte No Sugar Added Candies - 90g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kerr&apos;s Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kerrs-light-chai-latte-green-tea-latte-no-sugar-added-90-g-candy-funhouse-online-candy-shop_1.jpg?v=1624032325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kerr&#39;s Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Enjoy a Sweet on the Lighter Side</h2>
+<p style="text-align: left;" data-mce-style="text-align: left;">    These creamy hard candies are delightful and guilt-free! Kerr's Light candies sweetened with Splenda pack only 7 calories apiece, so you never have to feel bad about enjoying one of these tasty sweets! <br><br>     This bag comes with the scrumptious flavours of <strong>Chai Latte</strong> and <strong>Green Tea Latte</strong>, it'll be as if you were slowly sipping on the beverages themselves! Perfect as a gift for anyone who loves a good frothy latte on the go without any of the hassles. </p>
+<p> </p>
+<div>
+<ul></ul>
+</div>
+<p><strong>90 g</strong></p>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><strong>Fresh Sugar-Free Candy Shipped Fast!</strong></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kerrs Candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620584738875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002898</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621736566843</id>
+    <published>2021-07-06T10:34:29-04:00</published>
+    <updated>2021-07-06T10:34:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kerrs-light-caramel-latte-mocha-latte-no-sugar-added-candies-90g"/>
+    <title>Kerr&apos;s Light Caramel Latte/Mocha Latte No Sugar Added Candies - 90g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kerr&apos;s Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kerrs-light-caramel-latte-90g-candy-funhouse-online-candy-shop.jpg?v=1624037730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kerr&#39;s Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">Enjoy a Sweet on the Lighter Side</h2>
+<p style="text-align: left;" data-mce-style="text-align: left;">    These creamy hard candies are delightful and guilt-free! Kerr's Light candies sweetened with Splenda pack only 7 calories apiece, so you never have to feel bad about enjoying one of these tasty sweets! <br><br>     This bag comes with the scrumptious flavours of<span> <strong>Caramel</strong></span><strong> Latte</strong><span> </span>and<span> <strong>Mocha</strong></span><strong> Latte</strong>, it'll be as if you were slowly sipping on the beverages themselves! Perfect as a gift for anyone who loves a good frothy latte on the go without any of the hassles. </p>
+<ul>
+<li><strong>Canadian Candy</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Tree-Nut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Vegetarian</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Kosher</strong></li>
+</ul>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>90 g</strong></p>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><strong>Fresh Sugar-Free Candy Shipped Fast!</strong></h3>
+<p> </p>
+<h5><strong><span class="color_3"></span></strong></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kerrs Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Peg Bags</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Sugar Free</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621736566843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002909</s:sku>
+      <s:grams>98</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623396954171</id>
+    <published>2021-07-06T09:24:30-04:00</published>
+    <updated>2021-07-06T09:24:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/v-yumz-fruit-chews-immunity-boosters-vitamin-c-zinc-350g"/>
+    <title>V-Yumz Fruit Chews Immunity Boosters Vitamin C+Zinc - 350g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-v-yumz-fruit-chews-immunity-boosters-vitamin-d-350g-candy-funhouse-online-candy-shop.jpg?v=1624466451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Fruit Chews</span></h2>
+<h3 style="text-align: center;"><span mce-data-marked="1">Immunity Boosters</span></h3>
+<h3 style="text-align: center;"><span mce-data-marked="1">Vitamin C + Zinc</span></h3>
+<p>There's no need to keep taking plain old Flinstones Gummies, enjoy our yummy fruit chew as a new and improved fun way to get your immunity up!</p>
+<p>C the difference, taste the difference!🍊🍓<br data-mce-fragment="1"><br data-mce-fragment="1"></p>
+<ul>
+<li>Halal</li>
+<li>Vegetarian</li>
+<li>Soy-Free</li>
+<li>Gluten-Free</li>
+<li>NON GMO</li>
+</ul>
+<div>
+<ul></ul>
+</div>
+<p><strong>350g</strong><br></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623396954171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1002926</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623398690875</id>
+    <published>2021-07-06T09:20:35-04:00</published>
+    <updated>2021-07-06T09:20:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/gummy-rush-gummy-bears-90g"/>
+    <title>Gummy Rush Gummy Bears - 90g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-gummy-rush-gummy-bears-90g-candy-funhouse-online-candy-shop.jpg?v=1624470069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Fruit Flavoured Gummy Bears</span></h2>
+<p><meta charset="utf-8"><span data-mce-fragment="1">If you're in the mood for a sugar rush, grab a bag of <strong>Gummy Rush</strong>! Try <strong>Gummy Rush Gummy Bears</strong>, the adorable classic shape inspired by the trained bears seen at street festivals. Each package is filled with squishy, little bears in <strong>Strawberry</strong>, <strong>Orange</strong>, <strong>Lemon</strong>, <strong>Apple</strong> and <strong>Pineapple</strong> flavours. </span><span data-mce-fragment="1">Made with </span><strong>natural</strong><span data-mce-fragment="1"><strong> fruit juice</strong> and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, get a pack and enjoy these delicious little gummies.</span></p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<p><span data-mce-fragment="1"></span><strong>90g</strong></p>
+<h5><strong><span class="color_3">INGREDIENTS: </span></strong></h5>
+<p><span mce-data-marked="1">Coming Soon...</span></p>
+<p><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</span></strong></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623398690875</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002934</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623398527035</id>
+    <published>2021-07-06T09:19:42-04:00</published>
+    <updated>2021-07-06T09:19:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/v-yumz-eclairs-immunity-boosters-vitamin-d-350g"/>
+    <title>V-Yumz Eclairs Immunity Boosters Vitamin D - 350g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-v-yumz-eclairs-immunity-boosters-vitamin-d-350g-candy-funhouse-online-candy-shop.jpg?v=1624465272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Eclairs </span></h2>
+<h3 style="text-align: center;"><span>Immunity Boosters</span></h3>
+<h3 style="text-align: center;"><span>Vitamin D</span></h3>
+<p><span mce-data-marked="1">Enjoy these yummy eclairs as a new and improved fun way to get your chocolate boost and immunity up! Just remember one eclair a day keeps the doctor away!</span></p>
+<p><span mce-data-marked="1">These are D-licious!🌞🍫</span></p>
+<ul>
+<li><span>Halal</span></li>
+<li><span>Vegetarian</span></li>
+<li><span>Soy-Free</span></li>
+<li>Gluten-Free</li>
+<li>
+<p><span></span><span>NON GMO</span></p>
+</li>
+</ul>
+<p><strong>350g</strong></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623398527035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1002927</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620580708411</id>
+    <published>2021-07-06T08:30:35-04:00</published>
+    <updated>2021-07-06T08:30:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/britain-sweets-chocolate-caramel-toffee-120g"/>
+    <title>Britain Sweets Chocolate Caramel Toffee - 120g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/naseeb-international-cheery-chews-britain-sweets-chocolate-caramel-toffees-120-g-candy-funhouse-online-candy-shop.jpg?v=1624038344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sweet Caramel Toffee Coated in Mouthwatering Chocolate</h2>
+<p><span>Established in 1982, Britain Sweets combined their love and admiration of sweets with their appreciation for the iconic views of London, England. Building from the ground up these tasty treats are a combination of their joyful experiences and precious memories all in bite-sized treats. Made in the UK.</span></p>
+<p><span>Chewy, smooth caramel toffee wrapped up in a rich milk chocolate coating. Try Britain Sweets Chocolate Caramel Toffees for a mix of chocolate and toffee that'll satisfy any sweet tooth. These toffee treats pair perfectly with an afternoon coffee. Made with 100% Non-GMO ingredients and halal-certified, they are 100% yummy. </span></p>
+<ul>
+<li><strong>Natural Flavours</strong></li>
+<li><b>Non-GMO</b></li>
+<li><b>Peanut-Free</b></li>
+<li><b>Sesame-Free </b></li>
+<li><b>Milk-Free</b></li>
+<li><b>Halal-certified</b></li>
+<li><b>Suitable for Vegetarians and Celiacs</b></li>
+</ul>
+<div>
+<ul></ul>
+</div>
+<p> <strong>120 g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620580708411</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>01-1002887</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620579659835</id>
+    <published>2021-07-02T10:20:18-04:00</published>
+    <updated>2021-07-02T10:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/huer-halal-sour-watermelon-slices-1lg"/>
+    <title>Huer Halal Sour Watermelon Slices - 1kg</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Ferrara Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/huer-halal-sour-watermelon-slices-1-kg-candy-funhouse-online-candy-shop.jpg?v=1624284534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrara Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Huer Halal Sour Watermelon Slices Candy</h2>
+<p style="text-align: center;">  These sweet watermelon slice treats are just as juicy as the real deal! If you love watermelon then look no further to get your gummy fix. Also certified Halal!</p>
+<p style="text-align: center;"><strong>Perfect for weddings, corporate events, birthdays, parties of all kinds! </strong></p>
+<p><strong>1 kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Candy Buffet</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Huer</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620579659835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>04-4000716</s:sku>
+      <s:grams>1140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622988238907</id>
+    <published>2021-06-30T22:34:20-04:00</published>
+    <updated>2021-06-30T22:34:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ccc-jacked-up-juice-berries"/>
+    <title>CCC Jacked Up Juice Berries</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/canada-candy-co-jacked-up-juice-berries-bulk-gummies-2.5-kg-candy-funhouse-online-candy-shop.jpg?v=1624294160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Jacked Up Juice Berries Bulk Candy</h2>
+<p>You've never had Juice Berries like these before, enjoy the powerful flavour and these berries won't be the only thing that are jacked up! Not only are they wildly delicious and made right here in Canada, but they are also Halal and Kosher. </p>
+<p style="text-align: center;"><strong>Try all the<span> </span><a href="https://candyfunhouse.ca/collections/canada-candy-co" title="Canada Candy Co." target="_blank">Canada Candy Co.</a><span> </span>Bulk Candies!</strong></p>
+<h3 style="text-align: center;">Perfect for Candy Buffets or Corporate Events</h3>
+<p style="text-align: center;"><strong>Peanut Free | Gluten Free | Halal | Kosher | Made in Canada</strong></p>
+<p><strong>Available in 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622988238907</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>04-4000730</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6622987518011</id>
+    <published>2021-06-30T22:33:49-04:00</published>
+    <updated>2021-06-30T22:33:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ccc-sour-jacked-up-juice-berries"/>
+    <title>CCC Sour Jacked Up Juice Berries</title>
+    <s:type>Bulk</s:type>
+    <s:vendor>Canada Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/canada-candy-co-sour-jacked-up-juice-berries-bulk-gummies-2.5-kg-candy-funhouse-online-candy-shop.jpg?v=1624294192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Canada Candy Co.<br>
+        <strong>Type: </strong>Bulk<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Jacked Up Juice Berries Bulk Candy</h2>
+<p>You've never had Sour Juice Berries like these before, enjoy the powerful flavour and these berries won't be the only thing that are jacked up! Not only are they wildly delicious and made right here in Canada, but they are also Halal and Kosher. </p>
+<p style="text-align: center;"><strong>Try all the<span> </span><a href="https://candyfunhouse.ca/collections/canada-candy-co" title="Canada Candy Co." target="_blank">Canada Candy Co.</a><span> </span>Bulk Candies!</strong></p>
+<h3 style="text-align: center;">Perfect for Candy Buffets or Corporate Events</h3>
+<p style="text-align: center;"><strong>Peanut Free | Gluten Free | Halal | Kosher | Made in Canada</strong></p>
+<p><strong>Available in 2.5kg</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6622987518011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.99</s:price>
+      <s:sku>04-4000723</s:sku>
+      <s:grams>2500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620580184123</id>
+    <published>2021-06-30T22:15:30-04:00</published>
+    <updated>2021-06-30T22:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/gummy-rush-blue-sharks-90g"/>
+    <title>Gummy Rush Blue Sharks - 90g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cheery-chews-gummy-rush-blue-sharks-90g-candy-funhouse-online-candy-shop_1.jpg?v=1625105743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Dangerously Good Gummy Sharks</span></h2>
+<p><meta charset="utf-8"><span data-mce-fragment="1">If you're in the mood for a sugar rush, grab a bag of <strong>Gummy Rush</strong>! Try <strong>Gummy Rush Blue Sharks</strong> for a dangerously fun treat. Each package is overflowing with blue and white-shaped gummies flavoured to taste like Wild Forest Fruits (<strong>Melon</strong>, <strong>Blueberry</strong>, and <strong>Raspberry</strong>). Make sure to bite them before they bite you! </span><span data-mce-fragment="1">Made with </span><span data-mce-fragment="1">natural</span><span data-mce-fragment="1"> fruit juice and <strong>free from the top 10 allergens</strong></span><span data-mce-fragment="1">, these gummies are too delicious to be afraid of!</span> </p>
+<ul>
+<li>
+<strong>Egg-Free</strong><br>
+</li>
+<li><strong>Fish-Free</strong></li>
+<li><strong>Soy-Free</strong></li>
+<li><strong>Milk/Casein-Free</strong></li>
+<li><strong>Wheat-Free</strong></li>
+<li><strong>Shellfish-Free</strong></li>
+<li><strong>Peanut-Free</strong></li>
+<li><strong>Sesame-Free</strong></li>
+<li><strong>Tree Nut-Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Certified Halal</strong></li>
+</ul>
+<div>
+<ul></ul>
+</div>
+<p><strong>90g</strong></p>
+<h5><strong><span class="color_3">INGREDIENTS: </span></strong></h5>
+<p><span mce-data-marked="1">Coming Soon...</span></p>
+<p><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labeling or contact the manufacturer directly for current data.</span></strong></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Gummy</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620580184123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>01-1002868</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6601002156091</id>
+    <published>2021-06-30T16:21:32-04:00</published>
+    <updated>2021-06-30T16:21:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kerrs-creamy-caramels-coconut-130g"/>
+    <title>Kerr&apos;s Creamy Caramels Toasted Coconut - 130g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kerr&apos;s Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kerrs-creamy-caramels-toasted-coconut-130-g-candy-funhouse-online-candy-shop.jpg?v=1624028130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kerr&#39;s Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Kerr's Creamy Caramels Toasted Coconut</h2>
+<p><span>Kerr's signature soft caramel now comes flavoured with hints of coconut flavouring around a rich coconut centre made with real toasted coconut and coconut milk.​ You might go coco-NUTS for this when you try it!!</span></p>
+<ul>
+<li>No artificial flavours</li>
+<li>No artificial colours</li>
+<li>No high fructose corn syrup</li>
+<li>Peanut free</li>
+<li>Tree-nut free</li>
+<li>Gluten free</li>
+<li>Kosher</li>
+</ul>
+<div>
+<ul></ul>
+</div>
+<p> <strong>130 g</strong></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kerrs Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6601002156091</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>01-1002876</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620578119739</id>
+    <published>2021-06-30T16:12:46-04:00</published>
+    <updated>2021-06-30T16:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kerrs-maple-ballpops-350g"/>
+    <title>Kerr&apos;s Maple Ballpops - 350g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Kerr&apos;s Candy</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/kerrs-maple-ballpops-350-g-candy-funhouse-online-candy-shop.jpg?v=1624476476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kerr&#39;s Candy<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>🍁Finest Quality Canadian Candy🍁</span></h2>
+<p><span>Kerr's Maple Ballpops are naturally flavoured hard candies made with 100% real Canadian maple syrup.​ The delicious Canadian candies </span>contain no high fructose corn syrup and no artificial colours or flavours. </p>
+<ul>
+<li><strong>Made in Canada</strong></li>
+<li><strong>Peanut Free</strong></li>
+<li><strong>Tree-Nut Free</strong></li>
+<li><strong>Gluten-Free</strong></li>
+<li><strong>Vegetarian</strong></li>
+<li><strong>Halal</strong></li>
+<li><strong>Kosher</strong></li>
+</ul>
+<div style="text-align: center;"><strong></strong></div>
+<p> <b>300 g</b></p>
+<h5><b><strong>INGREDIENTS:</strong><span> </span></b></h5>
+<p><span>Corn syrup, sugar, maple syrup, coconut oil, salt, cotton stearine, natural flavours, natural caramel colour, mono &amp; diglycerides (soy), soy lecithin.</span></p>
+<p><b><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</span></b></p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kerrs Candy</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut-free</s:tag>
+    <s:tag>Tree-Nut Free</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620578119739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>01-1002879</s:sku>
+      <s:grams>350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623400624187</id>
+    <published>2021-06-23T17:22:07-04:00</published>
+    <updated>2021-06-23T17:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/melting-sweet-sugar-free-grape-cranberry-125g"/>
+    <title>Melting Sweet Sugar Free Grape &amp; Cranberry - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/melting-sweet-sugar-free-tamarind-grape-and-cranberry-125g-candy-funhouse-online-candy-shop.jpg?v=1624473521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Melting Sweet</h2>
+<h2 style="text-align: center;">Sugar Free Grape &amp; Cranberry </h2>
+<p>Let the flavours of grape and cranberry brighten your day from these new hard candies. Superfoods packed with a punch of nutrients!</p>
+<h6>*MANUFACTURED IN PEANUT FACILITY*</h6>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>4.4oz / 125g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623400624187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1002933</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623400493115</id>
+    <published>2021-06-23T17:22:07-04:00</published>
+    <updated>2021-06-23T17:22:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/melting-sweets-sugar-free-tamarind-blood-orange-125g"/>
+    <title>Melting Sweet Sugar Free Tamarind &amp; Blood Orange - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/melting-sweet-sugar-free-tamarind-blood-orange-125g-candy-funhouse-online-candy-shop.jpg?v=1624473117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Melting Sweet</h2>
+<h2 style="text-align: center;">Sugar Free Tamarind &amp; Blood Orange </h2>
+<p>This tropical candy will take your taste buds on adventure! Tamarind gives off a burst of sweet and tangy, while the blood orange provides a zest. A daring piquant combination we must say!</p>
+<p> </p>
+<h6>*MANUFACTURED IN PEANUT FACILITY*</h6>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>4.4oz / 125g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623400493115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002932</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623400329275</id>
+    <published>2021-06-23T17:22:06-04:00</published>
+    <updated>2021-06-23T17:22:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/melting-sweet-sugar-free-tumeric-ginger-125g"/>
+    <title>Melting Sweet Sugar Free Tumeric &amp; Ginger - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/melting-sweet-sugar-free-turmeric-and-ginger-125g-candy-funhouse-online-candy-shop.jpg?v=1624473726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Melting Sweet</h2>
+<h2 style="text-align: center;">Sugar Free Turmeric &amp; Ginger </h2>
+<p>Enjoy these treats with a clear conscience as your body will surely agree with it. The combination of turmeric and ginger not only tastes amazing, but have great health benefits!</p>
+<p> </p>
+<h6>*MANUFACTURED IN PEANUT FACILITY*</h6>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>4.4oz / 125g</strong></p>
+<div>
+<ul></ul>
+</div>
+<p> </p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623400329275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1002931</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623400099899</id>
+    <published>2021-06-23T17:22:06-04:00</published>
+    <updated>2021-06-23T17:22:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/melting-sweets-coconut-hard-candy-125g"/>
+    <title>Melting Sweet - Coconut Hard Candy - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/melting-sweet-coconut-candy-125g-candy-funhouse-online-candy-shop.jpg?v=1624473938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Melting Sweet</h2>
+<h2 style="text-align: center;">Coconut Hard Candy</h2>
+<p>These sweet hard candies are made with real fresh coconut cream. Taste it and discover all the wonders!</p>
+<h6></h6>
+<h6>*MANUFACTURED IN PEANUT FACILITY*</h6>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>4.4oz / 125g</strong></p>
+<p> </p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623400099899</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002930</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623399968827</id>
+    <published>2021-06-23T17:22:05-04:00</published>
+    <updated>2021-06-23T17:22:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/melting-sweet-ginger-hard-candy-125g"/>
+    <title>Melting Sweet - Ginger Hard Candy - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/melting-sweet-ginger-candy-125g-candy-funhouse-online-candy-shop.jpg?v=1624474077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Melting Sweet</h2>
+<h2 style="text-align: center;">Ginger Hard Candy </h2>
+<p>These hard sweet candies are made with real and honest ingredients that capture the essence of Ginger. Plop one in your mouth to give your day a boost!<br></p>
+<h6>*MANUFACTURED IN PEANUT FACILITY*</h6>
+<div>
+<ul></ul>
+</div>
+<p><strong>4.4oz / 125g</strong></p>
+<h5><strong><span class="color_3"></span></strong></h5>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623399968827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002929</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623399739451</id>
+    <published>2021-06-23T17:22:05-04:00</published>
+    <updated>2021-06-23T17:22:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/melting-sweet-lychee-hard-candy-125g"/>
+    <title>Melting Sweet - Lychee Hard Candy - 125g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Cheery Chews</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/melting-sweet-lychee-candy-125g-candy-funhouse-online-candy-shop.jpg?v=1624473845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheery Chews<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Melting Sweet</h2>
+<h2 style="text-align: center;">Lychee Hard Candy </h2>
+<p>These hard candies pack a surprising burst of zest and sweetness. Indulge as much as you want since these are made with real lychee paste!</p>
+<h6>*MANUFACTURED IN PEANUT FACILITY*</h6>
+<div>
+<ul></ul>
+<br>
+</div>
+<p><strong>4.4oz / 125g</strong></p>
+<div>
+<ul></ul>
+</div>
+<p> </p>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2>
+<h2 class="font_2"><span class="color_15"><span></span></span></h2>
+<h2 class="font_2"><span><span class="color_2"></span></span></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623399739451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>01-1002928</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+</feed>

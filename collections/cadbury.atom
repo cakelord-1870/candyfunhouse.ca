@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/cadbury.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-09T12:00:35-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10483567114</id>
+    <published>2021-07-09T12:00:35-04:00</published>
+    <updated>2021-07-09T12:00:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-eclairs-classic-uk"/>
+    <title>Cadbury Eclairs Classic UK - 166g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-eclairs-classic-uk-1960s-british-caramel-chocolate_187.jpg?v=1571438935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Candy</h2>
+<p><span>Delicious Caramels with Milk Chocolate Centres from the sweet and creative geniuses at Cadbury UK.</span></p>
+<p><strong>166g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10483567114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2000303</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552794398779</id>
+    <published>2021-07-09T11:59:50-04:00</published>
+    <updated>2021-07-09T11:59:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-chocolate-eclairs-uk-130g"/>
+    <title>Cadbury Chocolate Eclairs UK - 130g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Cadbury-Chocolate-Eclairs-130g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616648583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Perfect Combination</h2>
+<p style="text-align: left;" data-mce-style="text-align: center;">The<span> mouthwatering combination of caramel and chocolate makes this treat a long time favourite. Let Cadbury Eclairs take you on a delicious journey through a layer of chewy caramel to a heart of rich Cadbury chocolate. </span>Individually wrapped and perfect for sharing with friends and family.</p>
+<p><strong>130 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552794398779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000208</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623678824507</id>
+    <published>2021-07-08T13:40:58-04:00</published>
+    <updated>2021-07-08T13:40:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-orange-giant-buttons-uk-95g"/>
+    <title>Cadbury Dairy Milk Orange Giant Buttons UK - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mondelez-cadbury-dairy-milk-orange-giant-buttons-95-g-candy-funhouse-online-candy-shop.jpg?v=1624473590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>The Delectable Dairy Milk Chocolate Taste You Love, With a Citrusy Twist!</span></h2>
+<p><span>  Straight from the UK, Cadbury has brought you a new sweet that you're sure to love. These Giant Buttons have the same creamy and smooth Dairy Milk chocolate taste infused with real Orange oil to give you a boost of fruity flavour, elevating the enjoyment of your confection. </span></p>
+<p><span>  Whether you're a fan of Dairy Milk or orange flavoured chocolate, we know you won't be able to get enough of these tangy treats!</span></p>
+<p class="descriptionText"> </p>
+<p> </p>
+<p class="descriptionText"><strong>(1 bag) 95g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623678824507</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2001440</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6590680989755</id>
+    <published>2021-07-06T09:14:13-04:00</published>
+    <updated>2021-07-06T09:14:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-tiffin-bar-53g"/>
+    <title>Cadbury Dairy Milk Tiffin Bar UK - 53g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-dairy-milk-tiffin-bar-53g-candy-funhouse-online-candy-shop.jpg?v=1622209501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Cadbury Dairy Milk from the UK</span></h2>
+<p style="text-align: center;"><span data-mce-fragment="1">This classic old-fashioned Cadbury Chocolate Bar is back! Remember the delicious </span><span data-mce-fragment="1">medley of crunchy biscuit and juicy raisins, smothered in smooth creamy Cadbury Dairy Milk milk chocolate that we all love!</span></p>
+<ul>
+<li><strong>Made in Ireland</strong></li>
+<li><strong>Suitable for Vegetarians</strong></li>
+</ul>
+<p><strong>53g</strong></p>
+<h5>Ingredients:</h5>
+<p><span class="allergen">Milk</span>**, Sugar, Dried Grapes, Cocoa Butter, Cocoa Mass, Vegetable Fats (Palm, Shea),<span> </span><span class="allergen">Wheat</span><span> </span>Flour, Emulsifiers (E442, E476), Salt, Raising Agents (Sodium Bicarbonate, Ammonium Bicarbonate), Flavourings, **The equivalent of 426ml of Fresh Liquid<span> </span><span class="allergen">Milk</span><span> </span>in every 227g of<span> </span><span class="allergen">Milk</span><span> </span>Chocolate,<span> </span><span class="allergen">Milk</span><span> </span>Chocolate:<span> </span><span class="allergen">Milk</span><span> </span>Solids 20% minimum, actual 23%, Cocoa Solids 20% minimum, Contains Vegetable Fats in addition to Cocoa Butter</p>
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6590680989755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.19</s:price>
+      <s:sku>02-2001387</s:sku>
+      <s:grams>53</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6581160575035</id>
+    <published>2021-05-12T00:28:43-04:00</published>
+    <updated>2021-05-12T00:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-caramel-uk-45g"/>
+    <title>Cadbury Dairy Milk Caramel UK - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-dairy-milk-caramel-uk-45g-candy-funhouse.jpg?v=1620795188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bar</h2>
+<p>The <strong>Cadbury Dairy Milk Caramel</strong> is an exquisite bar imported from across the pond. Delightful Dairy Milk milk chocolate and filled with a delicious caramel filling. </p>
+<p><strong>45g Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6581160575035</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001374</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6575093907515</id>
+    <published>2021-05-03T02:04:43-04:00</published>
+    <updated>2021-05-03T02:04:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-twirl-orange-uk-43g"/>
+    <title>Cadbury Twirl Orange UK - 43g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-twirl-orange-43g-candy-funhouse.jpg?v=1620021907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;"><span>Give this Twirl a Whirl!</span></h2>
+<h3 style="text-align: center;">Retro Candy -1970's</h3>
+<p><span>Looking for an intense chocolate hit? Try the Limited Edition Cadbury Twirl Orange chocolate bar that offers twice the pleasure, with two delicious milk chocolate fingers infused with an orange hit. These two flake-style bars were originally introduced in the 1970s as a solo bar, but repackaged in 1984 as a twin, since 2 are better than 1!</span><span data-mce-fragment="1"> Let it melt in your mouth as the twirling ribbons unfold. Perfect for indulging. </span></p>
+<p><strong>43g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1980s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1980s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6575093907515</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.29</s:price>
+      <s:sku>02-2000377</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6555813118011</id>
+    <published>2021-05-02T15:34:09-04:00</published>
+    <updated>2021-05-02T15:34:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-chocoalte-sandwich-260g"/>
+    <title>Cadbury Choco Sandwich - 260g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-chocoalte-sandwich-260g-candy-funhouse.jpg?v=1619984203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"><span data-mce-fragment="1">NEW! from Cadbury</span></span></h2>
+<h3 style="text-align: center;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"><span data-mce-fragment="1">Chewy Cookies Filled with Chocolate!</span></span></h3>
+<h4 style="text-align: center;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"><span data-mce-fragment="1">American Snacks</span></span></h4>
+<p class="p1"> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<h2 style="text-align: center;"><b>Fresh British Treats Shipped to Canada &amp; the USA!</b></h2>
+<p><strong>260g</strong></p>
+<h5>Ingredients</h5>
+<p> </p>
+Coming Soon...
+<p><br></p>
+<h6>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. We cannot be held responsible for the accuracy of ingredients or nutritional information provided, nor liable for any reactions caused by the products we sell.</h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookies</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Cookies</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6555813118011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>03-3000213</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552822644795</id>
+    <published>2021-03-25T01:34:32-04:00</published>
+    <updated>2021-03-25T01:34:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/daim-bar-uk-25g"/>
+    <title>Daim Bar UK - 25g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/daim-bar-25g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616650466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Smooth and Crunchy</span></h2>
+<p><span>Smooth on the outside and crunchy on the inside, the classic Diam bar is a much loved treat. Made with d</span>elicious milk chocolate with a crunchy almond caramel center.</p>
+<p><strong>25 g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552822644795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000418</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547447808059</id>
+    <published>2021-03-18T16:37:31-04:00</published>
+    <updated>2021-03-18T16:37:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-white-buttons-bag-95g"/>
+    <title>Cadbury White Buttons Bag - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_WhiteGiantButtons_95g-Side-jpg-1.jpg?v=1624631750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New from Cadbury</h2>
+<h5><strong></strong></h5>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<p> </p>
+<p> 95g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547447808059</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000378</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6547436077115</id>
+    <published>2021-03-18T16:29:05-04:00</published>
+    <updated>2021-03-18T16:29:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-marvellous-creations-jelly-popping-candy-chocolate-bar-47g"/>
+    <title>Cadbury Dairy Milk Marvellous Creations Jelly Popping Candy Chocolate Bar - 47g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_JellyPoppingCandy_47-Side-jpg-1.jpg?v=1624509087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New from Cadbury</h2>
+<h5><strong></strong></h5>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6547436077115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000326</s:sku>
+      <s:grams>47</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539840815163</id>
+    <published>2021-03-04T16:16:44-05:00</published>
+    <updated>2021-03-04T16:16:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-chocolatey-indulgence-bars-95g"/>
+    <title>Cadbury Dairy Milk Chocolatey Indulgence Bars - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_ChocolateyIndulgence_95-Side-jpg-1.jpg?v=1624508827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Chocolatey Creme</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bars | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added chocolatey creme in this Dairy Milk chocolate bar. Cadbury Dairy Milk Chocolatey Indulgence Bars are a fine quality milk chocolate bar we all know filled with chocolatey creme. Yum.</p>
+<p style="text-align: left;"><strong>95 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canada</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539840815163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000238</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539830427707</id>
+    <published>2021-03-04T16:02:41-05:00</published>
+    <updated>2021-03-04T16:02:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-creamy-salted-caramel-bars-95g"/>
+    <title>Cadbury Dairy Milk Creamy Salted Caramel Bars - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_SaltedCaramel_95-Side-jpg-1.jpg?v=1624509638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Creamy Salted Caramel</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bars | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added creamy caramel and sea salt in this Dairy Milk chocolate bar. Cadbury Dairy Milk Creamy Sea Salt Bars are a fine quality milk chocolate bar we all know filled with caramel creme and sea salt. Yum.</p>
+<p style="text-align: left;"><strong>95 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539830427707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000243</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539792580667</id>
+    <published>2021-03-04T14:46:36-05:00</published>
+    <updated>2021-03-04T14:46:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-smooth-vanilla-creme-bars-95g"/>
+    <title>Cadbury Dairy Milk Smooth Vanilla Creme Bar - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_VanillaCreme_95-Side-jpg-1.jpg?v=1624509713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Vanilla Creme</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bar | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added vanilla creme in this Dairy Milk chocolate bar. Cadbury Dairy Milk Smooth Vanilla Creme Bars are the fine quality milk chocolate bar we all know filled with vanilla creme. Yum.</p>
+<p style="text-align: left;"><strong>95 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539792580667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000278</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5103538733115</id>
+    <published>2021-02-01T10:19:27-05:00</published>
+    <updated>2021-02-01T10:19:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-high-lights-low-sugar-hot-chocolate-mix-154g"/>
+    <title>Cadbury High Lights Low Sugar Hot Chocolate Mix - 154g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-highlights-chocolate-hot-mix-drink-low-sugar-154g-candy-funhouse-online-candy-store-canada-toronto.jpg?v=1611958010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            9.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Get Cozy with Cadbury Hot Chocolate!<br>
+</h2>
+<h3 style="text-align: center;">Cadbury Highlights</h3>
+<h3 style="text-align: center;">Low Sugar Cocoa Drink Mix</h3>
+<p>Time to put your jammies on, get cozy, and warm up during this chilly winter season with Cadbury's Highlights Hot Chocolate. </p>
+<p>A magnificently smooth and delectably hearty cocoa drink. Best prepared with hot milk, for a creamy luscious chocolate beverage and definitive comfortable hot chocolate experience.</p>
+<p>With only 38 calories per serving and a low sugar content, this is a truly decadent hot chocolate drink that everyone will love!</p>
+<p><strong>154g</strong></p>
+<h3 class="p1" style="text-align: center;"><b>Fresh Cadbury Treats Shipped to Canada &amp; the USA!</b></h3>
+<h5><strong>Ingredients</strong></h5>
+<p>Sugar, cocoa powder, acidity regulator (potassium carbonates), flavouring.<strong> May contain milk. 25% minimum cocoa solids.</strong></p>
+<p class="p1">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. We cannot be held responsible for the accuracy of ingredients or nutritional information provided, nor liable for any reactions caused by the products we sell.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>Drink Mix</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Less Sugar</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Artificial Sweetners</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Wise Snacks</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5103538733115</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.79</s:price>
+      <s:sku>03-3000218</s:sku>
+      <s:grams>155</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5077216952379</id>
+    <published>2020-12-02T15:13:41-05:00</published>
+    <updated>2020-12-02T15:13:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-shortcake-snack-40g"/>
+    <title>Cadbury Shortcake Snack - 40g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-snack-chocolate.jpg?v=1607360903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Cadbury Chocolate </span></h2>
+<h3 style="text-align: center;"><span data-mce-fragment="1">Imported from the UK</span></h3>
+<p><span>Cadbury's chocolate has been a British favourite since its launch in 1948. </span></p>
+<p><span>Dive into sweet heavens with this Cadbury Shortcake Snack.<br> Be delighted by</span><span data-mce-fragment="1"> four squares of delicious shortcake biscuit, enrobed in silky smooth Cadbury milk chocolate for a perfect chocolatey bite!</span></p>
+<p><span data-mce-fragment="1">Delicious crunchy shortcake biscuits with Cadbury milk chocolate<em> </em>make it the perfect snack.</span></p>
+<ul>
+<li>Vegetarian </li>
+<li>102 calories per 2 biscuits</li>
+</ul>
+<p><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=cadbury*" target="_blank">Check out our extensive collection of Cadbury chocolates!</a></p>
+<p><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=british**" target="_blank">Click here to see all of our British treats &amp; sweets! </a></p>
+<h5><strong>Ingredients</strong></h5>
+<p>WHEAT flour (with added calcium, iron, niacin and thiamin), sugar, vegetable fats (palm, sal, shea), MILK, cocoa butter, cocoa mass, dextrose, rapeseed oil, dried whey (from MILK), molasses, partially inverted sugar syrup, salt, emulsifiers (SOYA lecithin, E476), raising agents (ammonium bicarbonate, sodium bicarbonate), flavourings.<br>MAY CONTAIN NUTS.</p>
+<p><strong>One 40g chocolate bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>biscuits</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>cake</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Purple</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>filled chocolate</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Wise Snacks</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5077216952379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.01</s:price>
+      <s:sku>02-2000365</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5064072855611</id>
+    <published>2020-11-12T08:51:46-05:00</published>
+    <updated>2020-11-12T08:51:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-oreo-instant-hot-chocolate-mix-260g"/>
+    <title>Cadbury Oreo Instant Hot Chocolate Mix - 260g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-oreo-instant-hot-chocolate-mix-260g-candy-funhouse-online-candy-store.jpg?v=1605189889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span>Cadbury + Oreo = Epic</span></h2>
+<p style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span>Enjoy two epic brands as a traditional hot chocolate drink.<span> </span></span><span>Cadbury Oreo Instant Hot Chocolate will certainly delight your tastebuds. Add</span><span> hot water or hot milk to create this wonderful treat. The intense chocolate of Cadbury with the milk vanilla flavours of Oreo is a sweet combination that you will enjoy immensely!</span></p>
+<p data-mce-fragment="1" style="text-align: left;" data-mce-style="text-align: center;"><strong>260 g</strong></p>
+<h5><strong><span>Ingredients:</span></strong></h5>
+<p><span>Sugar, strongly reduced cocoa powder (17%), glucose syrup, palm oil,<span> </span></span><b><span>skimmed milk powder</span></b><span>, milk chocolate (3%) [<span> </span></span><b><span>milk</span></b><span>, sugar, cocoa mass, cocoa butter, vegetable fats (palm, shea), emulsifier (E442), flavourings],<span> </span></span><b><span>whey powder</span></b><span><span> </span>(made from<span> </span></span><b><span>milk</span></b><span><span> </span>), Flavors, thickeners (carrageenan), salt,<span> </span></span><b><span>milk protein</span></b><span>, anti-caking agent (E551), colour (E153), emulsifier (E471), stabilizer (E339). </span><br><span>Store in a cool and dry place. </span></p>
+<p><span><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5064072855611</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2000353</s:sku>
+      <s:grams>260</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5063882997819</id>
+    <published>2020-11-12T00:20:00-05:00</published>
+    <updated>2020-11-12T00:20:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-white-oreo-uk-120g"/>
+    <title>Cadbury Dairy Milk White Oreo UK - 120g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_white_oreo_120g-Side-jpg-1.jpg?v=1624559942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span>New from Cadbury UK</span></h2>
+<h3 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><span>Limited Edition Flavour</span></h3>
+<div style="text-align: left;">Cadbury teams up with Oreo once again to make an irresistibly delicious chocolate bar. Cadbury White Oreo features a creamy white chocolate with chunks of Oreo cookies. Luscious white chocolate pairs incredibly well with Oreo biscuit pieces. </div>
+<ul style="text-align: left;">
+<li><span>Premium Chocolate</span></li>
+<li><span>New British Confectionary</span></li>
+<li><span>Suitable for Vegetarians</span></li>
+</ul>
+<p>Over 30 varieties of Cadbury treats and sweets available at Candyfunhouse! Check out our growing collection by <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=cadbury*" target="_blank">clicking here</a>.</p>
+<p data-mce-fragment="1"><strong>120 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Colour_White</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>filled chocolate</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Oreo</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5063882997819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000284</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5058430369851</id>
+    <published>2020-11-02T16:06:39-05:00</published>
+    <updated>2020-11-02T16:06:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/terrys-chocolate-orange-white-chocolate-ball-uk-147g"/>
+    <title>Terry&apos;s Chocolate Orange White Chocolate Ball UK - 147g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_carambar_terrysOrange_white_147g-Side-jpg-1.jpg?v=1624560593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="memo">
+<h2 style="text-align: center;">British Chocolate Candy</h2>
+<p>Enjoy the classic citrus infused delight that is Terry's Chocolate Orange but in a rich, creamy white chocolate, for a super smooth experience. Stock up while you can!</p>
+</div>
+<div class="longTextItems"></div>
+<p><strong>147 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5058430369851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001273</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5038899167291</id>
+    <published>2020-10-05T03:00:02-04:00</published>
+    <updated>2020-10-05T03:00:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-bournville-old-jamaica-100g"/>
+    <title>Cadbury Bournville Old Jamaica - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_Bournville_OldJamaica_DarkChocolate_100g-Side-jpg-1.jpg?v=1624559047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h2 style="text-align: center;">Classic Dark Chocolate Bars Since 1906</h2>
+<p><strong>"Over 100 years of intensely rich aroma and deliciously dark flavour, for the classic Cadbury chocolate that can only be Bournville!"</strong></p>
+<p><br></p>
+<p><strong>100 g</strong></p>
+<h5>INGREDIENTS:</h5>
+<p class="ingredients"><br></p>
+<p class="ingredients"><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5038899167291</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.74</s:price>
+      <s:sku>02-2000195</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5042430541883</id>
+    <published>2020-10-04T18:57:00-04:00</published>
+    <updated>2020-10-04T18:57:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/wispa-hot-chocolate-246g"/>
+    <title>Cadbury Wispa Instant Hot Chocolate Mix - 246g</title>
+    <s:type>Snacks</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/wispa-hot-chocolate-246g-candy-funhouse.jpg?v=1601841232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Snacks<br>
+        <strong>Price: </strong>
+            10.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Wispa Hot Chocolate Mix</span></h2>
+<p> Wispa Hot Chocolate mix will make you a bubbly, velvety and smooth texture that will make this your favourite hot chocolate. Stir into hot water for an instant delight.</p>
+<ul class="product-info-block__content">
+<li>Imported from the UK</li>
+<li>Wispa is Fairtrade Certified</li>
+<li class="product-info-block__content-item">Suitable for vegetarians </li>
+</ul>
+<p><strong>246 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Drink</s:tag>
+    <s:tag>Drink Mix</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5042430541883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.19</s:price>
+      <s:sku>03-3001081</s:sku>
+      <s:grams>246</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5039166128187</id>
+    <published>2020-09-28T15:26:20-04:00</published>
+    <updated>2020-09-28T15:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/terrys-chocolate-orange-with-biscuit-uk-bar-90g"/>
+    <title>Terry&apos;s Chocolate Orange Cookie Biscuit UK Bar - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_terrys_orange_CookieBiscuit_90g-Side-jpg-1.jpg?v=1624591230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="memo">
+<h2 style="text-align: center;"> Terry's Chocolate Bar UK</h2>
+<h3 style="text-align: center;">Orange Chocolate w/ Cookie Biscuits Crumble</h3>
+<h3 style="text-align: center;">British Candy</h3>
+<p>An exciting new twist on the infamous Terry's Chocolate Orange - Now comes in this convenient <meta charset="utf-8"><span data-mce-fragment="1">bar featuring cookie biscuit pieces</span>. Terry's is proud to say that their chocolates are flavoured with real orange oil. The classic Chocolate Orange we all love has now become even better in this chocolate bar version with crunchy biscuits! Don't miss out on this irresistibly delicious treat!</p>
+<p>Click<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=terrys*" target="_blank">here</a><span> </span>to see other tasty varieties of Terry's Chocolates. </p>
+<ul>
+<li><b>Vegetarian</b></li>
+<li><b>Flavoured with Real Orange Oil</b></li>
+</ul>
+<p><strong>1 bar - 90g</strong></p>
+<h2 class="p1" style="text-align: center;"><b>Fresh Candy Shipped to Canada &amp; the USA!</b></h2>
+<h5><strong>Ingredients</strong></h5>
+<p>Sugar,Cocoa Mass,Cocoa Butter,Skimmed<span> </span><span>Milk</span><span> </span>Powder, Milk Fat, Whey Powder (from<span> </span><span>Milk</span>),Vegetable Fats (Palm, Shea)<span>,</span>Emulsifiers (<span>Soya</span><span> </span>Lecithins, E476),Orange Oil,Flavouring,Milk Solids 14 % minimum. Cocoa Solids 25 % minimum,Contains Vegetable Fats in addition to Cocoa Butter</p>
+<h6 class="p1">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. We cannot be held responsible for the accuracy of ingredients or nutritional information provided, nor liable for any reactions caused by the products we sell.</h6>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1930s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5039166128187</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001274</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5024492748859</id>
+    <published>2020-09-02T15:02:03-04:00</published>
+    <updated>2020-09-02T15:02:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/terrys-chocolate-orange-uk-bar-90g"/>
+    <title>Terry&apos;s Chocolate Orange UK Bar - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_terrys_orange_original_90g-Side-jpg-1.jpg?v=1624591342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="memo">
+<h2 style="text-align: center;">Terry's Chocolate Orange Bars</h2>
+<h2 style="text-align: center;">British Candy</h2>
+<p>An exciting new twist on the infamous Terry's Chocolate Orange - Now comes in a convenient milk chocolate bar. Terry's is proud to say that their chocolates are flavoured with real orange oil. The classic Chocolate Orange we all love has now become even better in this chocolate bar version! Don't miss out on this irresistibly delicious treat!</p>
+<p>Click<span> </span><a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=terrys*" target="_blank">here</a><span> </span>to see other tasty varieties of Terry's Chocolates. </p>
+<ul>
+<li><b>Vegetarian</b></li>
+<li><b>Flavoured with Real Orange Oil</b></li>
+</ul>
+<p><strong>1 bar - 90g</strong></p>
+<h2 class="p1" style="text-align: center;"><b>Fresh Candy Shipped to Canada &amp; the USA!</b></h2>
+<h5><strong>Ingredients</strong></h5>
+<p>Sugar,Cocoa Mass,Cocoa Butter,Skimmed<span> </span><span>Milk</span><span> </span>Powder, Milk Fat, Whey Powder (from<span> </span><span>Milk</span>),Vegetable Fats (Palm, Shea)<span>,</span>Emulsifiers (<span>Soya</span><span> </span>Lecithins, E476),Orange Oil,Flavouring,Milk Solids 14 % minimum. Cocoa Solids 25 % minimum,Contains Vegetable Fats in addition to Cocoa Butter</p>
+<h6 class="p1">Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact the manufacturer directly for current data. We cannot be held responsible for the accuracy of ingredients or nutritional information provided, nor liable for any reactions caused by the products we sell.</h6>
+<h2 style="text-align: center;"><br></h2>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Euro Excellence</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5024492748859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>02-2001272</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4890400292923</id>
+    <published>2020-05-10T20:10:16-04:00</published>
+    <updated>2020-05-10T20:10:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-fruit-nut-dark-100-g"/>
+    <title>Cadbury Fruit &amp; Nut Dark - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-fruit-nut-dark-canadian-chocolate-bars-candyfunhouse-online-candy-store-canada.jpg?v=1589156192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-automation="long-description" class="css-gur09u e1mpbtcv1" style="text-align: center;">Canadian Cadbury Chocolate Bar</h2>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1">
+<div class="product-description-text product-description-text--product-details-page">
+<p class="product-description-text__text" style="text-align: center;">Cadbury Fruit &amp; Nut Dark Chocolate bars with chopped almonds and raisins. A classic Canadian chocolate bar.</p>
+</div>
+</div>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1">
+<p style="text-align: center;">The most delicious Cadbury Dairy Fruit &amp; Nut Dark Chocolate Bars are made right here in Toronto, Ontario Canada. Since the early 1900s, Cadbury has been creating the finest chocolate bars in the world. And we all know which country makes the best Dairy Milk Bars. Eh?</p>
+<p style="text-align: center;"><strong><a href="https://www.canadianliving.com/food/article/makes-best-dairy-milk-chocolate-bar" target="_blank" title="What Country Makes the Best Dairy Milk Bar? Canada!" rel="noopener noreferrer">What Country Makes the Best Dairy Milk Bar? Canada!</a></strong></p>
+</div>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1">
+<ul>
+<li>Kosher</li>
+<li>Made in Canada</li>
+</ul>
+</div>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1"><strong>100 g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4890400292923</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000311</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4890386464827</id>
+    <published>2020-05-10T20:00:00-04:00</published>
+    <updated>2020-05-10T20:00:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dairy-milk-pretzel-peanut-butter-100-g"/>
+    <title>Cadbury Dairy Milk Pretzel &amp; Peanut Butter - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-dairy-milk-pretzels-peanut-butter-canadian-chocolate-bars-candyfunhouse-online-candy-store-canada.jpg?v=1589155729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 data-automation="long-description" class="css-gur09u e1mpbtcv1" style="text-align: center;">Canadian Cadbury Chocolate Bar</h2>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1">
+<div class="product-description-text product-description-text--product-details-page">
+<p class="product-description-text__text" style="text-align: center;">Delicious Dairy Milk chocolate, with pretzel pieces and peanut butter. What could go wrong?</p>
+</div>
+</div>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1">
+<p style="text-align: center;">The most delicious Cadbury Dairy Milk Pretzel &amp; Peanut Butter Bars are made right here in Toronto, Ontario Canada. Since the early 1900s, Cadbury has been creating the finest chocolate bars in the world. And we all know which country makes the best Dairy Milk Bars. Eh?</p>
+<p style="text-align: center;"><strong><a href="https://www.canadianliving.com/food/article/makes-best-dairy-milk-chocolate-bar" target="_blank" title="What Country Makes the Best Dairy Milk Bar? Canada!" rel="noopener noreferrer">What Country Makes the Best Dairy Milk Bar? Canada!</a></strong></p>
+</div>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1">
+<ul>
+<li>Kosher</li>
+<li>Made in Canada</li>
+</ul>
+</div>
+<div data-automation="long-description" class="css-gur09u e1mpbtcv1"><strong>100 g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4890386464827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2000429</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4705714634811</id>
+    <published>2020-03-26T17:57:57-04:00</published>
+    <updated>2020-03-26T17:57:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-mini-eggs-115g"/>
+    <title>Cadbury Mini Eggs - 115g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-mini-eggs-115g-candy-funhouse-online-candy-store-canada.jpg?v=1585260592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy Loved Since 1967</h2>
+<h3 style="text-align: center;">Canadian Candy Cult Classic</h3>
+<p>Cadbury Mini Eggs are solid milk chocolate eggs covered in a crisp candy shell. Cadbury first introduced these yummy chocolate treats in 1967 and have since become a Canadian candy cult classic.</p>
+<p><strong>115 g Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4705714634811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>02-2000338</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+</feed>

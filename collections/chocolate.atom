@@ -1,0 +1,1329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/chocolate.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-22T11:55:25-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632775024699</id>
+    <published>2021-07-22T11:55:25-04:00</published>
+    <updated>2021-07-22T11:55:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-creme-de-raspberry-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Raspberry - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-raspberry-5.53oz-candy-funhouse.jpg?v=1626896392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Raspberry filled Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Raspberry</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632775024699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001456</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632771092539</id>
+    <published>2021-07-22T11:54:46-04:00</published>
+    <updated>2021-07-22T11:54:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-pumpkin-spice-5-53oz"/>
+    <title>Ovation Break-A-Parts Pumpkin Spice - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-pumpkin-spice-5.53oz-candy-funhouse.jpg?v=1626897368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Pumpkin Spice filled Swiss Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>pumpkin</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632771092539</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001453</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632769814587</id>
+    <published>2021-07-22T11:54:12-04:00</published>
+    <updated>2021-07-22T11:54:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-dark-chocolate-creme-de-mint-5-53oz"/>
+    <title>Ovation Break-A-Parts Dark Chocolate Creme de Mint - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-dark-chocolate-mint-5.53oz-candy-funhouse.jpg?v=1626896554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Mint filled Dark Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>mint chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632769814587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001452</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632774598715</id>
+    <published>2021-07-22T11:53:37-04:00</published>
+    <updated>2021-07-22T11:53:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-creme-de-pineapple-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Pineapple - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-pineapple-5.53oz-candy-funhouse.jpg?v=1626897143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Pineapple filled Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632774598715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001455</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632773419067</id>
+    <published>2021-07-22T11:53:04-04:00</published>
+    <updated>2021-07-22T11:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/ovation-break-a-parts-creme-de-coconut-5-53oz"/>
+    <title>Ovation Break-A-Parts Creme de Coconut - 5.53oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>SweetWorks</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/sweetworks-ovation-break-a-parts-milk-chocolate-coconut-milk-5.53oz-candy-funhouse_1.jpg?v=1626896692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SweetWorks<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Break, Unwrap, &amp; Share</h2>
+<p>Break the mold and crack open a sweet smile with Ovations Break-A-Parts Creme de Coconut filled Milk Chocolate. Premium-quality chocolate with a unique, interactive experience you can share. It is simply d<span data-mce-fragment="1">ecadence with every slice!</span></p>
+<ul>
+<li>Non-GMO </li>
+</ul>
+<p> </p>
+<p><strong>5.53oz (157g)</strong></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632773419067</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.99</s:price>
+      <s:sku>02-2001454</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634793140283</id>
+    <published>2021-07-22T11:16:44-04:00</published>
+    <updated>2021-07-22T11:16:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/russian-aero-strawberry-30g"/>
+    <title>Russian Aero Strawberry - 30g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-russian-aero-strawberry-30g-candy-funhouse.jpg?v=1626876870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Russian Chocolate Bars</h2>
+<p>Aero Strawberry Bars are made of smooth bubbly and silky Milk Chocolate filled with intense strawberry flavoured bubbles. <span data-mce-fragment="1">If you like strawberry you will enjoy eating this sweet bar! This counts as eating fruit...right?</span></p>
+<p style="text-align: center;"><strong>Imported Fresh From Russia!</strong></p>
+<p><strong>30 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aero</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Russia</s:tag>
+    <s:tag>russian</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>type_chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634793140283</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001464</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6634792976443</id>
+    <published>2021-07-22T11:16:28-04:00</published>
+    <updated>2021-07-22T11:16:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/russian-aero-coconut-30g"/>
+    <title>Russian Aero Coconut - 30g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-russian-aero-coconut-30g-candy-funhouse.jpg?v=1626877062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Russian Chocolate Bars</h2>
+<p><span>Aero Coconut Bars are made of smooth bubbly and silky Milk Chocolate filled with intense coconut flavoured bubbles. If you like coconut you will enjoy eating this sweet bar! The flavour is sooooo good it'll drive you coconutty!</span></p>
+<p style="text-align: center;"><strong>Imported Fresh From Russia!</strong></p>
+<p><strong>30 g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aero</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>origin_Russia</s:tag>
+    <s:tag>Russian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6634792976443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.39</s:price>
+      <s:sku>02-2001463</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632779644987</id>
+    <published>2021-07-22T10:37:17-04:00</published>
+    <updated>2021-07-22T10:37:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/milky-way-simply-caramel-fun-size-10-73oz"/>
+    <title>Milky Way Simply Caramel Fun Size - 10.73oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/milky-way-simply-caramel-fun-size-10.73oz-candy-funhouse.jpg?v=1626894666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Wrigley<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">It's Simply Just Caramel!</h2>
+<div style="text-align: center;">At Candy Funhouse we love fun sized chocolates, and this bag of Milky Way Simply Caramel Bars FUN SIZED hits the spot! A real sweet milk chocolate surrounding nothing but a rich delicious caramel!</div>
+<div style="text-align: center;"></div>
+<div style="text-align: center;">
+<span data-mce-fragment="1">Trick-or-TREAT yo' self at </span><a data-mce-fragment="1" href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span data-mce-fragment="1">!</span>
+</div>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: left;"><strong>10.73oz (304.2g)</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>filled chocolate</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Milky Way</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632779644987</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.79</s:price>
+      <s:sku>02-2001460</s:sku>
+      <s:grams>304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632778498107</id>
+    <published>2021-07-22T10:26:03-04:00</published>
+    <updated>2021-07-22T10:26:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/dessert-mix-50-ct"/>
+    <title>Dessert Mix - 50ct</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-dessert-mix-50-ct-candy-funhouse_1.jpg?v=1626896105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Wrigley<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            27.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> What's For Dessert?</h2>
+<p style="text-align: center;">Inside this filling and delicious dessert mix contains the best dessert candy you will ever taste in bite-sized form! M&amp;M's Fudge Brownie, Snickers Peanut Brownie, &amp; Twix Cookies and Cream are here to replace any other dessert plans you had! Pop open this bag and pour it into a bowl, leave it on your counter for yourself or hand it out on Halloween!</p>
+<p> </p>
+<p style="text-align: center;"><span>Trick-or-TREAT yo' self at </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a><span>!</span></p>
+<p> </p>
+<p><strong>23.77oz (673.9g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assorted Bulk</s:tag>
+    <s:tag>Bulk</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>m&amp;m&apos;s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Snickers</s:tag>
+    <s:tag>Twix</s:tag>
+    <s:tag>Type_Bulk</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632778498107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.49</s:price>
+      <s:sku>02-2001458</s:sku>
+      <s:grams>673</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625064058939</id>
+    <published>2021-07-19T11:50:00-04:00</published>
+    <updated>2021-07-19T11:50:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-buttons-treat-68g"/>
+    <title>Maltesers Buttons Treat - 68g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-maltesers-buttons-treat-bag-68g-candy-funhouse.jpg?v=1626709286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">The Lighter Way to Enjoy Chocolate </span></h2>
+<p><span mce-data-marked="1"></span>   These crunchy, chocolatey snacks are a fun way to get all that <strong>Maltesers</strong> goodness in a smaller bite! Delectable chocolate buttons filled with crispy <strong>Maltesers</strong> bits, chomp down for a satisfying crunch, or let them melt on your tongue to enjoy that blissful warm chocolate taste. No matter how you enjoy these delicious treats, make sure you take advantage of this treat-sized bag and share the joy with all your friends!</p>
+<p><strong>68 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625064058939</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.69</s:price>
+      <s:sku>02-2001432</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632779513915</id>
+    <published>2021-07-16T16:58:35-04:00</published>
+    <updated>2021-07-16T16:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-cookies-screeem-1-41oz"/>
+    <title>M&amp;M&apos;s Cookies &amp; Screeem - 1.41oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Wrigley</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/m_ms_cookies-and-screeem-1.41oz_candyfunhouse.jpg?v=1628533579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Wrigley<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">BOO! Did we make you <em>screeem? </em><br>
+</h2>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">This spooky new treat from M&amp;M's is so good it'll make you screeem with joy!</div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">After one bite all your freights will be gone! Bursting with the perfect amount of sweet cookies and cream flavour that just hits the spot. The texture of the crunchy coated shell is well balanced with the smooth and creamy filling.  But, beware you might hear screeems so eat them fast!</div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;">Trick-or-TREAT yo' self at<span data-mce-fragment="1"> </span><a title="halloween treats at candy funhouse" href="https://candyfunhouse.ca/pages/search-results?q=halloween" data-mce-fragment="1" target="_blank" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween">Candy Funhouse</a>!<br data-mce-fragment="1">
+</div>
+<div style="text-align: center;" data-mce-fragment="1" data-mce-style="text-align: center;"><br data-mce-fragment="1"></div>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;">
+<strong data-mce-fragment="1"></strong><br data-mce-fragment="1">
+</div>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;"><strong data-mce-fragment="1"></strong></div>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;">
+<strong data-mce-fragment="1"></strong><br data-mce-fragment="1">
+</div>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;">
+<strong data-mce-fragment="1"></strong><br data-mce-fragment="1">
+</div>
+<div style="text-align: left;" data-mce-fragment="1" data-mce-style="text-align: left;"><strong data-mce-fragment="1">1.41oz (40g)</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>m&amp;m&apos;s</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632779513915</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001459</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632828108859</id>
+    <published>2021-07-15T16:50:11-04:00</published>
+    <updated>2021-07-15T16:50:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-celebration-size-800g"/>
+    <title>Maltesers Celebration Size - 800g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-maltesers-celebration-size-800g-candy-funhouse.jpg?v=1626359881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            18.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Celebration Time C'mon!!</h2>
+<h3 style="text-align: center;">It's time to celebrate Maltesers<br>
+</h3>
+<p><span><em>Maltesers</em> are a classic Old Fashioned &amp; Nostalgic Candy from the 1930's. A delicious malt honeycomb center covered covered with milk chocolate. A crunchy and light snack. Believe it or not, but this amazing candy had made it all over the world but only recently was introduced to the United States. In 2017 Maltesers finally began being sold all over America. The chocolate is still produced in Newmarket Ontario, but a large majority of that is now exported. Finally Americans are able to enjoy something we've been snacking on for over 50 years!</span></p>
+<p style="text-align: center;">Maltesers are one of the <a href="https://candyfunhouse.ca/blogs/around-the-funhouse/top-10-canadian-candies" title="Top 10 Canadian Candies" target="_blank"><b>Top 10 Canadian Candies</b></a>.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: left;"><strong>800g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632828108859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.74</s:price>
+      <s:sku>02-2001462</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632817492027</id>
+    <published>2021-07-15T16:46:23-04:00</published>
+    <updated>2021-07-15T16:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/glosette-peanuts-105g"/>
+    <title>Glosette Peanuts - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys_glosette_peanuts_105g_candy_funhouse.jpg?v=1626369211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Classic Canadian Retro Candy</h2>
+<h3 style="text-align: center;">Hershey's Canada</h3>
+<p>Glosette is an exclusive Canadian Candy Brand of Confectionery. Glosette <span class="st">pieces are the classic movie theater treat containing little pieces of candy with a distinctive glossy chocolate shell</span> coating with raisins, peanuts, or almonds - simple yet a delicious retro snack!</p>
+<p><strong>105g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632817492027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001461</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625626456123</id>
+    <published>2021-07-13T16:07:14-04:00</published>
+    <updated>2021-07-13T16:07:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boyer-peanut-butter-cups-fun-bites-10oz"/>
+    <title>Boyer Peanut Butter Cups Fun Bites - 10oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Boyer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boyer-peanut-butter-cups-fun-bites-10z-funhouse-online-candy-shop.jpg?v=1625860655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boyer<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"> Boyer Peanut Butter Cups Fun Size</h2>
+<p style="text-align: center;">Bite-sized milk chocolate goodness filled with creamy peanut butter! Thanks Boyer! Hand them out on Halloween or simply fill a bowl with them. All we know is you will love getting a dose of peanut butter in this cute treat!</p>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;"><span data-mce-fragment="1"></span></div>
+<div style="text-align: center;">
+<span data-mce-fragment="1">Trick-or-TREAT yo' self at</span><span data-mce-fragment="1"> </span><a data-mce-fragment="1" href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span data-mce-fragment="1">!</span>
+</div>
+<p> </p>
+<p><strong><br></strong></p>
+<p><strong>10oz (283g)</strong></p>
+<ul>
+<li><strong>Kosher Certified</strong></li>
+<li><strong>Gluten-Free</strong></li>
+</ul>
+<p><strong>Made In The USA</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625626456123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>02-2001445</s:sku>
+      <s:grams>283</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627991584827</id>
+    <published>2021-07-13T16:02:46-04:00</published>
+    <updated>2021-07-13T16:02:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-fruity-cereal"/>
+    <title>Kit Kat Fruity Cereal - 1.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-kit-kat-fruity-cereal-1.5ozcandy-funhouse-online-candy-shop.jpg?v=1626096947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Craving Cereal For Dessert?<br>
+</h2>
+<p style="text-align: center;">Introducing the new Limited Edition Kit Kat Fruity Cereal Bar! Replace your late night cereal with this amazing treat! This sweet treat still contains the classic crispy wafers we all love, BUT is now covered in a fruity cereal flavor cream, with specs of cereal throughout! The flavour of this chocolate bar tastes literally like you're eating Froot Loops or Fruity Pebbles, that's how on point the flavour is!</p>
+<p style="text-align: center;">Now the only thing we haven't tried is dipping this KitKat in milk! Try it and let us know how it tastes! Tag us on Instagram <a href="https://www.instagram.com/candyfunhouse/?hl=en" target="_blank" title="candy Funhouse On Instagram " rel="noopener noreferrer">@candyfunhouse</a></p>
+<p> </p>
+<p><strong>1.5oz (42g)</strong></p>
+<h5></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627991584827</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001449</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620584214587</id>
+    <published>2021-07-09T12:07:20-04:00</published>
+    <updated>2021-07-09T12:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/wawel-milk-no-added-sugar-100g"/>
+    <title>Wawel Milk Chocolate No Added Sugar - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Wawel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/wawel-milk-chocolate-no-sugar-added-100g-candy-funhouse-online-candy-shop.jpg?v=1624037403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wawel<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Wawel Milk Chocolate No Added Sugar</h2>
+<h3 style="text-align: center;">Specialty Polish Chocolates</h3>
+<p>Welcome to your dreams. Wawel’s Milk Chocolate bar is crafted with simple ingredients. Savour the lusciousness of Wawel's milk chocolate, and fall head over heels when you get a taste of rich, milky, creamy cocoa. Irresistibly good!</p>
+<ul>
+<li>No Preservatives</li>
+<li>No Artificial Colours</li>
+<li>No Artificial Sweeteners</li>
+<li>Premium Quality</li>
+<li>Imported from Poland</li>
+</ul>
+<p>Check out other flavours of Wawel’s chocolate bars!:</p>
+<p>Wawel Premium Milk Chocolate with Coconut, Wawel Deserowa (dark chocolate), Wawel Kasztanki (cocoa &amp; wafer), Wawel Krowkowa (caramel), and more available at Candyfunhouse!</p>
+<p> 100g/3.5oz</p>
+<h5>Ingredients</h5>
+<p><span>Sugar, Cocoa Butter,</span><span> Vegetable Fat (Shea),</span><span> Cocoa mass</span><span>, Whole </span><strong>Milk</strong><span> Powder, Milk fat</span><span>, Natural Flavour (coconut), Soy lecithin</span><span>, Chocolate: Cocoa Solids: 30% minimum, </span></p>
+<p><span>*May contain peanuts, nuts, sesame, wheat, gluten eggs.</span></p>
+<p><strong>Please see manufacturers labelling on package for most accurate list of ingredients.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1970s</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_1970s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>No Artificial Sweetners</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Origin_Poland</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620584214587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>02-2001399</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6620573892667</id>
+    <published>2021-07-09T12:07:20-04:00</published>
+    <updated>2021-07-09T12:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/wawel-dark-70-cocoa-with-pieces-of-orange-no-added-sugar-100g"/>
+    <title>Wawel Dark 70% Cocoa with Pieces of Orange No Added Sugar - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Wawel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/wawel-dark-70-percent-cocoa-with-orange-no-sugar-added-100-g-candy-funhouse-online-candy-shop.jpg?v=1624028720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wawel<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Feeling Better, Doing Better</h2>
+<h3 style="text-align: center;">Specialty Polish Chocolates</h3>
+<p>    Enjoy <strong>rich 70% cocoa dark chocolate</strong> that's full of <strong>real orange pieces</strong>. Each bite is loaded with delicious orange flavour and a luscious dark chocolate experience that will have your tastebuds jumping with joy! With no sugar added, you can feel good about indulging in this delightful treat. </p>
+<ul>
+<li><strong>No Sugar Added</strong></li>
+<li><strong>No Colours or Artificial Flavours</strong></li>
+</ul>
+<h3><span>100g</span></h3>
+<p><strong>*May contain peanuts, nuts, sesame, wheat, gluten eggs.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Origin_Poland</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6620573892667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001398</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238886459</id>
+    <published>2021-07-09T12:07:16-04:00</published>
+    <updated>2021-07-09T12:07:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/reeses-fast-break-bar-king-size-3-5oz"/>
+    <title>Reese&apos;s Fast Break Bar King Size - 3.5oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/herhseys-reeses-fast-break-bar-king-szie-3.5-oz-candy-funhouse-online-candy-shop.jpg?v=1625238118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Reese's Reimagined</h2>
+<h3 style="text-align: center;">🤴KING SIZE🤴</h3>
+<p>Craving the classic peanut butter and chocolate cup? Try Reese's Fast Break King Size! It's a delicious bar filled with a thick hunk of chewy nougat, topped with the traditional Reese's creamy peanut butter, and <span data-mce-fragment="1">completely covered in rich milk chocolate. </span></p>
+<p><span data-mce-fragment="1">Indulge today!</span></p>
+<p><strong>3.5 oz (99 g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Nuts</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>Reeses</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238886459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001401</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6593576796219</id>
+    <published>2021-07-09T12:07:01-04:00</published>
+    <updated>2021-07-09T12:07:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kinder-schoko-bons-white-200g"/>
+    <title>Kinder Schoko Bons White - 200g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Ferrero</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/ferrero-kinder-schoko-bons-white-chocolate-200-g-candy-funhouse-online-candy-shop.jpg?v=1623368334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ferrero<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Kinder Schoko-Bons Chocolate Candies</h2>
+<p>Who could resist these sweet treats from Kinder! Kinder Schoko-Bons are individually wrapped white milk chocolate candies with a chopped hazelnut and a milk cream filling.</p>
+<ul>
+<li>Imported from Poland</li>
+<li>Individually Wrapped</li>
+</ul>
+<div></div>
+<div><strong>200g</strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>ferrero</s:tag>
+    <s:tag>kinder</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6593576796219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>02-2001394</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6621238984763</id>
+    <published>2021-07-09T12:06:57-04:00</published>
+    <updated>2021-07-09T12:06:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hersheys-sugar-free-peg-chocolate-filled-w-caramel-3oz"/>
+    <title>Hershey&apos;s Sugar Free Peg Chocolate Filled w/Caramel - 3oz</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys-sugar-free-chocolate-filled-with-caramel-3-oz-candy-funhouse-online-candy-shop.jpg?v=1624909514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Delicious Sugar-free Candy</h2>
+<p>Now you can enjoy the classic Hershey's chocolate candy in a sugar-free treat! Including one of our favourites, Hershey's chocolate filled with caramel...yummy!</p>
+<ul>
+<li>Hershey's chocolate in the sugar-free variety</li>
+<li>Ideal for those with special dietary needs</li>
+<li>35 calories per sugar-free chocolate bar</li>
+<li>Individually Wrapped</li>
+<li>Kosher Candy</li>
+<li>Gluten Free</li>
+</ul>
+<p><strong>3 oz. Bag</strong></p>
+<div>
+<div>
+<section class="AboutProduct AboutHealth Ingredients">
+<h5 class="Ingredients"><span class="subTitle font-bold">Ingredients:<span> </span></span></h5>
+<p class="Ingredients"><span class="aboutModuleText">Maltitol, Cocoa Butter, Chocolate*,Polydextrose, Cream Milk*, Polyglycitol, Milk Fat, Contains 2% or Less of Calcium Carbonate, Cocoa Processed with Alkali*, Maltodextrin*, Sodium Caseinate (Milk), Lecithin (Soy), Natural Flavor and Artificial Flavor, PGPR, Emulsifier*Adds a Negligible Amount of Sugar</span></p>
+</section>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Gluten Free</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>Individually Wrapped</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6621238984763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2001402</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10483567114</id>
+    <published>2021-07-09T12:00:35-04:00</published>
+    <updated>2021-07-09T12:00:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-eclairs-classic-uk"/>
+    <title>Cadbury Eclairs Classic UK - 166g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-eclairs-classic-uk-1960s-british-caramel-chocolate_187.jpg?v=1571438935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Candy</h2>
+<p><span>Delicious Caramels with Milk Chocolate Centres from the sweet and creative geniuses at Cadbury UK.</span></p>
+<p><strong>166g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10483567114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>02-2000303</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6552794398779</id>
+    <published>2021-07-09T11:59:50-04:00</published>
+    <updated>2021-07-09T11:59:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-chocolate-eclairs-uk-130g"/>
+    <title>Cadbury Chocolate Eclairs UK - 130g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Cadbury-Chocolate-Eclairs-130g-uk-candy-funhouse-online-candy-store-canada.jpg?v=1616648583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;">The Perfect Combination</h2>
+<p style="text-align: left;" data-mce-style="text-align: center;">The<span> mouthwatering combination of caramel and chocolate makes this treat a long time favourite. Let Cadbury Eclairs take you on a delicious journey through a layer of chewy caramel to a heart of rich Cadbury chocolate. </span>Individually wrapped and perfect for sharing with friends and family.</p>
+<p><strong>130 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6552794398779</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000208</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6627913334843</id>
+    <published>2021-07-09T11:31:11-04:00</published>
+    <updated>2021-07-09T11:31:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/yorkie-raisin-and-biscuit-44g"/>
+    <title>Yorkie Raisin and Biscuit - 44g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-yorkie-raisin-and-biscuit-44g-candy-funhouse-online-candy-shop.jpg?v=1625767875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            0.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">A Delicious Duo of Raisin &amp; Biscuit</h2>
+A twist on the classic Yorkie Bar! Yorkie chocolate evolved from a bar that was originally launched in 1924 under the name 'York Chocolate' as a single milk chocolate bar produced in York. The Yorkie Duo contains 2 bars of chunky milk chocolate loaded with raisins &amp; biscuits! <br data-mce-fragment="1"><br data-mce-fragment="1"><strong>44g</strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6627913334843</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.97</s:price>
+      <s:sku>02-2001448</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6625115242555</id>
+    <published>2021-07-09T11:13:50-04:00</published>
+    <updated>2021-07-09T11:13:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-white-chocolate-45g"/>
+    <title>Kit Kat White Chocolate UK - 45g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle UK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-kit-kat-white-chocolate-bar-45-g-candy-funhouse-online-candy-shop.jpg?v=1625082546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle UK<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Kit Kat is Now a Little Creamier!</span></h2>
+<div style="text-align: left;">  A different way to enjoy Kit Kat, for those of us with a sweeter than average tooth! Each bar contains 4 crispy wafer sticks dipped in a smooth, creamy batch of rich white chocolate. This great treat will have you up on cloud nine!</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<p><strong>(1 bar) 45g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6625115242555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001442</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6623276138555</id>
+    <published>2021-07-09T11:10:07-04:00</published>
+    <updated>2021-07-09T11:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/galaxy-counters-peg-bag-122g"/>
+    <title>Galaxy Counters Peg Bag - 122g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-wrigley-galaxy-counters-peg-bag-122-g-candy-funhouse-online-candy-shop_1.jpg?v=1624473382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Pieces of Pure Chocolate Pleasure </h2>
+<p>  Galaxy Counters are a perfect snack for any milk chocolate fan. These bite-sized morsels of rich Galaxy Milk Chocolate will slowly melt in your mouth, allowing you to indulge in the silky smooth texture of this luxurious chocolate treat. </p>
+<p>  The resealable* bag is the perfect size to share with friends and family, but if you can't bring yourself to give them away, it's okay, we've been there too. Get lost in the amazing flavour, sure to transport you out of this world!</p>
+<h5 style="text-align: center;">Why have cotton when you can have silk?</h5>
+<p> </p>
+<p><strong>(1 pouch) 122g</strong></p>
+<p>*resealable when using the provided fresh seal sticker located on the back of the bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Galaxy</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Peg Bag</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Peg Bag</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6623276138555</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>02-2001407</s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/canadian-chocolate.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-07-15T16:50:11-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632828108859</id>
+    <published>2021-07-15T16:50:11-04:00</published>
+    <updated>2021-07-15T16:50:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maltesers-celebration-size-800g"/>
+    <title>Maltesers Celebration Size - 800g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/mars-maltesers-celebration-size-800g-candy-funhouse.jpg?v=1626359881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            18.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Celebration Time C'mon!!</h2>
+<h3 style="text-align: center;">It's time to celebrate Maltesers<br>
+</h3>
+<p><span><em>Maltesers</em> are a classic Old Fashioned &amp; Nostalgic Candy from the 1930's. A delicious malt honeycomb center covered covered with milk chocolate. A crunchy and light snack. Believe it or not, but this amazing candy had made it all over the world but only recently was introduced to the United States. In 2017 Maltesers finally began being sold all over America. The chocolate is still produced in Newmarket Ontario, but a large majority of that is now exported. Finally Americans are able to enjoy something we've been snacking on for over 50 years!</span></p>
+<p style="text-align: center;">Maltesers are one of the <a href="https://candyfunhouse.ca/blogs/around-the-funhouse/top-10-canadian-candies" title="Top 10 Canadian Candies" target="_blank"><b>Top 10 Canadian Candies</b></a>.</p>
+<p style="text-align: center;"> </p>
+<p style="text-align: left;"><strong>800g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632828108859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.74</s:price>
+      <s:sku>02-2001462</s:sku>
+      <s:grams>800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6632817492027</id>
+    <published>2021-07-15T16:46:23-04:00</published>
+    <updated>2021-07-15T16:46:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/glosette-peanuts-105g"/>
+    <title>Glosette Peanuts - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/hersheys_glosette_peanuts_105g_candy_funhouse.jpg?v=1626369211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Classic Canadian Retro Candy</h2>
+<h3 style="text-align: center;">Hershey's Canada</h3>
+<p>Glosette is an exclusive Canadian Candy Brand of Confectionery. Glosette <span class="st">pieces are the classic movie theater treat containing little pieces of candy with a distinctive glossy chocolate shell</span> coating with raisins, peanuts, or almonds - simple yet a delicious retro snack!</p>
+<p><strong>105g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6632817492027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>02-2001461</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6543057748027</id>
+    <published>2021-03-11T21:58:26-05:00</published>
+    <updated>2021-03-11T21:58:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-turtles-4-pieces-67g"/>
+    <title>Nestle Turtles 4 Pieces - 67g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_turtles_67-Side-jpg-1.jpg?v=1624556872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Original Classic Recipe</h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;">A cherished Canadian tradition since 1949</h3>
+<p><span>Indulge in Turtles 3-Piece Chocolate Bar. Its distinct combination of milk chocolate, decadent caramel, and delicious pecans has been a Canadian favourite since 1949. The slow pull of caramel and the crunch of pecans can be experienced in three “me moments” pieces or shared with a loved one for a mutually delightful experience. Guaranteed it’ll have anyone saying “Mmm... I love TURTLES”</span></p>
+<ul>
+<li><span>4 Piece Pack</span></li>
+<li><span>Crafted in Canada</span></li>
+</ul>
+<p><strong>67g </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1940s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1940s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6543057748027</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2001026</s:sku>
+      <s:grams>67</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539840815163</id>
+    <published>2021-03-04T16:16:44-05:00</published>
+    <updated>2021-03-04T16:16:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-chocolatey-indulgence-bars-95g"/>
+    <title>Cadbury Dairy Milk Chocolatey Indulgence Bars - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_ChocolateyIndulgence_95-Side-jpg-1.jpg?v=1624508827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Chocolatey Creme</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bars | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added chocolatey creme in this Dairy Milk chocolate bar. Cadbury Dairy Milk Chocolatey Indulgence Bars are a fine quality milk chocolate bar we all know filled with chocolatey creme. Yum.</p>
+<p style="text-align: left;"><strong>95 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canada</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539840815163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000238</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539830427707</id>
+    <published>2021-03-04T16:02:41-05:00</published>
+    <updated>2021-03-04T16:02:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-creamy-salted-caramel-bars-95g"/>
+    <title>Cadbury Dairy Milk Creamy Salted Caramel Bars - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_SaltedCaramel_95-Side-jpg-1.jpg?v=1624509638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Creamy Salted Caramel</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bars | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added creamy caramel and sea salt in this Dairy Milk chocolate bar. Cadbury Dairy Milk Creamy Sea Salt Bars are a fine quality milk chocolate bar we all know filled with caramel creme and sea salt. Yum.</p>
+<p style="text-align: left;"><strong>95 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539830427707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000243</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539792580667</id>
+    <published>2021-03-04T14:46:36-05:00</published>
+    <updated>2021-03-04T14:46:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-smooth-vanilla-creme-bars-95g"/>
+    <title>Cadbury Dairy Milk Smooth Vanilla Creme Bar - 95g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_VanillaCreme_95-Side-jpg-1.jpg?v=1624509713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Vanilla Creme</h2>
+<h3 style="text-align: center;">New Cadbury Chocolate Bar | Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added vanilla creme in this Dairy Milk chocolate bar. Cadbury Dairy Milk Smooth Vanilla Creme Bars are the fine quality milk chocolate bar we all know filled with vanilla creme. Yum.</p>
+<p style="text-align: left;"><strong>95 g</strong></p>
+<h3 style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></h3>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539792580667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000278</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6539244765243</id>
+    <published>2021-03-03T23:30:53-05:00</published>
+    <updated>2021-03-03T23:30:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/paw-patrol-super-egg-150g"/>
+    <title>Easter Paw Patrol Super Egg - 150g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Regal Confections</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/paw-patrol-super-egg-candy-funhouse-online-candy-store-canada.jpg?v=1614832247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Regal Confections<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            18.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Paw Patrol Milk Chocolate Super Egg</h2>
+<p>The Paw Patrol Super Egg would be a perfect addition to any Easter basket. This delicious milk chocolate super egg contains surprises within including a toy, sticker and puzzle.  </p>
+<ul>
+<li>Made in Canada</li>
+<li>Peanut and Nut Free</li>
+</ul>
+<p><strong>150 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>chocolate egg</s:tag>
+    <s:tag>Chocolate Surprise Eggs</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter 2021</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>nut free</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>peanut free</s:tag>
+    <s:tag>Surprise Eggs</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6539244765243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.74</s:price>
+      <s:sku>02-2001049</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115049672763</id>
+    <published>2021-02-21T22:01:19-05:00</published>
+    <updated>2021-02-21T22:01:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-smarties-milk-chocolate-tablet-bar-100-g"/>
+    <title>Nestle Smarties Milk Chocolate Tablet Bar - 100 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/nestle-smarties-milk-chocolate-tablet-bar-100-g-candy-funhouse-online-candy-store-canada.jpg?v=1613962849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="st">A new way to eat Smarties candies!</span></h2>
+<p><span>Snap off a piece of… SMARTIES? That's right! Nestle Smarties Milk Chocolate Tablet Bar is a new way to experience - and share - the love of candy-coated, milk chocolate Smarties. This milk chocolate bar is filled with mini Smarties candy-coated milk chocolate pieces adding a colourful crunch within smooth chocolate deliciousness. It's easy to break off one of the 18 square pieces to share with family and friends. Plus, it's all wrapped up in recyclable paper packaging, which helps ensure that the environment stays as vibrant as Smarties pieces. Made in Switzerland with 100% natural colours and flavours, Nestle purchases 100% RAINFOREST ALLIANCE certified cocoa, as part of the NESTLÉ Cocoa Plan. They work with the Rainforest Alliance and farmers to improve the quality of their products and strengthen their communities.</span></p>
+<li><strong><span class="st">Made in Switzerland</span></strong></li>
+<li><strong><span class="st">No Artificial Colours</span></strong></li>
+<li><strong><span class="st">No Artificial Flavours</span></strong></li>
+<li><strong><span class="st"><span>UTZ Certified</span></span></strong></li>
+<h3 style="text-align: center;"></h3>
+<p><strong><span class="st">100 g</span></strong></p>
+<h5><span class="st"><strong></strong></span></h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Europe</s:tag>
+    <s:tag>Origin_Switzerland</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>UTZ Certified</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115049672763</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2001024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115028635707</id>
+    <published>2021-02-21T21:02:32-05:00</published>
+    <updated>2021-02-21T21:02:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-truffle-chocolate-mousse-milk-chocolate-bar-105-g"/>
+    <title>Aero Truffle Chocolate Mousse Milk Chocolate Bar - 105 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_truffle_chocolateMousse_105-Side-jpg-1.jpg?v=1624555867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span></span></h2>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><span>A Delightful Canadian Chocolate Bar!</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span>Pure Chocolate Bliss.</span></h3>
+<p><span>As if Aero milk chocolate wasn't decadent enough, Aero Truffle Chocolate Mousse Milk Chocolate Bar introduces a new way to experience pure chocolate bliss. Each delicious chocolate bar piece is rich in milk chocolate with a bubbly milk chocolate truffle centre you can't resist. It's so smooth, so delightfully melt-in-your-mouth, you'll want to break off a piece to share with family and friends. After all, good things are made great when experienced with others. It's sure to be your latest craving as you FEEL THE BUBBLES MELT.</span></p>
+<p>Aero Truffle <span data-mce-fragment="1">is also available in<a title="Areo Truffle Black Forest Cake Dark Chocolate Bars" href="https://candyfunhouse.ca/products/aero-truffle-black-forest-cake-dark-chocolate-bar-105-g" target="_blank"><strong> Black Forest Cake</strong></a> and <a href="https://candyfunhouse.ca/products/aero-truffle-tiramisu-milk-chocolate-bar-105-g" target="_blank" title="Aero Truffle Tiramisu Milk Chocolate Bar " rel="noopener noreferrer"><strong>Tiramisu</strong></a>.</span></p>
+<p><span>• Made in Canada<br>• All Natural Flavours and No Artificial Colours<br>• Sustainably sourced cocoa from the NESTLÉ COCOA PLAN<br></span></p>
+<p><strong>105 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Courtneys Candies</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115028635707</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000128</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5115027980347</id>
+    <published>2021-02-21T20:49:29-05:00</published>
+    <updated>2021-02-21T20:49:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-truffle-black-forest-cake-dark-chocolate-bar-105-g"/>
+    <title>Aero Truffle Black Forest Cake Dark Chocolate Bar - 105 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_truffle_blackForest_105-Side-jpg-1.jpg?v=1624555235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;" data-mce-style="text-align: center;"><span></span></h2>
+<h2 style="text-align: center;" data-mce-style="text-align: center;"><span>A Decadent Canadian Chocolate Bar!</span></h2>
+<h3 style="text-align: center;" data-mce-style="text-align: center;"><span>Pure Chocolate Bliss.</span></h3>
+<p>As if Aero dark chocolate wasn't decadent enough, the Aero Black Forest Cake Dark Chocolate Bar introduces a new way to experience pure chocolate bliss. Each delicious chocolate bar piece is milk chocolate coated in a rich dark chocolate shell, with a bubbly, cherry-flavoured truffle centre you can't resist. The contrast of bold dark chocolate with fruity cherry flavours is something that can only be described as sensational. It's so smooth, so delightfully melt-in-your-mouth, you'll want to break off a piece to share with family and friends. After all, good things are made great when experienced with others. It's sure to be your latest craving as you FEEL THE BUBBLES MELT.</p>
+<p>Aero Truffle is also available in <a href="https://candyfunhouse.ca/products/aero-truffle-chocolate-mousse-milk-chocolate-bar-105-g" title="Aero Truffle Chocolate Mousse Milk Chocolate Bar" target="_blank"><strong>Chocolate Mousse</strong></a> and <a href="https://candyfunhouse.ca/products/aero-truffle-tiramisu-milk-chocolate-bar-105-g" target="_blank" title="Aero Truffle Tiramisu Milk Chocolate Bar " rel="noopener noreferrer"><strong>Tiramisu</strong></a>.</p>
+<p><span>• Made in Canada<br>• All Natural Flavours and No Artificial Colours<br>• Sustainably sourced cocoa from the NESTLÉ COCOA PLAN<br></span></p>
+<p><strong>105 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Courtneys Candies</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Nestle</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5115027980347</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000127</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5112672747579</id>
+    <published>2021-02-17T14:06:37-05:00</published>
+    <updated>2021-02-17T14:06:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/kit-kat-chunky-popcorn-bars-48-g"/>
+    <title>Kit Kat Chunky Popcorn Bars - 48 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_kitkat_chunkyPopcorn_48-Side-jpg-1.jpg?v=1624556285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New KitKat Chunky Bars</h2>
+<p style="text-align: center;"><span> This new Kit Kar Bar</span><span> features a lusciously sweet and savoury combination of smooth milk chocolate, dusted with crusty salted caramel flakes, encasing layers of a freshly baked crisp wafer with salted caramel popcorn praline. Kit Kat Chunky Popcorn Bars are sure to be a hit amongst Kit Kat lovers. Enjoy a new way to take a break!</span></p>
+<p><strong>48 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>Kit Kat</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5112672747579</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>02-2000699</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5071112962107</id>
+    <published>2020-11-20T11:04:12-05:00</published>
+    <updated>2020-11-20T11:04:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-honeycomb-nuts-105g"/>
+    <title>Cadbury UK Dairy Milk Honeycomb &amp; Nuts - 105g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dairy-milk-honeycomb-and-nuts-uk-candy-funhouse-online-candy-store.jpg?v=1605891420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">British Chocolate Bars</h2>
+<h2 style="text-align: center;">Cadbury Dairy Milk Honeycomb &amp; Nuts Chocolate Bar </h2>
+<p><meta charset="utf-8"><b>Winner of Cadbury's Inventor competition</b><span><strong> 2020!</strong> This is the second year of the Cadbury Inventor competition; Three people were chosen as finalists to find the nation's favourite chocolate and become part of the Dairy Milk line permanently. <meta charset="utf-8">Cadbury Dairy Milk Honeycomb &amp; Nuts was created by 19-year-old Shannon from the UK <meta charset="utf-8">after declaring her love for combination of flavours, alongside sweet caramel. </span></p>
+<p>Cadbury Dairy Milk Honeycomb &amp; Nuts are perfect blends of milk chocolate, honeycomb pieces, caramel flavoured fudge, and chopped hazelnuts! The crunchy texture of golden honeycomb chunks &amp; hazelnuts pair perfectly with smooth milky chocolate to create a truly wonderful chocolate experience. </p>
+<ul>
+<li>Suitable for Vegetarians</li>
+</ul>
+<p> </p>
+<p style="text-align: center;"><strong>Fresh Candy Shipped Fast Across Canada and The USA from Candyfunhouse.ca!</strong></p>
+<p style="text-align: center;"> </p>
+<h5 style="text-align: left;"><strong>Ingredients</strong></h5>
+<p>Milk**, Sugar, Cocoa Mass, Cocoa Butter, Chopped Hazelnuts, Vegetable Fats (Palm, Shea, Coconut), Glucose Syrup, Sweetened Condensed Milk, Emulsifiers (E442, E471, E476), Milk Fat, Humectant (Glycerol), Salt, Raising Agent (E500), Flavourings, ** The equivalent of 426 ml of Fresh Liquid Milk in every 227 g of Milk Chocolate, Milk Chocolate: Milk Solids 20 % minimum, actual 23 %, Cocoa Solids 20 % minimum, Contains Vegetable Fats in addition to Cocoa Butter.</p>
+<p><strong>85 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>2010s</s:tag>
+    <s:tag>2020s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Wise Snacks</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5071112962107</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.39</s:price>
+      <s:sku>02-2000258</s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5025026277435</id>
+    <published>2020-09-04T14:59:38-04:00</published>
+    <updated>2020-09-04T14:59:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/oh-henry-level-up-42g"/>
+    <title>Oh Henry! Level Up - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Hershey&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_hersheys_ohhenry_levelUp_42g-Side-jpg-1.jpg?v=1624585903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hershey&#39;s<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Canadian Candy Bar</h2>
+<p><span style="font-weight: 400;">Up your game with this new Canadian chocolate bar. It's chock-full of crunchy pretzel bits and peanuts. It's got a decadent chocolate coating and splash of peanut butter, too. Yes, you've found the snack of your dreams. </span></p>
+<p><span style="font-weight: 400;">Craving something sweet and salty? Hershey's Oh Henry Level Up has got you covered. Just wait until you rip open that wrapper. You're going to devour this in no time, so don't just get one. This filling candy bar will rev you up for that long afternoon. </span></p>
+<p><span style="font-weight: 400;">Oh Henry is a name you grew up with and it's time for a walk down memory lane. Oh Henry Level Up is a hearty snack that hits the spot just when you need it. </span></p>
+<p>42 g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1920s</s:tag>
+    <s:tag>American Bar</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_1920s</s:tag>
+    <s:tag>filled chocolate</s:tag>
+    <s:tag>Hershey&apos;s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>newest products</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Peanut</s:tag>
+    <s:tag>Peanut Butter</s:tag>
+    <s:tag>peanuts</s:tag>
+    <s:tag>pretzels</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Snack</s:tag>
+    <s:tag>Snacks</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Snack</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5025026277435</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001031</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4776453996603</id>
+    <published>2020-04-09T22:06:28-04:00</published>
+    <updated>2020-04-09T22:06:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/aero-gold-chocolate-bar-42-g"/>
+    <title>Aero Gold Chocolate Bar - 42 g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_aero_Gold_42-Side-jpg-1.jpg?v=1624554701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Aero Gold | New Flavour</span></h2>
+<p style="text-align: center;"><strong>"Feel The Bubbles Melt"...</strong></p>
+<p style="text-align: left;">Please your tastebuds with this special flavour of Aero by Nestle. Caramelized white chocolate gives this chocolate bar a "golden" experience. The light, bubbly chocolate interior that we all know is substituted with caramelized white chocolate bubbles, then covered in a luscious milk chocolate coating for the perfect balance of white and milk chocolate.</p>
+<p style="text-align: left;">Break off a piece and be delighted by the absolute decadency of this Aero Gold chocolate bar. </p>
+<ul>
+<li><b>Made with natural colours</b></li>
+<li><b>No artificial flavours</b></li>
+</ul>
+<p style="text-align: left;"><strong>42 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Colour_Gold</s:tag>
+    <s:tag>Colour_White</s:tag>
+    <s:tag>Courtneys Candies</s:tag>
+    <s:tag>era_2020s</s:tag>
+    <s:tag>gold</s:tag>
+    <s:tag>Halal</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Nestle Candy Shop</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>No Artificial Colours</s:tag>
+    <s:tag>No Artificial Flavours</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Halal</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>White Chocolate</s:tag>
+    <s:tag>Wise Snacks</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4776453996603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000119</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4705714634811</id>
+    <published>2020-03-26T17:57:57-04:00</published>
+    <updated>2020-03-26T17:57:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-mini-eggs-115g"/>
+    <title>Cadbury Mini Eggs - 115g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-mini-eggs-115g-candy-funhouse-online-candy-store-canada.jpg?v=1585260592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            5.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Retro Candy Loved Since 1967</h2>
+<h3 style="text-align: center;">Canadian Candy Cult Classic</h3>
+<p>Cadbury Mini Eggs are solid milk chocolate eggs covered in a crisp candy shell. Cadbury first introduced these yummy chocolate treats in 1967 and have since become a Canadian candy cult classic.</p>
+<p><strong>115 g Bag</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>001</s:tag>
+    <s:tag>1960s</s:tag>
+    <s:tag>Cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4705714634811</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>02-2000338</s:sku>
+      <s:grams>115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/309752861</id>
+    <published>2020-01-11T17:36:48-05:00</published>
+    <updated>2020-01-11T17:36:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/nestle-rolo-52g"/>
+    <title>Nestle Rolo - 52g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_nestle_rolo_52g-Side-jpg-1.jpg?v=1626109554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span class="st">Nestle Rolo Chocolate Caramel Roll</span></h2>
+<p><span class="st">For the classic combination of chewy caramel and milk chocolate, grab a roll of Nestle <em>Rolo</em> chocolate-covered caramels! </span>Rolo was first introduced in 1936, first made by the original English makers of traditional Mackintosh toffee. Rolo comes in little pieces resembling buckets of sweet chewy caramel held by creamy milk chocolate. Made in Canada</p>
+<p><strong>52g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1930s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Caramel</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_1930s</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/309752861</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2001019</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2256332226619</id>
+    <published>2019-05-31T00:15:40-04:00</published>
+    <updated>2019-05-31T00:15:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bounty-dark-coconut-bar"/>
+    <title>Bounty Dark Coconut Bar UK - 57g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_Mars_bounty_28g-Side-jpg-1.jpg?v=1624587536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars Inc.<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Coconut Dark Chocolate Candy Bars</h2>
+<h3 style="text-align: center;">Retro Candy from the 1950s</h3>
+<h3 style="text-align: center;">Imported UK Chocolate<br>
+</h3>
+<p style="text-align: left;">Indulge in a moist coconut filling enrobed in the creamiest of dark chocolate.<em> </em>Bounty Dark Candy Bars come in two individual halves to either share with friends or enjoy all by yourself. Introduced by MARS in 1951, it has been loved across the world ever since. </p>
+<ul>
+<li>Vegetarian </li>
+<li>Kosher Certified</li>
+</ul>
+<p><strong>1 chocolate bar - 57 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1950s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>British</s:tag>
+    <s:tag>British Candies</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Canadian Snacks</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Coconut</s:tag>
+    <s:tag>Dark</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1950s</s:tag>
+    <s:tag>filled chocolate</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Kosher</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_British</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_British</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2256332226619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>02-2000167</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2236187410491</id>
+    <published>2019-05-07T02:25:18-04:00</published>
+    <updated>2019-05-07T02:25:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/coffee-crisp-thins"/>
+    <title>Coffee Crisp Thins - 36g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/coffee-crisp-thins-36g-candy-funhouse-chocolate.jpg?v=1573949351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="field field-name-field-description">
+<h2 style="text-align: center;">Coffee Crisp Thins</h2>
+<p>Another amazing invention from Nestle Canada! Coffee Crisp Thins. Makes a nice light snack! Available for a limited time.</p>
+<p><strong>36 G Bar</strong></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2000s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Era_2000s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>nestle</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2236187410491</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>02-2000405</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2207022383163</id>
+    <published>2019-04-14T09:04:08-04:00</published>
+    <updated>2019-04-14T09:04:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-milk-chocolate-bar-with-minis-and-peanuts-110g"/>
+    <title>M&amp;M&apos;s Milk Chocolate Bar with Minis and Peanuts - 110g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_m_m_Minis_peanut_110g-Side-jpg-1.jpg?v=1624587453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New from M&amp;M's Candy</span></h2>
+<p><span>New! The iconic M&amp;M'S® you know and love are now available in a bar! Enjoy the flavours of M&amp;M'S® Minis and peanut pieces melted within a delicious creamy milk chocolate bar. Indulge in this treat by yourself or share it with a friend! This new take on an M&amp;M'S® favourite is sure to make everyone smile.</span></p>
+<p><strong>110 g</strong></p>
+<h5><span>Ingredients:</span></h5>
+<p><span>MILK CHOCOLATE (SUGAR, MILK INGREDIENTS, COCOA BUTTER, COCOA MASS, LACTOSE, SOY LECITHIN, POLYGLYCEROL POLYRICINOLEATE, ARTIFICIAL FLAVOUR), M&amp;M'S MINIS MILK CHOCOLATE CANDIES (MILK CHOCOLATE (SUGAR, COCOA MASS, MILK INGREDIENTS, COCOA BUTTER, LACTOSE, SOY LECITHIN, SALT, ARTIFICIAL FLAVOUR, FLAVOUR), SUGAR, COLOUR (WITH TARTRAZINE), CORN SYRUP, TAPIOCA DEXTRIN, CORNSTARCH, CARNAUBA WAX, MODIFIED COCONUT OIL AND / OR MODIFIED PALM OIL (MEDIUM CHAIN TRIGLYCERIDES)), PEANUTS (PEANUTS, PALM OIL).</span></p>
+<div class="pt20">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1">
+<div></div>
+<div></div>
+<div></div>
+<div>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pt20">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1">
+<div></div>
+<div>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<span></span>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>m&amp;ms</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2207022383163</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.36</s:price>
+      <s:sku>02-2000828</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2205529767995</id>
+    <published>2019-04-13T11:09:54-04:00</published>
+    <updated>2019-04-13T11:09:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-milk-chocolate-bar-with-minis-and-almonds-110g"/>
+    <title>M&amp;M&apos;s Milk Chocolate Bar with Minis and Almonds - 110g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_m_m_minis_almonds_110g-Side-jpg-1.jpg?v=1624587396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New from M&amp;M's Candy</span></h2>
+<p><span>The iconic M&amp;M'S® you know and love are now available in a bar! Enjoy the flavours of M&amp;M'S® Minis and almond pieces melted within a delicious creamy milk chocolate bar. Indulge in this treat by yourself or share it with a friend! This new take on an M&amp;M'S® favourite is sure to make everyone smile.</span></p>
+<p><strong>110 g</strong></p>
+<h5><span>Ingredients:</span></h5>
+<p><span>MILK CHOCOLATE (SUGAR, MILK INGREDIENTS, COCOA BUTTER, COCOA MASS, LACTOSE, SOY LECITHIN, POLYGLYCEROL POLYRICINOLEATE, ARTIFICIAL FLAVOUR), M&amp;M'S MINIS MILK CHOCOLATE CANDIES (MILK CHOCOLATE (SUGAR, COCOA MASS, MILK INGREDIENTS, COCOA BUTTER, LACTOSE, SOY LECITHIN, SALT, ARTIFICIAL FLAVOUR, FLAVOUR), SUGAR, COLOUR (WITH TARTRAZINE), CORN SYRUP, TAPIOCA DEXTRIN, CORNSTARCH, CARNAUBA WAX, MODIFIED COCONUT OIL AND / OR MODIFIED PALM OIL (MEDIUM CHAIN TRIGLYCERIDES)), ALMONDS, TBHQ.</span></p>
+<div class="pt20">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1">
+<div></div>
+<div></div>
+<div></div>
+<div>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pt20">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1">
+<div></div>
+<div>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<span></span>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>m&amp;ms</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2205529767995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.36</s:price>
+      <s:sku>02-2000825</s:sku>
+      <s:grams>110</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2121730392123</id>
+    <published>2019-03-03T18:11:09-05:00</published>
+    <updated>2019-03-03T18:11:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/m-ms-milk-chocolate-bar-with-minis-113g"/>
+    <title>M&amp;M&apos;s Milk Chocolate Bar with Minis - 113g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_m_m_minis_113g-Side-jpg-1.jpg?v=1624587354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New from M&amp;M's Candy</span></h2>
+<p><span>The iconic M&amp;M'S® you know and love are now available in a bar! Enjoy the flavours of M&amp;M Minis Milk Chocolate pieces melted within a delicious and creamy milk chocolate bar. Indulge in this treat by yourself or share it with a friend! This new take on an M&amp;M'S favourite is sure to make everyone smile.</span></p>
+<p><strong>113 g</strong></p>
+<h5><span>Ingredients:</span></h5>
+<p><span>MILK CHOCOLATE, M&amp;M'S MINIS MILK CHOCOLATE CANDIES, CORN SYRUP, DEXTRIN, CORNSTARCH, CARNAUBA WAX</span></p>
+<div class="pt20">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1">
+<div>ALLERGY INFORMATION: CONTAINS MILK AND SOY. MAY CONTAIN PEANUTS AND ALMONDS.</div>
+<div>-</div>
+<div></div>
+<div></div>
+<div></div>
+<div>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pt20">
+<div class="row">
+<div class="col-lg-12 col-sm-12 cols-md-12 col-xs-12">
+<div class="wag-accordion-tab">
+<div class="wag-accordion-tab-content" id="Description-1">
+<div></div>
+<div>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false"></div>
+</div>
+</div>
+</div>
+<span></span>
+</div>
+<div></div>
+</div>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Bar</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>m&amp;ms</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Bar</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2121730392123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>02-2000824</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2053299109947</id>
+    <published>2019-01-18T20:04:30-05:00</published>
+    <updated>2019-01-18T20:04:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-peanut-butter-cookie-bars-100g"/>
+    <title>Cadbury Dairy Milk Peanut Butter Cookie Bar - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Mondelez</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_PeanutButterCookie_100-Side-jpg-1.jpg?v=1624509598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mondelez<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">New Canadian Chocolate Bar</h2>
+<h3 style="text-align: center;">Cadbury Chocolate Bar - Made in Canada</h3>
+<p>Who could resist? Cadbury Dairy Milk Peanut Butter Cookie Bars are made with the rich milk chocolate from Cadbury Canada with cookie pieces and peanut butter chips. </p>
+<h3 style="text-align: center;"><strong>Fresh Specialty Chocolates Shipped Fast!</strong></h3>
+<p><strong>100 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Chocolate Bar</s:tag>
+    <s:tag>Chocolate Bars</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2053299109947</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000272</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2053289967675</id>
+    <published>2019-01-18T19:33:25-05:00</published>
+    <updated>2019-01-18T19:33:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-dairy-milk-crispy-rice-bars-90g"/>
+    <title>Cadbury Dairy Milk Crispy Rice Bar - 90g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_cadbury_CrisptRice_90-Side-jpg-1.jpg?v=1624508878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Milk Chocolate with Crunchy Puffed Rice</h2>
+<h3 style="text-align: center;">Cadbury Chocolate Bars-Made in Canada</h3>
+<p style="text-align: center;">The sweet geniuses at Cadbury have added a little crunch in this Dairy Milk chocolate bar. Cadbury Dairy Milk Crispy Rice Bars are the fine quality milk chocolate bar we all know combined with pieces of rice crisps. Yum.</p>
+<p style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></p>
+<p><strong>90 g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2010s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>milk chocolate</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2053289967675</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>02-2000244</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2048759201851</id>
+    <published>2019-01-15T18:50:45-05:00</published>
+    <updated>2019-01-15T18:50:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-premium-dark-bars-100g"/>
+    <title>Cadbury Premium Dark Bars - 100g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-premium-dark-bars-100g-candy-funhouse.jpg?v=1602610224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Premium Dark Chocolate Bars-Since 1831</h2>
+<h3 style="text-align: center;">Cadbury Chocolate Bars-Made in Canada</h3>
+<p style="text-align: center;">Cadbury Premium Dark Bars are made from the finest Cadbury dark chocolate. </p>
+<p style="text-align: center;"><strong>Fresh Candy Shipped Fast across Canada and the USA!</strong></p>
+<p><strong>100g Chocolate Bar</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1900s</s:tag>
+    <s:tag>Bar</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>CFH Favourites</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>dairy milk</s:tag>
+    <s:tag>Dark Chocolate</s:tag>
+    <s:tag>Era_1900s</s:tag>
+    <s:tag>fine chocolate</s:tag>
+    <s:tag>Nut</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2048759201851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>02-2000356</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/10210290058</id>
+    <published>2019-01-09T13:04:37-05:00</published>
+    <updated>2019-01-09T13:04:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cadbury-caramilk-egg"/>
+    <title>Cadbury Caramilk Egg - 34g</title>
+    <s:type>Chocolate</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/cadbury-caramilk-egg-1960s-canadian-candy-chocolate_934.jpg?v=1582258109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Chocolate<br>
+        <strong>Price: </strong>
+            1.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Classic Caramilk Chocolate Egg</span></h2>
+<p><span>Cadbury Caramilk Eggs are the all-time Canadian Candy favourite. Great for Easter Baskets or Easter Egg Hunts. And it's not just an Easter Candy! Available all year long at Candy Funhouse. But don't risk it-Stock up Sweeties!</span></p>
+<p><strong>34 g Chocolate Egg</strong></p>
+<h5>Ingredients:</h5>
+<p>GLUCOSE SYRUP, MILK INGREDIENTS, MODIFIED PALM OIL, UNSWEETENED CHOCOLATE, MODIFIED VEGETABLE OIL, SALT, COCOA BUTTER, CALCIUM CHLORIDE, SODIUM BICARBONATE, SOY LECITHIN, NATURAL AND ARTIFICIAL FLAVOUR. CONTAINS MILK, SOY. MAY CONTAIN PEANUT, TREE NUTS, EGG<strong><span>.</span></strong></p>
+<p><strong><span>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</span></strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1960s</s:tag>
+    <s:tag>cadbury</s:tag>
+    <s:tag>Canadian</s:tag>
+    <s:tag>Canadian Candy</s:tag>
+    <s:tag>Chocolate</s:tag>
+    <s:tag>chocolate egg</s:tag>
+    <s:tag>Chocolate Surprise Eggs</s:tag>
+    <s:tag>Easter</s:tag>
+    <s:tag>Easter 2021</s:tag>
+    <s:tag>Egg</s:tag>
+    <s:tag>Era_1960s</s:tag>
+    <s:tag>Origin_Canadian</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Surprise Eggs</s:tag>
+    <s:tag>Type_Chocolate</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/10210290058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.89</s:price>
+      <s:sku>02-2000201</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+</feed>

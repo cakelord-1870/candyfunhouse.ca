@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://candyfunhouse.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://candyfunhouse.ca/collections/boston-america.atom"/>
+  <title>CandyFunhouse.ca</title>
+  <updated>2021-05-05T02:04:55-04:00</updated>
+  <author>
+    <name>CandyFunhouse.ca</name>
+  </author>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6575859793979</id>
+    <published>2021-05-05T02:04:55-04:00</published>
+    <updated>2021-05-05T02:04:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bob-ross-make-your-own-gummy-kit"/>
+    <title>Bob Ross Make Your Own Gummy Kit</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/bob-ross-make-your-own-gummy-kit-candy-funhouse.jpg?v=1620194853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span mce-data-marked="1">Create Your Own Masterpiece</span></h2>
+<p>Not a painter? Don't worry, this Bob Ross Make Your Own Gummy Kit will make your feel like one! This kit comes with everything you need to make beautiful and tasty gummies in <span data-mce-fragment="1">4 Fruity Flavors: Lemon, Blue Raspberry, Strawberry, and Green Apple.</span> <span data-mce-fragment="1">Make squirrels, palettes, brushes, and of course happy little trees. The kit </span><span data-mce-fragment="1">comes complete with mold tray, colorful gummy mixes, instruction booklet and super sour powder. Continue </span><span data-mce-fragment="1">Bob Ross' legacy by making your own delicious art candy.</span></p>
+<p><span><strong><em>Fun Fact:</em> </strong>Bob Ross didn't want his artwork in museums. He only wanted to teach painting because he just wanted others to believe they can do it too! He wanted people to understand that <em>anybody</em> can make beautiful paintings like he did, with the right technique and guidance. Bob proved to us all that simply believing in yourself is key to receive excellent results. His positive beliefs &amp; noticeable talent drew inspirations from people all around the world. Bob's joyful personality was truly contagious whether he was on or off camera, and that's why Bob is so loved up until this day. </span></p>
+<p style="text-align: center;"><strong>The perfect holiday gift for artists, art-lovers, or Bob Ross fans in your life! </strong></p>
+<p style="text-align: center;"><strong>Order now!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Bob Ross</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mints</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Spearmint</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Mints</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6575859793979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.99</s:price>
+      <s:sku>01-1000271</s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/6562220998715</id>
+    <published>2021-04-11T21:44:20-04:00</published>
+    <updated>2021-04-11T21:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-the-office-dundie-awards-cherry-flavored-candy"/>
+    <title>Boston America The Office Dundie Awards Cherry Flavored Candy</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boston-america-the-office-dundie-awards-cherry-flavored-candy-back-candy-funhouse.jpg?v=1618192095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Are you a Dundie Award Winner?<br>
+</h2>
+<p><span data-mce-fragment="1">A </span><b data-mce-fragment="1">Dundie</b><span data-mce-fragment="1"> is an award bestowed annually by Dunder Mifflin Scranton</span><span data-mce-fragment="1"> regional manager Michael Scott</span><span data-mce-fragment="1">. Fans of The Office, you can now a</span>ward yourself, your friends and your family with this detailed Dundie Award. Each tin is filled with The Office logo-shaped candy in the appropriate flavour of cherry sours.</p>
+<p>Michael Scott would be proud!</p>
+<p><strong>1 Tin</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boston America</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/6562220998715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>01-1000309</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5105816305723</id>
+    <published>2021-02-02T18:02:56-05:00</published>
+    <updated>2021-02-02T18:02:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/the-office-stapler-gummy-300g"/>
+    <title>The Office Stapler Gummy - 300g</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/stapler-gummy-the-office-novelty-gift-funny-candy-funhouse-online-candy-store_89c9d81e-a344-4ffc-8cbd-532435eee035.jpg?v=1612308414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;">Just Another Day at Dunder Mifflin...<br>
+</h3>
+<h2 style="text-align: center;">The Office Stapler Gummy</h2>
+<h3 style="text-align: center;">Novelty Candy Gift</h3>
+<p><span data-mce-fragment="1">Do it the Dunder Mifflin way with this iconic stapler encased inside of a gummy sphere. You can almost hear Dwight say </span><em>"Dammit, Jim."! </em></p>
+<p>Be the Jim of The Office with this strawberry flavoured gummy inspired by his classic prank from <strong>NBC's The<em> </em>Office - <em>Season 1, Episode 1: Pilot.</em></strong> If you've never seen it before, Dwight introduces himself and opens his drawer to show photos of his car, but instead discovers that <em>"He put my stuff in jello again".</em> </p>
+<p>Or, be the Dwight of The Office and keep this quirky item in your desk drawer - because sometimes you just want to feel like Dwight.</p>
+<p>This would be a hilarious and harmless prank for this year's April Fools Day!</p>
+<p>The Office lovers will LOVE this quirky edible stapler. A true must-have for those who binge watch The Office. Order today while supplies last!<br></p>
+<p><strong>10.6oz / 300g</strong></p>
+<h3 style="text-align: center;" class="p1"><b>Fresh Novelty Candy Shipped to Canada &amp; the USA!</b></h3>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>filled gummy</s:tag>
+    <s:tag>funny</s:tag>
+    <s:tag>gag gift</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Strawberry</s:tag>
+    <s:tag>Type_Gummy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5105816305723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.99</s:price>
+      <s:sku>01-1002444</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5085832708155</id>
+    <published>2020-12-22T11:52:43-05:00</published>
+    <updated>2020-12-22T11:52:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-pet-surprise-farm-collection"/>
+    <title>Pet Surprise Farm Collection</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Untitleddesign-17_d94197ce-2731-4183-87a2-ed83159c4af9.jpg?v=1608663411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1 style="text-align: center;">Farm Friends</h1>
+<h2 style="text-align: center;">Collectible Candy Toy<br>
+</h2>
+<h3 style="text-align: center;">Pet Surprise! Toy, Candies, &amp; Stickers!</h3>
+<p>Boston America Corp. makes the world's most creative novelty items, fun mints, and candy tins! </p>
+<p><span data-mce-fragment="1">T</span><span data-mce-fragment="1">his </span><em data-mce-fragment="1">candy farmhouse</em><span data-mce-fragment="1"> is truly suitable to be here at </span><em data-mce-fragment="1">Candy Funhouse! </em>This is a fun candy toy that resembles a barn filled with little candies in a variety of animal shapes, plus a surprise toy animal to play with. So much fun is to be made with the addition of stickers, too! A<span data-mce-fragment="1"> special candy tin that provides fun times &amp; holds delectable sweet treats within. </span></p>
+<p>Collect all 10 animals to complete the farm! </p>
+<p>The perfect stocking stuffer.</p>
+<p><strong>1 candy tin - 10g<br></strong></p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, maltodextrin, magnesium stearate, artificial flavours, arabic gum, citric acid, carnauba wax, artificial colour (FD&amp;C yellow no.5). </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>baby shower</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Regal Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5085832708155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.69</s:price>
+      <s:sku>01-1000299</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5084353986619</id>
+    <published>2020-12-22T11:41:18-05:00</published>
+    <updated>2020-12-22T11:41:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/despicable-me-carl-holiday-candy-tin-1-2oz"/>
+    <title>Boston America Despicable Me (Carl) Candy Tin - 1.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bpstonamericacorp_bestgiftever_banana_42g-Side-jpg-1.jpg?v=1628272400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            2.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America Candy Tins</h2>
+<h3 style="text-align: center;">Carl from Despicable Me</h3>
+<p>Boston America Corp. makes the world's most creative novelty items, fun mints, and candy tins. Most popular from Universal Studios, this is a Despicable Me inspired candy tin that holds banana flavoured candies! Featuring Carl the plump one-eyed minion who holds a hefty bundle of bananas wrapped in red ribbon, just for you!</p>
+<p>This would make a spectacular gift for the Despicable Me lover in your life. Makes a perfect stocking stuffer!</p>
+<p>"Best. Gift. Ever." -Carl</p>
+<p><strong>1 candy tin - 1.5oz</strong></p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, maltodextrin, magnesium stearate, artificial flavours, arabic gum, citric acid, carnauba wax, artificial colour (FD&amp;C yellow no.5). <strong>For nutritional information, please visit Bostonamerica.com</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American Candy</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Colour_Purple</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5084353986619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.99</s:price>
+      <s:sku>01-1000530</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5085824516155</id>
+    <published>2020-12-22T11:39:16-05:00</published>
+    <updated>2020-12-22T11:39:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-tokidoki-unicorn-mint"/>
+    <title>Boston America Stellina Tokidoki Unicorno</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_tokidoki_unicorno_34g-Side-jpg-1.jpg?v=1629122769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America Candy Tins</h2>
+<h3 style="text-align: center;">Tokidoki | The Unicornos</h3>
+<h2 style="text-align: center;">Stellina</h2>
+<p>Boston America Corp. makes the world's most creative novelty items, fun mints, and candy tins! Once upon a time, The<span data-mce-fragment="1"> Unicornos were once simple little ponies that were out trotting and suddenly wandered into a magic waterfall. Passing through the waterfall, the ponies transformed into unicorns and found a hidden magical kingdom. The Unicornos live between the magic kingdom and our world. </span>Stellina is one of the founding Unicornos, the first Unicorno of ten in the original series 1! Her name means "Little Star". </p>
+<p>You will love this special candy tin that holds magical strawberry candy inside.</p>
+<p>A perfect stocking stuffer!</p>
+<p><strong>1 candy tin - 1.3oz<br></strong><br></p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, maltodextrin, magnesium stearate, artificial flavours, arabic gum, citric acid, carnauba wax, artificial colour (FD&amp;C yellow no.5). <strong>For nutritional information, please visit Bostonamerica.com</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>baby shower</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:tag>Wedding Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5085824516155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1000310</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5085811966011</id>
+    <published>2020-12-22T10:57:33-05:00</published>
+    <updated>2020-12-22T10:57:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-narwhal-wild-berry-sour"/>
+    <title>Boston America Narwhal Wild Berry Sour</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Untitleddesign-15.jpg?v=1608652593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America Candy Tins</h2>
+<h3 style="text-align: center;">Narwhal Wild Berry Sour<br>
+</h3>
+<p>Boston America Corp. makes the world's most creative novelty items, fun mints, and candy tins. A strange, beautiful, and seemingly mystical creature lives year-round in the Arctic waters around Canada, Greenland, and Russia! These animals are n<span data-mce-fragment="1">icknamed the "unicorn of the sea" - it's</span> Narwhals! Some say narwhals resemble a whale and a unicorn with its body shape and a long, protruding ivory tusk. Dive into the deep blue sea with this awesome candy tin filled with wildberry sour candies. Take a trip down memory lane with this special candy tin that holds a delectable sweet treat inside. </p>
+<p>This would make a spectacular gift for a music lover or the nostalgic treat-hunter in your life. Makes a perfect stocking stuffer!</p>
+<p><strong>1 candy tin - 1.3oz<br></strong><br></p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, maltodextrin, citric acid, magnesium stearate, artificial flavor, artificial color (FD&amp;C blue 1).<strong><span data-mce-fragment="1"> </span>For nutritional information, please visit Bostonamerica.com</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>baby shower</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:tag>Wedding Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5085811966011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1000292</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5085269557307</id>
+    <published>2020-12-21T13:29:28-05:00</published>
+    <updated>2020-12-21T13:29:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-simon-says-sour-candy-tin"/>
+    <title>Boston America Simon Says Sour Candy Tin</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boston-america-simon-fruit-candy-sours.jpg?v=1608575358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America Candy Tins</h2>
+<h3 style="text-align: center;">SIMON Game Candy Replica <br>
+</h3>
+<p>Boston America Corp. makes the world's most creative novelty items, fun mints, and candy tins!</p>
+<p>Do you remember a time where "Simon Says" was the go-to game amongst all? A pop culture symbol of the 1970s and 1980s, SIMON is an addictive electronic game that challenges your memory with colours, lights &amp; beeps. This candy tin is a replica of the fun retro game; twist to open the tin filled with 1.5oz of sour colourful candies!</p>
+<p>This would make a spectacular gift for someone who appreciates nostalgia. Makes a perfect stocking stuffer!</p>
+<p><strong>1 candy tin - 1.3oz<br></strong><br></p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, maltodextrin, magnesium stearate, artificial flavours, arabic gum, citric acid, carnauba wax, artificial colour (FD&amp;C yellow no.5). <strong>For nutritional information, please visit Bostonamerica.com</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>baby shower</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:tag>Wedding Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5085269557307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>01-1000304</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5085252681787</id>
+    <published>2020-12-21T12:01:24-05:00</published>
+    <updated>2020-12-21T12:01:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-candy-mix-cassette"/>
+    <title>Boston America Candy Mix Cassette</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_casettetape_candymix_cherry_36g-Side-jpg-1.jpg?v=1628268302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America Candy Tins</h2>
+<h3 style="text-align: center;">Candy Mix Cassette Tape<br>
+</h3>
+<p>Boston America Corp. makes the world's most creative novelty items, fun mints, and candy tins. Cassette tapes - an iconic item of the past is now back in candy form. Get in the groove with this awesome tin of sweet red cherry candies in the shape of mini cassettes. Take a trip down memory lane with this special candy tin that holds a delectable sweet treat inside.</p>
+<p>This would make a spectacular gift for a music lover or the nostalgic treat-hunter in your life. Makes a perfect stocking stuffer!</p>
+<p><strong>1 candy tin - 1.3oz<br></strong><br></p>
+<h5><strong>Ingredients</strong></h5>
+<p>Dextrose, maltodextrin, magnesium stearate, artificial flavours, arabic gum, citric acid, carnauba wax, artificial colour (FD&amp;C yellow no.5). <strong>For nutritional information, please visit Bostonamerica.com</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>baby shower</s:tag>
+    <s:tag>berry</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>cherry</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Pink</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>nostalgic</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>spring</s:tag>
+    <s:tag>tin</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:tag>Wedding Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5085252681787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>01-1000278</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5078803447867</id>
+    <published>2020-12-07T14:59:12-05:00</published>
+    <updated>2020-12-07T14:59:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hello-kitty-sweet-hearts-candy-tins-1-5oz"/>
+    <title>Boston America Hello Kitty Sweet Hearts Candy Tins - 1.5oz</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Hello-Kitty-Sweet-Hearts-Candy-Candy-Funhouse.jpg?v=1608068581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span data-mce-fragment="1">Hello Kitty Sweet Hearts Candy Tins</span></h2>
+<h3 style="text-align: center;"><span data-mce-fragment="1">Valentine's Day Candy</span></h3>
+<p><span data-mce-fragment="1">This Valentine's Day, give the sweetest gift to your sweetheart. Hello Kitty is here to help you say "Be mine" with these delicious heart-shaped candies! </span></p>
+<p><span data-mce-fragment="1">Hearts are the #1 symbol of love! Share these Hello Kitty Sweet Hearts candies and feel the love. This adorable candy tin can easily be reused or repurposed to hold whatever you please. Makes for a cute gift.</span></p>
+<p><span data-mce-fragment="1">This Valentine's Day, fall head over heels for the selection of sweet treats, gift sets/boxes, and snacks we have here at Candyfunhouse. <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=valentines*" target="_blank">Click here to see our growing collection! </a></span></p>
+<p> </p>
+<p><strong>Candies inside metal tin - 1.5 oz</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Red</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>heart</s:tag>
+    <s:tag>hello kitty</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Retro</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Valentines</s:tag>
+    <s:tag>Valentines Day Candy</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5078803447867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.49</s:price>
+      <s:sku>01-1000934</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5067347427387</id>
+    <published>2020-11-15T13:41:21-05:00</published>
+    <updated>2020-11-15T13:41:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-zelda-hylian-shield-peppermints"/>
+    <title>Boston America Zelda Hylian Shield Peppermints</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_zeldamints_19g-Side-jpg-1.jpg?v=1628272239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America</h2>
+<h2 style="text-align: center;">Legend of Zelda Hylian Shield Peppermints</h2>
+<p>These minty-fresh peppermints come in a novelty tin case that beholds the famous Hylian Shield from Zelda.</p>
+<p>Legend of Zelda fans will love this fun candy tin. When the mints are done, the tin can easily be reused or repurposed as a decorative container to hold any other small items!</p>
+<p><strong>Order now! Limited quantity.</strong></p>
+<p>At Candyfunhouse, we have a growing selection of holiday themed treats, snacks, gift sets/boxes, and more! Stay tuned - new stuff is added everyday! <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=christmas*" target="_blank">Click here to see.</a></p>
+<p> </p>
+<p><strong>19.8g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Silver</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>hardcandy</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mints</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Nintendo</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>old fashioned</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Mints</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>zelda</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5067347427387</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.68</s:price>
+      <s:sku>01-1000311</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5057556283451</id>
+    <published>2020-10-30T17:29:39-04:00</published>
+    <updated>2020-10-30T17:29:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-schrute-farms-welcome-mints"/>
+    <title>Boston America The Office Schrute Farms Welcome Mints</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_schrutefarms_welcomemints_42g-Side-jpg-1.jpg?v=1628271461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Welcome to Schrute Farms</h2>
+<p><span>Nothing better after a Schrute Farms' beet dinner than a refreshing peppermint! Turn in with long-lasting minty breath in one of their charming bedrooms and stay there, for your sake, until morning. Pink beet-shaped mints are packed 1.5 ounces to a tin.</span></p>
+<p><strong>1 Tin</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boston America</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5057556283451</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1000303</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5057554710587</id>
+    <published>2020-10-30T17:22:48-04:00</published>
+    <updated>2020-10-30T17:22:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-golden-girls-stay-golden-mints"/>
+    <title>Boston America Golden Girls Stay Golden Mints</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_backinstolaf_mints_42g-Side-jpg-1.jpg?v=1628524274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Cheesecake solves everything!</h2>
+<p><span>These Golden Girls styled tins are filled with cheesecake-shaped mints. Stay Golden, a great thank you gift for being a friend. A filled 1.5-ounce tin.</span></p>
+<p><strong>1 Randomly Selected Tin</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Boston America</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5057554710587</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1000284</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5015542300731</id>
+    <published>2020-08-15T10:43:04-04:00</published>
+    <updated>2020-08-15T10:43:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-dragon-ball-z-dragon-ball-star-candy"/>
+    <title>Boston America Dragon Ball Z Dragon Ball Star Candy</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_dragonballsstarcandy_30g-Side-jpg-1.jpg?v=1628268610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Fruit Flavored Candy Sours<br>
+</h2>
+<p><span>Power your sweet tooth with replica Dragon Balls! Each tin is filled with sweet red star-shaped candy. Features an assortment of numbered balls</span></p>
+<p>30g</p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<div class="ni__ingredients">
+<div class="ni__ingredients" style="text-align: left;">Dextrose, Maltodextrin, Magnesium Stearate, Artificial Flavor, Arabic Gum, Citric Acid, Carnauba wax, Artificial colors (Red 40）</div>
+<div class="ni__flavors" style="text-align: left;"></div>
+<div class="ni__flavors" style="text-align: left;">
+<strong>Artificial Flavors Used:<span> </span></strong>Strawberry</div>
+</div>
+<div class="ni__flavors" style="text-align: left;"></div>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p style="text-align: left;"> </p>
+<p style="text-align: left;"><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5015542300731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>01-1000281</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5010169331771</id>
+    <published>2020-08-06T11:28:19-04:00</published>
+    <updated>2020-08-06T11:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-dungeons-dragons-1-cherry-potion-candy"/>
+    <title>Boston America Dungeons &amp; Dragons +1 Cherry Potion Candy</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/dungeons-and-dragons-_1-cherry-potion-candy-candy-funhouse-canada.jpg?v=1596727878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">+1 Cherry Potion Candy<br>
+</h2>
+<p><br></p>
+<p><br></p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<p><br></p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5010169331771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>01-1000283</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5006240120891</id>
+    <published>2020-07-29T11:31:00-04:00</published>
+    <updated>2020-07-29T11:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-chucky-sour-cherry-candy-knives"/>
+    <title>Boston America Chucky Sour Cherry Candy Knives</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_curseofchucky_cherrycandy_34g-Side-jpg-1.jpg?v=1628268466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Sour Cherry Candy Knives<br>
+</h2>
+<p><br></p>
+<h4 style="text-align: center;">
+<span>Trick-or-TREAT yo' self at </span><a href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span>!</span>
+</h4>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<p><br></p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5006240120891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>01-1000280</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/5006234812475</id>
+    <published>2020-07-29T11:19:32-04:00</published>
+    <updated>2020-07-29T11:19:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-halloween-ii-slasher-sours"/>
+    <title>Boston America Halloween II Slasher Sours</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/boston-americe-halloween-ii-slashers-sours-mask-tin-candy-funhouse-canada.jpg?v=1596036404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            7.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Orange Knife Candy Sours<br>
+</h2>
+<p><span>The arresting white mask worn by Michael Myers in the Halloween series is filled with 1.0 ounce of knife-shaped orange sours.</span></p>
+<h4 style="text-align: center;">
+<span>Trick-or-TREAT yo' self at </span><a href="https://candyfunhouse.ca/pages/search-results?q=halloween" title="halloween treats at candy funhouse" data-mce-href="https://candyfunhouse.ca/pages/search-results?q=halloween" target="_blank">Candy Funhouse</a><span>!</span>
+</h4>
+<p><strong>28.3g</strong></p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<p>Dextrose, Maltodextrin, Citric Acid, Magnesium Stearate, Artificial Flavor, Artificial Color (Yellow 6).</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/5006234812475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>01-1000285</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4608965673019</id>
+    <published>2020-03-03T22:15:11-05:00</published>
+    <updated>2020-03-03T22:15:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/maneater-shark-bait-candy"/>
+    <title>Boston America Maneater Shark Bait Candy Tin</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_maneater_sourorange_28g-Side-jpg-1.jpg?v=1628269784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Sour Orange Flavoured Body Parts</span></h2>
+<p><span>When your sweet tooth is a big as a great white, dive into this shark tin for body part sour-orange candies!<br></span></p>
+<p><span style="font-size: 1.4em;"><span></span></span><strong>1 oz. of Candy</strong></p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<div class="fright">
+<div class="Fly-tabs">
+<div class="current">
+<div class="nutritional-info">
+<div class="ingredients">
+<p><strong><span> </span></strong>Dextrose, Maltodextrin, Citric Acid, Magnesium Stearate, Artificial Flavor, Artificial Color (FD&amp;C Yellow 6).</p>
+<p class="flavors"><strong>Artificial Flavors Used:<span> </span></strong>orange</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Origin_Japanese</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4608965673019</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1001336</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4608917274683</id>
+    <published>2020-03-03T22:07:29-05:00</published>
+    <updated>2020-03-03T22:07:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hello-kitty-burgers-sours-tin"/>
+    <title>Boston America Hello Kitty Burgers Sours Tin</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_hellokitty_34g-Side-jpg-1.jpg?v=1628268909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Hello Kitty Candies</span></h2>
+<p><span>Hello Kitty’s yummy kawaii burger is filled with 1.2 oz of sour orange burger-shaped candies</span></p>
+<p><span>Fun Facts:</span></p>
+<ul>
+<li>Hello Kitty made her debut in America in 1976!</li>
+<li>Kitty White is her full name, she lives in London, England.</li>
+<li>She has a twin sister named Mimmy who wears a yellow box over her right ear.</li>
+<li>Hello Kitty is as tall as 5 apples and weighs as much as 3 apples.</li>
+<li>Hello Kitty’s birthday is November 1<sup>st</sup>, but she does not age.</li>
+<li>Hello Kitty's image was first shown as a coin purse.</li>
+</ul>
+<p><strong>1.2  oz. of Candy</strong></p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<div class="fright">
+<div class="Fly-tabs">
+<div class="current">
+<div class="nutritional-info">
+<div class="ingredients">
+<p>Dextrose, Maltodextrin, Citric Acid, Magnesium Stearate, Artificial Flavor, Artificial Color (FD&amp;C Yellow 6).</p>
+<p class="flavors"><strong>Artificial Flavors Used:<span> </span></strong>orange</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Origin_Japanese</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4608917274683</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>01-1000930</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/4608876085307</id>
+    <published>2020-03-03T21:11:04-05:00</published>
+    <updated>2020-03-03T21:11:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/hello-kitty-mermaid-shell-sours-tin"/>
+    <title>Boston America Hello Kitty Mermaid Shell Sours Tin</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_hellokitty_mermaidshellsours_28g-Side-jpg-1.jpg?v=1628269213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>New Hello Kitty Candies</span></h2>
+<p><span>Hello Kitty on vacation with sweet de”tails”! Mermaid tin is filled with 1.0 oz of strawberry seashell-shaped candies.</span></p>
+<p><span>Fun Facts:</span></p>
+<ul>
+<li>Hello Kitty made her debut in America in 1976!</li>
+<li>Kitty White is her full name, she lives in London, England.</li>
+<li>She has a twin sister named Mimmy who wears a yellow box over her right ear.</li>
+<li>Hello Kitty is as tall as 5 apples and weighs as much as 3 apples.</li>
+<li>Hello Kitty’s birthday is November 1<sup>st</sup>, but she does not age.</li>
+<li>Hello Kitty's image was first shown as a coin purse.</li>
+</ul>
+<p><strong>1 oz. of Candy</strong></p>
+<h5><strong>Ingredients:<span> </span></strong></h5>
+<p>Dextrose, Maltodextrin, Tartaric Acid, Magnesium Stearate, Artificial Flavor, Artificial Color (FD&amp;C Red 40).</p>
+<p class="flavors"><strong>Artificial Flavors Used:<span> </span></strong>strawberry</p>
+<div class="product-main">
+<div class="product-description rte" data-product-description="">
+<div class="description ui-tabs ui-widget ui-widget-content ui-corner-all" id="tabs" itemprop="description">
+<div id="tabs-3" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-expanded="true" aria-hidden="false">
+<p><strong>Ingredients and nutritional information provided by the manufacturer and considered accurate at the time of posting. Refer to product labelling or contact manufacturer directly for current data.</strong></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>Japanese Candy</s:tag>
+    <s:tag>New Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Origin_Japanese</s:tag>
+    <s:tag>Type_American</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/4608876085307</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1000933</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/2315895767099</id>
+    <published>2019-08-11T20:21:47-04:00</published>
+    <updated>2019-08-11T20:21:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/bob-ross-happy-little-tree-mints"/>
+    <title>Bob Ross Happy Little Tree Mints</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/71dpcjyWmkL._SL1500.jpg?v=1608569227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span>Happy Little Tree Mints</span></h2>
+<p><span>Bob Ross Happy Little Tree Mints contain 1.5 oz. of delicious little peppermint flavoured green tree mints. </span><span>The perfect gift to give yourself or his PBS Happy Tree fans! </span></p>
+<p><span>We all remember those times when you flipped through the TV channels and found Bob Ross standing with his canvas, giving friendly art lessons to viewers. You know, that loveable artist with the curly hair that you couldn't stop watching, that's the guy we're talking about. A true legend! </span></p>
+<p><span><strong><em>Fun Fact:</em> </strong>Bob Ross didn't want his artwork in museums. He only wanted to teach painting because he just wanted others to believe they can do it too! He wanted people to understand that <em>anybody</em> can make beautiful paintings like he did, with the right technique and guidance. Bob proved to us all that simply believing in yourself is key to receive excellent results. His positive beliefs &amp; noticeable talent drew inspirations from people all around the world. Bob's joyful personality was truly contagious whether he was on or off camera, and that's why Bob is so loved up until this day. </span></p>
+<p><span>Bob Ross' legacy continues with these special holiday tins filled with <em>happy trees</em>. These happy little trees are tasty little mints, perfect for those on-the-go. Each candy tin features a heart-warming pic of a jolly Bob Ross.</span></p>
+<p style="text-align: center;"><strong>The perfect holiday gift for artists, art-lovers, or Bob Ross fans in your life! </strong></p>
+<p style="text-align: center;"><strong>Order now! Limited quantity.</strong></p>
+<p>At Candyfunhouse, we have a growing selection of holiday themed treats, snacks, gift sets/boxes, and more! Stay tuned - new stuff is added everyday! <a href="https://candyfunhouse.ca/pages/search-results?type=product&amp;q=christmas*" target="_blank">Click here to see.</a></p>
+<p><strong>3.8 x 2.4 x .8 inches</strong><br><strong>1.5 oz. of candy</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2020 Christmas</s:tag>
+    <s:tag>American</s:tag>
+    <s:tag>American Candy</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Bob Ross</s:tag>
+    <s:tag>Boston America</s:tag>
+    <s:tag>box</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>christmas</s:tag>
+    <s:tag>Christmas Candy</s:tag>
+    <s:tag>Christmas Gift Ideas</s:tag>
+    <s:tag>Christmas Stocking Stuffers</s:tag>
+    <s:tag>collectible</s:tag>
+    <s:tag>Collectibles</s:tag>
+    <s:tag>Colour_Blue</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>Era_2010s</s:tag>
+    <s:tag>fun</s:tag>
+    <s:tag>Gift Box</s:tag>
+    <s:tag>Gifts &amp; Collectibles</s:tag>
+    <s:tag>Hard Candy</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Mints</s:tag>
+    <s:tag>new</s:tag>
+    <s:tag>New candy</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Nostalgic Candy</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Old Fashioned Candy</s:tag>
+    <s:tag>Origin_American</s:tag>
+    <s:tag>Peppermint</s:tag>
+    <s:tag>Premium Candy</s:tag>
+    <s:tag>Spearmint</s:tag>
+    <s:tag>Specialty Candy</s:tag>
+    <s:tag>teal</s:tag>
+    <s:tag>Type_Hard Candy</s:tag>
+    <s:tag>Type_Mints</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Retro</s:tag>
+    <s:tag>Type_Toys &amp; Gifts</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/2315895767099</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1000270</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/700679061531</id>
+    <published>2017-07-21T13:44:15-04:00</published>
+    <updated>2017-07-21T13:44:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-nintendo-power-mints"/>
+    <title>Boston America Nintendo Power Mints</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_nintendopower_mints_51g-Side-jpg-1.jpg?v=1628270216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            6.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Nintendo Themed Controller Candy Tin with Power Mints</h2>
+<p>A classic Nintendo Entertainment System themed candy tin fill with strong Power Mints that really taste good. They will help keep your breath fresh as you look at the candy tin, dreaming of the good ole days. The Nintendo Power Mints are from Boston America, makers of very cool items. Check them all out Sweeties!</p>
+<p><strong>56.7g</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Mint</s:tag>
+    <s:tag>Nintendo</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/700679061531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.49</s:price>
+      <s:sku>01-1000295</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/746647912552</id>
+    <published>2017-07-21T12:53:32-04:00</published>
+    <updated>2017-07-21T12:53:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/boston-america-alien-head-sours"/>
+    <title>Boston America Alien Head Sours</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_alienheadsours_greenapple_28g-Side-jpg-1.jpg?v=1628267986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Boston America Alien Head Sours Candy Tin</h2>
+<h3 style="text-align: center;">Green Apple Flavor</h3>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>candy</s:tag>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Colour_Green</s:tag>
+    <s:tag>Nintendo</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/746647912552</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>01-1000276</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/630285926427</id>
+    <published>2017-07-12T13:47:59-04:00</published>
+    <updated>2017-07-12T13:47:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/cell-sours-boston-america"/>
+    <title>Boston America Cell Sours Candy Tin</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericainc_cellsours_28g-Side-jpg-1.jpg?v=1628272281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Cell Sours Boston America</h2>
+<p> </p>
+<p><strong>(28.3g)</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Type_Sour</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/630285926427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>01-1000372</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://candyfunhouse.ca/products/630259449883</id>
+    <published>2017-07-12T13:47:59-04:00</published>
+    <updated>2017-07-12T13:47:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://candyfunhouse.ca/products/poop-vanilla-flavored-candy-boston-america"/>
+    <title>Boston America Poop Vanilla Flavored</title>
+    <s:type>Candy</s:type>
+    <s:vendor>Boston America</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0250/7483/products/Candyfunhouse_bostonamericacorp_poop_vanilla_28g-Side-jpg-1.jpg?v=1628270309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boston America<br>
+        <strong>Type: </strong>Candy<br>
+        <strong>Price: </strong>
+            4.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;">Poop Vanilla Flavored Candy Boston America</h2>
+<p>We see a very sweet future for you! This retro toy has been around since the 1950's and is made even sweeter today as this Vanilla flavored Poop tin is packed with Vanilla candies. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>new item</s:tag>
+    <s:tag>Novelty</s:tag>
+    <s:tag>Type_Novelty</s:tag>
+    <s:tag>Vanilla</s:tag>
+    <s:variant>
+      <id>https://candyfunhouse.ca/products/630259449883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>01-1001925</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+</feed>
